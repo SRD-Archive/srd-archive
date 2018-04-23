@@ -81,7 +81,7 @@ over, introduce them to creating characters, and have fun!
 System Overview
 ===============
 
-> Reality  
+> Reality    
 > The D6 System rules are not meant to reﬂect the real world’s reality. 
 > Rather, they have been designed to model ﬁction reality, the reality 
 > of stories, television shows, comic books, and movies. Gamemasters who 
@@ -114,9 +114,9 @@ you want your character to do something (1D, 2D, 3D, 4D, 5D, etc.),
 and sometimes an amount (called pips) of “+1” or “+2,” which is added
 to the total result you roll on the dice.
 
-Example: If your character’s Strength attribute is 3D+1, when you
+Example: *If your character’s Strength attribute is 3D+1, when you
 have her try to lift a cargo container, you would roll three dice and add
-1 to the total to get her result.
+1 to the total to get her result.*
 
 To represent the randomness of life (and the tons of little modiﬁers
 that go along with it), every time you roll dice, make sure that one of
@@ -314,10 +314,10 @@ the die code next to the attribute that the ﬁrst skill is listed under, and
 add one to the number in front of the “D.” Write this new die code next
 to the skill. Do this for each of the seven skills you picked.
 
-Example: If you decided to put 1D in climb/jump, your score for
+Example: *If you decided to put 1D in climb/jump, your score for
 climb/jump would be your Strength score plus one, or 4D+1.
 Then ﬁll in the top of the sheet, if you’d like, with your character’s
-name and other details.
+name and other details.*
 
 In addition to your character sheet, you’ll need a pencil and some
 six-sided dice, one of which should be a different color or size than
@@ -611,55 +611,75 @@ will provide other beneﬁts.
 
 * free action: Any action that needs only a few seconds to perform or
 do, such as taking a few steps or glancing quickly around a room.
-modiﬁer: A number or die code that is added or subtracted
+
+* modiﬁer: A number or die code that is added or subtracted
 from another number or die code to represent a change in the
 typical situation.
-opposed diﬃculty, opposed roll: A diﬃculty that applies when
+
+* opposed diﬃculty, opposed roll: A diﬃculty that applies when
 one character resists another character’s action. In this case, both
 characters roll die codes related to the activity and compare them.
-passive defense value: A number representing a character’s innate
+
+* passive defense value: A number representing a character’s innate
 ability to get out of the way of danger. It usually equals 10.
-pip: An added bonus to the total result that came up on the
+
+* pip: An added bonus to the total result that came up on the
 dice. A “+1” means one is added to the total, while “+2” means
 two is added.
-range (in combat): The distance from the attacker to the target.
+
+* range (in combat): The distance from the attacker to the target.
 result points: The difference between the total rolled with an
 attribute’s or skill’s die code and the diﬃculty of an action.
-result point bonus: Usually, one-half (rounded up) of the
+
+* result point bonus: Usually, one-half (rounded up) of the
 result points ﬁgured for an action. It sometimes may be used to
 affect other rolls.
-round: A unit of time equal to ﬁve seconds in the game world.
+
+* round: A unit of time equal to ﬁve seconds in the game world.
 Figuring out what happens in a round can take longer.
-scale: A game mechanic representing that opponents of vastly
+
+* scale: A game mechanic representing that opponents of vastly
 different sizes can affect each other differently in combat.
-standard diﬃculty: A number, generally selected from a chart,
+
+* standard diﬃculty: A number, generally selected from a chart,
 assigned to an action based on how challenging it is.
-Strength Damage: A die code representing the amount of harm
+
+* Strength Damage: A die code representing the amount of harm
 a character can do because of his or her physical prowess.
-Toughness: A die code representing the amount of damage an
+
+* Toughness: A die code representing the amount of damage an
 object can take, similar to a character’s Physique attribute.
-unskilled modiﬁer, untrained modiﬁer: A modiﬁer added to
+
+* unskilled modiﬁer, untrained modiﬁer: A modiﬁer added to
 an action’s diﬃculty that represents the increased diﬃculty of doing
 something without the right training or experience. The terms are
 used interchangeably.
-Wild Die: A six-sided die, of a different color or size from other
+
+* Wild Die: A six-sided die, of a different color or size from other
 dice used, that represents the randomness of life, with the 1 and
 the 6 indicating a special result (see Critical Failure and Critical
 Success).
-Wounds: One of two ways of indicating the amount of injury
+
+* Wounds: One of two ways of indicating the amount of injury
 a character can sustain, listed as a level. The level is determined by
 comparing the difference between the damage total and the damage
 resistance total to a chart. May be used alone or with Body Points.
 
-> Character Basics
+
+Character Basics
+================
+
 What’s in this Chapter
+----------------------
 
 This chapter covers three methods of character creation and provides
 an overview of the attributes and skills available to characters. If you’ve
 made a character already, skip past “Character Creation” to “Attributes”
 and skim the rest of the chapter, adjusting your character if necessary.
 
+
 Character Creation
+------------------
 
 To make a character, you’ll need to select a template from within
 this book or another D6 game, or make your own. A blank character
@@ -668,7 +688,10 @@ your chosen sheet, or copy the information onto a separate piece of
 paper. You also can ﬁnd the templates available free at the West End
 Games Web site, www.westendgames.com.
 
+
 Templates
+---------
+
 A few starting templates have been provided at the end of this book.To
 get started right away, pick one and distribute seven skill dice among the
 skills listed; the dice for attributes have already been done for you. Note
@@ -676,10 +699,12 @@ that the listed skills are the ones that type of character might typically
 have, though you could include others not on the list if you’d like.
 For skill descriptions and details on how to distribute skill dice, see
 the “Skills” section later in this chapter.
+
 If desired, you can ﬁll in the other character features (such as gender,
 age, and so on) and provide any additional notes on the character’s
 history. There is no need to purchase equipment, as that has already
 been ﬁgured for the characters.
+
 If you choose a template from another D6 game, you may need to
 make some adjustments in the types of skills a character based on that
 might have. Check the list herein to make sure the template’s skills
@@ -700,135 +725,112 @@ more detail, including examples on how you can split the dice.
 These guidelines assume you’ll make a normal Human character.
 If not, talk with your gamemaster about the minimums, maximums,
 and other requirements for the character species you want to use. See
-
-1
-
 the various sections in this chapter for details on dice distribution and
 ﬁguring out other aspects of your character.
 
-Attributes: Distribute 18 dice among the seven attributes. The
-minimum is 1D and the maximum is 5D in all attributes except Extranormal attributes, which remains at 0D for most characters.
+* Attributes: Distribute 18 dice among the seven attributes. The
+minimum is 1D and the maximum is 5D in all attributes except Extranormal 
+attributes, which remains at 0D for most characters.
 
-Skills: Distribute seven dice among the skills. The maximum number
+* Skills: Distribute seven dice among the skills. The maximum number
 of dice added to any one skill is 3D.
 
-Move: This equals 10 meters per round.
+* Move: This equals 10 meters per round.
 
-Body Points: If your gamemaster is using this characteristic, roll
-your character’s Strength and add 20 to the total. Ignore this characteristic if your gamemaster is using Wounds only.
-Wounds: If your gamemaster relies on the Wound levels option
+* Body Points: If your gamemaster is using this characteristic, roll
+your character’s Strength and add 20 to the total. Ignore this 
+characteristic if your gamemaster is using Wounds only.
+
+* Wounds: If your gamemaster relies on the Wound levels option
 with Body Points, see the appropriate table in the “Damage” chapter to
 determine the range of Body Points associated with each Wound level. If
 your gamemaster uses Wounds only, you don’t need to ﬁgure out the Body
-Points range; you can put a line through that column if you’d like.
-Strength Damage: Drop the pips from your character’s Strength
+
+* Points range; you can put a line through that column if you’d like.
+
+* Strength Damage: Drop the pips from your character’s Strength
 or lift score (including any Special Abilities or Disadvantages that
 affect the die code), divide the number by 2, and round up. This is the
 Strength Damage die code.
-Funds and Credits: Funds and credits measure how much wealth
-your character can usually get at without too much trouble. All characters start with a base Funds die code of 3D. Look under “Funds” in
+
+* Funds and Credits: Funds and credits measure how much wealth
+your character can usually get at without too much trouble. All 
+characters start with a base Funds die code of 3D. Look under “Funds” in
 this chapter for modiﬁers to this roll and how to convert this number
 to cash. The cash equivalent of Funds goes on the Credits line.
 Character Points: Characters start with ﬁve Character Points.
 
-> Gamemaster’s Characters
-Gamemaster’s characters (sometimes referred to as nonplayer characters or NPCs) may or may not be created using
-the same rules as players’ characters. Because the gamemaster’s
-characters serve as interactive elements in the story, it all
-depends on the NPC’s importance to the storyline. Minor
-gamemaster’s characters have fewer attribute and skill dice, fewer
-Body Points or Wounds, and few (if any) character options,
-Character Points, or Fate Points. Major characters, however,
-should follow the same guidelines as the players’ characters,
-possibly having more skill dice, Advantages, Disadvantages,
-and Special Abilities than a typical starting player’s character.
-An increase over the players’ characters reﬂects the fact that a
-major antagonist has been around much longer.
+* Fate Points: Characters start with one Fate Point.
 
-9
+* For equipment, Advantages, Disadvantages, Special Abilities, 
+background, and character features, see the appropriate sections in 
+this chapter for more details on how to ﬁll out these optional sections.
 
-Chapter 1
 
-Fate Points: Characters start with
-one Fate Point.
-For equipment, Advantages, Disadvantages, Special Abilities, background, and character features, see the
-appropriate sections in this chapter for
-more details on how to ﬁll out these
-optional sections.
+> **Gamemaster’s Characters**
+>
+> Gamemaster’s characters (sometimes referred to as nonplayer characters 
+> or NPCs) may or may not be created using
+> the same rules as players’ characters. Because the gamemaster’s
+> characters serve as interactive elements in the story, it all
+> depends on the NPC’s importance to the storyline. Minor
+> gamemaster’s characters have fewer attribute and skill dice, fewer
+> Body Points or Wounds, and few (if any) character options,
+> Character Points, or Fate Points. Major characters, however,
+> should follow the same guidelines as the players’ characters,
+> possibly having more skill dice, Advantages, Disadvantages,
+> and Special Abilities than a typical starting player’s character.
+> An increase over the players’ characters reﬂects the fact that a
+> major antagonist has been around much longer.
+
 
 Creation Point Pool
-Those who wish to use points to
-create their characters, rather than
-following a template or being restricted
-in what they can put in skills and
-attributes, can use a point system.
-Each novice character receives 79
-creation points to distribute among
-all the options. Players may only
-spend creation points as whole points,
-not fractions. See the “Attribute” and
-“Skills” sections in this chapter for
-details on distributing dice.
-> One attribute die equals four
-creation points.
-> One skill die equals one creation
-point.
-> Three skill specialization dice
-equal one creation point.
-> Advantages and Special Abilities
-have their own costs associated with
-them; see the “Character Options”
-chapter for details.
+-------------------
 
-> Creating Experienced
-Characters
-If you are making an experienced character, you’ll
-need to ﬁgure out how many more years that character
-has been around than one starting out.
+Those who wish to use points to create their characters, rather than
+following a template or being restricted in what they can put in skills and
+attributes, can use a point system. Each novice character receives 79
+creation points to distribute among all the options. Players may only
+spend creation points as whole points, not fractions. See the “Attribute” and
+“Skills” sections in this chapter for details on distributing dice.
 
-By Deﬁned Limits
-Using the initial novice totals of seven skill dice, ﬁve
-Character Points, and one Fate Point, add 15 skill dice,
-15 Character Points, and two Fate Points to the initial
-totals for each year the character has been a full-time
-active adventurer. (For part-timers, halve these ﬁgures,
-rounding up.)
+* One attribute die equals fourcreation points.
 
-By Creation Point Pool
-With the initial novice totals of 79 creation points, ﬁve
-Character Points, and one Fate Point as a starting point,
-add 15 creation points, 15 Character Points, and two Fate
-Points for each year the character has been a full-time
-active adventurer. (For part-timers, halve these ﬁgures,
-rounding up.) Unless the gamemaster decides otherwise,
-there are no maximums for skills and Disadvantages.
+* One skill die equals one creation point.
 
-> Creating Existing Characters
+* Three skill specialization dice equal one creation point.
 
-Players basing their characters on existing ﬁctional
-entities should ignore the skill and Disadvantage limits
-and, with their gamemaster’s approval, create the character
-by distributing dice as best reﬂects how the character
-appears in his, her, or its stories.
+* Advantages and Special Abilities have their own costs associated with
+them; see the “Character Options” chapter for details.
 
 Other restrictions apply:
-> Attributes have a minimum of 1D and a maximum of 5D, except
+
+* Attributes have a minimum of 1D and a maximum of 5D, except
 in Extranormal attributes (which may have a minimum of 0D).
-> The maximum starting number of dice that may be added to any
+
+* The maximum starting number of dice that may be added to any
 one skill or specialization of skill is 3D.
+
 Players of Human characters may add up to 10 additional creation
-points to their totals by taking an appropriate number of ranks in Disadvantages. Non-Human species may have their own creation point
+points to their totals by taking an appropriate number of ranks in 
+Disadvantages. Non-Human species may have their own creation point
 totals, maximum number of points from Disadvantages, and starting
 Advantages, Disadvantages, and Special Abilities.
+
 For worlds involving more Special Abilities, gamemasters should
 feel free to raise the number of starting creation points and the number
 of possible creation points received from Disadvantages.
+
 Characters also receive the following aspects, like those created
 with deﬁned limits:
-Move: This equals 10 meters per round.
-Body Points: If your gamemaster includes this characteristic, roll
-your character’s Strength and add 20 to the total. Ignore this characteristic if your gamemaster is using Wounds only.
-Wounds: If your gamemaster relies on the Wound levels option
+
+* Move: This equals 10 meters per round.
+
+* Body Points: If your gamemaster includes this characteristic, roll
+your character’s Strength and add 20 to the total. Ignore this 
+characteristic if your gamemaster is using Wounds only.
+
+* Wounds: If your gamemaster relies on the Wound levels option
 with Body Points, see the appropriate table in the “Damage” chapter to
 determine the range of Body Points associated with each Wound level.
 If your gamemaster uses Wounds only, you don’t need to ﬁgure out the
@@ -838,14 +840,41 @@ score (including any Special Abilities or Disadvantages that affect the
 die code), divide the number by 2, and round up. This is the Strength
 Damage die code.
 
-Funds and Credits: Funds and credits measure how much wealth
-your character can usually get at
-without too much trouble. All characters start with a base Funds die code
-of 3D. Look under “Funds” in this
-chapter for modiﬁers to this roll and
-how to convert this number to cash.
-The cash equivalent of Funds goes on
-the Credits line.
+* Funds and Credits: Funds and credits measure how much wealth your 
+character can usually get at without too much trouble. All characters 
+start with a base Funds die code of 3D. Look under “Funds” in this
+chapter for modiﬁers to this roll and how to convert this number to 
+cash. The cash equivalent of Funds goes on the Credits line.
+
+
+> **Creating Experienced Characters**
+> 
+> If you are making an experienced character, you’ll need to ﬁgure out 
+> how many more years that character has been around than one starting out.
+> 
+> By Deﬁned Limits    
+> Using the initial novice totals of seven skill dice, ﬁve Character 
+> Points, and one Fate Point, add 15 skill dice, 15 Character Points, 
+> and two Fate Points to the initial totals for each year the character 
+> has been a full-time active adventurer. (For part-timers, halve these 
+> fgures, rounding up.)
+> 
+> By Creation Point Pool    
+> With the initial novice totals of 79 creation points, ﬁve
+> Character Points, and one Fate Point as a starting point,
+> add 15 creation points, 15 Character Points, and two Fate
+> Points for each year the character has been a full-time
+> active adventurer. (For part-timers, halve these ﬁgures,
+> rounding up.) Unless the gamemaster decides otherwise,
+> there are no maximums for skills and Disadvantages.
+
+> Creating Existing Characters    
+> Players basing their characters on existing ﬁctional
+> entities should ignore the skill and Disadvantage limits
+> and, with their gamemaster’s approval, create the character
+> by distributing dice as best reﬂects how the character
+> appears in his, her, or its stories.
+
 
 Attributes
 ----------
@@ -884,13 +913,14 @@ When you put dice in an attribute, you can either put whole dice in
 each attribute, or you can give each a mixture of whole dice and pips.
 Each die equals three pips.
 
+
 Character Basics
 ----------------
 
-Example: You’ve distributed most of your attribute dice, but you have
+Example: *You’ve distributed most of your attribute dice, but you have
 four dice left to put in Perception and Technical. You could put 1D in 
 Perception and 3D in Technical, or 1D+2 in Perception and 2D+1 in 
-Technical, or some similar combination.
+Technical, or some similar combination.*
 
 Extranormal is the only attribute in which a Human character may have 
 no dice; there is no maximum that a Human character may have in this 
@@ -906,62 +936,71 @@ Skills
 Skills are more speciﬁc applications of an attribute. For example, the
 skill dodge is a more speciﬁc use of your character’s Agility. Characters
 learn them through instruction or experience.
+
 Skills are areas of expertise that are not necessarily common to
 every living creature. Some creatures simply don’t have the capacity
 to learn certain skills.
+
 All skills beneath a given attribute begin at that attribute’s die code.
 To highlight skills in which the character has trained or has some
 experience, add pips or dice to the base attribute value.
+
 As with attributes, when creating your character you can either put
 whole dice in each skill, or you can give each a mixture of whole dice
 and pips. Remember that each die equals three pips.
-Example: You’ve chosen your attribute scores, including putting 2D+1 in 
+
+Example: *You’ve chosen your attribute scores, including putting 2D+1 in 
 Technical. If you wanted her to be a little better in the
 demolitions skill, you could add one pip to the base attribute to get a
 demolitions skill score of 2D+2. If you decided to add two pips to the
-base attribute, the demolitions score becomes 3D.
+base attribute, the demolitions score becomes 3D.*
+
 You can also specialize in skills. Specializations reﬂect a greater
 familiarity in a particular area covered by a base skill. One skill die
 equals three specialization dice. Of course, one specialization die still
 equals three pips.
+
 You don’t need to have any extra dice in the base skill in order to
 take a specialization in that skill, but when you give your character
 specializations in that manner, they are treated as separate skills. If
 you give your character specializations in base skills he already has,
 those specializations are considered bonuses to the base skill when
 attempting tasks of that type.
+
 Once you’ve chosen at least one specialization and put one or two
 pips or dice in it, you have to use the remaining specialization dice
 and pips to either purchase more pips in the same specialization or
 purchase one or more pips in other specializations.
+
 You roll the specialization’s die code only when you use the speciﬁc
 item or knowledge reﬂected by the specialization. Otherwise, you roll
+the base skill (or attribute if you didn’t put additional dice in the 
+full skill).
 
-the base skill (or attribute if you didn’t
-put additional dice in the full skill).
-Example: If your character’s Technical is 2D+2 and her demolitions is 3D,
-you could give her a demolitions specialization of vehicles of +1 (which means
-that, when she’s attempting to blow up
-planetary vehicles, she rolls three dice
-and adds 1 to the total). You would
-then have two specialization dice and
-two specialization pips to place among
-other specializations. With these, you
-could further improve her demolitions:
-vehicles specialization, or you could pick
-one or more other specializations in the
-same or other base skills.
+Example: *If your character’s Technical is 2D+2 and her demolitions is 3D,
+you could give her a demolitions specialization of vehicles of +1 (which 
+means that, when she’s attempting to blow up planetary vehicles, she 
+rolls three dice and adds 1 to the total). You would then have two 
+specialization dice and two specialization pips to place among
+other specializations. With these, you could further improve her 
+demolitions: vehicles specialization, or you could pick one or more 
+other specializations in the same or other base skills.
+
 You decide that with one other specialization pip, you’ll give your character
 vehicle repair: ground vehicles, but you won’t take the full vehicle repair
 skill for her. This allows your character to have vehicle repair: ground
 vehicles at 3D (add 1 to the die code of the base attribute, Technical,
 which is 2D+2). Thus, when your character attempts to ﬁx a hovercraft,
 you roll 3D, but if she tries to make adjustments to a boat, you only
-rely on the attribute’s score, which is 2D+2.
-A character may not have dice in any skill associated with an Extranormal attribute unless he already has dice in that attribute.
+rely on the attribute’s score, which is 2D+2.*
+
+A character may not have dice in any skill associated with an 
+Extranormal attribute unless he already has dice in that attribute.
+
 The maximum number of dice the character may start with in any
 base skill is 3D greater than the governing attribute, with no more than
 3D greater than the base skill in any specialization.
+
 You can ﬁnd the list of skills, with deﬁnitions, on the next two
 pages.
 
