@@ -342,7 +342,7 @@ show their auto-displays. You pause in front of one, realizing that the
 man a few meters from you isn’t also out for a late-night stroll. You’re
 being sized up.
 
-> Before you decide what to do, let’s ﬁnd out who goes ﬁrst: go to 12.
+*Before you decide what to do, let’s ﬁnd out who goes ﬁrst: go to 12.*
 
 **2**
 
@@ -351,7 +351,7 @@ your highest number. Read the result on the remaining die, and add any
 pips if your Perception die code included them. (If you’re using the
 Bounty Hunter sample character, then you add 1 to the number on the die.)
 
-> Go to 5.
+*Go to 5.*
 
 **3**
 
@@ -359,7 +359,7 @@ The man seems shaken by your talk. He
 opens his mouth to say something, then
 merely spits at you and slinks off.
 
-> Go to 13.
+*Go to 13.*
 
 **4**
 
@@ -369,9 +369,10 @@ ain’t much of a bounty hunter,” he scoffs. “You can’t be the one that
 brought my brother in.” He shoves you for good measure and stomps off 
 down the promenade.
 
-> Go to 13.
+*Go to 13.*
 
 **5**
+
 The stalker must have had a plan in mind before starting to approach
 you. Before you can react, he rushes forward to punch you, yelling,
 “You scum bounty hunter! I’m going to get you for what you did to
@@ -388,10 +389,10 @@ number of Body Points you have.
 That’s not even enough to knock the wind out of you. Now it’s
 your turn.
 
-> If you want to talk him out of his intentions to harm you, go
-to 7.
+*If you want to talk him out of his intentions to harm you, go
+to 7.*
 
-> If you think he’ll only listen to force, go to 9.
+*If you think he’ll only listen to force, go to 9.*
 
 **6**
 
@@ -409,16 +410,11 @@ sample character, then you add a 1 to the ﬁnal total.)
 You stop and stare through slitted eyes at the man as he approaches you. 
 “Some reason you’re following me, sir? You’re the bounty hunter that 
 threw my brother in jail, ain’t you?” spits the man in a gruff voice. 
-“I want your hide.” “If I got your brother, what
-makes you think you can get
-me? Let’s be reasonable here. If
-you’ve got a problem with what
-happened to your brother, take
-it up with the authorities he’s in
-
-
-
+“I want your hide.” “If I got your brother, what makes you think you can 
+get me? Let’s be reasonable here. If you’ve got a problem with what
+happened to your brother, take it up with the authorities he’s in
 custody with. Why don’t we ﬁnd a bar and I buy you a drink?”
+
 Look at your character sheet and ﬁnd intimidation (under Knowledge)
 or persuasion (under Perception) If you put extra dice in either of these,
 look at the die code next to the skill name. If you didn’t, then look at
@@ -430,23 +426,10 @@ If the Wild Die is a 6, add the 6, reroll the Wild Die, and keep adding
 and rerolling as long you get a 6 (otherwise, just add the number to
 the rest of the total). If it’s anything else on the Wild Die, add together
 the results of all of the dice.
-> If the total on the dice is greater than or equal to 15, go to 3.
-> If the total on the dice is less than 15, go to 14.
 
-> If the Perception total is greater than or equal to 6, go to 10.
-> If the Perception total is less than 6, go to 5.
+*If the total on the dice is greater than or equal to 15, go to 3.*
 
-12
-To ﬁnd out who’s got the faster reactions in this combat encounter,
-look at your character sheet and ﬁnd “Perception” and the die code next
-to it. Take a number of dice equal to the number in front of the “D”;
-make sure one of those dice is the Wild Die (and differently colored
-from the rest). So, if the die code is 3D+1, you would have two regular
-dice and one Wild Die. Roll the dice and then select the option that
-matches the results on the Wild Die.
-> If you rolled a 1 on the Wild Die, go to 2.
-> If you rolled a 6 on the Wild Die, go to 6.
-> If you rolled any number other than a 1 or a 6, go to 11.
+*If the total on the dice is less than 15, go to 14.*
 
 **8**
 
@@ -461,8 +444,10 @@ risking another encounter.
 
 *Go to 13.*
 
-9
-You’re not going to waste any more time with this guy. A little violence ought to shake him up enough to leave you alone. Look at your
+**9**
+
+You’re not going to waste any more time with this guy. A little 
+violence ought to shake him up enough to leave you alone. Look at your
 character sheet and ﬁnd brawling. If you put extra dice in this skill, look
 at the die code next to the skill name. If you didn’t, then look at the die
 code of the governing attribute, Agility. Take a number of dice equal
@@ -473,25 +458,59 @@ If the Wild Die is a 6, add the 6, reroll the Wild Die, and keep adding
 and rerolling as long you get a 6 (otherwise, just add the number to the
 rest of the total). If it’s anything, else on the Wild Die, add together
 the results of all of the dice.
-> If the total on the dice is greater than or equal to 5, go to 8.
-> If the total on the dice is less than 5, go 4.
 
-10
+*If the total on the dice is greater than or equal to 5, go to 8.*
+
+*If the total on the dice is less than 5, go 4.*
+
+**10**
+
 You’re a little quicker at assessing the situation than the stalker
 is. You get the chance to do something before he can react. What do
 you want to do?
-> If you want to talk him with him, go to 7.
-> If you think he’ll only listen to force, go to 9.
 
-11
+*If you want to talk him with him, go to 7.*
+
+*If you think he’ll only listen to force, go to 9.*
+
+**11**
+
 Since you didn’t get a 1 or 6 on the Wild Die, simply total the dice
 and add any pips if your Perception die code included them. (If you’re
 using the Bounty Hunter character, then you add a 1 to the total on
 the dice.)
 
-> Go to 15.
+*If the Perception total is greater than or equal to 6, go to 10.*
 
-14
+*If the Perception total is less than 6, go to 5.*
+
+**12**
+
+To ﬁnd out who’s got the faster reactions in this combat encounter,
+look at your character sheet and ﬁnd “Perception” and the die code next
+to it. Take a number of dice equal to the number in front of the “D”;
+make sure one of those dice is the Wild Die (and differently colored
+from the rest). So, if the die code is 3D+1, you would have two regular
+dice and one Wild Die. Roll the dice and then select the option that
+matches the results on the Wild Die.
+
+*If you rolled a 1 on the Wild Die, go to 2.*
+
+*If you rolled a 6 on the Wild Die, go to 6.*
+
+*If you rolled any number other than a 1 or a 6, go to 11.*
+
+**13**
+
+That was an unpleasant encounter. Not unusual, considering your
+work, but nothing you ever enjoy no matter how many times it hap-
+pens. You decide to return your room and get a little rest instead of
+risking another encounter.
+
+*Go to 15.*
+
+**14**
+
 He sneers at your ridiculous statement, and he rushes forward to
 punch you. His wild swing connects with your stomach, causing you
 to stagger a step. Let’s ﬁnd out how much that’s going to hurt. Your
@@ -504,12 +523,15 @@ of injury you take equals your adversary’s damage total minus your
 damage resistance total, or three points. Subtract three points from
 the total number of Body Points you have. That’s not even enough to
 knock the wind out of you.
+
 “You ain’t much of a bounty hunter,” he scoffs. “You can’t be the
 one that brought my brother in.” He shoves you for good measure and
 stomps off down the promenade.
-> Go to 13.
 
-15
+*Go to 13.*
+
+**15**
+
 In a full-length adventure, you’d have a lot more choices, but hopefully, 
 this short adventure gave you an idea of how the game works. If
 you’re unsure, go back through the scenario, picking different answers
@@ -529,52 +551,65 @@ action: A task that the character undertakes or something that the
 character does, like give a speech or climb a wall.
 active defense value: A number the character gets when concentrating on 
 getting out of the way of an attack.
-Armor Value: A die code representing the amount of protection a
+
+* Armor Value: A die code representing the amount of protection a
 defensive covering provides. It can help determine the damage resistance
 total. This term is sometimes abbreviated AV.
-Body Points: One of two ways of indicating the amount of injury a
+
+* Body Points: One of two ways of indicating the amount of injury a
 character can sustain, listed as a number. The damage total is subtracted
 from the character’s current Body Point total. May be used alone or
 with Wounds.
-Character Point: A bonus representing a surge of adrenaline or
+
+* Character Point: A bonus representing a surge of adrenaline or
 that extra luck the main characters of a story seem to have. Allows the
 user to roll an additional Wild Die.
-combat diﬃculty: A number representing how challenging it is to
+
+* combat diﬃculty: A number representing how challenging it is to
 attack someone or something. It equals the active defense value or the
 passive defense value.
-complementary skill: A skill whose results could aid in the use
+
+* complementary skill: A skill whose results could aid in the use
 of another skill.
-creation points: Points used when designing a character to purchase
+
+* creation points: Points used when designing a character to purchase
 die codes in game characteristics or other features that represent the
 character’s abilities, experience, and background.
-Critical Failure: A result, represented by a 1, on the Wild Die that
+
+* Critical Failure: A result, represented by a 1, on the Wild Die that
 indicates something bad has occurred.
-Critical Success: A result, represented by a 6, on the Wild Die
+
+* Critical Success: A result, represented by a 6, on the Wild Die
 that indicates something good has happened. Generally, the player
 adds the 6 to the current total and rolls again, adding and rerolling as
 long as a 6 comes up.
-D (as in “1D”): An abbreviation for “six-sided dice.” The number
+
+* D (as in “1D”): An abbreviation for “six-sided dice.” The number
 in front of the “D” is part of the die code, and lets you know how many
 six-sided dice to roll.
-damage resistance total: A number that indicates how much injury
+
+* damage resistance total: A number that indicates how much injury
 a character or object can absorb, soak, or deﬂect.
-damage total: A number representing how much injury or destruction something has caused.
-defaulting to an attribute: Using the die code for an attribute when
+
+* damage total: A number representing how much injury or destruction 
+something has caused. 
+
+* defaulting to an attribute: Using the die code for an attribute when
 the character doesn’t have a higher die code in the needed skill.
 die code, score: The number of six-sided dice players roll (1D, 2D,
 3D, 4D, 5D, etc.), and sometimes an amount (called pips) of “+1” or
 “+2” that is added to the total result that came up on the dice. “Die
 code” and “score” are used interchangeably.
-diﬃculty: A number representing how challenging it is to perform
+
+* diﬃculty: A number representing how challenging it is to perform
 an action.
 
-8
-
-Fate Point: A bonus representing that a character is using all of
+* Fate Point: A bonus representing that a character is using all of
 her concentration to try to succeed. Allows the player to, at least,
 double the number of dice on one roll. Sometimes the gamemaster
 will provide other beneﬁts.
-free action: Any action that needs only a few seconds to perform or
+
+* free action: Any action that needs only a few seconds to perform or
 do, such as taking a few steps or glancing quickly around a room.
 modiﬁer: A number or die code that is added or subtracted
 from another number or die code to represent a change in the
