@@ -140,7 +140,7 @@ complexity. The gamemaster doesn’t usually tell you the diﬃculty number
 you need to equal or beat to succeed. He often won’t inform you which
 tasks are easier and which are harder, though he might give you hints.
 (“Hmmm, catching your grappling hook around that small outcropping
-is going to be pretty hard.…”) The gamemaster then uses the rules to
+is going to be pretty hard . . .”) The gamemaster then uses the rules to
 interpret the die roll and determine the results of the action.
 
 
@@ -1004,111 +1004,143 @@ base skill is 3D greater than the governing attribute, with no more than
 You can ﬁnd the list of skills, with deﬁnitions, on the next two
 pages.
 
-Advantages, Disadvantages, and
-Special Abilities
+Advantages, Disadvantages, and Special Abilities
+------------------------------------------------
 
 Advantages and Disadvantages are beneﬁts or quirks your character
 has developed. Some affect the character’s attributes and skills, while
 others serve as useful roleplaying tools for rounding out the character.
 Special Abilities are unusual talents or powers the character has that
+most other Humans don’t have. The next chapter,“Character Options,”
+discusses these characteristics. You may ignore this section if you 
+don’t want to add them to your character.
 
-> Focused Skills
-Some gamemasters prefer narrower skill categories,
-requiring characters to select more speciﬁc abilities, such as
-vehicle operation: ground or languages: Old Terran. If that’s the
-case, players’ characters start with 21 skill dice or 93 creation
-points. Players will need to get gamemaster approval on any
-subcategories they choose, while gamemasters need to insure
-that the subcategories are neither too broad (all scientiﬁc
-disciplines) or too narrow (a particular model of handgun).
-Players may take specializations of these narrower skills, as
-described in the rules.
+> **Focused Skills**    
+> Some gamemasters prefer narrower skill categories, 
+> requiring characters to select more speciﬁc abilities, such as
+> vehicle operation: ground or languages: Old Terran. If that’s the
+> case, players’ characters start with 21 skill dice or 93 creation
+> points. Players will need to get gamemaster approval on any
+> subcategories they choose, while gamemasters need to insure
+> that the subcategories are neither too broad (all scientiﬁc
+> disciplines) or too narrow (a particular model of handgun).
+> Players may take specializations of these narrower skills, as
+> described in the rules.
 
-11
+Skills
+------
 
-Chapter 1
+As this skill list includes broad deﬁnitions not applicable in all eras 
+or worlds for which D6 Space could be used, the gamemaster has
+the ﬁnal say on actual skill applications. For diﬃculties associated 
+with each skill, see the “Example Skill Diﬃculties” chapter.
 
-> Skills
-As this skill list includes broad deﬁnitions not applicable in all eras or worlds for which D6 Space could be used, the gamemaster has
-the ﬁnal say on actual skill applications. For diﬃculties associated with each skill, see the “Example Skill Diﬃculties” chapter.
+**Agility**   
 
-Agility
-acrobatics: Performing feats of gymnastics, extraordinary balance, and dance (and related performance arts), as well as breaking
-falls and escaping from bonds.
-brawling: Competence in unarmed combat.
-dodge: Slipping out of danger’s way, whether avoiding an attack
+* acrobatics: Performing feats of gymnastics, extraordinary balance, and 
+dance (and related performance arts), as well as breaking falls and 
+escaping from bonds.
+
+* brawling: Competence in unarmed combat.
+
+* dodge: Slipping out of danger’s way, whether avoiding an attack
 or a sprung booby trap.
-ﬁrearms: Shooting any gun a person can carry, even if it requires
+
+* ﬁrearms: Shooting any gun a person can carry, even if it requires
 a tripod setup to ﬁre. Covers everything from small slug throwers
 to shoulder-launched rockets.
-ﬂying/0-G: Maneuvering under on one’s own power (such
+
+* ﬂying/0-G: Maneuvering under on one’s own power (such
 as with wings) or in zero-gravity environments (such as drifting
 through space in an environmental suit).
-melee combat: Wielding hand-to-hand weapons.
+
+* melee combat: Wielding hand-to-hand weapons.
 missile weapons: Firing unpowered ranged weapons.
-riding: Controlling and riding domesticated mounts.
-running: Moving quickly while avoiding obstacles and keeping
+
+* riding: Controlling and riding domesticated mounts.
+
+* running: Moving quickly while avoiding obstacles and keeping
 from stumbling.
-sleight of hand: Nimbleness with the ﬁngers, including picking
+
+* sleight of hand: Nimbleness with the ﬁngers, including picking
 pockets, palming items, and opening mechanical locks.
-throwing: Hitting a target accurately with a thrown item,
+
+* throwing: Hitting a target accurately with a thrown item,
 including grenades, stones, and knives. Also used for catching
 thrown items. (Using or modifying grenades as explosives for
 special destructive effects requires the demolitions skill.)
 
-Strength
-climb/jump: Climbing or jumping over obstacles.
-lift: Moving or lifting heavy objects, as well as the ability to
-inﬂict additional damage with strength-powered weapons.
-stamina: Physical endurance and resistance to pain, disease,
-and poison.
-swim: Moving and surviving in a liquid medium
+**Strength**    
 
-Mechanical
-comm: Effectively using communication devices and arrays.
-exoskeleton operation: Using single-person conveyances with
+* climb/jump: Climbing or jumping over obstacles.
+
+* lift: Moving or lifting heavy objects, as well as the ability to
+inﬂict additional damage with strength-powered weapons.
+
+* stamina: Physical endurance and resistance to pain, disease,
+and poison.
+
+* swim: Moving and surviving in a liquid medium
+
+**Mechanical**
+
+* comm: Effectively using communication devices and arrays.
+
+* exoskeleton operation: Using single-person conveyances with
 skills and abilities that substitute for (not augment) the character’s
 own skills and abilities. This skill substitutes for the character’s
 Agility and Strength skills when using the “suit.”
-gunnery: Accurately ﬁring weapons mounted on powered
+
+* gunnery: Accurately ﬁring weapons mounted on powered
 armor, vehicles, and spaceships, or within fortresses.
-navigation: Plotting courses, such as through space using a
+
+* navigation: Plotting courses, such as through space using a
 vessel’s navigational computer interface, or on land using maps
 or landmarks, as well as creating maps.
-piloting: Flying air- or space-borne craft, from hovercraft and
+
+* piloting: Flying air- or space-borne craft, from hovercraft and
 in-atmosphere ﬁghters to transports and battleships.
-sensors: Operating scanner arrays to gather information about
+
+* sensors: Operating scanner arrays to gather information about
 one’s surroundings.
-shields: Deploying and redirecting shields aboard vehicles.
 
-12
+* shields: Deploying and redirecting shields aboard vehicles.
 
-vehicle operation: Operating non-ﬂying vehicles traveling on
+* vehicle operation: Operating non-ﬂying vehicles traveling on
 or through the ground or a liquid medium.
 
-Knowledge
-aliens: Understanding of aliens not of the character’s own
+**Knowledge**
+
+* aliens: Understanding of aliens not of the character’s own
 species and their physiology, customs, and history.
-astrography: Familiarity with astrographic features (planets,
+
+* astrography: Familiarity with astrographic features (planets,
 star systems, nebulae), and general knowledge of any civilized
 elements present (settlements, industry, government, orbital
 installations).
-bureaucracy: Knowledge of and ability to use a bureaucracy’s
+
+* bureaucracy: Knowledge of and ability to use a bureaucracy’s
 intricate procedures to gain information, and favors, or attain
 other goals.
-business: Comprehension of business practices and the monetary value of goods and opportunities, including the ability to
+
+* business: Comprehension of business practices and the monetary value 
+of goods and opportunities, including the ability to
 determine how to make money with another skill the character
 has. Business can complement bargain when haggling over prices
 for goods and services being bought or sold.
-cultures: Understanding of the manners, customs, and social
+
+* cultures: Understanding of the manners, customs, and social
 expectations of different cultures, including one’s own.
 intimidation: Using physical presence, verbal threats, taunts,
 or fear to inﬂuence others or get information out of them.
-languages: Familiarity with and ability to use various forms of
-communication, including written, spoken, and nonverbal. Characters may choose one“native” language in which they have written
+
+* languages: Familiarity with and ability to use various forms of
+communication, including written, spoken, and nonverbal. Characters 
+may choose one“native” language in which they have written
 and spoken ﬂuency. Additional languages in which a character has
 proﬁciency can be represented by specializations of this skill.
-scholar: This skill represents knowledge and/or education
+
+* scholar: This skill represents knowledge and/or education
 in areas not covered under any other skill (such as chemistry,
 mathematics, archeology, cooking, art, etc.). This may be restricted
 to a speciﬁc ﬁeld (represented by specializations) or a general
@@ -1121,103 +1153,132 @@ skill as a specialization of the scholar skill means that the character
 knows the theories and history behind the skill but can’t actually
 use it. Scholar can be useful with investigation to narrow a search
 for information.
-security regulations: Understanding of how law enforcement
+
+* security regulations: Understanding of how law enforcement
 organizations, regulations, and personnel operate.
-streetwise: Finding information, goods, and contacts in an urban
+
+* streetwise: Finding information, goods, and contacts in an urban
 environment, particularly through criminal organizations, black
 markets, and other illicit operations. Also useful for determining
 possible motives and methods of criminals.
-survival: Knowledge of techniques for surviving in hostile, wilderness environments, as well as the ability to handle animals.
-continued on next page
 
-Character Basics
+* survival: Knowledge of techniques for surviving in hostile, wilderness 
+environments, as well as the ability to handle animals.
 
-> Skills Continued
-tactics: Familiarity with deploying military forces and maneuvering them to the best advantage.
-willpower: Ability to withstand stress, temptation, other people’s
+* tactics: Familiarity with deploying military forces and maneuvering 
+them to the best advantage.
+
+* willpower: Ability to withstand stress, temptation, other people’s
 interaction attempts, mental attacks, and pain. The gamemaster
 may allow a specialization in a speciﬁc faith tradition or belief system
 to enhance many, though not all, applications of willpower.
 
-Perception
-artist: Making works of art, like paintings, photographs, and
+**Perception**
+
+* artist: Making works of art, like paintings, photographs, and
 music or literary compositions.
-bargain: Haggling over prices for goods and services being
+
+* bargain: Haggling over prices for goods and services being
 bought or sold, as well as using bribery.
-command: Effectively ordering and coordinating others in team
+
+* command: Effectively ordering and coordinating others in team
 situations (such as commanding a battleship crew).
-con: Bluﬃng, lying, tricking, or deceiving others, as well as
+
+* con: Bluﬃng, lying, tricking, or deceiving others, as well as
 verbal evasiveness, misdirection, blustering, and altering features
 or clothing to be unrecognizable or to look like someone else. Also
 useful in putting on acting performances.
-forgery: Creating and noticing false or altered documentation
+
+* forgery: Creating and noticing false or altered documentation
 in various media (paper, electronic, plastic card, etc.), including
 counterfeiting, though tasks may require other skills to help detect
 or make the forgery.
-gambling: Winning and cheating at games of strategy and
+
+* gambling: Winning and cheating at games of strategy and
 luck.
-hide: Concealing objects, both on oneself and using camouﬂage.
+
+* hide: Concealing objects, both on oneself and using camouﬂage.
 investigation: Gathering information, researching topics,
 analyzing data, and piecing together clues.
-know-how: Figuring out how to perform an action in which
+
+* know-how: Figuring out how to perform an action in which
 the character does not have experience, as well as a catch-all skill
 encompassing areas not covered by other skills (such as utilitarian
 sewing or cooking).
-persuasion: Inﬂuencing others or getting information out
+
+* persuasion: Inﬂuencing others or getting information out
 of them through bribery, honest discussion, debate, diplomacy,
-speeches, friendliness, ﬂattery, or seduction. Also useful in negotiations, business transactions, and putting on performances (such
-as singing, acting, or storytelling).
-search: Spotting hidden objects or people, reconnoitering,
+speeches, friendliness, ﬂattery, or seduction. Also useful in 
+negotiations, business transactions, and putting on performances 
+(such as singing, acting, or storytelling).
+
+* search: Spotting hidden objects or people, reconnoitering,
 lipreading, eavesdropping on or watching other people, or tracking
 the trails they’ve left behind.
 
-most other Humans don’t have. The next chapter,“Character Options,”
-discusses these characteristics. You may ignore this section if you don’t
-want to add them to your character.
+* sneak: Moving silently, avoiding detection and hiding oneself.
 
-Move
+**Technical**
 
-This number (usually 10) represents how many meters your character moves in a round at maximum walking speed in standard (1 g)
-gravity. (The running skill can increase this rate. It also serves as the
-base for other movement skills.)
+* armor repair: Fixing damaged armor.
 
-sneak: Moving silently, avoiding detection and hiding oneself.
-
-Technical
-armor repair: Fixing damaged armor.
-computer interface/repair: Programming, interfacing with,
+* computer interface/repair: Programming, interfacing with,
 and ﬁxing computer systems.
-demolitions: Setting explosives to achieve particular destructive effects.
-exoskeleton repair: Repairing and modifying exoskeletons,
+
+* demolitions: Setting explosives to achieve particular destructive effects.
+
+* exoskeleton repair: Repairing and modifying exoskeletons,
 powered armor, environmental suits, and similar suits.
-ﬁrearms repair: Repairing and modifying any gun a person can
+
+* ﬁrearms repair: Repairing and modifying any gun a person can
 carry, from small slug throwers to shoulder-launched rockets..
-ﬂight systems repair: Fixing damaged systems aboard ﬂying
+
+* ﬂight systems repair: Fixing damaged systems aboard ﬂying
 vehicles and spaceships.
-gunnery repair: Fixing weapons mounted on powered armor,
+
+* gunnery repair: Fixing weapons mounted on powered armor,
 vehicles, or spaceships, or within fortresses.
-medicine: Using basic ﬁeld medicine to treat injuries, as well
+
+* medicine: Using basic ﬁeld medicine to treat injuries, as well
 as detailed understanding and applying medical procedures,
 such as diagnosing illnesses, performing surgery, and implanting
 cybernetics.
-personal equipment repair: Fixing small electronic equipment,
+
+* personal equipment repair: Fixing small electronic equipment,
 including damaged cybernetics.
-robot interface/repair: Programming, interfacing with and
+
+* robot interface/repair: Programming, interfacing with and
 ﬁxing robots and their systems.
-security: Installing, altering, and bypassing electronic security
+
+* security: Installing, altering, and bypassing electronic security
 and surveillance systems.
-vehicle repair: Fixing ground- and ocean-based vehicles that
+
+* vehicle repair: Fixing ground- and ocean-based vehicles that
 do not ﬂy.
 
-Extranormal: Metaphysics
+**Extranormal: Metaphysics**
+
 Metaphysics is one possible Extranormal attribute. For speciﬁc
 information, see its chapter in this book.
-channel: Focusing energy within herself and her surroundings
+
+* channel: Focusing energy within herself and her surroundings
 to harm others or protect herself and others from harm.
-sense: Detecting anything in existence, learn about her surroundings, and touch and inﬂuence minds.
-transform: Altering people and things within the universe,
+
+* sense: Detecting anything in existence, learn about her s
+urroundings, and touch and inﬂuence minds.
+
+* transform: Altering people and things within the universe,
 including moving something from one location to another and
 changing a target’s natural capabilities temporarily.
+
+
+Move
+----
+
+This number (usually 10) represents how many meters your character moves 
+in a round at maximum walking speed in standard (1 g) gravity. (The 
+running skill can increase this rate. It also serves as the base for 
+other movement skills.)
 
 Should the character have a different sort of movement than normal
 (such as ﬁns for legs), see the Hindrance Disadvantage (described in
@@ -1225,131 +1286,148 @@ the “Character Options” chapter) for information on how to account
 for this variability.
 
 Special Points
+--------------
 
 Players’ characters typically start the game with one Fate Point and
 ﬁve Character Points. You can spend these points to improve your
 character’s chance of succeeding in especially diﬃcult situations. (The
-
-13
-
-Chapter 1
-
 mechanics of this are discussed in the “Game Basics” chapter.)
 Character Points alternatively are used to permanently improve
 skills. Your character earns more Character and Fate Points by
 having adventures. There is no limit to the number of Character
 or Fate Points your character may have at any time.
 
-thus gets a Funds attribute,
-which represents the amount
-of money the character can
-Characteristic
-Modiﬁer
-get without too much trouble
-1D in Perception
--1
-on a regular basis because of
-1D in Knowledge
--1
-work or investments.
-4D or more in Perception
-+1
-All characters start with
-4D or more in Knowledge
-+1
-a
-base
-of 3 in Funds. Use the
-This section of the character sheet allows you to keep
-8D or more in business skill
-accompanying
-table to adjust
-track of the healthiness of your character. Which you use
-plus its specializations
-+1
-this
-number.
-Include any
-depends on the gamemaster.
-modiﬁers to attributes due
-to Disadvantages or Special
-Abilities. The minimum total is 1. The ﬁnal total becomes the die code
-When you create a new character, roll her Strength (including any
-in the Funds attribute.
-modiﬁers from Disadvantages or Special Abilities) and add 20. (Treat a
-After character creation, a player can increase the Funds attribute by
-1 that comes up on the Wild Die as a 1 and add it to the total as normal;
-spending Character Points (using the rules in the “Improving Characit has 
-no negative effect on the result.) This becomes her Body Point
-ters” chapter) or through bonuses received as adventure rewards.
-total. Write it on the character sheet in the space provided. Templates
-If the gamemaster prefers to use cash or its equivalent, multiply the
-already have their Body Points determined.
-Funds total by a value speciﬁed by the gamemaster (typically about 175
-Example: Your character has 3D+1 in Physique. You roll three dice,
-credits, but gamemasters may increase or decrease this depending on
-making sure one of them is the Wild Die. The dice come up 4 and 6,
-how expensive goods and services are in their universe). This is how
-with a 1 on the Wild Die. Since the 1 has no negative effect, you add the
-much money the character receives per week for whatever sort of work
-numbers to arrive at a total of 11.You then include the pip bonus of 1 with
-the character does or investments the character has.
-this for 12. Finally, you add 12 to 20 to get a Body Point total of 32.
-Example: Your character has 4D in Knowledge, 6D in business,
-and +2D in a specialization of business, investing. Starting with 3, you
-add to it 1 for your high Knowledge score and 1 for having at least 8D
-If your gamemaster is using the Wound levels option with Body
-in business plus a specialization. Your ﬁnal total is 4, which gives you
-Points, see the appropriate table in the “Damage” chapter to determine
-a Funds score of 5D. If your gamemaster preferred cash, you would
-the range of Body Points associated with each Wound level. If your
-start with a regular income of 875 credits per week.
-gamemaster is only using Wounds, you don’t need to ﬁgure out the Body
-Using the Funds attribute is discussed in the “Equipment” chapter.
-Points range; you can put a line through that column if you’d like.
 
-> Determining Funds
+
+
+
+
+
+
+
+
+
+
+
 
 Body Points and Wounds
+----------------------
+
+This section of the character sheet allows you to keep
+track of the healthiness of your character. Which you use
+depends on the gamemaster.
+
+
 Determining Body Points
+-----------------------
+
+When you create a new character, roll her Strength (including any
+modiﬁers from Disadvantages or Special Abilities) and add 20. (Treat a
+1 that comes up on the Wild Die as a 1 and add it to the total as normal;
+it has no negative effect on the result.) This becomes her Body Point
+total. Write it on the character sheet in the space provided. Templates
+already have their Body Points determined.
+
+Example: *Your character has 3D+1 in Physique. You roll three dice,
+making sure one of them is the Wild Die. The dice come up 4 and 6,
+with a 1 on the Wild Die. Since the 1 has no negative effect, you add the
+numbers to arrive at a total of 11.You then include the pip bonus of 1 with
+this for 12. Finally, you add 12 to 20 to get a Body Point total of 32.*
+
 
 Determining Wounds
+------------------
+
+If your gamemaster is using the Wound levels option with Body
+Points, see the appropriate table in the “Damage” chapter to determine
+the range of Body Points associated with each Wound level. If your
+gamemaster is only using Wounds, you don’t need to ﬁgure out the Body
+Points range; you can put a line through that column if you’d like.
+
 
 Strength Damage
+---------------
 
 Strength Damage indicates the amount of harm a character can
 do in combat with body parts, melee weapons, thrown weapons, and
 most missile weapons.
 
+
 Determining Strength Damage
+---------------------------
+
 To determine the Strength Damage die code, take the character’s
 Strength or lift (including any die code modiﬁers from Disadvantages
 or Special Abilities) and drop the pips. Divide by 2, and round up.
 Example: A character with 3D in Strength has a Strength Damage
 of 2D. A character with 6D+2 in lift has a Strength Damage of 3D.
 
+
 Templates and Strength Damage
+-----------------------------
+
 If you added dice to a template’s lift skill, you’ll need to adjust the
 Strength Damage value listed. Use the information above to correct
 the number.
 
+
 Funds
+-----
 
 To allow the gamemaster to more easily adjust the “real world” cost
 to something appropriate for her world or her part of the world, this
 system substitutes diﬃculties for the prices of items. Each character
+thus gets a Funds attribute, which represents the amount of money the 
+character can get without too much trouble on a regular basis because 
+of work or investments.
 
-14
+All characters start with a base of 3 in Funds. Use the
+accompanying table to adjust this number.
+
+> **Determining Funds**
+> *Characteristic (Modiﬁer)*
+> 1D in Perception (-1)
+> 1D in Knowledge (-1)
+> 4D or more in Perception (+1)
+> 4D or more in Knowledge (+1)
+> 8D or more in business skill plus its specializations (+1)
+
+Include any modiﬁers to attributes due to Disadvantages or Special 
+Abilities. The minimum total is 1. The ﬁnal total becomes the die code
+in the Funds attribute.
+
+After character creation, a player can increase the Funds attribute by
+spending Character Points (using the rules in the “Improving Characit has 
+ters” chapter) or through bonuses received as adventure rewards.
+If the gamemaster prefers to use cash or its equivalent, multiply the
+Funds total by a value speciﬁed by the gamemaster (typically about 175
+credits, but gamemasters may increase or decrease this depending on
+how expensive goods and services are in their universe). This is how
+much money the character receives per week for whatever sort of work
+the character does or investments the character has.
+
+Example: Your character has 4D in Knowledge, 6D in business,
+and +2D in a specialization of business, investing. Starting with 3, you
+add to it 1 for your high Knowledge score and 1 for having at least 8D
+in business plus a specialization. Your ﬁnal total is 4, which gives you
+a Funds score of 5D. If your gamemaster preferred cash, you would
+start with a regular income of 875 credits per week.
+
+Using the Funds attribute is discussed in the “Equipment” chapter.
+
 
 Equipment
+---------
 
 Players of starting characters may select one small weapon and a
 little protective gear plus a few tools of their characters’ chosen trade,
 unless there is equipment already listed on the template sheet. Some
-basic equipment is explained in the “Equipment” chapter; the gamemaster may allow other options.
+basic equipment is explained in the “Equipment” chapter; the gamemaster 
+may allow other options.
 
-Character Features and Other
-Details
+
+Character Features and Other Details
+------------------------------------
 
 The character sheet provided in this book and most other templates
 include spots for your character’s name, career, species, gender, age, height,
@@ -1357,70 +1435,96 @@ weight, and other information. Unless speciﬁed by the template or your
 gamemaster allows it, your character’s species is Human. Everything else
 in these sections you are free to ﬁll in as you like.
 
+
 Height and Weight
+-----------------
+
 Players who want their characters signiﬁcantly larger or smaller than
 the average Human have a few options. If the size is proportionately
 larger or smaller, then the character must have the Size Advantage. If
 the size is a hindrance, then the character should have the Hindrance
 Disadvantage as well.
 
-> Character Options
-What’s in this Chapter
 
-This chapter is for players who want to explore more of their characters’ possible backgrounds and abilities. After completing basic character
-generation in Chapter 1, look through this chapter to “ﬂesh out” your
-character’s history and abilities. You’ll ﬁnd interesting game- and storyrelated options called Advantages, Disadvantages, and Special Abilities. These suggest the fact that your character might have knowledge,
-resources, or abilities that aren’t reﬂected by the character’s attributes
-and skills. If something inspires you to change your character’s basic
-characteristics, feel free to go back and make adjustments.
+Character Options
+=================
+
+What’s in this Chapter
+----------------------
+
+This chapter is for players who want to explore more of their 
+characters’ possible backgrounds and abilities. After completing 
+basic character generation in Chapter 1, look through this chapter 
+to “ﬂesh out” your character’s history and abilities. You’ll ﬁnd 
+interesting game and storyrelated options called Advantages, 
+Disadvantages, and Special Abilities. These suggest the fact that your 
+character might have knowledge, resources, or abilities that aren’t 
+reﬂected by the character’s attributes and skills. If something 
+inspires you to change your character’s basic characteristics, feel 
+free to go back and make adjustments.
+
 
 Expanding the Character Concept
+-------------------------------
 
 When you ﬁrst created your character, you probably had a character
 concept in mind or one was suggested by the template that you used.
 Now’s the time to expand the character’s history.
 There are several ways you can do this. The easiest is to answer
 questions like:
-> Where and when was my character born?
-> What did my character do as a child?
-> What unusual experiences did my character have?
-> How did my character become the character he is now?
-> What is one of my character’s major goals?
-> What was my character doing right before the game begins?
-> Why does your character have the skills that he has?
+
+* Where and when was my character born?
+
+* What did my character do as a child?
+
+* What unusual experiences did my character have?
+
+* How did my character become the character he is now?
+
+* What is one of my character’s major goals?
+
+* What was my character doing right before the game begins?
+
+* Why does your character have the skills that he has?
+
 Say your character knows ﬁrearms and several specializations.
 Why? Was the character in the army? A mercenary? A member of a
 megacorporation security force? How were these skills learned? You
 don’t have to explain every skill, but try to rationalize any unusual skills
 (such as Metaphysics skills), as well as skills the character has two dice
 or more in (he is really good at those).
+
 There are, of course, other questions you can come up with, though
 these are among the most common.
+
 You can jot down notes and go back and ﬁll in the gaps as you play.
 You can make up the name of the character’s school, the exact date
 of birth, and other things as you go along. If you’re stuck for ideas,
 read the basic description of the game setting or remember pertinent
-books, television shows, and movies — you can develop ideas based
+books, television shows, and movies -- you can develop ideas based
 on them.
 
+
 Peruse the Character Options
+----------------------------
+
 You might not want to write a background for your character until
 you look at some of the options available to you. Take a look at the
-
-2
-
 Advantages, Disadvantages, and Special Abilities, and see some of the
 beneﬁts and drawbacks you can choose for your character. You might
 see something you want to work in, and that will help give you ideas
 for a background story.
 
+
 Aliens and Mutants
+------------------
 
 Gamemasters and players can use character options to tweak the
 starting character Human base into any sort of species concept that
 they desire. The next chapter,“Aliens and Human Offshoots,” provides
 some generic non-Human write-ups and character packages based on
 them, in addition to questions to help in making new ones.
+
 When creating a species template, every character based on that
 species must have certain background Special Abilities, Disadvantages,
 and possibly Advantages. However, enough points should remain with
@@ -1430,67 +1534,79 @@ setting, but fewer than if the player had stuck with Human. (Experienced
 members of the species should have more skills and, perhaps, higher
 levels of the template’s Special Abilities and Disadvantages.)
 
+
 Selecting Character Options
+---------------------------
 
 Advantages, Disadvantages, and Special Abilities make the character
 more interesting, more (and less) effective, and more fun to roleplay (if
 you do it right). You know the story of your character — here’s what
 that story means.
+
 Advantages are perks that the character has because of her status
 in society, the people she knows, or something in her background. They
 generally do not directly affect attributes or skills.
+
 Disadvantages hamper the character in some way. They might affect
 her attributes or skills or they might mean trouble for her in certain
-
-> Game Mechanics
-Within the descriptions of several Advantages, Disadvantages, and Special Abilities, you’ll notice references to game
-mechanics that haven’t been explained yet (like the Critical
-Failure die result and the names of diﬃculty levels). If this
-is your ﬁrst time playing a D6 game, you can ignore these for
-now. You’ll learn more about them in the next chapter. Once
-you start playing adventures, you’ll ﬁnd the game mechanics
-in this chapter useful.
-
-15
-
-Chapter 2
-
 situations. Both Advantages and Disadvantages make the character
 more rounded and more believable.
+
 Special Abilities are those talents or gifts that exceed the usual
 natural capabilities of a Human character. The character’s species, some
 sort of unique training, or a magical/super-science/cybernetic/other
 effect might explain their origin. They give the character a bonus to
 her attributes or skills, or they provide her with access to something
 that the average Human character can’t do.
+
+> **Game Mechanics**
+> Within the descriptions of several Advantages, Disadvantages, and 
+> Special Abilities, you’ll notice references to game
+> mechanics that haven’t been explained yet (like the Critical
+> Failure die result and the names of diﬃculty levels). If this
+> is your ﬁrst time playing a D6 game, you can ignore these for
+> now. You’ll learn more about them in the next chapter. Once
+> you start playing adventures, you’ll ﬁnd the game mechanics
+> in this chapter useful.
+
 Example: You decide to give your character a Special Ability that
 provides him with a +1 to one of three combat-related skill totals. If
 you don’t have any points to spend on Special Abilities, your character
 needs to have some kind of Disadvantage as well. The character might
 have to add 1 to the difficulty of all interaction-related skill totals, or
 you might include a totally unrelated Disadvantage (of comparative
-power) — like the character is afraid of the dark and has trouble acting when in the dark.
+power) -- like the character is afraid of the dark and has trouble 
+acting when in the dark.
+
 
 Using Character Options
+-----------------------
 
 Every character option has its own rules for implementation.
 There are, if you look hard enough, some nightmarish combinations.
 If something seems like it is could cause trouble in the game later on,
-check with your gamemaster before choosing it. Ultimately, the gamemaster has ﬁnal say on the choice of all Advantages, Disadvantages,
+check with your gamemaster before choosing it. Ultimately, the gamemaster 
+has ﬁnal say on the choice of all Advantages, Disadvantages,
 and Special Abilities, as well as ﬁnal say on the interpretation of those
 choices. Players who misuse their character options, particularly their
 Disadvantages, may ﬁnd their Advantages or Special Abilities meeting
 with some unfortunate accident.
 
-Organization
 
-Advantages, Disadvantages, and Special Abilities are listed alphabetically in their respective sections. Advantages and Disadvantages
-are further organized into ranks. These ranks are numbered; higher numbered ranks are more powerful. They are abbreviated R1, R2, R3,
+Organization
+------------
+
+Advantages, Disadvantages, and Special Abilities are listed 
+alphabetically in their respective sections. Advantages and Disadvantages
+are further organized into ranks. These ranks are numbered; higher 
+numbered ranks are more powerful. They are abbreviated R1, R2, R3,
 R4, and so on. Special Abilities don’t have listed ranks. Instead, the
 descriptions give the initial cost for gaining one rank in that ability.
+
 Note: Gamemasters may allow higher ranks of character options
 than the examples given here. Players and gamemasters should discuss
 the best way to represent their characters’ unique set of traits.
+
 
 Costs at Character Creation
 ---------------------------
@@ -1500,69 +1616,107 @@ point (or one skill die, if you’re using deﬁned limits) per number.
 Advantages cost creation points, while Disadvantages give you creation
 points (or skill dice). Thus, a Rank 1 Advantage costs one point or die,
 while a Rank 4 Disadvantage gives you four points or dice.
-The cost of one rank of the Special Ability is included in parentheses. Some Special Abilities, such as Longevity, do not lend themselves
+
+The cost of one rank of the Special Ability is included in parentheses. 
+Some Special Abilities, such as Longevity, do not lend themselves
 to being taken more than once. Players may also add Limitations to
 their Special Abilities, which reduce their effectiveness (and the cost)
 or Enhancements, which increase their effectiveness (and the cost);
 these are described at the end of this section.
+
 In settings where characters with Special Abilities are common,
 additional ranks of each Special Ability cost one point (or skill die) per
-
-16
-
-> Disadvantages
-Achilles’ Heel (R3, R4); examples (R3): Allergy, Cultural
-Allergy, Environmental Incompatibility, Metabolic Difference, Nutritional Requirements, Rot, Vulnerability;
-examples (R4): Allergy, Cultural Allergy, Rot, Symbiosis
-Advantage Flaw (R1, R2, R3); examples (R3): Infection,
-Minor Stigma, Stench
-Age (R1, R2)
-Bad Luck (R2, R3, R4)
-Burn-out (R1 or more)
-Cultural Unfamiliarity (R1, R2, R3)
-Debt (R1, R2, R3)
-Devotion (R1, R2, R3)
-Employed (R1, R2, R3)
-Enemy (R1, R2, R3)
-Hindrance (R1 or more); examples: Bad Knee, Rude, Trick
-Shoulder, Uncoordinated, Unobservant
-Infamy (R1, R2, R3)
-Language Problems (R2)
-Learning Problems (R1 or more)
-Poverty (R1)
-Prejudice (R1, R2)
-Price (R1, R2)
-Quirk (R1, R2, R3); examples (R1): Dependency, Kleptomania, Indecision, Stutter; examples (R2): Dependency,
-Secret; examples (R3): Dependency, Paranoid, Phobic,
-Vengeful
-Reduced Attribute (R2 or more)
-Note: At character creation, Disadvantages give one creation
-point or one skill die per rank.
-
-> Advantages
-Authority (R1, R2, R3)
-Contacts (R1, R2, R3, R4)
-Equipment (R1, R2, R3, R4)
-Fame (R1, R2, R3)
-Patron (R1, R2, R3)
-Size (R1 or more)
-Trademark Specialization (R1)
-Wealth (R1 or more)
-Note: At character creation, Advantages cost one creation
-point or one skill die per rank.
-
 rank at character creation. In settings where characters with Special
 Abilities are uncommon, additional ranks of each Special Ability cost
 the value listed with the Special Ability.
+
 When using templates or deﬁned limits for attributes and skill dice,
 players may use skill dice or dice received from Disadvantages to get
 Advantages and Special Abilities. Players in games using character creation
 point pools may use some of the points in their pool or points gained
 from Disadvantages to purchase Advantages and Special Abilities.
 
-Character Options
+A maximum of 10 creation points’ (or 10 extra skill dice) worth of
+Disadvantages is recommended for any genre.
 
-> Special Abilities
+
+Advantages, Disadvantages, and Special Abilities List
+-----------------------------------------------------
+
+**Disadvantages**
+
+* Achilles’ Heel (R3, R4); examples (R3): Allergy, Cultural
+Allergy, Environmental Incompatibility, Metabolic Difference, 
+Nutritional Requirements, Rot, Vulnerability;
+examples (R4): Allergy, Cultural Allergy, Rot, Symbiosis
+
+* Advantage Flaw (R1, R2, R3); examples (R3): Infection,
+Minor Stigma, Stench
+
+* Age (R1, R2)
+
+* Bad Luck (R2, R3, R4)
+
+* Burn-out (R1 or more)
+
+* Cultural Unfamiliarity (R1, R2, R3)
+
+* Debt (R1, R2, R3)
+
+* Devotion (R1, R2, R3)
+
+* Employed (R1, R2, R3)
+
+* Enemy (R1, R2, R3)
+
+* Hindrance (R1 or more); examples: Bad Knee, Rude, Trick
+Shoulder, Uncoordinated, Unobservant
+
+* Infamy (R1, R2, R3)
+
+* Language Problems (R2)
+
+* Learning Problems (R1 or more)
+
+* Poverty (R1)
+
+* Prejudice (R1, R2)
+
+* Price (R1, R2)
+
+* Quirk (R1, R2, R3); examples (R1): Dependency, Kleptomania, Indecision, 
+Stutter; examples (R2): Dependency, Secret; examples (R3): Dependency, 
+Paranoid, Phobic, Vengeful
+
+* Reduced Attribute (R2 or more)
+
+Note: At character creation, Disadvantages give one creation
+point or one skill die per rank.
+
+**Advantages**
+
+* Authority (R1, R2, R3)
+
+* Contacts (R1, R2, R3, R4)
+
+* Equipment (R1, R2, R3, R4)
+
+* Fame (R1, R2, R3)
+
+* Patron (R1, R2, R3)
+
+* Size (R1 or more)
+
+* Trademark Specialization (R1)
+
+* Wealth (R1 or more)
+
+Note: At character creation, Advantages cost one creation
+point or one skill die per rank.
+
+
+**Special Abilities**
+
 Accelerated Healing (3)
 Ambidextrous (2)
 Animal Control (3)
@@ -1593,7 +1747,6 @@ Infravision/Ultravision (1)
 Intangibility (5)
 Invisibility (3)
 Iron Will (2)
-
 Life Drain (5)
 Longevity (3)
 Luck, Good (2), Great (3)
@@ -1618,34 +1771,14 @@ Ventriloquism (3)
 Water Breathing (2)
 Youthful Appearance (1)
 
-Enhancements
+**Enhancements**
+
 Additional Effect (1)
 Bestow (varies)
 Extended Range (3)
 Multiple Targets (2)
 
-A maximum of 10 creation points’ (or 10 extra skill dice) worth of
-Disadvantages is recommended for any genre.
-
-Using the Creation Points
-You may use creation points that you earn from giving your character
-Disadvantages to buy Advantages (at their rank cost), more skill dice
-(at a rate of one creation point for each skill die), or more attribute dice
-(at a rate of four creation points for each attribute die).
-
-Disadvantages
-
-Many Disadvantages exist as counterparts to the Advantages or
-Special Abilities listed herein. A Skill Bonus Special Ability is the
-positive side of a Hindrance Disadvantage. Some have roleplaying
-effects, while others alter attributes and skills.
-When choosing Disadvantages, keep a few things in mind:
-1. You’re going to have to live with the Disadvantage. Take only
-Disadvantages that you don’t expect to ever get rid of — there are rules
-for eliminating Disadvantages, but the gamemaster may allow their
-use only after lots of adventuring.
-
-Limitations
+**Limitations**
 Ability Loss (3; 1 per additional rank)
 Allergy (3; 1 per additional rank)
 Burn-out (1)
@@ -1659,27 +1792,51 @@ Restricted (1)
 Side Effect (2)
 Singularity (varies)
 Super-science (2)
-Note: At character creation, the ﬁrst rank
-in a Special Ability costs the number in
-parentheses in creation points or skill dice.
-Additional ranks cost one creation point or
-skill die in games where Special Abilities are
-common or the number in parentheses in
-games where Special Abilities are uncommon. Enhancements add to the total cost
-of the Special Ability. Limitations subtract
-from the total of the base cost of the Special
-Ability plus the cost of its ranks plus the cost
-of its Enhancements. The minimum cost for
-a Special Ability plus Enhancements and
-Limitations is 1.
+
+Note: At character creation, the ﬁrst rank in a Special Ability costs 
+the number in parentheses in creation points or skill dice.
+Additional ranks cost one creation point or skill die in games where 
+Special Abilities are common or the number in parentheses in
+games where Special Abilities are uncommon. Enhancements add to the 
+total cost of the Special Ability. Limitations subtract from the total 
+of the base cost of the Special Ability plus the cost of its ranks plus 
+the cost of its Enhancements. The minimum cost for a Special Ability 
+plus Enhancements and Limitations is 1.
+
+
+Using the Creation Points
+-------------------------
+
+You may use creation points that you earn from giving your character
+Disadvantages to buy Advantages (at their rank cost), more skill dice
+(at a rate of one creation point for each skill die), or more attribute dice
+(at a rate of four creation points for each attribute die).
+
+
+Disadvantages
+=============
+
+Many Disadvantages exist as counterparts to the Advantages or
+Special Abilities listed herein. A Skill Bonus Special Ability is the
+positive side of a Hindrance Disadvantage. Some have roleplaying
+effects, while others alter attributes and skills.
+When choosing Disadvantages, keep a few things in mind:
+
+1. You’re going to have to live with the Disadvantage. Take only
+Disadvantages that you don’t expect to ever get rid of — there are rules
+for eliminating Disadvantages, but the gamemaster may allow their
+use only after lots of adventuring.
 
 2. Choose more roleplaying Disadvantages than game mechanic
 ones. Instead of sticking to easy-to-use modiﬁers to skill attempts
-or abilities, select a few Disadvantages that you can roleplay. Disadvantages that can be roleplayed and can work themselves into an
+or abilities, select a few Disadvantages that you can roleplay. 
+Disadvantages that can be roleplayed and can work themselves into an
 adventure story are much more interesting than simple modiﬁers to
 diﬃculty numbers.
+
 3. The Disadvantage has to be a disadvantage. Any Disadvantage
-that can be easily worked around, no matter how potent, or that actually helps the character on a regular basis is not a Disadvantage. For
+that can be easily worked around, no matter how potent, or that actually 
+helps the character on a regular basis is not a Disadvantage. For
 example, if a character has an Advantage Flaw where he can’t use his
 Advantage when the temperature is above 100, and the character is
 always adventuring in places where the temperature is generally lower,
@@ -1691,37 +1848,40 @@ who ﬁgure out the player was purposely trying to break the system
 may take away the Disadvantage and an equal amount of Advantages,
 Special Abilities, and maybe even Character and Fate Points.
 
-17
 
-Chapter 2
+**Achilles’ Heel (R3)**
 
-Achilles’ Heel (R3)
 The character has a particular serious weakness. It is not something
 that most other characters ﬁnd especially dangerous or inconvenient,
 but the character suffers severe modiﬁers to diﬃculties or even damage
 when exposed to it. Some examples include:
-Allergy: A reasonably common things that she cannot always
+
+* Allergy: A reasonably common things that she cannot always
 avoid strongly affects the character. When exposed to the allergen, the
 character must generate a Moderate Strength or stamina total (as an
 action) or she takes 3D in damage. The character can resist the damage
 through applicable defenses, but she has to generate the stamina total
 as an action every round she is exposed to the allergen.
-Cultural Allergy: The same as above, but there is some social situation
+
+* Cultural Allergy: The same as above, but there is some social situation
 that causes the character to freeze (exposure to nudity, the sight of police,
 etc.) and lose all Critical Success rerolls until the condition is gone.
-Environmental Incompatibility: The character is sensitive to
+
+* Environmental Incompatibility: The character is sensitive to
 something in the environment: an extreme of temperature, the chemical
 content of rain water, a component of the atmosphere, or something
 similar. Exposure to this without the proper protection causes the
 character to take a -4 modiﬁer to his damage resistance total or a +1
 modiﬁer to all diﬃculties (which increases by +1 per minute exposed)
 until the character is out of the harmful situation.
-Example: The high quantity of carbon monoxide produced by
+    
+    * Example: The high quantity of carbon monoxide produced by
 some combustion engines may poison a plant creature. When in the
 presence of these engines (for instance, when in a big city where these
 sorts of engines are used), the character must have an air ﬁlter on at
 all times.
-Metabolic Difference: The character needs more life support
+
+* Metabolic Difference: The character needs more life support
 (typically food) than “normal” and begins to take damage after hours
 of malnutrition. For food, the character eats the equivalent of twice as
 many meals per day as the average Human. For instance, the character
@@ -1730,54 +1890,67 @@ the character lose six Body Points or one Wound level, which cannot
 be recovered except by eating. As another example, three times per
 day, a different character may need to eat twice as much as a normal
 Human.
-Nutritional Requirements: The character must ingest an element
+
+* Nutritional Requirements: The character must ingest an element
 not commonly consumed by Humans (blood, dead Human ﬂesh, etc.)
 to survive. Often, the character encounters prejudice because of this,
 and she certainly develops physical problems if she fails to consume
 this substance in a reasonable amount of time.
-Rot: The character’s body is rotting. She periodically loses pieces of
+
+* Rot: The character’s body is rotting. She periodically loses pieces of
 herself (such as ﬁngers and toes) and must pause to fuse them back on
-(this is a simple action but takes a round to perform). The character suffers no damage from this, but it should inconvenience her. For instance,
+(this is a simple action but takes a round to perform). The character 
+suffers no damage from this, but it should inconvenience her. For instance,
 in combat, the character’s ﬁngers might fall off, causing her to drop her
 weapon — this makes an excellent Critical Failure complication.
-Vulnerability: A particular form of attack or interaction affects
+
+* Vulnerability: A particular form of attack or interaction affects
 the character much more severely than other characters. For example,
 a character with a vulnerability to ﬁrearms might “freeze up” when he
-sees another character point a gun at him — making the other character +5 to hit him (most likely during the ﬁrst round of combat only).
+sees another character point a gun at him — making the other character 
++5 to hit him (most likely during the ﬁrst round of combat only).
 Another character might automatically apply +10 to the diﬃculty of
-
-18
-
 any attempts to resist another character’s con attempts. (The less likely
 the situation is to occur, the greater the diﬃculty modiﬁer.)
+
 Restrictions/Notes: The Achilles’ Heel should be very serious, but
-not“instant death” for the character. There should always exist some way
+not "instant death" for the character. There should always exist some way
 to avoid it (not easily), or some chance that the character can counter
 it. The more likely it affects the character, the less it actually should do.
 It’s equally possible that the Achilles’ Heel imposes different modiﬁers
 under different circumstances.
-Example: A character who has allergy to small airborne particles
+
+Example: *A character who has allergy to small airborne particles
 might and suffer +3 to the diﬃculty of all actions when in a dusty room
 or riding in a vehicle on a dirt track but +5 when in a desert. Or, the
-character might suffer 3D in damage every time he’s in a dusty place.
+character might suffer 3D in damage every time he’s in a dusty place.*
 
-Achilles’ Heel (R4)
-The character’s weakness is even more severe than the Rank 3 version of this Disadvantage. Some examples include:
-Allergy: The same rules apply as for Allergy, save that the character
+**Achilles’ Heel (R4)**
+
+The character’s weakness is even more severe than the Rank 3 version of 
+this Disadvantage. Some examples include:
+
+* Allergy: The same rules apply as for Allergy, save that the character
 cannot perform any actions except running away while exposed to
 the allergen.
-Cultural Allergy: The same rules apply as for Cultural Allergy
+
+* Cultural Allergy: The same rules apply as for Cultural Allergy
 (R3), save that not only does the character lose all Critical Success
 rerolls if exposed to the speciﬁed social situations, she also is at +1
 to all diﬃculties.
-Environmental Incompatibility: The modiﬁer to the damage
+
+* Environmental Incompatibility: The modiﬁer to the damage
 resistance total goes up, or the condition is more likely to occur, or the
 modiﬁer increases each round.
-Rot: The character loses major parts of his body periodically due
+
+* Rot: The character loses major parts of his body periodically due
 to rotting (such as limbs) and must pause to replace them. Doing so
-requires no skill total but does take three rounds to perform. The trigger that causes this to take effect should occur no less frequently than
-a Critical Failure during combat and interaction rounds.
-Symbiosis: The character is bound symbiotically to another, drawing strength or energy from her. Symbiosis can be either physical or
+requires no skill total but does take three rounds to perform. The 
+trigger that causes this to take effect should occur no less frequently 
+than a Critical Failure during combat and interaction rounds.
+
+* Symbiosis: The character is bound symbiotically to another, drawing 
+strength or energy from her. Symbiosis can be either physical or
 mental. For every 100 meters by which one character is separated
 from the other, the character loses one pip (cumulative) to either their
 physical attributes (Agility, Mechanical, and Strength) or their mental
@@ -1790,10 +1963,14 @@ happen). For an extra rank in this Disadvantage, the character is bound
 both mentally and physically to another, and loses from both sets of
 attributes if separated. For the separation to equally affect the “host,”
 he must also have this version of the Achilles’ Heel Disadvantage.
-Restrictions/Notes: Additional ranks of the Achilles’ Heel Disadvantage indicate even more deadly situations. See Achilles’ Heel
-(R3) for other notes.
 
-Advantage Flaw (R1)
+Restrictions/Notes: Additional ranks of the Achilles’ Heel Disadvantage 
+indicate even more deadly situations. See Achilles’ Heel (R3) for 
+other notes.
+
+
+**Advantage Flaw (R1)**
+
 This Disadvantage is linked to a particular Advantage or set of
 skills. Whenever the character uses it, there is some a chance for a
 
