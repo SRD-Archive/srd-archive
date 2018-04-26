@@ -23,7 +23,7 @@ What Is a Roleplaying Game?
 ---------------------------
 
 A roleplaying game is very much like improvisational acting or
-interactive storytelling — but with rules. Many video games are like
+interactive storytelling -- but with rules. Many video games are like
 this, and there are plenty of online interactive worlds, so chances are
 good that you know what a roleplaying game is about. This roleplaying
 game, however, doesn’t need any expensive equipment, special software
@@ -198,8 +198,8 @@ Now that you have the basics down, let’s try out a short scenario.
 First, you’ll need a character. On the next page, you’ll ﬁnd a template.
 Most of the game characteristic information is ﬁlled in. The attributes
 and skills are listed in two columns on the left-hand side of the page.
-The attributes names — Agility, Strength, Knowledge, Perception,
-Mechanical, Technical, and Metaphysics — are printed in bold above the
+The attributes names -- Agility, Strength, Knowledge, Perception,
+Mechanical, Technical, and Metaphysics -- are printed in bold above the
 skill names. There are more skills in the game than the ones listed on
 this sheet, but these are the ones commonly associated with the type
 of profession this template is supposed to represent.
@@ -228,9 +228,9 @@ or the Body Points range, so you can ignore them. Instead, you only
 need to use your Body Points number.
 
 > Already Have a Character?  
-> If you already have a D6 System character — from another
+> If you already have a D6 System character -- from another
 > D6 System game or because you created a new one using the
-> rules in this book — you can still play this adventure. Simply
+> rules in this book -- you can still play this adventure. Simply
 > skip to the “Station Visit” section and follow the directions.
 
 Templates
@@ -291,7 +291,7 @@ Templates
     someone to justice, they contact you. The locales vary, and the chase
     excites you. Most people don’t know your identity, but you suppose 
     that one day you might ﬁnd a relative of a criminal that you brought 
-    in — and it might not be pleasant.
+    in -- and it might not be pleasant.
 
     Funds:  3D  
     Credits:  525  
@@ -333,7 +333,7 @@ Station Visit
 
 **1**
 
-After a long voyage you like a little relaxation — like a holo-boxing
+After a long voyage you like a little relaxation -- like a holo-boxing
 session at the station gym... or maybe a long swim, if they have a pool.
 As soon as you get off the ship, you ﬁnd a room on station, change
 into exercise clothes, and head out. As your ship came in at an odd
@@ -847,35 +847,6 @@ chapter for modiﬁers to this roll and how to convert this number to
 cash. The cash equivalent of Funds goes on the Credits line.
 
 
-> **Creating Experienced Characters**
-> 
-> If you are making an experienced character, you’ll need to ﬁgure out 
-> how many more years that character has been around than one starting out.
-> 
-> By Deﬁned Limits    
-> Using the initial novice totals of seven skill dice, ﬁve Character 
-> Points, and one Fate Point, add 15 skill dice, 15 Character Points, 
-> and two Fate Points to the initial totals for each year the character 
-> has been a full-time active adventurer. (For part-timers, halve these 
-> fgures, rounding up.)
-> 
-> By Creation Point Pool    
-> With the initial novice totals of 79 creation points, ﬁve
-> Character Points, and one Fate Point as a starting point,
-> add 15 creation points, 15 Character Points, and two Fate
-> Points for each year the character has been a full-time
-> active adventurer. (For part-timers, halve these ﬁgures,
-> rounding up.) Unless the gamemaster decides otherwise,
-> there are no maximums for skills and Disadvantages.
-
-> Creating Existing Characters    
-> Players basing their characters on existing ﬁctional
-> entities should ignore the skill and Disadvantage limits
-> and, with their gamemaster’s approval, create the character
-> by distributing dice as best reﬂects how the character
-> appears in his, her, or its stories.
-
-
 Attributes
 ----------
 
@@ -913,6 +884,37 @@ When you put dice in an attribute, you can either put whole dice in
 each attribute, or you can give each a mixture of whole dice and pips.
 Each die equals three pips.
 
+- - -
+
+> **Creating Experienced Characters**
+> 
+> If you are making an experienced character, you’ll need to ﬁgure out 
+> how many more years that character has been around than one starting out.
+> 
+> By Deﬁned Limits    
+> Using the initial novice totals of seven skill dice, ﬁve Character 
+> Points, and one Fate Point, add 15 skill dice, 15 Character Points, 
+> and two Fate Points to the initial totals for each year the character 
+> has been a full-time active adventurer. (For part-timers, halve these 
+> fgures, rounding up.)
+> 
+> By Creation Point Pool    
+> With the initial novice totals of 79 creation points, ﬁve
+> Character Points, and one Fate Point as a starting point,
+> add 15 creation points, 15 Character Points, and two Fate
+> Points for each year the character has been a full-time
+> active adventurer. (For part-timers, halve these ﬁgures,
+> rounding up.) Unless the gamemaster decides otherwise,
+> there are no maximums for skills and Disadvantages.
+
+> Creating Existing Characters    
+> Players basing their characters on existing ﬁctional
+> entities should ignore the skill and Disadvantage limits
+> and, with their gamemaster’s approval, create the character
+> by distributing dice as best reﬂects how the character
+> appears in his, her, or its stories.
+
+- - -
 
 Character Basics
 ----------------
@@ -1298,18 +1300,6 @@ having adventures. There is no limit to the number of Character
 or Fate Points your character may have at any time.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Body Points and Wounds
 ----------------------
 
@@ -1540,7 +1530,7 @@ Selecting Character Options
 
 Advantages, Disadvantages, and Special Abilities make the character
 more interesting, more (and less) effective, and more fun to roleplay (if
-you do it right). You know the story of your character — here’s what
+you do it right). You know the story of your character -- here’s what
 that story means.
 
 Advantages are perks that the character has because of her status
@@ -1643,7 +1633,7 @@ Disadvantages is recommended for any genre.
 Advantages, Disadvantages, and Special Abilities List
 -----------------------------------------------------
 
-**Disadvantages**
+### Disadvantages ###
 
 * Achilles’ Heel (R3, R4); examples (R3): Allergy, Cultural
 Allergy, Environmental Incompatibility, Metabolic Difference, 
@@ -1693,7 +1683,8 @@ Paranoid, Phobic, Vengeful
 Note: At character creation, Disadvantages give one creation
 point or one skill die per rank.
 
-**Advantages**
+
+### Advantages ###
 
 * Authority (R1, R2, R3)
 
@@ -1715,83 +1706,153 @@ Note: At character creation, Advantages cost one creation
 point or one skill die per rank.
 
 
-**Special Abilities**
+### Special Abilities ###
 
-Accelerated Healing (3)
-Ambidextrous (2)
-Animal Control (3)
-Armor-Defeating Attack (2)
-Atmospheric Tolerance (2)
-Attack Resistance (2)
-Attribute Scramble (4)
-Blur (3)
-Combat Sense (3)
-Confusion (4)
-Darkness (3)
-Elasticity (1)
-Endurance (1)
-Enhanced Sense (3)
-Environmental Resistance (1)
-Extra Body Part (0)
-Extra Sense (1)
-Fast Reactions (3)
-Fear (2)
-Flight (6)
-Glider Wings (3)
-Hardiness (1)
-Hypermovement (1)
-Immortality (7)
-Immunity (1)
-Increased Attribute (2)
-Infravision/Ultravision (1)
-Intangibility (5)
-Invisibility (3)
-Iron Will (2)
-Life Drain (5)
-Longevity (3)
-Luck, Good (2), Great (3)
-Master of Disguise (3)
-Multiple Abilities (1)
-Natural Armor (3)
-Natural Hand-to-Hand Weapon (2)
-Natural Ranged Weapon (3)
-Omnivorous (2)
-Paralyzing Touch (4)
-Possession, Limited (8), Full (10)
-Quick Study (3)
-Sense of Direction (2)
-Shapeshifting (3)
-Silence (3)
-Skill Bonus (1)
-Skill Minimum (4)
-Teleportation (3)
-Transmutation (5)
-Uncanny Aptitude (3)
-Ventriloquism (3)
-Water Breathing (2)
-Youthful Appearance (1)
+* Accelerated Healing (3)
 
-**Enhancements**
+* Ambidextrous (2)
 
-Additional Effect (1)
-Bestow (varies)
-Extended Range (3)
-Multiple Targets (2)
+* Animal Control (3)
 
-**Limitations**
-Ability Loss (3; 1 per additional rank)
-Allergy (3; 1 per additional rank)
-Burn-out (1)
-Cybernetics (0)
-Debt (3)
-Flaw (1)
-Minor Stigma (3)
-Others Only (2; 1 per additional rank)
-Price (1)
-Restricted (1)
-Side Effect (2)
-Singularity (varies)
-Super-science (2)
+* Armor-Defeating Attack (2)
+
+* Atmospheric Tolerance (2)
+
+* Attack Resistance (2)
+
+* Attribute Scramble (4)
+
+* Blur (3)
+
+* Combat Sense (3)
+
+* Confusion (4)
+
+* Darkness (3)
+
+* Elasticity (1)
+
+* Endurance (1)
+
+* Enhanced Sense (3)
+
+* Environmental Resistance (1)
+
+* Extra Body Part (0)
+
+* Extra Sense (1)
+
+* Fast Reactions (3)
+
+* Fear (2)
+
+* Flight (6)
+
+* Glider Wings (3)
+
+* Hardiness (1)
+
+* Hypermovement (1)
+
+* Immortality (7)
+
+* Immunity (1)
+
+* Increased Attribute (2)
+
+* Infravision/Ultravision (1)
+
+* Intangibility (5)
+
+* Invisibility (3)
+
+* Iron Will (2)
+
+* Life Drain (5)
+
+* Longevity (3)
+
+* Luck, Good (2), Great (3)
+
+* Master of Disguise (3)
+
+* Multiple Abilities (1)
+
+* Natural Armor (3)
+
+* Natural Hand-to-Hand Weapon (2)
+
+* Natural Ranged Weapon (3)
+
+* Omnivorous (2)
+
+* Paralyzing Touch (4)
+
+* Possession, Limited (8), Full (10)
+
+* Quick Study (3)
+
+* Sense of Direction (2)
+
+* Shapeshifting (3)
+
+* Silence (3)
+
+* Skill Bonus (1)
+
+* Skill Minimum (4)
+
+* Teleportation (3)
+
+* Transmutation (5)
+
+* Uncanny Aptitude (3)
+
+* Ventriloquism (3)
+
+* Water Breathing (2)
+
+* Youthful Appearance (1)
+
+
+### Enhancements ###
+
+* Additional Effect (1)
+
+* Bestow (varies)
+
+* Extended Range (3)
+
+* Multiple Targets (2)
+
+
+### Limitations ###
+
+* Ability Loss (3; 1 per additional rank)
+
+* Allergy (3; 1 per additional rank)
+
+* Burn-out (1)
+
+* Cybernetics (0)
+
+* Debt (3)
+
+* Flaw (1)
+
+* Minor Stigma (3)
+
+* Others Only (2; 1 per additional rank)
+
+* Price (1)
+
+* Restricted (1)
+
+* Side Effect (2)
+
+* Singularity (varies)
+
+* Super-science (2)
 
 Note: At character creation, the ﬁrst rank in a Special Ability costs 
 the number in parentheses in creation points or skill dice.
@@ -1823,7 +1884,7 @@ effects, while others alter attributes and skills.
 When choosing Disadvantages, keep a few things in mind:
 
 1. You’re going to have to live with the Disadvantage. Take only
-Disadvantages that you don’t expect to ever get rid of — there are rules
+Disadvantages that you don’t expect to ever get rid of -- there are rules
 for eliminating Disadvantages, but the gamemaster may allow their
 use only after lots of adventuring.
 
@@ -1849,7 +1910,7 @@ may take away the Disadvantage and an equal amount of Advantages,
 Special Abilities, and maybe even Character and Fate Points.
 
 
-**Achilles’ Heel (R3)**
+### Achilles’ Heel (R3) ###
 
 The character has a particular serious weakness. It is not something
 that most other characters ﬁnd especially dangerous or inconvenient,
@@ -1876,10 +1937,10 @@ modiﬁer to all diﬃculties (which increases by +1 per minute exposed)
 until the character is out of the harmful situation.
     
     * Example: The high quantity of carbon monoxide produced by
-some combustion engines may poison a plant creature. When in the
-presence of these engines (for instance, when in a big city where these
-sorts of engines are used), the character must have an air ﬁlter on at
-all times.
+    some combustion engines may poison a plant creature. When in the
+    presence of these engines (for instance, when in a big city where these
+    sorts of engines are used), the character must have an air ﬁlter on at
+    all times.
 
 * Metabolic Difference: The character needs more life support
 (typically food) than “normal” and begins to take damage after hours
@@ -1902,12 +1963,12 @@ herself (such as ﬁngers and toes) and must pause to fuse them back on
 (this is a simple action but takes a round to perform). The character 
 suffers no damage from this, but it should inconvenience her. For instance,
 in combat, the character’s ﬁngers might fall off, causing her to drop her
-weapon — this makes an excellent Critical Failure complication.
+weapon -- this makes an excellent Critical Failure complication.
 
 * Vulnerability: A particular form of attack or interaction affects
 the character much more severely than other characters. For example,
 a character with a vulnerability to ﬁrearms might “freeze up” when he
-sees another character point a gun at him — making the other character 
+sees another character point a gun at him -- making the other character 
 +5 to hit him (most likely during the ﬁrst round of combat only).
 Another character might automatically apply +10 to the diﬃculty of
 any attempts to resist another character’s con attempts. (The less likely
@@ -1924,6 +1985,7 @@ Example: *A character who has allergy to small airborne particles
 might and suffer +3 to the diﬃculty of all actions when in a dusty room
 or riding in a vehicle on a dirt track but +5 when in a desert. Or, the
 character might suffer 3D in damage every time he’s in a dusty place.*
+
 
 **Achilles’ Heel (R4)**
 
@@ -1958,7 +2020,7 @@ attributes (Knowledge, Perception, or Technical). (Remember: three
 pips equal one die.) If the character’s symbiote is killed, the character
 loses 1D from the attributes affected until she can convince another
 character to willingly bond with her (the bonding process should be
-simple — like sharing blood — but willing participants must want it to
+simple -- like sharing blood -- but willing participants must want it to
 happen). For an extra rank in this Disadvantage, the character is bound
 both mentally and physically to another, and loses from both sets of
 attributes if separated. For the separation to equally affect the “host,”
@@ -1973,72 +2035,74 @@ other notes.
 
 This Disadvantage is linked to a particular Advantage or set of
 skills. Whenever the character uses it, there is some a chance for a
-
-Character Options
-
 negative modiﬁer or roleplaying disadvantage. Here are some examples
 for certain Advantages:
-Contacts: The Contact helps the character, but he is either “annoying” about it or a “hard bargainer.” Where a normal Contact would
+
+* Contacts: The Contact helps the character, but he is either “annoying” 
+about it or a “hard bargainer.” Where a normal Contact would
 assist the character for an almost negligible fee, the Flawed Contact
 will haggle and nag until “rewarded.” Some reason should exist why
 the character would want to keep the contact happy.
-Cultures: When the character gets hints or knowledge about a
+
+* Cultures: When the character gets hints or knowledge about a
 culture, he knows everything except some sort of critical piece of
 information. Or, if the character has the “sweeping knowledge” of lots
 of cultures, his interpretations sometimes are almost totally wrong
 (gamemaster option). In order to make this Flaw work, the character
 should not ﬁnd out about the error until it would be “interesting.”
-Equipment: In most cases, some sort of minor mechanical imperfection exists in the equipment that no normal means can ﬁx. For
+
+* Equipment: In most cases, some sort of minor mechanical imperfection 
+exists in the equipment that no normal means can ﬁx. For
 equipment that requires a skill total, gamemasters could either add
 3 to the diﬃculty of all actions using it, or, on a Critical Failure, the
 equipment won’t work or malfunctions. For equipment that wouldn’t
 normally require a skill total, occasional side effects could happen or
 maybe it requires a periodic Moderate skill check of some kind to
 keep operating.
-Skills: If the character fails at the skill check with one of a set of
+
+* Skills: If the character fails at the skill check with one of a set of
 three related skills, she can’t reroll Critical Successes either until the
 end of the scene or until she succeeds at the skill check.
-Wealth or Funds: The character cannot access his wealth easily.
+
+* Wealth or Funds: The character cannot access his wealth easily.
 Either it is tied up in red tape most of the time (especially if the character
 has most of the money invested), or he has to go somewhere to get it
 (such as having a fortune back on a distant planet), or someone else
 (reasonably friendly) has control over it
 and doesn’t always release it easily.
-Restrictions/Notes: In general, at
-Rank 1, a ﬂaw should not debilitate a
-character or take away his Advantage on
-a regular basis — but it should make it
-a little less of a sure thing.
 
-Advantage Flaw (R2)
-This Disadvantage works in exactly
-the same manner as Advantage Flaw
-(R1), above, but with more serious
-results. If the Flaw came into play occasionally (like every time the character
-visited a desert), it now comes into play
-much more frequently (like when he is
-in any dry environment). If the Flaw
-made things a little more diﬃcult, then
-the Flaw makes things a lot more diﬃcult
-(the diﬃculty modiﬁer doubles from the
-Rank 1 version).
+Restrictions/Notes: In general, at Rank 1, a ﬂaw should not debilitate a
+character or take away his Advantage on a regular basis -- but it should 
+make it a little less of a sure thing.
+
+**Advantage Flaw (R2)**
+
+This Disadvantage works in exactly the same manner as Advantage Flaw
+(R1), above, but with more serious results. If the Flaw came into play 
+occasionally (like every time the character visited a desert), it now 
+comes into play much more frequently (like when he is in any dry 
+environment). If the Flaw made things a little more diﬃcult, then
+the Flaw makes things a lot more diﬃcult (the diﬃculty modiﬁer doubles 
+from the Rank 1 version).
+
 Restrictions/Notes: Having circumstances that effectively take away
-the complete beneﬁt of the Advantage
+the complete beneﬁt of the Advantage is certainly within the bounds of 
+Advantage Flaw (R2), and those circumstances can occur reasonably often 
+(no more than during one quarter of a normal adventure, however). They 
+will force the player to roleplay and to think about ways to get around 
+the Flaw or to try other options, rather than just relying on a 
+particular Advantage, Special Ability, or skill set.
 
-is certainly within the bounds of Advantage Flaw (R2), and those
-circumstances can occur reasonably often (no more than during one
-quarter of a normal adventure, however). They will force the player
-to roleplay and to think about ways to get around the Flaw or to try
-other options, rather than just relying on a particular Advantage,
-Special Ability, or skill set.
-Example: If a character has a set of skills with the Flaw that they only
-work at night — a Rank 2 Flaw if only about a quarter of the character’s
-normal adventuring occurs during the daytime — that would force the
+Example: *If a character has a set of skills with the Flaw that they only
+work at night -- a Rank 2 Flaw if only about a quarter of the character’s
+normal adventuring occurs during the daytime -- that would force the
 character to rely on other abilities and his wits during the daytime.
 The rules for Advantage Flaw (R2) are otherwise the same as
-Rank 1.
+Rank 1.*
 
-Advantage Flaw (R3)
+
+**Advantage Flaw (R3)**
+
 This rank takes on some of the characteristics of an Achilles’ Heel
 (R3), but more in direct relationship to an Advantage, an attribute,
 or a large set of skills. The rules for the ﬂaw are the same as for
@@ -2046,41 +2110,29 @@ Advantage Flaw (R2), but the effects are even more severe. Not only
 does the character lose the beneﬁts of the Advantage or attribute (or
 undergoes a condition that essentially negates it), but he also suffers
 an additional Disadvantage.
-Example: Your character has this Disadvantage attached to her
+
+Example: *Your character has this Disadvantage attached to her
 Metaphysics attribute. Every time she uses her special mental abilities,
 she taps into the general mood of the people around her. If the people
 near the metaphysicist experience strong or negative emotions, the
 character gets a nasty headache, causing her to immediately lose the
 ability to use her mental powers and her player to be unable to reroll
 any Critical Successes until the end of the scene.
-Example: A character has
-Equipment (R3) — a really
-powerful weapon. But, whenever
-the character suffers a Critical
-Failure using the weapon, it not
-only runs out of ammo, but the
-character experiences some sort
-of feedback at a moderate damage
-total (maybe the weapon’s normal
-damage minus a speciﬁc amount).
-The character then has to recharge
-the weapon (either through the
-use of a Price Disadvantage or by
-waiting until a major break in the
-adventure’s action, most likely).
+Example: A character has Equipment (R3) -- a really powerful weapon. 
+But, whenever the character suffers a Critical Failure using the weapon, 
+it not only runs out of ammo, but the character experiences some sort
+of feedback at a moderate damage total (maybe the weapon’s normal
+damage minus a speciﬁc amount). The character then has to recharge
+the weapon (either through the use of a Price Disadvantage or by
+waiting until a major break in the adventure’s action, most likely).*
+
 Some other examples:
-Infection: Under certain circumstances, the character passes
+
+* Infection: Under certain circumstances, the character passes
 along select abilities and characteristics to another character. The
-character has an infection score of
-Strength +2D. (This is not a skill
-and players may not raise it except
-by taking additional ranks in this
-version of the Disadvantage.)
-
-19
-
-Chapter 2
-
+character has an infection score of Strength +2D. (This is not a skill
+and players may not raise it except by taking additional ranks in this
+version of the Disadvantage.)    
 The gamemaster and the player should determine how the character
 spreads the infection. It could happen as the side effect of an attack,
 through physical contact, or through some other means. When the
@@ -2088,33 +2140,37 @@ character performs the requisite action, he generates an infection total
 (which does not count as a separate action). The target generates a
 Strength or stamina total as well (which does not count as an action). If
 the character’s infection total exceeds (not equal to) the target’s Strength
-or stamina total, the target is infected.
+or stamina total, the target is infected.    
 An infection passes certain Special Abilities and Disadvantages to the
 target (speciﬁed by the player and the gamemaster when the player gives
 the character this Disadvantage). It is possible for the infection to pass
 more ranks in Disadvantages on than Special Abilities, but is not possible
 for it to pass more ranks in Special Abilities than Disadvantages.
-Keep in mind that the infected character may well hate the character responsible for his new state, so the infecting character may
+Keep in mind that the infected character may well hate the character 
+responsible for his new state, so the infecting character may
 have gained an Enemy. In fact, there should exist some overwhelming
-reasons why this is actually bad for the infecting character — it is a
-Disadvantage, after all.
+reasons why this is actually bad for the infecting character -- it is a
+Disadvantage, after all.    
 Gamemasters who do not feel that the Enemy Disadvantage is
 enough of a negative could also work in other sorts of Advantage Flaws
 as side effects of spreading the infection.
 For an extra rank in the Advantage Flaw: Infection Disadvantage,
 the infection die code increases to Strength+4D. Also, the penalties
-for infecting another characters should be more severe — maybe the
+for infecting another characters should be more severe -- maybe the
 character infected then knows things about the infecting character that
 will give him an advantage over his enemy, or perhaps the infecting
 character temporarily loses abilities or attribute pips.
-Minor Stigma: There is something that the character cannot do
+
+* Minor Stigma: There is something that the character cannot do
 without performing the “proper rituals” before or after (a ﬁghter whose
 cult must “purify” him after killing someone; a mentalist who cannot
 use Metaphysics without special equipment).
-Stench: The character smells terrible due to one of his Advantages
+
+* Stench: The character smells terrible due to one of his Advantages
 or just because he exists. Add 6 to the diﬃculty of all sneak attempts, as
 everyone can smell him coming. This also affects interaction attempts,
 giving them at least a +1 to the diﬃculty.
+
 Restrictions/Notes: Advantage Flaw (R3) takes a powerful
 Advantage and turns it into a worse-than-useless Disadvantage for a
 comparatively brief period of time. A single Advantage can have more
@@ -2122,20 +2178,20 @@ than one Advantage Flaw, and, if the character wants, several Flaws of
 various ranks can link to one Advantage. See other ranks of Advantage
 Flaw for more information and examples.
 
-Age (R1)
+
+**Age (R1)**
+
 The character is a teenager or just past middle age. And, since this
 is a roleplaying game and not real life, he’ll stay that way. In general,
 characters who are “too young” often have to roleplay through episodes
 where they are not taken seriously, where they are ignored, and where
 they have less rights and control than older characters. Those who
-are “too old” get treated in much the same way — characters in their
+are “too old” get treated in much the same way -- characters in their
 prime often defer to the character, but they also treat the character as
 if he were inﬁrm or possibly senile.
+
 Restrictions/Notes: In general, the gamemaster should try to treat
 the character as if he were “too old” or “too young” and have fun with
-
-20
-
 it. Game mechanics are seldom required, as good roleplaying can make
 things work here, but if they become necessary, add 3 to the diﬃculty of
 intimidation and persuasion actions performed by the character that his
@@ -2143,27 +2199,33 @@ age would bother (a young character trying to lead a group of experienced
 characters, or an older character trying to convince younger characters
 that he is “with it”). A character may only have one version of Age.
 
-Age (R2)
+
+**Age (R2)**
+
 The Disadvantage is the same, only more so. Instead of being a
 teenager, the character is a preteen child. Instead of being just past
 middle age, the character is old. The roleplaying situations are basically
 the same, but the effects are more dramatic.
+
 Restrictions/Notes: An old character receives +1 to the diﬃculty of
-physical actions — those that rely on Agility, Mechanical, and Strength
-— that require unusual exertion (running, jumping, ﬁghting, etc.). A
-young character adds 1 to the diﬃculty of all mental actions — those
-that use Knowledge, Perception, or Technical — when attempting to
+physical actions -- those that rely on Agility, Mechanical, and Strength
+-- that require unusual exertion (running, jumping, ﬁghting, etc.). A
+young character adds 1 to the diﬃculty of all mental actions -- those
+that use Knowledge, Perception, or Technical -- when attempting to
 solve “adult” problems or interact with adults. Players should roleplay
 both versions true to type. Two Disadvantages suitable for association
 with this one include Reduced Attribute (especially for Age: Old) and
 Hindrance.
+
 Characters may be “young” or “old” and not take this Disadvantage.
 Older characters in good shape have no problems jogging, lifting, ﬁghting,
 or whatever, and young, intelligent people can often interact and think
-just as well — if not better — than adults. This Disadvantage addresses
+just as well -- if not better -- than adults. This Disadvantage addresses
 those characters, young and old, who can’t keep up as easily.
 
-Bad Luck (R2)
+
+**Bad Luck (R2)**
+
 The character is exceptionally unlucky. This Disadvantage is under
 the gamemaster’s control most of the time. The easiest way to handle
 it is, whenever the player rolls a Critical Failure but something bad
@@ -2172,44 +2234,39 @@ gamemaster can choose from not allowing the player to reroll Critical
 Successes until the end of the scene, the character losing an action
 during the next round, or invoking some sort of strange but not too
 terrible “bad luck effect.”
-Example: A character with Bad Luck is running from a group of
+
+Example: *A character with Bad Luck is running from a group of
 mercenaries that he’s been ﬁghting for some time. He tries to jump across
 a reactor shaft when the player rolls a Critical Failure on the dice. Well,
 the character probably failed in the climb/jump attempt (so he falls), but,
 instead of being able to grab for a cable or a lower ledge, the character’s
 belt gets caught on a hook. Now, the character has to free himself before
-the mercs come around the corner and blow him away.
+the mercs come around the corner and blow him away.*
+
 Restrictions/Notes: A character may take Bad Luck (R2) if he
 already has the Good Luck or Great Luck Special Ability. The character
 might even, on occasion, use the beneﬁts of the Good Luck or Great
 Luck Special Ability to get out of trouble or partially negate the effects of
-Bad Luck (R2) — that’s the way it works. Also, the gamemaster should
-remember that the character has Bad Luck (R2) — not the player. If
+Bad Luck (R2) -- that’s the way it works. Also, the gamemaster should
+remember that the character has Bad Luck (R2) -- not the player. If
 the player gets into a consistent “streak” of rolling Critical Failures on
 the dice, then the gamemaster should start “skipping” the invocation
-of Bad Luck (R2) occasionally — more than three or four occurrences
+of Bad Luck (R2) occasionally -- more than three or four occurrences
 of Bad Luck (R2) during an adventure is a little much.
 
-Character Options
 
-Bad Luck (R3)
-The rules for this Disadvantage are the same as for Bad
-Luck (R2). However, a Critical
-Failure or a total equal to one
-more than the die code of the
-skill or attribute causes Bad
-Luck (R2) to activate. (For
-example, if the character has
-5D in a skill and rolls a total of
-6 on the dice — which is one
-more than the die code in the
-skill — the Disadvantage comes
-into play.) The effects are exactly
-the same, only the gamemaster
-might make the setbacks more
-uncomfortable.
-Restrictions/Notes: See
-Bad Luck (R2).
+### Bad Luck (R3)
+
+The rules for this Disadvantage are the same as for Bad 
+Luck (R2). However, a Critical Failure or a total equal to one
+more than the die code of the skill or attribute causes Bad
+Luck (R2) to activate. (For example, if the character has
+5D in a skill and rolls a total of 6 on the dice -- which is one
+more than the die code in the skill -- the Disadvantage comes
+into play.) The effects are exactly the same, only the gamemaster
+might make the setbacks more uncomfortable.
+
+Restrictions/Notes: See Bad Luck (R2).
 
 Bad Luck (R4)
 The same as Bad Luck (R2)
@@ -2225,23 +2282,23 @@ Bad Luck (R4) can have such devastating effects, the gamemaster might
 want to overrule occurrences of it. For example, if, during a standard
 scene of an adventure, a character is trying to persuade a shopkeeper
 to sell him an item at a better price, he might roll a low total on the
-dice. The gamemaster could have something disastrous happen — the
+dice. The gamemaster could have something disastrous happen -- the
 shopkeeper keels over with a heart attack just as the chief of police
-walks in and the character is suddenly suspected of murder — but does
+walks in and the character is suddenly suspected of murder -- but does
 it serve any purpose in the adventure? Possibly, but if it doesn’t, save it
 until later. Then, when the character is at the climax of the adventure
-and he doesn’t roll a disastrously low total — but the gamemaster feels
-a “dose of bad luck” would improve the story — he can use that as an
+and he doesn’t roll a disastrously low total -- but the gamemaster feels
+a “dose of bad luck” would improve the story -- he can use that as an
 excuse. Players should understand that Bad Luck is arbitrary and will
 often occur at the worst possible moment.
 
 Burn-out (R1 or more)
 Under a certain set of proscribed circumstances, the Advantage
-goes away — permanently. The player and the gamemaster should
+goes away -- permanently. The player and the gamemaster should
 work out the circumstances, with the following criteria:
 1. The Burn-out should have a chance of occurring about once or
 twice an adventure.
-2. The Burn-out should be something the character can avoid — but
+2. The Burn-out should be something the character can avoid -- but
 she might not want to avoid it.
 3. A logical reason for the Burn-out to occur should exist.
 
@@ -2322,13 +2379,13 @@ Restrictions/Notes: Players should take this Disadvantage if they
 intend for their characters to live up to it. The character should have a
 reason he doesn’t want to default on the debt, which the player works
 out beforehand. Also, Debt (any rank) with Enemy (any rank) can be
-an interesting combination — maybe the character is in deep to a loan
+an interesting combination -- maybe the character is in deep to a loan
 shark or a manipulative and unscrupulous lender.
 A character may have this Disadvantage with the Advantage Wealth
 (any rank), as long as there is some reason it can’t be just paid off. A
 character with Wealth (R3) (phenomenal resources) might be stuck
 in a contract where he has to turn over the proﬁts of any adventure to
-someone, for example — he still has his wealth, but he has to cough up
+someone, for example -- he still has his wealth, but he has to cough up
 all the little neat things and rewards he gets at the end of the adventure
 (or the character has to persuade the lender/contract holder to let
 him keep them).
@@ -2345,7 +2402,7 @@ Restrictions/Notes: The rules are the same as for Debt (R1).
 Debt (R3)
 The character owes almost everything to someone or something. In
 the case of worldly goods, the character must turn over nearly everything
-to the “lender” at the end of an adventure — the character must “borrow” these things back at the beginning of the next adventure. And it
+to the “lender” at the end of an adventure -- the character must “borrow” these things back at the beginning of the next adventure. And it
 is up to the gamemaster what the “lender” gives back.
 In most cases, this means the character is either Employed or under
 some similar sort of restriction.
@@ -2355,7 +2412,7 @@ religion. She has to tithe all worldly goods (or, at least, a large portion
 22
 
 of worldly goods) to the cult after every adventure. If she does not, she
-would be cast out — a fate she would not enjoy — or even hunted and
+would be cast out -- a fate she would not enjoy -- or even hunted and
 killed. At the beginning of each adventure, the character must beg and
 persuade whoever is in charge to let her have any goods she needs.
 Restrictions/Notes: Debt (R3) is so wide-sweeping that players may
@@ -2410,7 +2467,7 @@ occasion. Also, since the character is an employee, if he is on a mission,
 Character Options
 
 he usually has to turn over his share of
-the loot for corporate disposal — he’ll
+the loot for corporate disposal -- he’ll
 get something out of it, certainly, but
 not a full share.
 
@@ -2428,7 +2485,7 @@ the same as for Employed (R1). Just
 make sure that“the job” is fairly inconvenient for the character, but there are
 reasons he doesn’t quit. Maybe he has
 the Wealth Advantage only so long as
-he has the Employed (R2) Disadvantage — that would be a good way of
+he has the Employed (R2) Disadvantage -- that would be a good way of
 tying in the Disadvantage.
 
 Enemy (R2)
@@ -2440,7 +2497,7 @@ or more a part of the character’s life.
 Employed (R3)
 The character is, essentially, a slave.
 This does not mean the character
-is poor or without means — just
+is poor or without means -- just
 without free choice. The character
 does virtually everything because he
 must. For example, a character might
@@ -2458,13 +2515,13 @@ An individual or group has it in for the character. An Enemy who
 is a single person of power and inﬂuence no greater than the character
 might actually want the character dead. An Enemy (R1) of power and
 inﬂuence greater than the character simply wants to hassle the character for some reason. Maybe in the town the character operates, the
-law enforcement authorities have his name and picture on ﬁle — and
+law enforcement authorities have his name and picture on ﬁle -- and
 they’ll use any excuse to run him in or hassle him because they think
 of him as a troublemaker. Or, perhaps, the character’s landlord throws
 everything out on the street if he’s one minute late with the rent, or the
 character’s boss always assigns him the most boring or most dangerous
 missions. The Enemy does not have to have a position in the character’s
-life — he can just be someone who, for some reason known to the
+life -- he can just be someone who, for some reason known to the
 gamemaster (and probably the player, but not always the character),
 has a grudge against the character.
 Restrictions/Notes: There is no reason a player can’t use this Disadvantage similarly to an Advantage Flaw or as a complement to other
@@ -2478,7 +2535,7 @@ character better) and sometimes makes it hard for the contact to help.
 Restrictions/Notes: It should
 be mentioned that killing the Enemy
 or running away should not get rid
-of the Disadvantage — at least not
+of the Disadvantage -- at least not
 easily. At the very least, the character should have to go though a few
 adventures to “remove” the Enemy
 from his life. Usually, the character
@@ -2494,11 +2551,11 @@ game setting. They often hurt people she knows and do vile deeds just
 because the character won’t like them. The Enemy (R3) should get
 involved in, directly or indirectly, most adventures the character goes on.
 Just about everything bad that happens to the character would please
-the Enemy — and he is probably responsible for a lot of them.
+the Enemy -- and he is probably responsible for a lot of them.
 Restrictions/Notes: Enemy (R3) is a very powerful, and very
 important, Disadvantage. Many beginning gamemasters might not want
 to go to the trouble of creating and constantly maintaining a villain or
-group of villains relating to the character — but others will enjoy it.
+group of villains relating to the character -- but others will enjoy it.
 Talk to your gamemaster about this option before you select it.
 
 Hindrance (R1 or more)
@@ -2534,7 +2591,7 @@ limited in the kind of jumping he could perform.
 Players who wish to reduce their characters’ damage resistance total
 (to represent delicate physical natures) may take a -1 modiﬁer to that
 total for each rank in this Disadvantage.
-Restrictions/Notes: Players may use specializations — with gamemaster approval. Three specializations that the gamemaster thinks the
+Restrictions/Notes: Players may use specializations -- with gamemaster approval. Three specializations that the gamemaster thinks the
 player might have to use reasonably often (like investigation: ﬁnd clues
 or ﬁrearms: energy weapons) could
 substitute for one general skill. Hindrance (R1) can be selected several
@@ -2557,7 +2614,7 @@ known as a character with Fame
 The odds of being recognized are
 the same as for Fame (R1), but the
 reaction is quite different. The character experiences hostility, prejudice,
-and intentional slights — in game
+and intentional slights -- in game
 mechanic terms, the character should have the diﬃculty of all interactions increased by at least +3.
 Restrictions/Notes: There is a reason for this negative attention.
 Either the character did something, is accused of having done something,
@@ -2566,18 +2623,18 @@ or is suspected of having done something not particularly pleasant, or
 24
 
 the character has, through other strange circumstances, earned a “bad
-rep.” Sometimes, this Infamy will help the character — but it shouldn’t
+rep.” Sometimes, this Infamy will help the character -- but it shouldn’t
 help too much. If the character has a combination of Fame and Infamy
 (by selecting both options), then maybe he’s earned a reputation like
-Wyatt Earp or Jesse James in the Old Terran Old West — certain people
+Wyatt Earp or Jesse James in the Old Terran Old West -- certain people
 would look up to him or respect him, and there would be deﬁnite fear
 there most of the time, but there would also be a lot of people who
 would enjoy seeing the person leave or die. Of course, Infamy (R1)
-should be something minor — maybe the character is a former criminal,
+should be something minor -- maybe the character is a former criminal,
 or he did something questionable in the past and was cleared. People
 are not overtly hostile, but they are unfriendly when they recognize
 him. Several ranks of Infamy can only be selected if the character is
-infamous for multiple reasons — but the effects should be cumulative,
+infamous for multiple reasons -- but the effects should be cumulative,
 and this can only be done if the gamemaster thinks it is appropriate. A
 character with Infamy (R3) would hardly have to worry about Infamy
 (R1) in most cases, so it would not be a proper combination.
@@ -2599,7 +2656,7 @@ everyone) to be“scum” and someone who
 “deserves no better than he gets.” When
 combined with an equal or higher rank
 of Fame, there is often that “fear and
-respect” option — many characters will
+respect” option -- many characters will
 still try to betray or hurt the character
 in some way, but most won’t be that
 open about it.
@@ -2642,7 +2699,7 @@ with this one. Roleplaying
 prejudice is not often something players want to get into.
 When used in a setting where
 there are many different sapient species, however, it can be
-quite interesting — especially
+quite interesting -- especially
 if there are several characters
 in the group who are prejudiced against.
 
@@ -2683,8 +2740,8 @@ Restrictions/Notes: As an excellent combination, this Disadvantage could be sele
 realistic. Poverty can only be selected once.
 
 Prejudice (R1)
-The character is of a minority group — or maybe it is just the
-character himself — that is subject to prejudice and discrimination.
+The character is of a minority group -- or maybe it is just the
+character himself -- that is subject to prejudice and discrimination.
 The character receives modiﬁers (from +2 to +4) to diﬃculties during
 normal interaction with characters not of the minority group, and is
 generally treated unfairly by society. The group the character belongs
@@ -2709,7 +2766,7 @@ there being something wrong with the character’s Advantage or a set
 of three related skills, there is a “price tag” attached. Every time the
 character wants to use the ability, he has to pay a Price at least a few
 times during the adventure to continue using the ability.
-The Price might be an actual fee — and a signiﬁcant one at that. If
+The Price might be an actual fee -- and a signiﬁcant one at that. If
 the fee isn’t paid, the Advantage goes away until the price can be paid.
 But this won’t work for many Advantages (at least not in an interesting
 manner), so there are other ways to do it.
@@ -2734,10 +2791,10 @@ should take some work. At this rank, it should be something that the
 character can roleplay along with an adventure or resolve between short
 adventures or parts of longer adventures (like paying off the recipient
 of the Price). However, if the character does not pay the Price, the
-Advantage does go away — and, if (in the gamemaster’s opinion) the
+Advantage does go away -- and, if (in the gamemaster’s opinion) the
 character does this too often, both the Advantage and the Price should
 go away permanently. Price can be taken often at various ranks, and
-the same Price can be linked to more than one Advantage — though,
+the same Price can be linked to more than one Advantage -- though,
 unless the Price is actually double (the character has to pay the same
 price twice as often), it only counts as one Disadvantage.
 
@@ -2745,7 +2802,7 @@ Price (R2)
 The Price for using a particular Advantage, or group of Advantages
 or set of three related skills, is much higher than mentioned in Rank 1,
 but the rules are the same. Contacts will be extremely hard to pay off
-or do favors for — maybe an entire short adventure has to be devoted
+or do favors for -- maybe an entire short adventure has to be devoted
 to paying back a contact who helped out.
 Optionally, paying two Fate Points or six Character Points at the
 end of an adventure where the Advantage was used is a quick way of
@@ -2783,7 +2840,7 @@ time getting his ideas across to the other players. This lasts until the
 player rolls a Critical Success.
 Restrictions/Notes: Good roleplayers will have fun with these,
 and other, Quirks that they come up with. Indeed, this Disadvantage is
-often more fun to play than many Advantages — but the gamemaster
+often more fun to play than many Advantages -- but the gamemaster
 should make certain it is being roleplayed. Whenever the gamemaster
 thinks it appropriate, he should make the player generate a willpower
 or Knowledge total against a base Moderate diﬃculty to “indulge” in
@@ -2803,9 +2860,9 @@ roleplay Quirks they already have or might like to play. Sometimes this
 works; sometimes it doesn’t. It can be hysterical to have a player “steal”
 dice out from under another player’s nose (symbolizing the fact that
 the character is taking necessary items away from the other player’s
-character) as long as things don’t go too far — that is, when people
+character) as long as things don’t go too far -- that is, when people
 start getting upset. However, players who are “indecisive” should not
-play characters who are indecisive — since they would be anyway. This
+play characters who are indecisive -- since they would be anyway. This
 is too much like getting a Disadvantage for nothing.
 
 Quirk (R2)
@@ -2836,7 +2893,7 @@ Character Options
 
 Paranoid: The character trusts no one. He receives a +6 to the
 bonus number when trying to resist con attempts, but he also receives
-this “bonus” when trying to be persuaded — and he must be persuaded
+this “bonus” when trying to be persuaded -- and he must be persuaded
 before he’ll help even his closest friends. “Everyone is out to get him.”
 
 may have different variations on this Disadvantage for each attribute,
@@ -2856,7 +2913,7 @@ the character perceives herself as looking foolish (or whatever), she
 will go to great lengths to get even (in reality, the character probably
 takes it too far).
 Restrictions/Notes: The character has to make a Very Diﬃcult
-Knowledge or willpower roll to overcome the Quirk — at the least. If,
+Knowledge or willpower roll to overcome the Quirk -- at the least. If,
 in the gamemaster’s judgment, there is a reason the character should
 have modiﬁers to the diﬃculty, then he will. Players who don’t want
 to play a character that can frequently lose control should avoid this
@@ -2952,8 +3009,8 @@ The character might know a “group” with a wider range of inﬂuence
 (but less power) that will help out, again, for a modest fee or under
 the right circumstances. The inﬂuence might not be as direct, but it is
 easier to come by. For example, there might be clubs or organizations
-that provide certain services for travelers — navigation coordinates to
-common systems, accommodation reservations, emergency transportation, and so on — for a small membership fee. You have to call them
+that provide certain services for travelers -- navigation coordinates to
+common systems, accommodation reservations, emergency transportation, and so on -- for a small membership fee. You have to call them
 or go to their oﬃces, and they won’t do much about that maniac with
 the blaster who is chasing you, but they can be of immense help under
 the right circumstances.
@@ -2961,7 +3018,7 @@ Restrictions/Notes: Contacts should not automatically help the
 character, but they should be reasonable in their negotiations. Multiple
 contacts of various ranks may be selected and they may be stacked. For
 example, a certain person might be a Contact (R1) in most circumstances, but he could be a Contact (R2) or even a Contact (R3) in the
-right place — for example, a mercenary might help out for a fee versus
+right place -- for example, a mercenary might help out for a fee versus
 normal foes, but when ﬁghting his “hereditary enemies,” he might be
 almost invincible and eager to help.
 Remember that contacts are gamemaster characters. They should
@@ -2990,12 +3047,12 @@ example, a character’s Contact (R3) might be an “spacefarer’s guild”
 with multi-system branch oﬃces and an impressive ability to get its
 members the oddest things.
 Work with the gamemaster to come up with some interesting contacts. It might be a group of psionic monks who can be called upon for
-“mental aid” — or maybe a really complete technical library.
+“mental aid” -- or maybe a really complete technical library.
 
 28
 
 Restrictions/Notes: Again, as with Contacts (R1) and (R2), don’t
-let the contacts take over the game — and don’t let the player’s character
+let the contacts take over the game -- and don’t let the player’s character
 abuse them. Contacts are gamemaster controlled, but they will usually
 only be brought into play at the character’s request.
 
@@ -3007,13 +3064,13 @@ Some examples of this include a particularly powerful gamemaster
 character who steps in occasionally to help the character when he’s in
 trouble. Or, a large governmental agency might, for some reason, want
 to step in and aid the character at times.
-Generally, the character can get minor assistance — as could be
-gotten from Contacts (R1) or Contacts (R2) — on a fairly regular basis
-— and under the same sort of circumstances as having lower versions
-of Contacts — but “the big stuff ” only happens when the gamemaster
+Generally, the character can get minor assistance -- as could be
+gotten from Contacts (R1) or Contacts (R2) -- on a fairly regular basis
+-- and under the same sort of circumstances as having lower versions
+of Contacts -- but “the big stuff ” only happens when the gamemaster
 thinks it appropriate. The character might get killed before the Contacts
-(R4) intervenes — maybe the character just wasn’t doing something
-the Contact felt was important to it — but, most likely, assistance
+(R4) intervenes -- maybe the character just wasn’t doing something
+the Contact felt was important to it -- but, most likely, assistance
 come, though perhaps at the last minute.
 Restrictions/Notes: Players’ characters should take this option
 only if they want to take Disadvantages relating to it. For example, if
@@ -3070,11 +3127,11 @@ under this category.
 Restrictions/Notes: The gamemaster
 should watch this Advantage carefully. It can
 only be selected once at character creation
-— though the Rank 1 and Rank 2 versions
-can also be selected — but it can still unbalance
+-- though the Rank 1 and Rank 2 versions
+can also be selected -- but it can still unbalance
 a beginning character. Generally, things that
-can be taken away fairly easily — like energy
-swords, military hardware, super-science gadgets, and other related equipment — would
+can be taken away fairly easily -- like energy
+swords, military hardware, super-science gadgets, and other related equipment -- would
 be suitably appropriate for characters with
 minimal experience.
 
@@ -3088,7 +3145,7 @@ under the game setting. For
 instance, a character could
 start the game with a small
 laser pistol, but not a mini
-rocket launcher — unless the
+rocket launcher -- unless the
 gamemaster runs a lawless
 setting, as the latter is quite
 powerful, it should be generally unavailable for civilian
@@ -3096,7 +3153,7 @@ use and even characters with
 military backgrounds should
 have to take the Equipment
 (R2) Advantage to get it.
-Alternatively, the character could take lots of little pieces of equipment instead — more than what the gamemaster would normally allow.
+Alternatively, the character could take lots of little pieces of equipment instead -- more than what the gamemaster would normally allow.
 Basically, equipment totaling in cost not more than about 1,000 credits
 (or a price diﬃculty of Moderate) would ﬁt in this category.
 Restrictions/Notes: Typically, as long as the character is not careless
@@ -3119,7 +3176,7 @@ higher ranks of the Equipment Advantage with gamemaster approval.
 
 Equipment (R4)
 Really bizarre and, most likely, powerful
-equipment is open to the character — but only
+equipment is open to the character -- but only
 one such piece or a collection of small, related
 pieces. For very powerful items, no one else can
 use the equipment without making some sort
@@ -3131,10 +3188,10 @@ powerful than most personal weapons in the game setting. Or it could
 be a Metaphysics manipulation that could not normally be used by the
 character or anyone else in the world at its relatively low diﬃculty. Or
 it could be a collection of gadgets and gizmos that can perform many
-different mundane tasks — but how, nobody knows.
+different mundane tasks -- but how, nobody knows.
 Restrictions/Notes: The character should have Disadvantages
 related to the equipment. Maybe Enemies want to steal it, or it has
-an Advantage Flaw so it doesn’t work all the time — or the same way
+an Advantage Flaw so it doesn’t work all the time -- or the same way
 every time. In addition, the equipment should not make the character
 so powerful that opponents fall before him. In game mechanic terms,
 the equipment should be a just slightly more powerful or more useful
@@ -3231,10 +3288,10 @@ it is a multi-world setting) will recognize the character (or what the
 character is) fairly easily. The base die total needed is 8, and it can be
 modiﬁed by circumstance. The character has the status of a holo-vid
 star, a famous politician, or a top-ranked sports hero.
-Restrictions/Notes: As with Fame (R1) and Fame (R2) — certain
+Restrictions/Notes: As with Fame (R1) and Fame (R2) -- certain
 people just won’t be impressed. In addition, characters with Fame (R3)
 should almost always have to take the Disadvantage Infamy at least
-Rank 1 — no matter how nice, talented, or generally well-liked a person
+Rank 1 -- no matter how nice, talented, or generally well-liked a person
 is, there’s always somebody out there who wishes them harm.
 
 Patron (R1)
@@ -3266,7 +3323,7 @@ time. Alternatively, the character could be minor nobility, have a large
 Character Options
 
 trust fund, or be married to the owner of a large corporation. This
-doesn’t mean the character can buy everything — he is still subject to
+doesn’t mean the character can buy everything -- he is still subject to
 the availability of items.
 For each rank in this Advantage, the characters has 5,000 credits in
 readily available cash once per month. The accounts never have more
@@ -3282,12 +3339,12 @@ another rank of Wealth in other circumstances. Also, this wealth does
 not always help and disappears if misused (and it should be a major
 concern to the character at times), but it should be there most of the
 time. Gamemasters will probably think of ways to work around wealth
-and players should play along — if you can throw money at every
+and players should play along -- if you can throw money at every
 problem, then they aren’t that much fun to try to solve, are they?
 The most likely Disadvantage a character with Wealth would have
 is Devotion, such as “helping all those in need” or “righting all wrong
 doing.” Otherwise, there should be fairly extensive reasons why the
-character can’t use his wealth to resolve every situation — or hire
+character can’t use his wealth to resolve every situation -- or hire
 somebody to do it for him (which is really the same thing).
 
 Special Abilities
@@ -3410,7 +3467,7 @@ If the scrambler’s total is higher (not equal to), she may shift her
 target’s attribute points around, within certain limits. The close combat
 attack does no damage.
 She may increase one or more related attributes by a number equal to
-the amount she takes away from other related attributes — but she may
+the amount she takes away from other related attributes -- but she may
 not decrease or increase any one attribute by more than 2D (6 pips).
 The change lasts for a number of rounds equal to the difference
 between the scramble attack and the target’s willpower or Knowledge.
@@ -3568,12 +3625,12 @@ she is reduced to zero Body Points, she
 doesn’t die. She will not go unconscious
 or bleed to death (as mortally wounded characters do), but she will not
 heal without psionic or similar special aid or the Accelerated Healing
-Special Ability — her arms could be blown off, her abdomen eviscerated, or whatever. She may perform only the most minimal of physical
+Special Ability -- her arms could be blown off, her abdomen eviscerated, or whatever. She may perform only the most minimal of physical
 actions, such as squirming, and some actions may be impossible. She
 may rely on her Agility for initiative purposes only.
 There should be one particular set of circumstances whereby the
 character will die forever. These sets of circumstances should not
-be too unusual — killed directly by an Extranormal blast, drowning
+be too unusual -- killed directly by an Extranormal blast, drowning
 decapitation, and so on are all good examples.
 A character may not have this ability more than once.
 
@@ -3634,9 +3691,9 @@ default search, investigation, and attack diﬃculties against the character
 that the invisible character is not actively trying to defeat. Additionally,
 no character may take an action to“spot” the character unless the gamemaster feels there is suﬃcient provocation, such as brushing against
 others or removing something in a crowded area.
-The invisibility covers the character’s basic clothes only — not
+The invisibility covers the character’s basic clothes only -- not
 any gear she’s carrying, or anything she picks up. Also, remember that
-the character is transparent when invisible — she can’t hide things
+the character is transparent when invisible -- she can’t hide things
 behind her back.
 
 34
@@ -3693,15 +3750,15 @@ must do to maintain his life. The character should gain peripheral
 bonuses during game play because of his “longer outlook.” A character
 may not have this ability more than once.
 
-Character Options
-
 Luck, Good (2)
-The character is blessed with unusually good luck. Once per adventure, a character with Good Luck can receive one of the following beneﬁts
+The character is blessed with unusually good luck. Once per adventure, 
+a character with Good Luck can receive one of the following beneﬁts
 just by asking for it: action, breakthrough, haste, or second chance. See
 the “Luck Beneﬁts” sidebar for details on each of these options. Calling
 upon one’s luck does not count as an action.
 Good Luck can only be declared once per rank during a particular
-adventure, but it may be declared at any time, and it cannot be cancelled by any other effect. A character may have up to two ranks of
+adventure, but it may be declared at any time, and it cannot be 
+cancelled by any other effect. A character may have up to two ranks of
 this Special Ability.
 
 Luck, Great (3)
@@ -3712,12 +3769,12 @@ count as an action.
 If the character has not used his Great Luck during an adventure
 and something really disastrous happens, the gamemaster may choose to
 counteract the effects and temporarily “burn out” the character’s Special
-Ability — that is, the character’s Great Luck has been used up for the
+Ability -- that is, the character’s Great Luck has been used up for the
 adventure. Usually, this is used when the character does something stupid
-or the player is the victim of incredibly bad luck — die rolling, not the
-Disadvantage — and something “stops” the effect. This is a “last ditch,”
+or the player is the victim of incredibly bad luck -- die rolling, not the
+Disadvantage -- and something “stops” the effect. This is a “last ditch,”
 gamemaster-controlled effort when circumstances get out of control. It
-is also a nice thing for inexperienced roleplayers to have — just in case
+is also a nice thing for inexperienced roleplayers to have -- just in case
 they do something they really shouldn’t have, they get another chance.
 
 Example: The character’s mission is to turn off the power at a
@@ -3726,7 +3783,7 @@ downwind. Unfortunately, the character takes too long ﬁghting the
 minions of the bad guy who set the plant to overload, and, according
 to the rules, the whole city should go up in a radioactive ﬁreball. The
 character is too late. The gamemaster might choose to have the character
-be really lucky — the villain was bluﬃng, and there’s really more time
+be really lucky -- the villain was bluﬃng, and there’s really more time
 on the clock than anyone thought, or the power plant begins a long
 meltdown procedure instead of exploding. In any case, the character’s
 Good Luck is gone for this adventure (his luck ran out), but he has a
@@ -3750,7 +3807,7 @@ Ability. The maximum total bonus for each rank is +4.
 action: Add 2 to all of the character’s skill or attribute totals for the round.
 alertness: When the character calls upon this beneﬁt, he gains a special “sixth sense” outside of all other rules and roleplaying situations
 that will help him to spot a previously unseen item, character, or clue selected by the gamemaster. The beneﬁt does not confer omniscience,
-however — and the gamemaster can select her own time for having it come into effect. It is normally used to allow a character to spot
+however -- and the gamemaster can select her own time for having it come into effect. It is normally used to allow a character to spot
 something he missed in a previous search, something that is important to the adventure.
 breakthrough: Add 1D to any one skill die code in which the character has no additional pips or dice (in other words, a skill in which
 the character is untrained). The beneﬁt also eliminates the unskilled modiﬁer for using that skill.
@@ -3760,14 +3817,14 @@ opponent fails: After an opponent or enemy has completed an action against the c
 the effects entirely. The opponent’s action is then wasted, and play continues. This beneﬁt may not be used to cancel an action that is not
 directed at least partially at the lucky character.
 second chance: Using this beneﬁt allows the character to attempt any action she has just tried again, from the very beginning. Relying
-on this beneﬁt, however, may not be used to negate “bad choices” — the action performed must be performed again — nor does it allow
+on this beneﬁt, however, may not be used to negate “bad choices” -- the action performed must be performed again -- nor does it allow
 the character to “get back” Fate Points, Character Points, or cards (if used) spent on the original action. The character merely gets another
 chance, immediately following the ﬁrst attempt, to perform the action again. All effects from the ﬁrst attempt are negated.
 
 > Luck Notes
 
 A character may have up to two ranks each in Good Luck and Great Luck. This Special Ability can be taken with the Bad Luck
-Disadvantage — sometimes really good things happen, sometimes really bad things happen.
+Disadvantage -- sometimes really good things happen, sometimes really bad things happen.
 
 35
 
@@ -3786,8 +3843,8 @@ total to physical (not mental) attacks and contact poisons, corrosives,
 or similar materials.
 
 Natural Hand-to-Hand Weapon (2)
-The character has some sort of natural weapon — such as claws,
-pincers, bone spikes, or stinger — that add 1D per rank to his Strength
+The character has some sort of natural weapon -- such as claws,
+pincers, bone spikes, or stinger -- that add 1D per rank to his Strength
 Damage when determining his damage with the natural weapon. The
 character uses brawling to attack, unless he can detach the weapon from
 himself or (in the case of a super-scientiﬁc weapon) its exists separately.
@@ -3883,7 +3940,7 @@ old ones, limited to one attribute. He always learns new skills as if he
 had a teacher (even if he doesn’t), and he can improve skills he already
 knows at a cost of one Character Point less than normal. This Special
 Ability applies to specializations as well as combines very well with
-the Age Disadvantage, if the character is young — he is a prodigy, and
+the Age Disadvantage, if the character is young -- he is a prodigy, and
 that’s why he’s learned his starting skills so quickly. This Special Ability
 can be taken once for each attribute.
 
@@ -3985,7 +4042,7 @@ Chapter 2
 Three specializations may replace one general skill, getting a +1 for
 three different specializations.
 Example: In the Close Combat group, a character might replace
-melee combat with three specializations — melee combat: knives, melee
+melee combat with three specializations -- melee combat: knives, melee
 combat: swords, and melee combat: clubs. While this means the character
 gains no bonus for “general” melee combat activities (such as using an
 improvised weapon), he does have a more“detailed” group. This may be
@@ -4136,12 +4193,12 @@ by a power; it does not multiply it.
 
 Special Ability Limitations
 These Limitations can be associated with Special Abilities, restricting their functionality and reducing their total cost (base cost plus the
-cost for additional ranks plus any Enhancements — not the per rank
+cost for additional ranks plus any Enhancements -- not the per rank
 cost). For example, the total cost of two ranks of Iron Will in a game
 where Special Abilities are uncommon is four, and in a game where
 they are common, the cost is three.
 Limitations may not lower a Special Ability’s total cost below one,
-and all Limitations must have some sort of effect on play — just like
+and all Limitations must have some sort of effect on play -- just like
 Disadvantages. Each of a character’s Special Abilities may have more
 
 than one of each Limitation, as they can either describe similar but
@@ -4276,7 +4333,7 @@ and all Special Abilities in the same group must have this Limitation
 at the same rank. Not all of a character’s Special Abilities need be in
 the same Singularity group.
 Super-science (2): The Special Ability is contained in a piece of
-equipment — such as a gun, a staff, or a ring — developed through a
+equipment -- such as a gun, a staff, or a ring -- developed through a
 technological means not readily available and certainly experimental.
 The item could be lent to another character or taken away with a
 successful grab and used by someone else, though at a +5 to the difﬁculty. On a Critical Failure, the item malfunctions and requires repair.
@@ -4393,9 +4450,9 @@ A highly segregated society with many rituals might consider it natural
 to follow a military dictatorship, while one with loosely formed groups
 and a discussion-based resolution system might have a democracy.
 Social graces: Every society has many customs that each member
-takes for granted. Coming up with a few of these — which could
+takes for granted. Coming up with a few of these -- which could
 include traditional means of performing actions, ritual greetings, table
-etiquette, or anything else that can be formalized — gives the society
+etiquette, or anything else that can be formalized -- gives the society
 a distinctive ﬂavor, as well as providing the opportunity for conﬂict
 among species who meet for the ﬁrst time.
 Playtime: Playing is a way of learning about one’s environment and
@@ -4405,8 +4462,8 @@ or emotional? Are they played as a way of learning how to get along,
 or are they another means of showing off power?
 Science, art, and religion: Decide whether the species considers
 any of these more or less important than the others. Describe a few
-key aspects — how prevalent the technology is, whether art is limited
-to a single group, the number of religions present —that demonstrate
+key aspects -- how prevalent the technology is, whether art is limited
+to a single group, the number of religions present --that demonstrate
 the capabilities of the species in each area.
 
 Examples and Packages
@@ -4748,7 +4805,7 @@ is not installed. Worse, the surgeon has botched the job. The patient
 
 Chapter 4
 
-takes more damage than he normally would have — increase the damage
+takes more damage than he normally would have -- increase the damage
 to Incapacitated or 75% of the character’s base Body Points.
 Minimal (skill total equals diﬃculty): System is installed, but just
 barely. Damage is Severely Wounded or 50% of the character’s base Body
@@ -4763,7 +4820,7 @@ or 50% of the character’s base Body Points).
 Superior (skill total beats diﬃculty by 10 or more points): Installation is successful and the amount of time needed to recover from
 surgery damage is halved. The character incurs normal damage (Severely
 Wounded or 50% of the character’s base Body Points).
-When using stripped cybergear, make two separate skill totals — one
+When using stripped cybergear, make two separate skill totals -- one
 medicine and one personal equipment repair at the same diﬃculty. One
 failure is enough to botch the surgery entirely. In any other instance,
 add together the amounts by which each skill beat the diﬃculty. Divide
@@ -4905,7 +4962,7 @@ Cyberpsychosis can be roleplayed by players’ characters and gamemaster charact
 Quirk Disadvantages). It is recommended that the gamemaster (and
 the players, if a player’s character is involved) work out the severity and
 details of this psychosis, so that it can be effectively roleplayed. It should
-be a roleplaying choice as well — it is very hard to play a psychosis
+be a roleplaying choice as well -- it is very hard to play a psychosis
 effectively or realistically, and the person playing the cyberpsychotic
 character should decide if she is up to the challenge.
 
@@ -5513,7 +5570,7 @@ As a character’s Strength goes up or is altered by Special Abilities or
 Disadvantages, you’ll need to change the Body Points amount. Roll the
 dice indicated by the Special Ability or Disadvantage (if applicable),
 and add any pips or other modiﬁer. (Do not reroll the character’s entire
-Strength — only the amount that changed.)Then add or subtract, as
+Strength -- only the amount that changed.)Then add or subtract, as
 dictated by the Special Ability or Disadvantage, that number from
 the Body Points total.
 
@@ -5576,7 +5633,7 @@ has adequate adventuring experience before the gamemaster should
 approve the loss of any Disadvantage.
 Example: If a character had Equipment (R3), he might also have a
 Rank 3 Disadvantage tied to it. If the character can get rid of the equipment
-(which he might not be able to do in some settings — a cursed amulet or
+(which he might not be able to do in some settings -- a cursed amulet or
 a cybernetic spine, for example), then the Disadvantage goes away.
 When a player wishes to add another Disadvantage to her hero,
 she receives an immediate bonus for this choice if she isn’t using the
@@ -5590,8 +5647,8 @@ Chapter 5
 
 Special Abilities
 Unless the gamemaster decides to reward a character with a Special Ability, it costs 5 times the sum of the Special Ability’s base cost
-plus the current number of ranks in Character Points — and a really
-good excuse — to acquire or improve a Special Ability after character
+plus the current number of ranks in Character Points -- and a really
+good excuse -- to acquire or improve a Special Ability after character
 creation. A character may improve a Special Ability by only one rank
 after each adventure, unless there is some compelling reason to allow
 otherwise. Gamemasters may disallow increases in Special Abilities if
@@ -5708,7 +5765,7 @@ A die code shows how good a character is in a particular area, how
 harmful a weapon is, how useful a Special Ability or tool is, and so
 on. Each die code (also known as a value) indicates the number of
 six-sided dice you roll (1D, 2D, 3D, 4D, 5D, etc.), and sometimes an
-added amount of “+1” or “+2” — referred to as pips — you add to the
+added amount of “+1” or “+2” -- referred to as pips -- you add to the
 total result you roll on the dice.
 An Advantage, Special Ability, or piece of equipment may provide
 a bonus to the roll. If the bonus is in the form of a die code (such as
@@ -5723,8 +5780,8 @@ dug the hole with the shovel.
 Wild Die
 Whenever any player, including the gamemaster, makes any roll, one
 of the dice must be different from the rest (in size or color). Designated
-as the Wild Die, this odd die represents the vagaries of life — like the
-direction of the wind affecting the ﬂight of a bullet — that are too
+as the Wild Die, this odd die represents the vagaries of life -- like the
+direction of the wind affecting the ﬂight of a bullet -- that are too
 small to warrant their own diﬃculty modiﬁers.
 Example: Your character’s Agility attribute is 3D+1, so if your
 character tried to jump onto a table, you would roll two regular dice
@@ -5744,7 +5801,7 @@ for the result, depending on the gravity of the situation.
 adds the remaining values, and the roll is determined normally.
 2. Add the dice results normally, but a complication occurs. The
 gamemaster gauges the signiﬁcance of the complication by the total
-generated — from a funny, “nearly didn’t do it” result for a high total
+generated -- from a funny, “nearly didn’t do it” result for a high total
 to a serious, “we have a problem” obstacle for a low total.
 When using the second option, make certain the complication chosen
 relates to the task attempted. It should serve as an extra, minor obstacle
@@ -5799,7 +5856,7 @@ easy challenges, the maximum is two; for more cinematic adventures,
 the maximum is ﬁve; for universe-shaking ones, the maximum is
 unlimited.)
 A player may choose to spend Character Points before or after he
-makes a roll — or both — but always before the gamemaster determines
+makes a roll -- or both -- but always before the gamemaster determines
 the result. The gamemaster need not tell the player whether he should
 spend more points to improve a roll.
 Extra Wild Dice gained from spending Character Points each
@@ -5829,12 +5886,12 @@ destroying property, taking a life, and other terrible acts, especially if
 they use Fate Points to accomplish that harm.
 Individual ethical codes may differ from the heroic code, but the more
 well-deﬁned the code is, the easier it is for the gamemaster to determine
-when to reward Fate Points — and when to take them away.
+when to reward Fate Points -- and when to take them away.
 When a player feels she needs even greater help for her roll, she may
 spend a Fate Point to double the number of dice she normally gets for
 that roll. However, the player only rolls one Wild Die. Furthermore,
-anything that’s not part of the character — weapon damage die codes,
-equipment bonuses, and so on — is not doubled.
+anything that’s not part of the character -- weapon damage die codes,
+equipment bonuses, and so on -- is not doubled.
 Example: Your character has a demolitions skill with a die code of
 4D+2. Normally, you would roll three regular dice and one Wild Die
 
@@ -5856,7 +5913,7 @@ climactically several times during the highest point of the adventure
 (the climax).
 Players may only spend Fate Points before making a roll. Furthermore, double the initial number before applying any die code penalties
 and bonuses.
-Once used, the character loses the Fate Point — but he may earn
+Once used, the character loses the Fate Point -- but he may earn
 it back at the end of the game if it was used for a deed that supported
 his moral code. However, if the character used a Fate Point to go
 against his moral code, the gamemaster may decide that it costs an
@@ -6337,13 +6394,13 @@ standard, or derived diﬃculty values.
 
 Good Roleplaying Modiﬁer
 Gamemasters should reward good roleplaying by lowering the
-diﬃculty a few points. The better the roleplaying — and the more
-entertaining the player makes the scenario — the higher the modiﬁer
+diﬃculty a few points. The better the roleplaying -- and the more
+entertaining the player makes the scenario -- the higher the modiﬁer
 the gamemaster should include.
 
 Unskilled Attempts
 Remember that someone without training or experience might, with
-blind luck, do better than someone with experience — but generally
+blind luck, do better than someone with experience -- but generally
 only that one time. There is no guarantee of future success. When a
 character defaults to the attribute, ﬁgure in not only a diﬃculty modiﬁer
 
@@ -6433,7 +6490,7 @@ the character has made the situation signiﬁcantly worse. She will need
 to spend more time thinking through the problem or ﬁnd someone
 or something to assist her in her endeavor. A large difference plus a
 Critical Failure could mean that the character has created a disaster.
-She can’t try that speciﬁc task for a long time — perhaps ever. This is
+She can’t try that speciﬁc task for a long time -- perhaps ever. This is
 especially true with locks and computer programs.
 
 Gamemaster’s Fiat
@@ -6444,9 +6501,9 @@ and dynamic worlds. As with most
 frameworks, the rules work best
 when they show the least, and when
 Here are some guidelines for describing different levels
-they can bend under stress. Keepof success. Use the result points of the roll — the difference
+they can bend under stress. Keepof success. Use the result points of the roll -- the difference
 ing to the letter of the rules is almost
-between the skill total and the diﬃculty — to decide on the
+between the skill total and the diﬃculty -- to decide on the
 certainly counterproductive to the
 exact level.
 whole idea of making an engaging
@@ -6476,7 +6533,7 @@ which the action was performed (if applicable).
 Incredible (16 or more): The skill performance was of
 You can ﬁnd the more comsuch dazzling quality that, if appropriate to the task, it could
 monly referenced diﬃculties listed
-become the subject of conversation for some time — it’s at
+become the subject of conversation for some time -- it’s at
 on the Reference Sheet at the back
 least worth writing home about. Gamemasters should dole
 of this book. With these plus the
@@ -6484,11 +6541,11 @@ out some signiﬁcant bonuses for getting this large of a roll.
 generic diﬃculties and modiﬁers
 Example: A character who is trying to use the survival
 described previously, you can run
-skill to forage for food gets a minimal success — she ﬁnds
+skill to forage for food gets a minimal success -- she ﬁnds
 just about any adventure. The next
 “subsistence level” food; it’s barely better than garbage. The
 several chapters include more, and
-next day she gets a spectacular result — not only does she
+next day she gets a spectacular result -- not only does she
 more detailed, diﬃculties.
 ﬁnd good, wholesome food, but she ﬁnds enough for two
 days instead of one.
@@ -6598,7 +6655,7 @@ A character may increase his current movement rate by up to 2
 times that rate, regardless of whether his movement roll would allow
 him to travel a greater distance. The maximum increase is 2 times the
 character’s base Move for that type of movement.
-Example: A character with a base walking Move of 10 has a maximum swimming change of 10 — 2 times his swimming Move of 5.
+Example: A character with a base walking Move of 10 has a maximum swimming change of 10 -- 2 times his swimming Move of 5.
 Example: A character with a Move of 10 is chasing a thief, who just
 swiped her cred-key lanyard. In the ﬁrst round, she may move up to 20
 meters, which has a running diﬃculty of 5. In the second round, she
@@ -6998,8 +7055,8 @@ be an interstellar police force. Some might turn out to be quite helpful,
 while some prefer to keep all travel under their control.
 Traders: From owner-operated light freighters to gigantic corporate
 and military bulk haulers, the space ways are ﬁlled with folks traveling around the galaxy, hawking their goods or taking things to where
-they’re wanted. Traders, legal and illegal, can prove good — perhaps
-even the only — sources of information about their destinations, space
+they’re wanted. Traders, legal and illegal, can prove good -- perhaps
+even the only -- sources of information about their destinations, space
 routes, and new jobs.
 Pirates: Unwilling or unable to make it legitimately, pirates prefer
 to acquire their goods from other ships. They might prey on the edges
@@ -7032,7 +7089,7 @@ might be able to help the character gain access to one temporarily.
 
 Charter a Ship
 Characters can hire an independent ship captain to take them to a
-planet. While more expensive than commercial liners — some chartered ships charge tens of thousands of credits — they generally offer
+planet. While more expensive than commercial liners -- some chartered ships charge tens of thousands of credits -- they generally offer
 more privacy and more travel freedom. The characters can often pick
 the departure and arrival timetable, and they don’t necessarily have to
 go to popular destinations.
@@ -7047,7 +7104,7 @@ one travels in, from a few hundred credits for a short trip on a cheap
 transport to many thousands of credits for luxury cruises. Alternatively,
 characters can save a few credits by booking passage on a freighter with
 cargo destined for the planet they want to visit. Many freighters have
-a spare bunk or two — and few other amenities. Some freighters may
+a spare bunk or two -- and few other amenities. Some freighters may
 even take on working passengers, who pay for part or all of their passage
 by performing some of the less desirable duties on the ship.
 
@@ -7059,7 +7116,7 @@ Ship Design” chapter near the end of this book.
 68
 
 Unless the characters travel well-established routes, plenty of things
-exist in space that can make the trip rather exciting — whether or not
+exist in space that can make the trip rather exciting -- whether or not
 a mishap occurs in navigation or drive use.
 
 Starship Operation
@@ -7193,8 +7250,8 @@ base diﬃculty of Moderate, with modiﬁers that adjust it for easy trips
 perilous routes. Use the accompanying chart to determine the ﬁnal
 diﬃculty.
 Find the Space Navigation Results: Once the destination, duration,
-and route have been decided —and the navigation diﬃculty is determined
-— the player rolls her character’s navigation skill to see how well she did.
+and route have been decided --and the navigation diﬃculty is determined
+-- the player rolls her character’s navigation skill to see how well she did.
 Find the result points (the difference between the diﬃculty and the skill
 total) and compare them to the accompany chart to decide what happens.
 In this case, result points can be positive or negative.
@@ -7285,7 +7342,7 @@ Hull Roll By:
 
 Target’s
 Max Move
-—
+--
 1 level less
 2 levels less
 3 levels less
@@ -7302,7 +7359,7 @@ The attacker may automatically reel in the captured ship,
 assuming that the target doesn’t attempt to resist on any round
 before being brought into the hanger bay. (That means that,
 if the attacking ship has no hanger bay to store the ship, the
-target can continue to attempt an escape — or at least until
+target can continue to attempt an escape -- or at least until
 the defender can move any more.)
 If the target ship resists, roll the tractor beam’s damage
 against the target ship’s hull Toughness. If the target ship’s
@@ -7343,7 +7400,7 @@ this chapter only discusses what to do if the player decides to attack,
 defend, or do both (typically with a multi-action penalty).
 
 If the roll is lower than the passive defense value, the character has
-succeeded in making himself easier to hit — by miscalculating where
+succeeded in making himself easier to hit -- by miscalculating where
 the attack would be placed and actually getting in its way.
 The active defense total is modiﬁed as the situation dictates.
 Dodge: The character attempts to anticipate the ﬁnal location of
@@ -7383,7 +7440,7 @@ attacks made against the character that occur after the character’s current
 turn but before his turn in the next round.
 Remember: if a character acts later in a round than his attacker, he
 cannot take his turn sooner and use an active defense to replace the
-passive defense value — his reactions just weren’t fast enough.
+passive defense value -- his reactions just weren’t fast enough.
 
 72
 
@@ -7447,8 +7504,8 @@ most cases, this is true for using various melee weapons as well, though
 the distance can be increased to Short range if the weapon is longer
 than two meters. For instance, a character with a support beam can
 whack an opponent at Point Blank or Short range.
-Cover: When a target is protected by something — poor lighting,
-smoke, fog, a table — it makes her harder to hit. This is represented
+Cover: When a target is protected by something -- poor lighting,
+smoke, fog, a table -- it makes her harder to hit. This is represented
 by a cover modiﬁer, which is added to the combat diﬃculty.
 Aiming: Aiming involves careful tracking of the target. Characters
 may perform it against moving targets, but they cannot themselves do
@@ -7871,7 +7928,7 @@ Damage
 Descriptive Damage
 
 So a character is down by a few Body Points or has a couple of
-Wound levels — so what? What does that mean in descriptive terms?
+Wound levels -- so what? What does that mean in descriptive terms?
 It depends on what caused the harm. The following list supplies some
 general guidelines for describing what might have happened to the
 character’s body when he was hurt. Use the “Wound Levels” chart to
@@ -8184,7 +8241,7 @@ roll). One acrobatics trick roll can affect one attack only.
 All-out: The character attacks with no thought to the consequences.
 This maneuver increases the chance of the character striking the target,
 but, in that round, the attacker cannot perform any other action at all
-— not even to actively defend.
+-- not even to actively defend.
 Lunge: The character takes a step forward to jab at an opponent,
 usually with an edged weapon. This adds about a half-meter (more or
 less depending on the stride) to the range of the attack, but it lowers
@@ -8426,7 +8483,7 @@ Hit locations are a special kind of called shot that allows
 a character to shoot or strike a speciﬁc point on his target’s
 body. The table is used to determine the modiﬁers for hitting a target of Human proportions in different areas of
 his body. Note that aiming at an arm or leg actually causes
-less damage — this is because the character took extra care
+less damage -- this is because the character took extra care
 to shoot an area that is “less vital.”
 
 Knockout
@@ -8683,7 +8740,7 @@ Using the Difﬁculties and
 Modiﬁers
 
 Unless otherwise stated, all listed modiﬁers are to the diﬃculty.
-Modiﬁers may be cumulative, depending on the situation — the tenser
+Modiﬁers may be cumulative, depending on the situation -- the tenser
 they are, the more important the minutia become. The associated
 attributed is listed after the skill name.
 
@@ -9925,7 +9982,7 @@ Most robots do not have attributes, though sophisticated ones might.
 Instead, skills and their specializations represent the tasks a robot can
 perform. The programmer must have a means of inputting information
 into the robot, such as a computer terminal or hand computer. The
-time taken depends upon the complexity of the task — a Very Easy (5)
+time taken depends upon the complexity of the task -- a Very Easy (5)
 program might take only half an hour to program, but a Very Diﬃcult
 (25) one might take days or weeks to program.
 Once the robot has the basic skill, skill cartridges, scholarchips, or
@@ -10371,7 +10428,7 @@ Teachers and their techniques help their students open their minds
 further and control their ability to alter reality better.
 The cost for a Metaphysics skill, in Character Points, equals twice
 the normal cost for gaining or improving a normal skill. This cost is
-doubled again if a teacher — simply another manipulator of the metaphysical with the skill at a higher level — is not available to instruct
+doubled again if a teacher -- simply another manipulator of the metaphysical with the skill at a higher level -- is not available to instruct
 the character. A character may learn or improve one Metaphysics skill
 after each adventure.
 
@@ -10412,7 +10469,7 @@ made using other D6 rules sets to be transferred to this one
 may ﬁnd it easier to rely on the rules from that system for those
 characters rather than switching to the D6 Space rules.
 However, characters using other psionic rules may not
-rely on the D6 Space rules — and vice versa. Consider each
+rely on the D6 Space rules -- and vice versa. Consider each
 psionics rules set as a different and distinct way special mental
 abilities manifest themselves.
 
@@ -10433,7 +10490,7 @@ self-teleportation as well (though the character is not likely to resist).
 
 Designing the Manipulation
 
-At this point, write out what you want the effect to do — basically.
+At this point, write out what you want the effect to do -- basically.
 What sort of effect are you trying to create? How long will it last?
 What range will you need? Consider all things along these lines. Having some general ideas up front will help you choose the values of the
 various aspects of your effects. You can keep track of your ideas on the
@@ -10448,8 +10505,8 @@ size, proximity, and duration modify this number.
 Effect and Skill Used
 The ﬁrst step in creating a metaphysical manipulation is to decide
 what it can do. This also helps you generate the initial diﬃculty. Once
-you decide what the effect will do — damage, protection, skill bonus,
-and so on — determine its corresponding value using the “Die Codes”
+you decide what the effect will do -- damage, protection, skill bonus,
+and so on -- determine its corresponding value using the “Die Codes”
 table. Here are some guidelines.
 Damage effects affect character health (that is, their Body Points or
 Wounds). To hurt someone, 6D (which you can determine, by using
@@ -10892,7 +10949,7 @@ not anybody is hit by it.
 
 This keeps effects from being
 automatic “killers.” Granted, most
-manipulation won’t need this — a
+manipulation won’t need this -- a
 manipulation that a character uses
 to take over a target’s mind needs
 no “to hit” total; it is instead the effect versus the target’s willpower or
@@ -11425,7 +11482,7 @@ the name of the ﬁrm and a code for it as well. Military oﬃcers, who
 may have extensive credit limits owing to their status, carry cards with
 their DNA pattern encoded on them for ease of identiﬁcation.
 Cred-keys are not common on worlds with extensive smuggling,
-piracy, or other criminal activities — they are too hard to steal and
+piracy, or other criminal activities -- they are too hard to steal and
 use. A character must be able to generate a forgery, a personal equipment repair, and a computer interface/repair skill total of at least 21
 each to forge or strip a civilian cred-key. (Military and megacorp keys
 are harder to do this to.) Even then, decent detection equipment (not
@@ -11557,7 +11614,7 @@ signal to come to it before sending out a response. Cost: Moderate.
 Robots
 
 Robots are nonsentient automatons with a programmed algorithm
-they must follow. They can be used for maintenance, security — just
+they must follow. They can be used for maintenance, security -- just
 about anything. Interaction skills have no effect on them.
 Movement may be provided by legs, wheels, treads, hoverjets, or
 something similar and appropriate for the medium the robot most
@@ -11632,7 +11689,7 @@ A character cannot wear two suits of the same type, though he could
 combine some types. The listing herein indicates what armor may be
 worn with what other armor and the kind of bonus it can provide.
 Of course, layering armor assumes that the two pieces ﬁt together
-— a character couldn’t wear two helmets, even if they were made of
+-- a character couldn’t wear two helmets, even if they were made of
 different materials. For protective gear not listed here, use the type
 that the armor in question most closely resembles to determine what
 it can be combined with.
@@ -11716,8 +11773,8 @@ Armor Value
 
 Price
 E
-—
-—
+--
+--
 VE–E
 M
 E
@@ -11785,7 +11842,7 @@ The following explanations should help.
 Handguns are small and comparatively light, and usually easily
 concealable. In most game settings, pistols are readily available and
 not illegal. In fact, in most modern game settings, they will be the
-weapon of choice for most adventurers — carrying a handgun is a lot
+weapon of choice for most adventurers -- carrying a handgun is a lot
 less conspicuous than a submachine gun or an assault riﬂe.
 These weapons are for close-up work. Even though most pistol
 rounds will travel a good distance with a high-impact velocity, most
@@ -11793,14 +11850,14 @@ pistols have a fairly short effective range.
 Most pistols hold between six and 15 rounds. Pistols may always
 ﬁre once per round, and twice if they are semi-automatic and the user
 shoots at the same target (with the single ﬁre as multi combat option).
-Pistols cannot ﬁre full auto — a pistol that can do that is classiﬁed as
+Pistols cannot ﬁre full auto -- a pistol that can do that is classiﬁed as
 a submachine gun in these rules.
 
 Riﬂes
 Single-shot riﬂes, such as most hunting riﬂes, are also common, and
 not overly regulated on most worlds. True, they attract considerable
 attention in cities, but most small towns don’t have a problem with
-them — and they are perfectly acceptable in the wilderness.
+them -- and they are perfectly acceptable in the wilderness.
 
 107
 
@@ -12242,7 +12299,7 @@ any special initiative bonus during normal combat. Cost: Easy.
 Telescopic Sight: Only an advantage at Medium or Long range,
 the standard telescopic sight is equipped to make seeing the weapon’s
 target at those ranges much easier (+2 to hit at Medium and Long
-ranges). Individual scopes are ﬁtted to different weapons — so a weapon
+ranges). Individual scopes are ﬁtted to different weapons -- so a weapon
 with a long range of 250 meters would have a different sight than a
 weapon with a 1,000-meter range. The scope can be adjusted slightly,
 but the maximum range is always just a little more than the weapon’s
@@ -12265,7 +12322,7 @@ will always attract unwanted attention.
 Using an explosive can get tricky. Even though a thrown grenade
 uses the throwing skill to hit, the character using the grenade should
 not actually be aiming at a person but, rather, a place. Grenades do not,
-typically, explode on contact — they explode after their fuse (usually
+typically, explode on contact -- they explode after their fuse (usually
 three seconds) burns up and they damage anything in a given area. When
 throwing at a speciﬁc area, refer to the “Grenade Targeting” chart. If the
 grenade misses, the gamemaster determines where it lands.
@@ -12317,8 +12374,8 @@ used to open an otherwise reluctant
 Plastic explosive
 5D
 1
-—
-—
+--
+--
 E
 door (such as to a safe). About two
 Smoke grenade, tear gas
@@ -12384,7 +12441,7 @@ out of the way of the blast. (Here’s another instance of being able to
 character’s strength to get them to their target. Instead of having their
 move up a turn.) Technically, normal movement might do it, but this
 damage die codes listed as a single number, muscle-powered weapons
-is a combat situation — the grenade thrower is timing his throw to
+is a combat situation -- the grenade thrower is timing his throw to
 have damage adds.
 catch a target in the blast radius.
 The target has to beat a diﬃculty to get out of the blast radius of an
@@ -12442,7 +12499,7 @@ Modiﬁer
 
 Chapter 15
 
-as a heavy metal pipe or a screwdriver — will survive the
+as a heavy metal pipe or a screwdriver -- will survive the
 battle and continue to be serviceable.
 
 > Missile and Thrown Weapons
@@ -12523,13 +12580,13 @@ Improvised weapons always use either melee combat or throwing,
 and they always receive an improvised weapon modiﬁer to the combat
 diﬃculty of +5 or more. On a card-played setback or a rolled Critical
 Failure when wielding the item, the improvised weapon breaks, the
-user hurts himself, or both — the greater the roll fails, the worse the
+user hurts himself, or both -- the greater the roll fails, the worse the
 situation is. (If the user ends up hurting himself, use only the weapon
-bonus — do not include the user’s Strength Damage — to determine
+bonus -- do not include the user’s Strength Damage -- to determine
 the amount of damage done.)
 Generally, improvised weapons may only be relied on a few times
 before they break (regardless of whether a Critical Failure or a setback
-occurred while using it), though ones designed to take abuse — such
+occurred while using it), though ones designed to take abuse -- such
 
 112
 
@@ -12816,14 +12873,14 @@ exists, and those who become comfortable with designing basic models
 should move on to adding complexity to their creations.
 All ships have inertial compensators. These incredibly sturdy
 machines placed throughout a ship’s hull exert a strong but shortwaved gravity ﬁeld in the area. This keeps the ship from being torn
-apart whenever the pilot makes high-g turns — and it makes life a lot
+apart whenever the pilot makes high-g turns -- and it makes life a lot
 
 > Freeform Ship Design
 If you think this sort of ship design is too rigid, you should
 feel free to ignore the mathematics and choose whatever
 options you decide best meet the concept of the ship you have
 in mind. (If you’re a player, you should get your gamemaster’s
-permission before attempting this — just in case she has some
+permission before attempting this -- just in case she has some
 other ideas in mind.)
 
 114
@@ -12846,9 +12903,9 @@ Module Descriptions
 Using this modularized list, you should be able to quickly create a
 ship that suits the needs of your crew and any passengers.
 Each square meter of the vessel’s interior is assumed to be three
-meters high — enough room for most sentient species to stand upright
+meters high -- enough room for most sentient species to stand upright
 (this, by the way, includes ceiling and ﬂoor panels, cables, and conduits,
-so the actual “open space” is a little less — about 2.5 meters).
+so the actual “open space” is a little less -- about 2.5 meters).
 Figure that each square meter of life-supported area masses one
 half of a metric ton. This approximation is a good average between
 empty areas (which should have very little mass) and more complex
@@ -12896,7 +12953,7 @@ provided so that a crew can go extra-vehicular without forcing everyone
 inside to put on environmental suits. Most are little more than two
 meters square and are sealed with doors of the same basic Toughness
 as the ship itself. Note that airlocks are not designed to be lived in
-— they can hold and support up to ﬁve people (per unit), but they do
+-- they can hold and support up to ﬁve people (per unit), but they do
 not provide food and water or sleeping areas.
 Bridge/Duty Station: The standard bridge or duty station contains
 a cushioned swivel chair bolted to the ﬂoor with a computer interface
@@ -12922,7 +12979,7 @@ Area
 Units*
 
 Bridge/Duty Station Upgrades to Sensors and Communications:
-Even the most primitive spaceships have some sort of sensor equipment — even if that equipment amounts to a window. In most cases,
+Even the most primitive spaceships have some sort of sensor equipment -- even if that equipment amounts to a window. In most cases,
 the ship has scanners and programs of differing quality. Similarly, a
 ship’s communication equipment can vary greatly depending on the
 components installed.
@@ -13269,8 +13326,8 @@ Kilometers per Hour
 
 or rear) needs to be designated. A weapon can be swivel mounted, for
 an extra 200 credits and one additional energy unit per additional ﬁre
-arc (so, to ﬁre in four directions costs 600 credits — three extra arcs
-— and another three energy units).
+arc (so, to ﬁre in four directions costs 600 credits -- three extra arcs
+-- and another three energy units).
 A ship’s computer can aid with ﬁring a weapon. See the “Modules
 Upgrade” section for details on improving the ship’s computer.
 Note that weapons cannot lock on anything less than one space
@@ -13357,11 +13414,11 @@ can have equals the hull Toughness. (Remember that there are three
 pips in one die.) Armor draws no energy. It add a number of kilograms
 equal to its cost.
 Hull armor (which includes the structure of the ship) needs to be
-repaired — or, more likely, replaced — when it is damaged.
+repaired -- or, more likely, replaced -- when it is damaged.
 
 Shields
 Space vessel shields work very much like hull armor, but have
-an additional advantage — unless the whole system is blown away,
+an additional advantage -- unless the whole system is blown away,
 they will usually only need to be ﬁtted with a few new components.
 Enough damage can overload them, however; see the “Ship Travel”
 chapter for details.
@@ -13773,8 +13830,8 @@ Hull
 Toughness: _____________________________________________________
 Armor
 Value
-—
-—
+--
+--
 Tons
 Cost
 16. ____________________________________________________________
@@ -13840,7 +13897,7 @@ rule of “show, don’t tell.” Make your characters and scenes as interesting
 Try to work as many senses as possible into
 descriptions. Think about how novelists do
 it, and follow their example. (All right, it is
-possible to overdo it — you’ll ﬁgure that out
+possible to overdo it -- you’ll ﬁgure that out
 when your players start nodding off.)
 > Players know only what you tell them,
 so don’t expect them to use a clue later that
@@ -13917,7 +13974,7 @@ aspects of the human condition in depth, without actually being bound
 by the stereotype of “Human.” However, you might decide that, though
 Humanity has never met any alien cultures, the Human colonists have
 grown so far apart that they’ve practically become their own species
-— at least culturally.
+-- at least culturally.
 Of course, if you decide to make interstellar travel prohibitively
 costly or even scientiﬁcally impossible, unless the aliens come to the
 players, it’s likely that they’ll never meet another species outside of
@@ -13930,7 +13987,7 @@ ruling that the setting hasn’t reached a level of technology beyond
 installing prosthetic devices. Or, you could take a middle ground and
 limit the Special Abilities available for installation with cybernetics.
 Metaphysics: Extraordinary mental abilities exist as another feature
-that can really throw off the fun factor in a game — or it can open up
+that can really throw off the fun factor in a game -- or it can open up
 new horizons. You decide on how much you feel that Humans and
 aliens have tapped into the power of the mind. Perhaps it’s strictly
 random, and you randomly assign the Metaphysics attribute to one
@@ -14195,7 +14252,7 @@ characters or earn a hefty sum of credits. This does not mean that each
 gamemaster’s character should act overtly. Part of his goal may be to
 achieve his objective undetected, or to make it look like someone else
 was responsible. Rather, the idea is that the character should use all of
-his resources — his skills, allies, ﬁnances, and so on — to accomplish
+his resources -- his skills, allies, ﬁnances, and so on -- to accomplish
 his immediate as well as his long-term goals.
 
 Exciting Locales
@@ -14221,8 +14278,8 @@ remainder of the adventure.
 
 If the players feel that they never
 have a choice, that you have predetermined what their characters will
-do and say — and therefore, how the
-adventure will turn out — they’re not
+do and say -- and therefore, how the
+adventure will turn out -- they’re not
 going to have any interest in playing.
 Part of the fun of a roleplaying game
 is the almost unlimited possible
@@ -14231,8 +14288,8 @@ that away, and you’ve lost much of
 the reason for participating in this
 type of game.
 Sometimes the characters will
-have only a few choices — or at least, a
-few obvious choices — and that’s ﬁne
+have only a few choices -- or at least, a
+few obvious choices -- and that’s ﬁne
 if it makes logical sense in the context
 of the scenario and doesn’t seem like
 an attempt by you as the gamemaster
@@ -14316,7 +14373,7 @@ when a gamemaster allows access to an Advantage, it’s a one-shot deal,
 especially for particularly powerful Advantages, such as being owed a favor
 by a galactic tyrant. If the characters want a more permanent access to
 this kind of Advantage, they will have pay for it (in Character Points).
-Gamemasters might also give free Advantages to characters — along
+Gamemasters might also give free Advantages to characters -- along
 with an equivalent amount of Disadvantages!
 
 Equipment and Other Loot
@@ -15388,7 +15445,7 @@ employer dictates your assignments; Infamy (R2), you
 are well known and rarely well liked by those in other
 corporations and in many local space ﬂeets; Quirk (R2),
 you’re a snob to people working for other corporations
-— unless you need them for something
+-- unless you need them for something
 Special Abilities: None
 Equipment: Slick-looking Plastovar suit (Armor Value
 +1D+1); medium semi-automatic (damage 4D; range
@@ -15504,7 +15561,7 @@ Character Points __________ 5
 Advantages: Ship (R4), you have the use of a space
 service ship
 Disadvantages: Age (R1), you’re almost past your prime;
-Advantage Flaw (R3), your ship has problems — see the
+Advantage Flaw (R3), your ship has problems -- see the
 equipment description; Employed (R2), you only get the
 use of the ship while you remain in service
 Special Abilities: Iron Will (R1), +1D to willpower
@@ -15674,7 +15731,7 @@ security and security regulations attempts); personal blaster
 (damage 3D; range 4/8/12; ammo 6) with 2 spare energy
 cells (ammo 6 each); cred-key
 Description: You’ve always had a knack for breaking and
-entering — and preventing others from doing the same.
+entering -- and preventing others from doing the same.
 Unfortunately, ever since you stumbled across someone’s
 deep, dark secret, you always get nervous before attempting
 any security procedures.
@@ -16422,7 +16479,7 @@ Recovered
 Wound Level
 1–5
 2
-—
+--
 6–10
 1D
 Stunned, unconscious
@@ -16437,7 +16494,7 @@ Incapacitated
 Mortally Wounded
 26–30
 5D
-—
+--
 
 SPACE
 
@@ -16485,59 +16542,59 @@ column, subtract 1 from the die code and multiply the number by
 Example: A character has a skill with a value of 10D. The gamemaster 
 rolls the Wild Die and adds 32 to the result.
 
-Die Code Simpliﬁcation
+    Die Code Simpliﬁcation
 
-Die Code     5D            Wild Dice
-1D           0             0
-2D           0             +4
-3D           0             +7
-4D           0             +11
-5D           0             +14
-6D           +4            +18
-7D           +7            +21
-8D           +11           +25
-9D           +14           +28
-10D          +18           +32
-11D          +21           +35
-12D          +25           +39
-13D          +28           +42
-14D          +32           +46
-15D          +35           +49
-16D          +39           +53
-17D          +42           +56
-18D          +46           +60
-19D          +49           +63
-20D          +53           +67
-21D          +56           +70
-22D          +60           +74
-23D          +63           +77
-24D          +67           +81
-25D          +70           +84
-26D          +74           +88  
-27D          +77           +91
-28D          +81           +95
-29D          +84           +98
-30D          +88           +102
-31D          +91           +105
-32D          +95           +109
-33D          +98           +112
-34D          +102          +116
-35D          +105          +119
-36D          +109          +123
-37D          +112          +126
-38D          +116          +130
-39D          +119          +133
-40D          +123          +137
-41D          +126          +140
-42D          +130          +144
-43D          +133          +147
-44D          +137          +151
-45D          +140          +154
-46D          +144          +158
-47D          +147          +161
-48D          +151          +165
-49D          +154          +168
-50D          +158          +172
+    Die Code     5D            Wild Dice
+    1D           0             0
+    2D           0             +4
+    3D           0             +7
+    4D           0             +11
+    5D           0             +14
+    6D           +4            +18
+    7D           +7            +21
+    8D           +11           +25
+    9D           +14           +28
+    10D          +18           +32
+    11D          +21           +35
+    12D          +25           +39
+    13D          +28           +42
+    14D          +32           +46
+    15D          +35           +49
+    16D          +39           +53
+    17D          +42           +56
+    18D          +46           +60
+    19D          +49           +63
+    20D          +53           +67
+    21D          +56           +70
+    22D          +60           +74
+    23D          +63           +77
+    24D          +67           +81
+    25D          +70           +84
+    26D          +74           +88  
+    27D          +77           +91
+    28D          +81           +95
+    29D          +84           +98
+    30D          +88           +102
+    31D          +91           +105
+    32D          +95           +109
+    33D          +98           +112
+    34D          +102          +116
+    35D          +105          +119
+    36D          +109          +123
+    37D          +112          +126
+    38D          +116          +130
+    39D          +119          +133
+    40D          +123          +137
+    41D          +126          +140
+    42D          +130          +144
+    43D          +133          +147
+    44D          +137          +151
+    45D          +140          +154
+    46D          +144          +158
+    47D          +147          +161
+    48D          +151          +165
+    49D          +154          +168
+    50D          +158          +172
                         
 
 OPEN GAME LICENSE Version 1.0a
