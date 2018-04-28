@@ -3201,18 +3201,14 @@ characters with minimal experience.
 The character gains a piece of equipment he would not
 normally have because it is too expensive or"unavailable,"
 but only if it is allowable under the game setting. For
-instance, a character could
-start the game with a small
-laser pistol, but not a mini
-rocket launcher -- unless the
-gamemaster runs a lawless
-setting, as the latter is quite
-powerful, it should be generally unavailable for civilian
-use and even characters with
-military backgrounds should
-have to take the Equipment
-(R2) Advantage to get it.
-Alternatively, the character could take lots of little pieces of equipment instead -- more than what the gamemaster would normally allow.
+instance, a character could start the game with a small
+laser pistol, but not a mini rocket launcher -- unless the
+gamemaster runs a lawless setting, as the latter is quite
+powerful, it should be generally unavailable for civilian 
+use and even characters with military backgrounds should
+have to take the Equipment (R2) Advantage to get it.
+Alternatively, the character could take lots of little pieces of 
+equipment instead -- more than what the gamemaster would normally allow.
 Basically, equipment totaling in cost not more than about 1,000 credits
 (or a price difficulty of Moderate) would ﬁt in this category.
 Restrictions/Notes: Typically, as long as the character is not careless
@@ -3221,7 +3217,9 @@ unless the Burn-out Disadvantage is included with it. Equipment (R1)
 may be selected more than once or in combination with higher ranks
 of the Equipment Advantage with gamemaster approval.
 
-Equipment (R2)
+
+### Equipment (R2) ###
+
 The character gains a piece of equipment that would be difficult
 to obtain because of expense or availability. Weapons that are usually
 out of reach of the normal citizen are available. Similarly, equipment
@@ -3229,25 +3227,26 @@ totaling in cost not more than several thousand credits (or a price
 difficulty of Difficult) would probably be okay. In game settings that
 have rare alien technology, objects of fairly low power probably could
 be obtained using this Advantage.
+
 Restrictions/Notes: See Equipment (R1) for more information.
 Equipment (R2) may be selected more than once or in combination with
 higher ranks of the Equipment Advantage with gamemaster approval.
 
-Equipment (R4)
-Really bizarre and, most likely, powerful
-equipment is open to the character -- but only
-one such piece or a collection of small, related
-pieces. For very powerful items, no one else can
-use the equipment without making some sort
-of exhaustive skill total, and it can probably
-not be repaired or duplicated."Special effects"
-equipment ﬁts into this category.
-The equipment could be a weapon more
-powerful than most personal weapons in the game setting. Or it could
-be a Metaphysics manipulation that could not normally be used by the
-character or anyone else in the world at its relatively low difficulty. Or
-it could be a collection of gadgets and gizmos that can perform many
-different mundane tasks -- but how, nobody knows.
+
+### Equipment (R4) ###
+
+Really bizarre and, most likely, powerful equipment is open to the 
+character -- but only one such piece or a collection of small, related 
+pieces. For very powerful items, no one else can use the equipment 
+without making some sort of exhaustive skill total, and it can probably
+not be repaired or duplicated."Special effects" equipment ﬁts into 
+this category. The equipment could be a weapon more powerful than most 
+personal weapons in the game setting. Or it could be a Metaphysics 
+manipulation that could not normally be used by the character or anyone 
+else in the world at its relatively low difficulty. Or it could be a 
+collection of gadgets and gizmos that can perform many different 
+mundane tasks -- but how, nobody knows. 
+
 Restrictions/Notes: The character should have Disadvantages
 related to the equipment. Maybe Enemies want to steal it, or it has
 an Advantage Flaw so it doesn't work all the time -- or the same way
@@ -3256,47 +3255,44 @@ so powerful that opponents fall before him. In game mechanic terms,
 the equipment should be a just slightly more powerful or more useful
 item than what is available normally. The more powerful the item, the
 more Disadvantages and restrictions should be related to it.
-Example: A player might choose to give her character an average blaster
-and increase the damage score by two points. As this is a modest adjustment, her gamemaster also allows the gun to never need reloading.
 
-Fame (R1)
+Example: *A player might choose to give her character an average blaster
+and increase the damage score by two points. As this is a modest 
+adjustment, her gamemaster also allows the gun to never need reloading.*
+
+
+### Fame (R1) ###
+
 The character, for some reason, is fairly well known. The extent of
 the character's fame should be determined by the game setting. In a
 global game setting, the character has moderate recognition value in
 a particular region. In a smaller game setting (like post-nuclear war
-
-29
-
-Chapter 2
-
 settings restricted to one planet), the character might have more dense
 penetration of recognition, but with less wide-sweeping effects (for
 instance, everyone in town knows who they are, but no one from more
 than a few days' travel away has ever heard of them).
+
 Whenever the gamemaster thinks the character might be recognized
 (and the Fame Advantage would come into play), the gamemaster should
-roll 3D. If the result is 15 or higher, the character is recognized. Otherwise, he will have to do something "special" and appropriate for why
+roll 3D. If the result is 15 or higher, the character is recognized. 
+Otherwise, he will have to do something "special" and appropriate for why
 he's famous to be recognized (and gain the beneﬁts of recognition).
+
 If a character with Fame (R1) is recognized, he should gain small
 perks, like being seated in a restaurant early, avoiding small legal hassles
-(like routine customs checks), or just be treated generally better (perhaps the character gets a couple of bonus points to persuasion, con, and
-command attempts). Like most roleplayed Advantages, the gamemaster
+(like routine customs checks), or just be treated generally better 
+(perhaps the character gets a couple of bonus points to persuasion, con, 
+and command attempts). Like most roleplayed Advantages, the gamemaster
 should decide on the results.
-
-Patron (R1) means the character has a backer who will fund one
-expedition, with all proceeds going to the patron. All of the costs
-(room, board, travel, expenses) are covered by the patron, with the
-understanding that the player's character is basically just a worker-forhire. Anything that the adventurer discovers or purchases becomes the
-property of the patron.
 
 Restrictions/Notes: Fame may be chosen multiple times as long as
 the player deﬁnes how each Fame is different. For example, a character
 might have Fame (R1) in regards to his ﬁghting abilities, but another
 type of Fame pertaining to his intelligence or some other ability.
 
-Patron (R3)
 
-Fame (R2)
+### Fame (R2)###
+
 The character is very well known. In a global setting, the character
 would probably be recognized in most fairly civilized cultures and
 almost deﬁnitely in her home culture. The gamemaster should roll 3D
@@ -3306,31 +3302,72 @@ this reaction comes on an 8 or more. If the character draws attention
 to herself in her own culture (identiﬁes herself ), then the reaction will
 most likely be automatic (gamemaster's option).
 
-Patron (R2)
+Restrictions/Notes: At this level of fame, the character should be
+treated like a famous author, an occasional holo-vid star, or a reasonably
+recognizable sports ﬁgure. Some gamemaster characters will be immune
+to this fame, but most will have some sort of (generally positive) 
+reaction. Otherwise, see Fame (R1) for more information.
+
+
+### Fame (R3) ###
+
+There is a pretty good chance anyone in the game setting (unless
+it is a multi-world setting) will recognize the character (or what the
+character is) fairly easily. The base die total needed is 8, and it can be
+modiﬁed by circumstance. The character has the status of a holo-vid
+star, a famous politician, or a top-ranked sports hero.
+
+Restrictions/Notes: As with Fame (R1) and Fame (R2) -- certain
+people just won't be impressed. In addition, characters with Fame (R3)
+should almost always have to take the Disadvantage Infamy at least
+Rank 1 -- no matter how nice, talented, or generally well-liked a person
+is, there's always somebody out there who wishes them harm.
+
+
+### Patron (R1) ###
+
+The odds are that most players' characters are not independently
+wealthy. But they might have access to wealth in the form of patrons.
+If the characters are treasure hunters, patrons might include museums,
+universities, private philanthropists, news agencies, megacorporations,
+or even retired adventurers.
+
+Patron (R1) means the character has a backer who will fund one
+expedition, with all proceeds going to the patron. All of the costs
+(room, board, travel, expenses) are covered by the patron, with the
+understanding that the player's character is basically just a 
+worker-forhire. Anything that the adventurer discovers or purchases 
+becomes the property of the patron.
+
+
+### Patron (R2) ###
+
 A Patron (R2) expects much less from those she backs. Though
 the character may receive less ﬁnancial support, she gains a greater
 freedom of action.
+
 A news agency looking for hot stories is a common example of an
 organization qualifying for Patron (R2). They cover a character's travel
 expenses and any legal fees in exchange for inspiring stories. Anything
 that the character ﬁnds on his own (like artifacts) remain his own.
 
+
+### Patron (R3) ###
+
 A Patron (R3) gives a character a limited stipend and covers most
 expenses, then offers to purchase whatever the character recovers.
 Without consistent results, the funding will be cut off.
 
-Size (R1 or more)
+
+### Size (R1 or more) ###
+
 The character is much larger or smaller than the average Human.
 For every rank in this Advantage, the player receives up to +3 to his
 character's scale modiﬁer (which starts at zero). The player must specify
 whether the character is bigger or smaller than the average Human.
 
-Restrictions/Notes: At this level of fame, the character should be
-treated like a famous author, an occasional holo-vid star, or a reasonably
-recognizable sports ﬁgure. Some gamemaster characters will be immune
-to this fame, but most will have some sort of (generally positive) reaction. Otherwise, see Fame (R1) for more information.
-
-Restrictions/Notes: Generally, the character's weight is proportional for his height, but a Disadvantage, such as Hindrance: Reduced
+Restrictions/Notes: Generally, the character's weight is proportional 
+for his height, but a Disadvantage, such as Hindrance: Reduced
 Toughness, or a Special Ability, such as Hardiness, could be used to
 represent a very thin or very large character (respectively). Likewise, to
 reﬂect a longer stride, the character should have the Hypermovement
@@ -3338,29 +3375,8 @@ Special Ability, while a shorter stride would get the Hindrance: Shorter
 Stride Disadvantage. Obviously, no character may take the Size: Large
 and the Size: Small Advantages.
 
-Fame (R3)
 
-Trademark Specialization (R1)
-
-There is a pretty good chance anyone in the game setting (unless
-it is a multi-world setting) will recognize the character (or what the
-character is) fairly easily. The base die total needed is 8, and it can be
-modiﬁed by circumstance. The character has the status of a holo-vid
-star, a famous politician, or a top-ranked sports hero.
-Restrictions/Notes: As with Fame (R1) and Fame (R2) -- certain
-people just won't be impressed. In addition, characters with Fame (R3)
-should almost always have to take the Disadvantage Infamy at least
-Rank 1 -- no matter how nice, talented, or generally well-liked a person
-is, there's always somebody out there who wishes them harm.
-
-Patron (R1)
-The odds are that most players' characters are not independently
-wealthy. But they might have access to wealth in the form of patrons.
-If the characters are treasure hunters, patrons might include museums,
-universities, private philanthropists, news agencies, megacorporations,
-or even retired adventurers.
-
-30
+### Trademark Specialization (R1) ###
 
 This Advantage works a lot like a combination of the Skill Bonus
 Special Ability and Fame. The character excels at one very speciﬁc thing,
@@ -3371,19 +3387,20 @@ the gamemaster's option, people acknowledge how"naturally good" the
 character is at the specialization, and this might produce interesting
 situations. Also, the character might be contacted or recognized by
 certain people because of how good he is at that one specialization.
+
 Restrictions/Notes: This character acts as if trained in the use
 of this skill. No character may have more than two Trademark Specializations.
 
-Wealth (R1 or more)
+
+### Wealth (R1 or more) ###
+
 The character with this Advantage probably has an estate or a
 series of investments that will keep him comfortable for a good long
 time. Alternatively, the character could be minor nobility, have a large
-
-Character Options
-
 trust fund, or be married to the owner of a large corporation. This
 doesn't mean the character can buy everything -- he is still subject to
 the availability of items.
+
 For each rank in this Advantage, the characters has 5,000 credits in
 readily available cash once per month. The accounts never have more
 than 5,000 credits times the number of ranks each month (fees and
@@ -3392,6 +3409,7 @@ of the month. Additionally, adventure bonuses could temporarily raise
 the ﬁgure, though the character would have to purchase an additional
 rank of Wealth to make the increase permanent. Players in games using
 the Funds attribute gain +2 per rank to all such totals.
+
 Restrictions/Notes: Characters should select only one rank of
 Wealth, unless there is some reason they might have Wealth (R1) and
 another rank of Wealth in other circumstances. Also, this wealth does
@@ -3400,51 +3418,49 @@ concern to the character at times), but it should be there most of the
 time. Gamemasters will probably think of ways to work around wealth
 and players should play along -- if you can throw money at every
 problem, then they aren't that much fun to try to solve, are they?
+
 The most likely Disadvantage a character with Wealth would have
 is Devotion, such as "helping all those in need" or "righting all wrong
 doing." Otherwise, there should be fairly extensive reasons why the
 character can't use his wealth to resolve every situation -- or hire
 somebody to do it for him (which is really the same thing).
 
+
 Special Abilities
+-----------------
 
 Before allowing players to create characters with Special Abilities,
 the gamemaster may wish to peruse this list to see if there are any
 she would prefer not to appear in her games. She may also decide
-that certain Special Abilities
-require speciﬁc Limitations on
-them or Disadvantages on the
-character.
-Any Special Ability that
-gives a bonus to the die roll or
-the skill total also allows the
-character to use that skill as if
-trained. Bonuses received from
-taking multiple ranks of the
-same Special Ability are added
-together.
-Skills gained with a Special
-Ability are not improved when
-that Special Ability is improved.
-Instead, they are increased as a
-normal skill.
-Unless stated otherwise
-in the Special Ability, it does
-not count as an action for the
-character to get the bonus
+that certain Special Abilities require speciﬁc Limitations on
+them or Disadvantages on the character.
+
+Any Special Ability that gives a bonus to the die roll or
+the skill total also allows the character to use that skill as if
+trained. Bonuses received from taking multiple ranks of the
+same Special Ability are added together.
+
+Skills gained with a Special Ability are not improved when
+that Special Ability is improved. Instead, they are increased as a
+normal skill. 
+
+Unless stated otherwise in the Special Ability, it does
+not count as an action for the character to get the bonus
 from a Special Ability. However, except for such automatic
-abilities as Natural Armor or
-Combat Sense, the character
+abilities as Natural Armor or Combat Sense, the character
+must state that she is relying on the Special Ability or she 
+does not receive the bonus.
 
-must state that she is relying on the Special Ability or she does not
-receive the bonus.
 
-Accelerated Healing (3)
+### Accelerated Healing (3) ###
+
 The character gains a +1D per rank to his Strength for all natural
 healing attempts, and a Critical Failure is treated as 1, rather than
 having a negative effect on the die roll.
 
-Ambidextrous (2)
+
+### Ambidextrous (2) ###
+
 The character is equally adept with her right or left hand. She may
 perform an action with each hand in the same round, and, though she
 takes the multi-action penalty, she receives a +1 per rank to each skill
@@ -3457,7 +3473,9 @@ though, of course, not every task covered by each skill is relevant. A
 character may take multiple ranks of this Special Ability for two pairs
 of hands and multiple ranks for each additional manipulative limb.
 
-Animal Control (3)
+
+### Animal Control (3) ###
+
 This gives the character the ability to control one particular species
 of animal, bird, or insect. The character gets a +10 bonus to her survival:
 animal handling total for that species. She must generate a survival:
@@ -3465,99 +3483,113 @@ animal handling versus the Knowledge or willpower of the animal (more
 than one animal can be targeted, although this is a multi-action). If
 the character gets a high enough success (gamemaster's decision), the
 animal is controlled for a number of minutes equal to the survival:
-animal handling skill total times 10. A controlled animal serves its master faithfully,
-even sacriﬁcing itself on her behalf. The
+animal handling skill total times 10. A controlled animal serves its 
+master faithfully, even sacriﬁcing itself on her behalf. The
 Special Ability has a range of sight or voice.
-The character may gain one more species
-for each rank.
-Note: A swarm of insects counts as one
-animal, as does a school of small ﬁsh. Any
-creature with a Knowledge die code of less
-than 2D could be considered an animal,
-unless the gamemaster says otherwise.
+The character may gain one more species for each rank.
 
-Armor-Defeating Attack
-(2)
-When a character with natural weapons (the character's ﬁsts, claws, teeth, etc.)
-attacks someone protected by armor, this
-ability negates the Armor Value, up to +1D
-per rank. The character must specify how
-the attack negates the armor: an acidic mist
-slips through any openings, nanotech claws
-reach directly to the ﬂesh, and the like. There
-should be at least one type of armor that is
-unaffected by this.
+Note: A swarm of insects counts as one animal, as does a school of small 
+ﬁsh. Any creature with a Knowledge die code of less than 2D could be 
+considered an animal, unless the gamemaster says otherwise.
 
-31
 
-Chapter 2
+### Armor-Defeating Attack (2) ###
 
-Atmospheric Tolerance (2)
+When a character with natural weapons (the character's ﬁsts, claws, 
+teeth, etc.) attacks someone protected by armor, this ability negates 
+the Armor Value, up to +1D per rank. The character must specify how
+the attack negates the armor: an acidic mist slips through any openings, 
+nanotech claws reach directly to the ﬂesh, and the like. There should 
+be at least one type of armor that is unaffected by this.
+
+
+### Atmospheric Tolerance (2) ###
+
 The character can breathe one form of atmosphere (gas or liquid)
 that would be lethal to most other characters. A character may not have
 more than one rank in this ability, but he may have different versions
 for different atmospheres.
 
-Attack Resistance (2)
+
+### Attack Resistance (2) ###
+
 The character is highly resistant to a certain type of attack. She
 gains +1D per rank to her damage resistance total against this type
 of attack.
-Energy Attacks: Resistant to blasts of heat, ﬁre, electricity, radiation, light, cold, and so on, but not the ability to survive in extremes
-of such environments.
-Extranormal Attack: Resistant to damage from any Extranormalbased (such as Metaphysics) attack.
-Mental Attacks: Resistant to mental harm from any source. It does
+
+* Energy Attacks: Resistant to blasts of heat, ﬁre, electricity, 
+radiation, light, cold, and so on, but not the ability to survive in 
+extremes of such environments.
+
+* Extranormal Attack: Resistant to damage from any Extranormal based 
+(such as Metaphysics) attack. 
+
+* Mental Attacks: Resistant to mental harm from any source. It does
 not provide protection against interaction attempts.
 
-Attribute Scramble (4)
-The character can adjust an opponent's (or a friend's) attributes temporarily. She gains the scramble skill at +1 per rank in a single version of
-this Special Ability (it is a Perception skill, described only here), which she
-also can increase as a normal skill. The scrambler must pick as her focus
-either physical or mental attributes, though never Extranormal, Funds,
-or Special Abilities. (Physical attributes encompass Agility, Strength,
-and Mechanical. Mental attributes include Knowledge, Perception, and
-Technical.) She only may do both by taking this Special Ability once
-for each version.
+
+### Attribute Scramble (4) ###
+
+The character can adjust an opponent's (or a friend's) attributes 
+temporarily. She gains the scramble skill at +1 per rank in a single 
+version of this Special Ability (it is a Perception skill, described 
+only here), which she also can increase as a normal skill. The scrambler 
+must pick as her focus either physical or mental attributes, though 
+never Extranormal, Funds, or Special Abilities. (Physical attributes 
+encompass Agility, Strength, and Mechanical. Mental attributes include 
+Knowledge, Perception, and Technical.) She only may do both by taking 
+this Special Ability once for each version.
+
 When she goes after a target with an brawling roll, she may choose
 (as a multi-action) to also perform a scramble attack versus a roll of
-her target's willpower or Knowledge. (This is not an action for the target.) No close combat attack is necessary for a willing target, though
+her target's willpower or Knowledge. (This is not an action for the 
+target.) No close combat attack is necessary for a willing target, though
 the willpower or Knowledge must still be made. However, the act of
 scrambling still counts as an action.
+
 If the scrambler's total is higher (not equal to), she may shift her
 target's attribute points around, within certain limits. The close combat
 attack does no damage.
+
 She may increase one or more related attributes by a number equal to
 the amount she takes away from other related attributes -- but she may
 not decrease or increase any one attribute by more than 2D (6 pips).
+
 The change lasts for a number of rounds equal to the difference
 between the scramble attack and the target's willpower or Knowledge.
 A character who has been adjusted cannot be scrambled again until
 the original adjustment wears off.
 
-Blur (3)
+
+### Blur (3) ###
+
 The character can appear indistinct to the naked eye or most visual
 aids (binoculars, cameras, etc.). Commonly, a character with this Special
 Ability will only be spotted out of the corner of the eye. This adds 1 to
 the character's dodge, sneak, and hide totals, as well as +1 to all default
 search, investigation, and attack difficulties against the character that
 the blurring character is not actively trying to defeat. (These modiﬁers
-
-32
-
 are per rank in this Special Ability.) On the character's turn, she may
 automatically become blurry, without taking an action, and remain
 so until she chooses otherwise. Blurring also makes it difficult for the
 character to hold a conversation with others.
 
-Combat Sense (3)
+
+### Combat Sense (3) ###
+
 The character can sense danger. She is never surprised. Rather,
 she and her attacker must determine initiative as normal. Even if the
 attacker still goes before the character does, any combat modiﬁer from
 the surprise is reduced by 2. A character may not have this ability
 more than once.
 
-Confusion (4)
-The character can hamper the thoughts of those he comes into physical contact with, at will. He gains the confuse skill at +1 per rank (it is a
+
+### Confusion (4) ###
+
+The character can hamper the thoughts of those he comes into physical 
+contact with, at will. He gains the confuse skill at +1 per rank (it is a
 Perception skill, described only here), which he can increase as normal.
+
 As a multi-action with a brawling attack, he may also perform a
 confusion attack versus his target's willpower or Knowledge. (This is not
 an action for the target.) If his total is higher (not equal to), the target
@@ -3566,14 +3598,18 @@ game-enhancing cards with the adventures) or spend points, and they
 receive a +5 difficulty modiﬁer to even simple actions for a number of
 rounds equal to two times the rank of this Special Ability.
 
-Darkness (3)
+
+### Darkness (3) ###
+
 The character can project a ﬁeld of darkness around himself, adding
 +5 per rank to the difficulty of any sight-based skill totals. The ﬁeld
 extends in a half-sphere around the character with a radius equal to
 one meter per rank. The ﬁeld can be maintained for a maximum of
 one minute per rank before dispersing.
 
-Elasticity (1)
+
+### Elasticity (1) ###
+
 The character can stretch, elongate, and compress his body, allowing
 him to expand his height or become so narrow he can pass through
 keyholes, cracks, or any other opening he could normally see through.
@@ -3582,24 +3618,25 @@ on their depth. The character gains +1 per rank to acrobatics, dodge,
 or sleight of hand totals, in addition to con totals when using that skill
 to disguise his own appearance.
 
-Endurance (1)
+
+### Endurance (1) ###
+
 The character has great endurance, and gains a +3D per rank to
 Strength or stamina checks when performing taxing physical tasks
 (such as holding one's breath underwater for a long period or running
 a long distance).
 
-Enhanced Sense (3)
+
+### Enhanced Sense (3) ###
+
 One of the character's ﬁve senses is heightened to abnormal levels.
 The bonus to the skill total received depends on the sense: sight is +1;
 hearing is +2; touch, taste, or smell are +3. The bonus is per rank and
 applies to all skills related to the sense. To have multiple enhanced senses,
 this Special Ability must be taken at least once for each sense.
 
-Character Options
 
-Environmental Resistance (1)
-
-Flight (6)
+### Environmental Resistance (1) ###
 
 The character is resistant to extremes of heat, cold, and pressure and
 gains a +3D per rank to Strength or stamina checks to resist ill effects
@@ -3607,64 +3644,68 @@ from these environmental conditions. The character is not resistant to
 heat or cold attacks, as these come and go too quickly for the Special
 Ability to provide protection.
 
+
+### Flight (6) ###
+
 The character can ﬂy, either by nature or by virtue of having wings.
 The character's ﬂying rate equals his base Move times 2 times the number
 of ranks. The ﬂying/0-G skill is required to maneuver.
 
-Extra Body Part (0)
-The character has an extra
-limb or organ. If external, these
-may be secondary arms or legs, a
-tail, or some more exotic bodily
-addition, such as ﬁns, tentacles, or
-antennae. If internal, the parts are
-organs such as extra eyes, hearts,
-or mysterious glands. Unless
-specified by a Disadvantage
-or Limitation, the extra parts
-are included in the hero's body
-tastefully. Additionally, except in
-cases where the character has an
-Enhancement or another Special
-Ability that uses this one (for
-example, Extra Body Part: Tail
-and Natural Hand-to-Hand
-Weapon: Tail), the extra part is
-nonfunctional. A character may
-have only one rank in this Special
-Ability, but she may have multiple
-versions to represent multiple
+
+### Extra Body Part (0) ###
+
+The character has an extra limb or organ. If external, these
+may be secondary arms or legs, a tail, or some more exotic bodily
+addition, such as ﬁns, tentacles, or antennae. If internal, the parts are
+organs such as extra eyes, hearts, or mysterious glands. Unless
+specified by a Disadvantage or Limitation, the extra parts
+are included in the hero's body tastefully. Additionally, except in
+cases where the character has an Enhancement or another Special
+Ability that uses this one (for example, Extra Body Part: Tail
+and Natural Hand-to-Hand Weapon: Tail), the extra part is
+nonfunctional. A character may have only one rank in this Special
+Ability, but she may have multiple versions to represent multiple
 additional organs or limbs.
 
-Extra Sense (1)
-The character can detect
-something that a normal Human cannot, such as changes in pressure, seismic activity, radiation ﬂuctuations, and so on. She gains a
-+1D to her search rolls in attempting to detect the speciﬁc energy or
-environmental change and +1D to her investigation rolls in ﬁguring
-out source or other relevant information. The gamemaster may also
-allow a +1 skill total bonus to other activities that would beneﬁt from
-whatever the extra sense can detect. All modiﬁers are per rank in this
-Special Ability.
 
-Fast Reactions (3)
-The character gains +1D per rank to his Perception when determining initiative, and, for up to three times during the adventure, he may
+### Extra Sense (1) ###
+
+The character can detect something that a normal Human cannot, 
+such as changes in pressure, seismic activity, radiation ﬂuctuations, 
+and so on. She gains a +1D to her search rolls in attempting to detect 
+the speciﬁc energy or environmental change and +1D to her investigation 
+rolls in ﬁguring out source or other relevant information. The gamemaster 
+may also allow a +1 skill total bonus to other activities that would beneﬁt 
+from whatever the extra sense can detect. All modiﬁers are per rank in 
+this Special Ability.
+
+
+### Fast Reactions (3) ###
+
+The character gains +1D per rank to his Perception when determining 
+initiative, and, for up to three times during the adventure, he may
 receive one additional action for one round.
 
-Fear (2)
+
+### Fear (2) ###
+
 The character can provoke fear in those who can see or hear him.
 He gains a +1 per rank to all intimidation totals and combat defense
-difficulties against those so affected. The willpower or Knowledge difﬁculty to resist a Fear attack is 15.
+difficulties against those so affected. The willpower or Knowledge 
+difﬁculty to resist a Fear attack is 15.
 
-Glider Wings (3)
+
+### Glider Wings (3) ###
+
 The character can ﬂy by drifting with air currents, provided there is
-sufficient wind. The gamemaster decides
-how much wind there is available and
-how fast it moves the glider. Characters
-with this Special Ability need the ﬂying/0-G skill to control their passage. A
-character may not have this ability more
-than once.
+sufficient wind. The gamemaster decides how much wind there is available 
+and how fast it moves the glider. Characters with this Special Ability 
+need the ﬂying/0-G skill to control their passage. A character may not 
+have this ability more than once.
 
-Hardiness (1)
+
+### Hardiness (1) ###
+
 The character can take damage better
 than normal. She add 1 per rank to her
 damage resistance total against any type

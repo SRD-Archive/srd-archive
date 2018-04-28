@@ -96,7 +96,7 @@ The Body Points for each entry were determined by multiplying the
 number in front of Strengths "D” by 3, adding the pips, and adding 10.
 
 All entries in this book have been given three Wound levels (Stunned, 
-Wounded, and Severely Wounded). Use the “Wound Levels" chart on page 76 
+Wounded, and Severely Wounded). Use the "Wound Levels" chart on page 76 
 of the D6 Space Rulebook, dropping Dead to the Incapacitated level. 
 Thus, if the creature takes nine or more points of damage or takes a 
 fourth Wound level, it's Dead.
@@ -131,13 +131,12 @@ Species packages may be used with any of the character
 creation systems, though they work easiest with the defined
 limits or creation points methods.
 
-first decide on the species you want your character to be.
+First decide on the species you want your character to be.
 Note the cost of that package.
 
 Those using templates or the defined limits method need
 to reduce the number of skill dice their characters start with
 by the amount listed in the "Total defined limit cost" section.
-
 If the template does not have enough skill dice to pay for the
 package, then you have two options: (1) You can pick another
 species that has a lower cost. (2) You can select Disadvantages,
@@ -149,58 +148,84 @@ limits method may spend attribute dice to buy a species pack-
 age. The "Total defined limit cost” section notes how many
 attribute dice you must discard to get the package.
 
-5
+Those using the creation points method subtractthe amount
+listed in the "Total creation point cost" section.
 
-figuuttnaatu
+Regardless of the method that you employ, you also can
+pick Disadvantages to offset some or all ofthe species package
+cost. Remember that one rank of a Disadvantage equals one
+skill die or one creation point.
+
+Note that one species in this book, the Mareen, has a
+character package that actually gives extra creation points or
+skill dice for choosing them. However, the base package doesn't
+allow them any means of getting off their homeworld, so those
+extra points are usually spent immediately to give them the
+Equipment to do so.
+
+Once you've paid for the package, continue making a
+character as normal.
+
+You'll notice that a few ofthe species packages do not follow
+the"maximum of 10 Disadvantage ranks” suggestion given in
+the rulebook. This is because every Disadvantage (as well as
+Advantage and SpecialAbility) has a reason for being there. Of
+course, to be a character ofthat species, the player may not choose
+to delete or ignore any part of the package (unless specified in
+the package). Players who want to design their own characters
+inspired by but not exactly like the packages are still limited by
+the Disadvantage maximum, unless the gamemaster allows otherwise.
+
+Generally, players taking species packages may only
+include up to additional five ranks of Disadvantages or a
+number ofranks of Disadvantages equal to the cost of the package, 
+whichever is greater. For particularly good roleplayers Whose 
+Disadvantages and character concepts are more than simply words 
+and numbers on a page, the gamemaster may be more ﬂexible
+with these rules.
+
+Players may select only one species package for each char
+acter, though they may discuss with their gamemaster ways
+to create hybrid packages.
+
+
+Making Your Own Species Package
+-------------------------------
 
 The process of making your own species packages is both
 straightforward and challenging.
 
-Step 1: Describe the species, You can find tips and query
+Step 1: Describe the species, You can find tips and questtions 
+on pages 41-42 of the D6 Space Rulebook. If you'd like to generate 
+a planet for them, use the system on pages 85-83 of the D6 Space Ships 
+supplement. This system also includes entries related to the 
+populace of the planet, which can be a useful place to start. 
+Likewise, the "Travel and Combat" chapter of that book contains a 
+bounty of ideas for space-faring, authorities and regulations.
 
-tions on pages 41-42 of the D6 Space Rulebook. If you'd like
-to generate a planet for them, use the system on pages 85-83
 
-of the D6 Space Skips supplement. This system also includes
-entries related to the populace of the planet, which can b ,
 
-Those usingthe creation points method subtractthe amount
-listed in the4'Total creation point cost" section.
-Regardless of the method that you employ, you also can
-pick Disadvantages to offset some or all ofthe species package
 
-useful place to start. Likewise, rhe“Travel and Combat" chaps:
 
-cost. Remember that one rank of a Disadvantage equals one
-skill die or one creation point.
-Note that one species in this book, the Mareen, has a
-character package that actually gives extra creation points or
-skill dice for choosing them. However, the base package doesn't
-allow them any means ofgetting offtheir homeworld, so those
-extra points are usually spent immediately to give them the
-Equipment to do so.
-Once you've paid for the package, continue making a
-character as normal.
-You'll notice that a few ofthe species packages do not follow
-the"maximum of 10 Disadvantage ranks” suggestion given in
-the rulebook. This is because every Disadvantage (as well as
+
 
 species, go through thet'Character Options” chapter selec ' .
 
-Advantage and SpecialAbility) has a reason for being there. Of
+
+
+
+
+
 
 LUM
 
-”all“!!! your 0W1]
+”all"!!! your 0W1]
 SBBBiBS Packages
 
-course, to be a character ofthat spe)
 
-cies, the player may not choose
 
-ter of that book contains a bounty of ideas for space-faring,
-authorities and regulations.
-Step 2: Once you have several key features for your new“
+
+Step 2: Once you have several key features for your new"
 
 Disadvantages, Advantages, and Special Abilities.
 '
@@ -221,59 +246,49 @@ same as the first). This is recommended to prevent some ab,
 ofthe species packages. Ifthe gamemas
 chooses to have common Special Ali
 
-to delete or ignore any part of
+
 
 ties (where additional ranks cost
 
-the package (unless specified in
+
 
 a mere one point each), he sho
 
-the package). Players who want
+
 
 be certain that the Disadvanta
 
-to design their own characters
-inspired by but not exactly like
+
+
 
 come up frequentlyduringaclv
 tures. (The gamemaster also it
 need to refigure any publish
 package costs.)
 
-the packages are still limited by
-the Disadvantage maximum,
-unless the gamemaster allows
-otherwise.
 
 Step 4: If desired, add arts-s
 bute minimums or maximum
 recommended skills, recommen
 
-Generally, players taking
-species packages may only
+
 
 optional Disadvantages, Adv
 
-include up to additional five
-ranks of Disadvantages or a
-number ofranks ofDisadvan-
 
-rages, and Special Abilities, a
 
-rages equal to the cost of the
+
+
+rages, and Special Abilities, a 
+
+
 
 force some uniformity in membe IV
 Remember that, unless othem'
 specified, all characters attribut
 
-package, whichever is greater.
-For particularly good role-
-players Whose Disadvantages
-and character concepts are
-more than simply words and
 
-numbers on a page, the gamer
+
 
 any other desired notes. This
 an optional step, but one that cats
@@ -286,11 +301,11 @@ a maximum of 5D; attribut ?
 
 .°.
 
-master may be more ﬂexible
+
 
 sented by the lncreasedAttribu
 
-with these rules.
+
 
 Special Ability.
 
@@ -323,9 +338,6 @@ sort
 
 
 
-Players may select only one species package for each char
-acter, though they may discuss with their gamemaster ways
-to create hybrid packages.
 
 
 
@@ -485,8 +497,8 @@ areas, the ratio is about one to 50 or more. Genetically speak-
 
 and many others. It's designed to live anywhere people can
 live, and thrive in a number of environments effectively The
-original name of this creature was the “OmniBeast,” but over
-the centuries the term “borkine” has come to be the common
+original name of this creature was the "OmniBeast,” but over
+the centuries the term "borkine” has come to be the common
 
 ing, the borkine does not seem to suffer from the breeding
 
@@ -574,7 +586,7 @@ Wound heels: 3
 Hemral .Alailities: gore (damage +2D);
 margle,dsmage+3l3}; resistance to disease,
 posses, cold, and heat {stamina +213); large
-size “seals rains 3?}
+size "seals rains 3?}
 
 , " 1 > Humanism
 oils for dinner.
@@ -651,7 +663,7 @@ on remote space colonies worship
 
 the chalsamar as divineharbingers,
 and they sacrifice'iniidels” to stay
-their “righteous” wrath.
+their "righteous” wrath.
 Thesecreatures usuallyhappen
 into combat instead of initiating
 
@@ -909,7 +921,7 @@ Notes: if TRUE(ship.s!ow} then ship.luneh
 
 hill lull"
 
-I“
+I"
 
 plead for their assistance in ridding their
 realm of one of these horrors.
@@ -1045,7 +1057,7 @@ l8
 based skills used while in it by +5; lasts for a maximum of 2
 minutes; extends 5 meters around creature); sinuous (+3 to
 
-“lg
+"lg
 
 position, its spine locks and its body provides a natural lashing
 
@@ -1184,7 +1196,7 @@ nasty, venomous bite. Woe be it to the unwary
 hunter who underestimates them!
 
 Tunical nuslnliuner
-lm': "mil “H".-
+lm': "mil "H".-
 
 wgm
 
@@ -1221,7 +1233,7 @@ until the victim dies or is treated; Very Difficult
 stamina roll to resist); ﬂexibility (+ 1D to acrobatics
 and dodge rolls); small size (scale value 5)
 
-“BEESSiIIQ: I3 Snare ﬂIiBIISJ > llvnosanients
+"BEESSiIIQ: I3 Snare ﬂIiBIISJ > llvnosanients
 
 Hates: Keep some chilled for parties.
 
@@ -1278,7 +1290,7 @@ mimicking the local savanna grows in
 
 its place. Criminals engaged in grow»
 
-[l x“
+[l x"
 
 _ the suckers can slowly consume the
 i body beneath the beast.
@@ -1328,7 +1340,7 @@ audience chambers; such captive beasts
 rarely survive long, as their protective
 filr Shrivels and dies in the absence of
 
-“9-.
+"9-.
 
 , every two years). The parent maulet
 , leaves halfthe carrion to the oifspring,
@@ -1455,7 +1467,7 @@ prized by collectors, who call them
 
 it's likely that, first, comets and,
 
-“grottographsf' The pieces draw high
+"grottographsf' The pieces draw high
 
 later, space transports carried it
 through space. Once the seeds hit
@@ -1493,10 +1505,10 @@ circumstantial strangers to known
 space, the grotto gatherer seems to
 
 ”id
-“35
+"35
 lg
 77
-“RB
+"RB
 
 gatherer's slime is the possibility that
 
@@ -1543,7 +1555,7 @@ Strength 41): lift 5D, stamina 5D
 moisture and available key miner-
 als. Once the feeding has ended, the
 grotto gatherer uses its acidic properties to seep through the
-bedrock toward its next “victim."
+bedrock toward its next "victim."
 Grotto gatherers draw their name from the unusual side
 
 Mechanical 0D
@@ -2280,7 +2292,7 @@ lat vessels that are equipped to haul
 Seafood, marine Creatures and Water
 supplies. Some Planets ban Such ShlP'
 
-ments from known “infection" sites.
+ments from known "infection" sites.
 
 than 90% of their body outside
 ofthe water. Should the creature's
@@ -2406,7 +2418,7 @@ Although they seldom build nests and prefer to rest in mountain
 
 sometimes even creatures with the most benign appearance
 
-crevasses,jungle environments exist as their favored“hunting
+crevasses,jungle environments exist as their favored"hunting
 
 may have quite formidable powers when cornered. At first
 glance, the meek valdusians look to be nothing more than a
@@ -2470,7 +2482,7 @@ WnicaWaluusian
 
 " "'1 ﬂ]]Il]]]]]] N
 
-,0 m-w-vl-Hlul- Ii“
+,0 m-w-vl-Hlul- Ii"
 I
 
 Agility 3D: acrobatics 3D+l, brawling 4D,
@@ -2534,7 +2546,7 @@ hangars, launch pads, and training facilities near or within slave
 
 This feline species maintains a reputation for cruel domi/
 
-nation of “lesser" aliens, an active slave trade, a caste system
+nation of "lesser" aliens, an active slave trade, a caste system
 
 Defensive structures such as barracks, gunnery emplacements,
 
@@ -2558,7 +2570,7 @@ me natural will to dominate others.
 Members of the noble and spy castes maintain slim, lithe
 _' hodies achieved through moderate exercise and carnivorous
 ' diet. Those of the warrior and slaver castes consume more
-“Starches and build more bulky muscles while preserving an
+"Starches and build more bulky muscles while preserving an
 
 , appealing appearance. Most Barathax take part in personal
 combat training, which keeps their reﬂexes sharp and their
@@ -2715,7 +2727,7 @@ Landing Facilities: Docking pads, repair bays, and stor'
 age hangars offer services to visitors' ships within walking
 distance of the Guest Quarter. Barathax control traPfic and
 
-"“-
+""-
 
 OCeanS,
 
@@ -2942,7 +2954,7 @@ J
 Accessing: as Snare AliensJ > ﬂunosaniems
 ' Notes: Add more crew
 
-p I . “*mergallastie ﬂ'ewsieell >
+p I . "*mergallastie ﬂ'ewsieell >
 
 All Barathax enjoy basking in warm light, a tradition
 
@@ -3287,7 +3299,7 @@ Claws (R1, cost 2), + 11) damage
 Accessing: Illi Snaee AliensJ > ﬂnmnsaniems
 ﬂutes: Must rescue crewers.
 
-.*;.9Accessing-.Immhsaniem“animus_
+.*;.9Accessing-.Immhsaniem"animus_
 The Healers
 
 date and time stamps k marking the initiation of the order,
@@ -3322,7 +3334,7 @@ the language of other races it deals with; thus if the word for
 
 selves seemingly without purpose as the sole seif'aware beings
 
-“dealers" is grentbasba to another race, then the androids will
+"dealers" is grentbasba to another race, then the androids will
 he known as Grenthasha. When pressed for what their "true"
 
 Dealers found themselves defining apurpose quicklyThe logic
@@ -3368,7 +3380,7 @@ them and made them sentient at the same time, the Dealers
 
 themselves - sought to make as much money as possible by
 
-actually have printed receipts. The androids' most “holy" text
+actually have printed receipts. The androids' most "holy" text
 
 being completely and utterly fair and forthright. Using a few
 
@@ -3376,7 +3388,7 @@ m for, indeed, they seem to approach this aspect of their life
 
 surviving ships with interstellar drives and knowledge of a
 
-with a dogmatic devotion - is a document entitled “Work
+with a dogmatic devotion - is a document entitled "Work
 Order 710522.” (The title and the text is known because it
 
 few local star systems, the Dealers were able to develop and
@@ -3400,7 +3412,7 @@ acting on 193'35'5 verifiable behalf - would give resolution
 while the emergence of That would probably enable them to
 know their true reason for being.
 
-star is “the Great Client."
+star is "the Great Client."
 
 Nothing is known about the final fates of either the Great
 reator or the Great Client. As best as anyone has been able
@@ -3425,7 +3437,7 @@ utside force; although Work Order 7105 22 has numerous
 perusing: n6 Space AliensJ > ﬂumnsaniems
 ores: This hand comp was grandma's...
 
-Musical “Romance
+Musical "Romance
 Standingjust under two meters tall, Dealers all look very
 similar, with near-featureless metallic humanoid appendages:
 two manipulativearms, two legs providingmotility, a head with
@@ -3512,7 +3524,7 @@ decades, and the whereabouts ofonly two w 94 and 229 - are
 known. Since every other Dealer in creation can be compelled
 to serve these two, they Wield considerable power. Dealer 229
 
-required. Dealer 94 is more of the “hermit on the hill,” gener-
+required. Dealer 94 is more of the "hermit on the hill,” gener-
 ally hidden and mysterious. There are rumors that Dealer 94
 
 "IIIIIBWOI'III
@@ -3558,7 +3570,7 @@ have been numbered incrementally, so a Dealer trade route
 impose too many restrictions on the development ofsuccessors.
 
 might be indicated as "1744447.” The first city formed on a
-Dealer world is also known as “l” with numbers progressing
+Dealer world is also known as "l” with numbers progressing
 upwards; the firstebuilt building is known as "1'; and so on.
 Thus, a Dealer who has a stall in the tenth/founded storefront
 in the thirdlbuilt bazaar ofthe fourth city ofthe Dealer home;
@@ -3604,13 +3616,13 @@ w it's repaid, the Life Debt is a phenomenal obligation,
 emerge from it.
 race the Dealers reproduce essentially by fission, they find
 
-'t two- (or more) parent situations confusing: “It doesn't
+'t two- (or more) parent situations confusing: "It doesn't
 : madvantageous to lockoneselfinto a singleainvestor mutual
 
 rtnership, especially ifoutside arrangements are discouraged."
 'ith the needs for reproduction removed, Dealers have no
 
-ncept of “family" outside of long-term partnerships; they
+ncept of "family" outside of long-term partnerships; they
 efer to make such contracts with other Dealers, since they
 derstand each other.
 
@@ -3636,7 +3648,7 @@ used spacecraft in exchange for three blaster pistols, a handful
 of scholarchips, two liters of Human blood, five transferable
 vouchers for transport anywhere that can be reached in one
 week or less, and 5,971 credits.
-Dealers set aside 10% of all profits to give to their “elders"
+Dealers set aside 10% of all profits to give to their "elders"
 on 1, of which at least 5% are set aside for the return of 193'
 35 and the other 5% go toward upkeep of the Dealer worlds
 (although any extra - of which there is much __ is added to
@@ -3941,7 +3953,7 @@ after an attack by a Verda prowler. The experience seems to
 have affected its circuits in an undiagnosable way, such that
 random unfortunate glitches plague its interactions. The
 superficial damage and scarring on O'Fyvate (as it's known to
-its organic friends) has proven nearly impossible to boil“ out
+its organic friends) has proven nearly impossible to boil" out
 ' completely, and it is unable -- or unwilling - to purchase a
 
 resistance totals against mental harm; Immortality (R1, total
@@ -4308,7 +4320,7 @@ most services catering to spacers, as Gilvahn corporations
 
 for their efforts.
 
-“Ellyn!“
+"Ellyn!"
 Gilvahn revere Vahn, "The Maker," creator god of all
 
 things and friend-protector of the Gilvahn (literally "people
@@ -4542,7 +4554,7 @@ to remote locations with rich resources. Open pit mines often
 tia, and most armed forces rely on conVentional weapons
 and armor. Units sporting hattlesnits receive dangerous
 and near-suicidal assignments.
-“Warren-stompers” fulfill the traditional role of
+"Warren-stompers” fulfill the traditional role of
 exploring and clearing out skewel nests. They protect
 
 employ plasma drills mounted on crane gantries or hydraulic
@@ -4701,7 +4713,7 @@ the user may fire a single shot, singlcfire as multi, orfull auto (see
 
 ﬂilvallll Package
 
-“firearm Options” on page 80 of the D6 Space rulebook).
+"firearm Options” on page 80 of the D6 Space rulebook).
 
 The off-'hand gauntlet sports the suits secondary weapon,
 a closequarters flamethrower. A regulator cylinder, spray
@@ -4905,7 +4917,7 @@ l W '5'E4
 theyhappenedtoreturnaftertheir
 expeditions.
 
-:21“;
+:21";
 
 . o
 
@@ -5057,7 +5069,7 @@ homes, schooling, and civic services.
 
 Gruemor cuisine isn't exceptional enough
 to inspire restaurants around the galaxy, but
-it's innovative “throw everything into the
+it's innovative "throw everything into the
 pot” approach results from their omnivorous
 
 Blights: Plant diseases have devastated some reaches of the forests, leav'
@@ -5413,7 +5425,7 @@ positioning, the ambient light near the user should he low; it
 provides the best results when deployed in space or at night.
 Cost: Difficult (4,555 credits).
 
-“EGGSSlIIH: "6 SHEER MlEIISJ > Hnmnsauienls
+"EGGSSlIIH: "6 SHEER MlEIISJ > Hnmnsauienls
 
 Rates: We still get e-cards from him
 
@@ -5472,7 +5484,7 @@ recipes from different combinations of ingredients. Cost:
 
 Moderate (212 credits).
 
-“mica! firuemor
+"mica! firuemor
 Agility 2D: brawling 3D, firearms 3D
 
 Mechanical 3D: navigation 3D+2, piloting 4D, sensors
@@ -5576,7 +5588,7 @@ with their need to protect it from potential opportunists,
 
 Physical Annearance
 The Hurshuka (as they are known collectively - a singular
-member is a“l-iurshuk”) are large bipedalhumanoids, standing
+member is a"l-iurshuk”) are large bipedalhumanoids, standing
 at about three meters tall and weighing around 250 kilograms.
 Being coldeblooded, they have no hair or fur, and the gender
 dificerences are subtle. Their most noteworthy feature is the
@@ -5601,7 +5613,7 @@ his hidevhues,” while an elder who has a spark of passion
 or quickness about him might be said to have "donned his
 mate-stripes."
 
-The Hurshuka homeworld -- called Ala'k (or“Paraclise”)
+The Hurshuka homeworld -- called Ala'k (or"Paraclise”)
 -- is a swamp world consisting of 65% water, mostly in the
 form of lakes and rivers. Its three moons are named Crika,
 Rarrak, and EraCrik, which correspond to what the Hurshuka
@@ -5688,7 +5700,7 @@ The Hurshuka mindset places devotion to the land - and
 Ala'k especially --» above almost any other aspect of life, stop-
 
 mood. He looked out the Viewscreen as stars streaked by.
-“What's the point? Ofall this, I mean. How does what we
+"What's the point? Ofall this, I mean. How does what we
 
 pingjust short ofselﬂpreservation (although there have been
 
@@ -5733,7 +5745,7 @@ superior mates, especially if they themselves are superficially
 less than desirable. Afterwards, the female lays between three
 and 10 eggs several weeks later - in a warm area of mud she
 
-in,“friends with whom you would be content to spend the rest
+in,"friends with whom you would be content to spend the rest
 
 chooses -- and most of them hatch within a year (which lasts
 3065 days). The female and the male remain in the broad area
@@ -5796,7 +5808,7 @@ opt to remain around each other for decades or even life. They
 helped, since much of the research had been done previously
 
 do not stay with their offspring after birth, and they find the
-concept curious when pressed.“IfAla'k wanted others to care
+concept curious when pressed."IfAla'k wanted others to care
 
 on a theoretical level centuries past. Even so, the Hurshuka
 
@@ -5851,7 +5863,7 @@ hassle; if more than one candidate wants the position, then a
 winneris sortedout usingritualizedcombat akin to the clashes
 during the urge to mate but with less hormones. If there is no
 one who desires to be leader, then others may assign someone
-the job: the “lucky" Hurshuk has the option of accepting the
+the job: the "lucky" Hurshuk has the option of accepting the
 position or fighting all those who would foist it oﬂ: on him.
 This process extends up the ladder; the village leaders decide
 among themselves who will rule grand villages, the grand
@@ -5900,7 +5912,7 @@ However, and most disadvantageously, being a leader means
 
 possibly being away from one's beloved swampy homeland.
 One thing that Hurshulca do not do is spend much time
-attacking each other. One word the Hurshuka have is “cloak,”
+attacking each other. One word the Hurshuka have is "cloak,”
 
 which translates to "a stupid thing to do.” Another of their
 words, 'ldoalc'alm," means literally "the stupidest thing to d u;
@@ -5908,13 +5920,13 @@ words, 'ldoalc'alm," means literally "the stupidest thing to d u;
 this is their word for war. In the ages that Hurshuka have been
 relaying lore orally among their people, there are only notes of
 
-two wars:"Doak'alm'll{" alld“Doak'alm'll<ll<" ("the first Stupid
+two wars:"Doak'alm'll{" alld"Doak'alm'll<ll<" ("the first Stupid
 Thing We Did” and "the Second Stupid Thing We Did”).
 Hurshuka believe strongly in privacy, which xenobiologists
 
 laws and BIISIBIIIS
 The Hurshuka have evolved a theory of law called the
-“ShukarAlm” - literally, r'the Hard Shell." The ShukaaAlm
+"ShukarAlm” - literally, r'the Hard Shell." The ShukaaAlm
 states that any transgression from which one can walk away
 
 thoughts without a good reason. Given their limited exposure
@@ -5923,7 +5935,7 @@ from without permanent harm will be, for the most part,
 
 to other races and ideas, they find most other cultures slightly
 
-ignored; Hurshuka are trained to have a “hard shell" about
+ignored; Hurshuka are trained to have a "hard shell" about
 
 confusing; this doesn't aEect their interactions, since they are
 fast learners, but nuances such as clothes, ﬂirting, or calling
@@ -5990,14 +6002,14 @@ The Hurshuka almost universally praise AlmzHure as
 the creator, and worship her as the source of all that is good:
 
 life, health, Ala'k, their metaphysical abilities (which they
-call "Kol'ak'' -~ “the Touch"), and so on. They do not have an
+call "Kol'ak'' -~ "the Touch"), and so on. They do not have an
 organized religion in the way many other alien species have it
 - there are no churches, no hierarchy, no rules - but rather
 an ever'constant appreciation of Alm-Hure. Philosophy is
 underdeveloped by the Hurshuka, because they are fairly laid
 
 back; most attempts to discern the deeper meaning of the
-universe end with,“It's all good; praise to Alm'I-iure."
+universe end with,"It's all good; praise to Alm'I-iure."
 
 cooking), and walking outside. They like socializing with each1
 other, although they tend to rely 0n metaphysical impulses to
@@ -6097,7 +6109,7 @@ into alm'ola, such as adding a leather cover to
 
 a metalaand-plastic hand computer.
 
-Most devices in D6 Space are “ola” by
+Most devices in D6 Space are "ola” by
 default. Devices that are fiilly alm (or devised
 as fully 31111) are somewhat more fragile (and
 
@@ -6122,7 +6134,7 @@ constrict, binding the Victim tighter and possibly
 causing damage. A noruk'alm has a damage
 
 rating of 41) but does not actually deal any
-damage normally (see the “Eric-angling” rules
+damage normally (see the "Eric-angling” rules
 from page 82 of the D6 Space Rulebook for
 
 more information). This is a weapon that
@@ -6203,12 +6215,12 @@ hearingarelated actions by +3). Cost: Easy (110 credits).
 
 Agility 213
 
-lllll'Sllllll Personal 59308 “3558'
+lllll'Sllllll Personal 59308 "3558'
 
 Strength 2D
 
 Specially climate controlled, this oneepersonvessel -~ called
-a twee'crik'almbla (“baby hybrid ﬂyer”) H can transport its
+a twee'crik'almbla ("baby hybrid ﬂyer”) H can transport its
 
 Knowledge 3D+22 aliens 4D+2, bureaucracy 4D, cultures
 
@@ -6334,7 +6346,7 @@ Total Cost (new): 107,345 credits/Price Dtfiiculty: 31
 Advantages: Size: Large (R1), scale value 3
 Special Abilities: Longevity (R1, cost 3); Natural Armor:
 
-ﬂﬂmnlﬂ “III'SIIIIK
+ﬂﬂmnlﬂ "III'SIIIIK
 
 Shell (R2, cost 6), +213 to damage resistance total
 
@@ -6364,7 +6376,7 @@ Ldistant relations with many other species.
 
 would be an anomaly:
 
-“68683319: Mi 30308 AIiEIISJ > ﬂnmssaniems
+"68683319: Mi 30308 AIiEIISJ > ﬂnmssaniems
 
 ~
 
@@ -6391,7 +6403,7 @@ the homeworld closer or farther from the sun. However, true
 The Lonthyn homeworlds orbit a yellow star they call
 
 Lontellae -» literally, "the Conqueror of All.” The inner-most
-homeworld was first called Ela (“Here”), and it's from this orb
+homeworld was first called Ela ("Here”), and it's from this orb
 that life originated within this system. Ela was, in many ways,
 an idyllic water world, with islands and small land masses
 
@@ -6433,7 +6445,7 @@ travel and colonized their nearest neighbor. This world, Aela
 
 most humanoids, but at three meters tall, they tower above
 
-(“There”), was quickly settled, serving as a backup plan ifefforts
+("There”), was quickly settled, serving as a backup plan ifefforts
 
 many species. Females tend to be slightly taller, while males
 
@@ -6499,7 +6511,7 @@ remained within shelters, pro-
 tected from the elements, wicked
 winds, and fierce predators. But
 
-Accessing: n6 Snace Aliens! > “amusements
+Accessing: n6 Snace Aliens! > "amusements
 Hates: Our ship once chased Lonthyn
 
 r
@@ -6511,7 +6523,7 @@ their world; to that end, they underwent genetic engineering,
 
 transforming themselves into stronger, more hearty people. At
 
-The xenobiologist looked up from his notes. “I've
+The xenobiologist looked up from his notes. "I've
 attempted to learn all I can about your people. What I'm
 
 about this time, the innereworld Lonthyn managed to reverse
@@ -6630,20 +6642,20 @@ The Lonthyn do not startconflict with other races needlessly,
 
 rouge elements that act against these agreements
 
-and trade agreements it signs. “Of course,” they explain, ”the
+and trade agreements it signs. "Of course,” they explain, ”the
 
 but few
 
 outsiders have confidence in the treaties.
 
-but their definition of “need" is different from most. While
+but their definition of "need" is different from most. While
 more pacifistic species would see war as a last resort, to the
 
 Lonthyn it is much higher up the list
 
 somewhere slightly
 
-below “demanding What you want.”
+below "demanding What you want.”
 
 laws and customs
 In the Lontellae system, the Lonthyn government is a two«
@@ -6697,7 +6709,7 @@ the law").
 Lonthyn law revolves around
 an accusatory model they call
 
-“Yar'il” (meaning “I will show").
+"Yar'il” (meaning "I will show").
 Most charges are not brought by
 the government, but rather by
 individuals. By invoking Yar'il,
@@ -6740,7 +6752,7 @@ thereof) as they like on other worlds, provided that taxes are
 the pending legislation with a unanimous vote. This is known
 
 collected in an amount expected by the homeworlds. Aboard
-ships, Lonthyn believe that the ship's captain is the“ruler” and
+ships, Lonthyn believe that the ship's captain is the"ruler” and
 
 Under normal circumstances, all legislation must pass by a
 
@@ -6811,8 +6823,8 @@ then ritually declaring their intentions aloud will free them
 
 exist but have seen fit to give the Lonthyn enough rope to
 hang themselves by allowing them to descend into violence.
-At present, this protoamovement (called the “Ayla'wil” -~ the
-“Returning”) is small and not fully realized, and it doesn't
+At present, this protoamovement (called the "Ayla'wil” -~ the
+"Returning”) is small and not fully realized, and it doesn't
 have a firm plan as to how to stop this descent; however, it
 
 could grow into something much bigger and disruptive over
@@ -6862,7 +6874,7 @@ the Lonthyn is the braces worn by the inneriworld Lonthyn
 
 especially those that show cunning or intellect: debate, puzzle
 contests, andimpromptu invention competitions called"Loll'il"
-(“I make”) where participants must come up with a solution to
+("I make”) where participants must come up with a solution to
 a problem using a stock set of seemingly unrelated parts.
 Both subspecies have a solid eye for art that many outsiders
 find surprising; children are taught history and appreciation
@@ -6939,7 +6951,7 @@ blood is infused with an advanced nanotechnology that provides
 
 them with quickness and increased strength. This improved
 
-lﬂnllllill long-ﬂange SEEM“!!! Shill
+lﬂnllllill long-ﬂange SEEM"!!! Shill
 
 skeletal structure dampers their natural eye»hand coordina»
 tion somewhat, making it more difficult for them to utilize
@@ -6971,7 +6983,7 @@ part on a rare chemical that, so far, has only been fabricated
 
 on the inner homeworlcl, resulting in the need for constant
 
-“Emissary: IIE Snare Aliens! > ﬂumnsaniems
+"Emissary: IIE Snare Aliens! > ﬂumnsaniems
 Notes: Other Lonthyn blew up the station. :
 
 piloting, sensors, and shields upgrades (6 en, 5,400 er) and pilot
@@ -7147,7 +7159,7 @@ Move: 12
 and nanotechnical'hocktail" with failure to take daily resulting
 in -5 to damage resistance totals plus 1D damage total cumula-J
 
-ﬂWfiSSlﬂﬂ: “5 Snare AEEIISJ > Ilumusanients
+ﬂWfiSSlﬂﬂ: "5 Snare AEEIISJ > Ilumusanients
 
 Notes: They are cunning and ruthless
 
@@ -7205,7 +7217,7 @@ fully congeal; remains solid
 for 12 hours)
 
 Outer-World
-1.0“th“
+1.0"th"
 Package
 Total creation point
 cost:4
@@ -7247,7 +7259,7 @@ fiﬂﬂﬂSSiﬂll: 95 Space IIiGIISJ > Homosaniems
 
 antes: Making them satisfying to hunt.
 
-Access-nu Homosament Sues-es“
+Access-nu Homosament Sues-es"
 Unfortunately, all is not wine and roses for those who
 
 receive the gifts of science. While cutting-edge cybernetics
@@ -7264,7 +7276,7 @@ as template meant to be improved by any means necessary.
 
 The lucky survivors ofthese conﬂicts often run into problems
 
-"EMBLEM“!
+"EMBLEM"!
 The planet Malchar's nightmarish atmosphere is awash
 with a red» orange haze as the light from cracks in the mantle
 filter through toxinerich skies. Caustic billows of smoke greet
@@ -7365,7 +7377,7 @@ number of cyborgs engaging in the criminal and soldierefore
 hire arenas feeds the fires of those who fear cybernetics. This
 has prompted more than one security firm to employ limited
 yield electromagnetic pulse weaponry to stop such maraucL
-ers in their tracks. Fortunately, the old adage “the bigger they
+ers in their tracks. Fortunately, the old adage "the bigger they
 are, the harder they fall" definitely rings true because those
 
 who rely solely upon cyberenhancements are nearly helpless
@@ -7522,7 +7534,7 @@ accessing: Ni Space Aliens-.1 > Homesanients
 
 -l-¥?filfil
 V W'/
-J?“ 2%.
+J?" 2%.
 a
 1'!
 watery
@@ -7795,7 +7807,7 @@ Knowledge 2D: astrography 21) +2, intimidation 4D, scholar
 
 L
 Accessing: n6 Snaee AliensJ > "amusements
-Hates: Tell Malcharans, “It's the latest.”
+Hates: Tell Malcharans, "It's the latest.”
 
 2D+2, willpower 2D+2
 
@@ -7951,7 +7963,7 @@ of Mareh to thrive.
 Though most of March is covered with water, there are
 
 hundreds of island chains across the planet. These islands
-amazing intelligence and technical prowess. The “shell suit” is
+amazing intelligence and technical prowess. The "shell suit” is
 serve the Mareens as bases for interstellar travel, commerce,
 
 in fact a protective exoskeleton built by Mareens for Mareens.
@@ -7986,7 +7998,7 @@ ice cap is populated with scattered smaller cities. Many ofthese
 
 manyways, the Mareen resembles a catfishzThey havelong,thick
 smaller outposts are actually used by smugglers and pirates as
-“whiskers” tipped with tiny suckers; heavy bodies with almost
+"whiskers” tipped with tiny suckers; heavy bodies with almost
 undetectable scales; and large, bottomrfeeding mouths.
 But aside from those basic similarities, the Mareens
 
@@ -8134,7 +8146,7 @@ in the solar system. All other stars are considered gods as well,
 
 fine line. As they are those who are dedicated to the protection
 ofMarch, the expansion ofthe Mareens' reach in the galaxy or
-the forceful acquisition ofnew“beautiful objects:' they struggle
+the forceful acquisition ofnew"beautiful objects:' they struggle
 
 as they manage a role that causes destructionTo help counter
 this negative creation, warrior Mareens usually develop skills
@@ -8191,7 +8203,7 @@ tend to be naive in business and social dealings. They often find
 themselves so awestruck by beauty and charisma that they fall
 for bad deals or follow inappropriate leaders.
 
-laws and “IISIIIIIIS
+laws and "IISIIIIIIS
 
 The typical Mareen exoskeleton stands 15 meters tall and
 has two arms and two legs. For identification purposes, each
@@ -8303,7 +8315,7 @@ Still other Mareens run robotic factories or farms. These
 highly skilled Mareens have learned to maintain and operate
 banks ofslaveemachines, which are assemblylinenstyle manu-
 facturing devices operated directly by a Mareen.
-Mareen military assaultvehicles are typically called“mechas”
+Mareen military assaultvehicles are typically called"mechas”
 by other races. These mechas are giant-«sized, semiehumanoide
 shaped robots that serve as mobile gun platforms.
 Exoskeleton: limited life support; +21) to lifiting and raw
@@ -8324,7 +8336,7 @@ has special compartments for them.
 growth to create a natural suit of armor for protection against
 
 Assessing: Ila Snaee AliensJ > llnmosanients
-Notes: The Mareen said, “Not for sale.”
+Notes: The Mareen said, "Not for sale.”
 
 predators. The Mareens found that by stimulating a coral
 formation with their innate electricity projection ability, they
@@ -9162,7 +9174,7 @@ settlements, though for serious cases or appeals, a legal advisory
 committee of the Estate Assembly passes finaljudgment.
 
 J
-Accessing; 136 Snare Aliens1> “amusements
+Accessing; 136 Snare Aliens1> "amusements
 limes: The best in the quadrant.
 
 The Pherro maintain a freemarlcet commerce system,
@@ -9257,7 +9269,7 @@ r
 their travels around the galaxy. Pherro do not engage in any
 leisure activity without including as many other members of
 
--' ' l , ' ' “IIIGI'IPIIBI'I'DBBIBS " ' ;
+-' ' l , ' ' "IIIGI'IPIIBI'I'DBBIBS " ' ;
 
 their family pack as possible.
 
@@ -9317,7 +9329,7 @@ for their defense militia,
 
 away from other endeavors. Some Pherro enclaves still
 
-“mica! Phem
+"mica! Phem
 
 stress these ideals, developing as universities, research
 centers, or retreats for both Pherro and aliens seeking a
@@ -9373,7 +9385,7 @@ Advantages: Contacts (R1), other members of family
 tracking tolls
 
 L
-Accessing: 36 Space Aliens! > “amusements
+Accessing: 36 Space Aliens! > "amusements
 ﬂutes: As a pilot or a friend.
 
 Total creation point cost: 3
@@ -9930,7 +9942,7 @@ practice it. Officials dealing with high'ranking Razithar go to
 g great lengths to find appropriately lavish gifts to encourage
 better corporate, political, and social relations.
 I- _
-Be lulu“
+Be lulu"
 The Razithar religion combines a degree of pious respect
 and their overall lust for profit. Officially they worship Ziton,
 
@@ -10182,7 +10194,7 @@ versatile personal data device. The tabulator combines the
 L
 .
 
-Accessing: n6 Snare Aliensl > “amusements
+Accessing: n6 Snare Aliensl > "amusements
 
 f:
 
@@ -10326,7 +10338,7 @@ ofideas, technology, and manu-
 
 factured goods, which initially
 
-AGGGSSiIlll: “5 Susan AliﬂﬂSJ > Homosaniems
+AGGGSSiIlll: "5 Susan AliﬂﬂSJ > Homosaniems
 Rules: New Taurid crewer means
 
 improved life on Arigadeen. But bad deals with exploitative
@@ -11069,10 +11081,10 @@ a
 s
 o
 m
-“““ss'nﬂHo
+"""ss'nﬂHo
 VBI'IIEIIIII'iallS
 
-of“fresh" vegetation. Off-worlders also are expected to adhere
+of"fresh" vegetation. Off-worlders also are expected to adhere
 to these restrictions.
 
 The Verdendrian people are a prime example ofjust how
@@ -11198,7 +11210,7 @@ structure. Families, oruRoots,” are comprised of hundreds of
 members who live in the same dwelling. Their unity is based
 on historical and genetic bonds. A Root typically has a name
 for the place its ancestors came from.
-For example, the “Root of K0” originates from the forest
+For example, the "Root of K0” originates from the forest
 known as K0 in the western hemisphere. On modern Verda
 
 J
@@ -11207,8 +11219,8 @@ fifiﬂfiSSiﬂﬂ: I35 Slﬂlﬂﬂ fillBIISJ > Humusanilnts
 Notes: Interesting species to talk with.
 
 and in her colonies, many Verdendrians have transplanted
-themselves; thus a “Root of K0” in many communities. If a
-member of the “Root of K0" must leave one city to work in
+themselves; thus a "Root of K0” in many communities. If a
+member of the "Root of K0" must leave one city to work in
 another city, he will typicallyjoin the"Root of K0” in the new
 city. In the rare instance that his Root is not in the new city,
 the individualjoins 3. Root ofhis new co-workers. Sociologists
@@ -11248,14 +11260,14 @@ v
 Accessing: as Space Aliens! > Homnsanients
 Hates: Smell pretty and good listeners.
 
-The life of a Verdendrian is purposeful and well defined“
+The life of a Verdendrian is purposeful and well defined"
 Once in a profession, they rarely change their vocation ”- only
 their assignment or project. No job is considered beneath
 another. While planetside, they spend most of the day of their
 30»hour cycle workingor caring for the young, dependingupon
 the needs of the community at large. At night, they become
 dormant to save energy and finish processing food, much like
-sleep. They can adapt to other “sleep" cycles as needed. Little
+sleep. They can adapt to other "sleep" cycles as needed. Little
 changes over the years.
 When they die, they are ground up and placed into the soil
 ofthe nursery oftheir Root, to nourish the seedlings. Moreover,
@@ -11325,7 +11337,7 @@ before dispassionately vaporizing
 
 When sophisticated transla-
 
-alumni.“
+alumni."
 
 detect a ship or ﬂeet in an aggressive
 
@@ -11347,11 +11359,11 @@ nication is possible, but grasping
 tions must be worded precisely
 
 to get detailed information. If a
-Verdendrian is asked,“ How old are
+Verdendrian is asked," How old are
 
 you?” he will respond,"I am spring”
-if he's an adolescent, or “I am summer” if an adult, or'rl am autumn” if
-an elder. The term “winter” refers to
+if he's an adolescent, or "I am summer” if an adult, or'rl am autumn” if
+an elder. The term "winter” refers to
 death or the deadTo get the precise
 information, this question shouldbe
 worded,"How many solar years has
@@ -11368,7 +11380,7 @@ useless. They do not lie, and iftheygive a simple explanation to a
 question, they expect it to suffice. When one of their ships is
 
 found doing ascientific exploration in restricted territory, their
-explanation will be that“we seek to know.” It's their answer for
+explanation will be that"we seek to know.” It's their answer for
 much of what they do outside of their own space.
 Encounters with their research vessels, and crewmembers,
 are the most common contact most other species have with
@@ -11467,7 +11479,7 @@ is trouble in a city, a group of elders in the community are
 summoned to make final decisions for longeterm problems
 that other species might consider the domain ofjudicial and
 government officials. The Verdendrians refer to the elders as
-“the Ones of Autumn."
+"the Ones of Autumn."
 Elders command ships, manage cities, lead research instir
 tutes, and head of families. They are chosen for their duties
 
@@ -11604,7 +11616,7 @@ Hates: When l talked softly.
 
 i
 
-“Starfish” cl'lliSBl'
+"Starfish” cl'lliSBl'
 The moniker Starfish was assigned by someTerrans because
 
 the vessel resembles a starfish in most respects Looking more
@@ -11616,7 +11628,7 @@ Move: 5
 Maneuverability: +1D
 Interstellar Drive Rating: 10; backup: 0.1
 
-central hull, Propelling the Vesfiel Such that the “top” moves
+central hull, Propelling the Vesfiel Such that the "top” moves
 
 Hull Toughness: 6D
 Atmosphere Capability: None
@@ -11796,7 +11808,7 @@ Scale: 18
 
 healing attempts, with Additional Eilect (R1), can regrow
 
-I“
+I"
 m
 
 In
@@ -11845,7 +11857,7 @@ though they may develop them if defeated several times.
 
 1 On an exploration ship, the crew is made up of approxi'
 
-“Bl“!lﬂlllll'iall Package
+"Bl"!lﬂlllll'iall Package
 
 mately onevquarter technical, one-quarter scientific, and
 
@@ -11900,7 +11912,7 @@ Technical and scientific crew have +21) in three
 
 Advantages: none
 
-carry the translation device in any group. “When asking
+carry the translation device in any group. "When asking
 questions of locals, the one using the translator relates
 all requests.
 Verdendrian merchants are few, mostly seen on their
@@ -11917,7 +11929,7 @@ to 2 points of modifiers for dim or dark conditions
 completely on a barter system. They purchase foreign
 goods with food stocks, includingplants and live animals,
 
-“”1831 Verna PI'BWIBI'
+"”1831 Verna PI'BWIBI'
 1
 The prowler is a feline, similar to a panther, which excels at
 
@@ -11979,7 +11991,7 @@ Fate Points: 0
 
 horizontally or 2 meters vertically; large size (scale value 0)
 
-AEGESﬂIIQ; I5 SIIIGG “13115.1 > Homosasiems
+AEGESﬂIIQ; I5 SIIIGG "13115.1 > Homosasiems
 
 items: It calmed down and tried the food.
 
@@ -12224,7 +12236,7 @@ or not it intrinsically trusts those it intends to contact - a
 Creetva may try collecting articles of clothing, accessories,
 
 gear, and personal possessions to enable it to better pass for a
-humanoid being (ostensibly one “stranded” on the planet by
+humanoid being (ostensibly one "stranded” on the planet by
 a strange and often inexplicable series of events). Sometime
 
 Before an often accidental first contactwith outsiders, Creevva
@@ -12393,7 +12405,7 @@ specimen have the majority of its organic tissue undamaged. Research
 Division has authorized bonus pay for the agent or team that obtains a
 viable sample of”Bob," with double bonuses for a living specimen.
 
-Accessing: I6 Snare nliessJ > “Humanism
+Accessing: I6 Snare nliessJ > "Humanism
 Hates: Tell only to bioscanned crew.
 
 subsequently manylawsprotectingone'spossessions.
@@ -12637,7 +12649,7 @@ Although the nonqueen elecdrones are not terribly intelligent, they have a surpr
 there are more than 10 functioning elecdrones in an area, their
 overriding command is to "swarm” -- find all organic mobile
 
-“distract." In this mode, one elecdrone (the least damaged
+"distract." In this mode, one elecdrone (the least damaged
 
 return to the"queen”to upload findings andinformation. Ifnot,
 
@@ -12651,7 +12663,7 @@ complex and devious.
 
 generator, which requires the amassingofabout 30 days'worth
 
-one) is designated the “survivor” while the others serve to
+one) is designated the "survivor” while the others serve to
 distract it, giving their lives to any attackers to allow the other
 
 to escape.
@@ -12682,7 +12694,7 @@ room; his artificial leg echoed with a plasti'metallic clang
 
 nourishment by assimilating its brood into itself after they
 on every other step.
-“The General asked me to offer some insight into
+"The General asked me to offer some insight into
 what all y'all'll be facing on Planet H49341." His face
 
 have fed on the bioelecrricity of organic life.
@@ -12691,7 +12703,7 @@ capable spacecraft nearby (again, Within 100 meters). [tone is
 
 turned sad but expressionless for a moment, as if he
 was suddenly haunted by the ghosts of several friends.
-He continued. “Imagine opening your door and seeing
+He continued. "Imagine opening your door and seeing
 
 detected, and its regroup, distract, or repopulation program-
 
@@ -12720,7 +12732,7 @@ making more elecdrones - usually at the rate of one a minute,
 although for one minute a day this production can be increased
 
 of exposed ﬂesh they can find.
-“Now imagine you fight back, as hard as you can.
+"Now imagine you fight back, as hard as you can.
 
 And you eventually win; you kick this giant hill down
 
@@ -12761,11 +12773,11 @@ many quarter-sized versions.
 Elecdronegenerators appear to be atleast vaguelyhumanoid,
 
 and your last thought before you black out is knowing
-that your body will féed these ants and form the basis or“
+that your body will féed these ants and form the basis or"
 a new anthill,”
 l
 There was another uncomfortable silence before the i
-Sergeant continued. “Any questions 5"
+Sergeant continued. "Any questions 5"
 l
 
 complete with the ability to carry on conversations in other
@@ -12952,7 +12964,7 @@ have no need for armaments not the ability to directly assault
 the fleets of their intended victims. The minute, marauding,
 
 nearest water supply, preferably one filled with bacteria and
-other nutritious “contaminants.”
+other nutritious "contaminants.”
 
 Unfortunately for many wouldebe defenders, the battle has
 
@@ -13056,7 +13068,7 @@ for expanding the hive mind. The Arcanix phase may take up
 to a year to complete, and alternate hive locations that survive
 
 J
-AcﬂﬂSSillu: Elli Space AliensJ > “HﬂEl'SﬂlliBﬂlS
+AcﬂﬂSSillu: Elli Space AliensJ > "HﬂEl'SﬂlliBﬂlS
 notes: Watch for increased appetite.
 
 are later developed as part ofthe hive network. This is a crucial
@@ -13130,7 +13142,7 @@ vivors of Elnari infestations have found that all varieties of
 
 as
 
-. ' gazes-I “IT
+. ' gazes-I "IT
 "U'
 Accessing: BB Snace llliensJ > Ilvnersaniems
 Holes: Take blood samples personally.
@@ -13166,7 +13178,7 @@ lessly search for them.
 
 is equipped to facilitate such testing, and many host victims
 
-“meal Elnari IIIIIIIISIBII $00"!
+"meal Elnari IIIIIIIISIBII $00"!
 
 that could be saved by the gifts of science are needlessly put
 
@@ -13208,7 +13220,7 @@ fiGGﬂSSiﬂﬂ: n6 SIIﬂBB MiEIISJ > HUBBI'SﬂIliGIIIS
 
 Hates: Toss refusing crew in brig.
 
-W “
+W "
 rBody Points: 13
 Wound Levels: 3
 
@@ -13378,7 +13390,7 @@ for both. When a Spool was asked for clarification about its
 
 compelled them also to fight each other. When they did so,
 
-name, the being calmly said, “We are the Spool, from which
+name, the being calmly said, "We are the Spool, from which
 
 she escaped the mayhem and went to the leaders. She forced
 them to launch strikes against their own kind. and soon the
@@ -13435,7 +13447,7 @@ Hirvee. The rise of the S'ali and the death of the Hirvee was
 
 over a millennium ago.
 
-Known “ism!“
+Known "ism!"
 
 The Wars of the Snool
 
@@ -13658,7 +13670,7 @@ Spool appear to have few other quests or desires, They aren't
 especiallyorganized, although small hands ofthem might unite
 
 galaxy who know of the existence of the Spool generally have
-a “shoot first, ask questions later, and pray they don't come
+a "shoot first, ask questions later, and pray they don't come
 back” attitude toward them.
 
 if a city or colony looks too diH-icult to control individually.
@@ -13669,7 +13681,7 @@ The Enemy Within
 The biggest problem with lighting the Spool is that there
 is no enemy to fight; indeed, it is quite possible that a victim
 doesn't even know she has been taken over by the Spool. Howl
-ever, there is one“ace" that sentient minds have in combating
+ever, there is one"ace" that sentient minds have in combating
 this threat: Each individual Spool has some kind of weakness
 that allows a person (or people) to break free from their hold
 for at least a few minutes at a time.
@@ -13988,7 +14000,7 @@ oil
 appearance of the dominant humanoid race with which they
 are interacting. They prefer to retain a specific form for each
 
-“Thayarr field" (What they call the source of their energy)
+"Thayarr field" (What they call the source of their energy)
 proving possibly disruptive. Unfortunately, given the scope of
 
 98
@@ -14010,7 +14022,7 @@ freak wormholes, incredible awkward coincidences, and the
 vidual Thayarr will take depends on its mood; some opt for
 a plainly clothed - even naked - form, while others choose
 
-“MW
+"MW
 
 flamboyant or meaningful personae from the humanoids' past.
 They tend to adopt trappings or personae suiting how they
@@ -14230,7 +14242,7 @@ within one's own mind.”
 These lessons often seem cruel and pointless, at least to the
 sentientsTo prove that deathis a transitorystate, aThayarr might
 
-“kill” half the crew on a ship, observe the remainder's reactions
+"kill” half the crew on a ship, observe the remainder's reactions
 and emotional responses, and then bring the deceased back.
 
 limitless in their power, perhaps they avoiddoingcertain things
@@ -14239,7 +14251,7 @@ great; the magnitude of the Curse does seem directly proportional to the extent 
 
 The first limitation is that the Thayarr seem to be unable to
 act beyond the scale or range of a star system. They prefer to
-“fly” from system to system, although they often teleportwithin
+"fly” from system to system, although they often teleportwithin
 a system. Likewise, they seem unable (or unwilling) to observe
 anything outside ofa systemwide scale, except for macro events.
 Thus, ifthereis an interestingstellarphenomenonhappening in
@@ -14350,7 +14362,7 @@ of the Thayarr field. Although they claim to be omnipotent,
 
 all creative processes in the universe -- as in, those involving
 the act of creating - can be boiled down to one irrational
-number, which she calls “the ultimate constant.” To that end,
+number, which she calls "the ultimate constant.” To that end,
 Constant observes all manner of phenomena, ranging from
 galactic formations to new species being born to sentients'
 
@@ -14370,7 +14382,7 @@ mOm
 it should be possible to work out an inverse, with which she
 Will be able to rid the Thayarr of the Curse forever. As such,
 she is continually trying to boil down all interactions into
-one “truth” - preferably numerical, She tests her theories on
+one "truth” - preferably numerical, She tests her theories on
 
 equal to or less than the die code of the skill; Quirk (R2),
 proud - Difficult willpower check to admit being wrong (do
@@ -14380,7 +14392,7 @@ various systems and species, leading one exasperated captain
 
 Additional Effect (R10), suffers no penalties in any atmosphere
 
-to call her “a Constant source of irritation.”
+to call her "a Constant source of irritation.”
 
 including void of space; Flight (R50), ﬂying Move 1000, with
 
@@ -14844,7 +14856,7 @@ the result on the table, If the scale indicated is Small or Large,
 roll one Wild Die, treating the 1 result simply as a l, to get the
 number. This allows the scale value to be open ended.
 
-“BBBSSiIIﬂ: m5 Snare ﬂlifiﬂSJ > Ransom
+"BBBSSiIIﬂ: m5 Snare ﬂlifiﬂSJ > Ransom
 
 Holes: I'm getting sent to random worlds!
 
@@ -15010,7 +15022,7 @@ Y . .
 Onceyou've finishedwith this system,you'llhave an unusual
 collection of game characteristics. The description section of
 
-Poor “sum: +1 to all Sight-based difficulties
+Poor "sum: +1 to all Sight-based difficulties
 Poor hearing: +2 to all to all hearingbased
 
 the form offers you space for bringing all of these seemingly
@@ -16451,7 +16463,7 @@ be used once per round; Water Breathing (R1)
 
 medicine
 
-Strength Damage -“““ 1D
+Strength Damage -""" 1D
 Move
 10
 
@@ -17632,9 +17644,9 @@ M
 
 'aé
 
-“98858“!!! ”6 59303 AllBfiS.' > BBIWBI'SlIHIS
+"98858"!!! ”6 59303 AllBfiS.' > BBIWBI'SlIHIS
 
-ﬂutes: Got plant and “magic” beans.
+ﬂutes: Got plant and "magic” beans.
 
 '
 
@@ -17753,7 +17765,7 @@ interface/repair 6D, security 3D+2, vehicle repair 61)
 Perception 4D: hide 5D, investigation 4D+2, search 4D+2,
 sneak 6D
 
-“meal III“)
+"meal III")
 Agility 31): brawling 3D+ 1, dodge 5D, ﬂying/0G 5D+1
 Mechanical 2D: sleight of hand 4D
 Strength 3D: running 3D+1
@@ -17823,7 +17835,7 @@ Q-____--J<
 Ea
 
 Accessing: n5 Snaee AliensJ > conversions
-Notes: New on “Marl”; befriended demon.
+Notes: New on "Marl”; befriended demon.
 
 an,
 
@@ -18038,7 +18050,7 @@ tance score againstphysical and energy attacks with Additional
 size (scale value 9)
 Effect (R3), intangible state is the default, and can thus become
 
-“pica! lumliie
+"pica! lumliie
 Agility 2D: brawling 2D
 Mechanical 1D
 
@@ -18125,7 +18137,7 @@ anotherNVith others, one genre rules set represents themwith
 reserve the other dice for skills that equate to two or more
 skills in the new genre. Extra dice that cannot be used to
 purchase skills may be converted to Character Points on a
-“one pip for one point" basis. For gamemaster's characters,
+"one pip for one point" basis. For gamemaster's characters,
 
 i Attribute cantersinnsg
 
@@ -18170,7 +18182,7 @@ Knowledge
 
 Perception
 _
-“If creatures _
+"If creatures _
 D6 Adventure.
 Reﬂexes
 Presence
@@ -18624,7 +18636,7 @@ pilotry
 (Coordination)
 
 B
-media“)
+media")
 
 mettle (Charisma)
 
@@ -18804,12 +18816,12 @@ ISBN 1932867112
 5l999>
 
 mum
-Ammo“
+Ammo"
 
-“EST Elli! “Hts
+"EST Elli! "Hts
 ' MNIBSIBIMQRMESJWIH
-“@G
-wig?“
+"@G
+wig?"
 ©2mhmmﬂnulmﬂllmfimtmmﬂ
 
 'l
