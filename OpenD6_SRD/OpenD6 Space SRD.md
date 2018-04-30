@@ -3706,72 +3706,70 @@ have this ability more than once.
 
 ### Hardiness (1) ###
 
-The character can take damage better
-than normal. She add 1 per rank to her
-damage resistance total against any type
-of damage.
+The character can take damage better than normal. She add 1 per rank to 
+her damage resistance total against any type of damage.
 
-Hypermovement (1)
-The character is extremely fast, adding
-+2 meters per round per rank to her base
-Move rate, which in turn affects all other
-types of movement.
 
-Immortality (7)
-The character is immortal, though
-she will grow older, at a decreased pace
-compared to the rest of her species. If
-she is reduced to zero Body Points, she
-doesn't die. She will not go unconscious
-or bleed to death (as mortally wounded characters do), but she will not
-heal without psionic or similar special aid or the Accelerated Healing
-Special Ability -- her arms could be blown off, her abdomen eviscerated, or whatever. She may perform only the most minimal of physical
+### Hypermovement (1) ###
+
+The character is extremely fast, adding +2 meters per round per rank to 
+her base Move rate, which in turn affects all other types of movement.
+
+
+### Immortality (7) ###
+
+The character is immortal, though she will grow older, at a decreased pace
+compared to the rest of her species. If she is reduced to zero Body 
+Points, she doesn't die. She will not go unconscious or bleed to death 
+(as mortally wounded characters do), but she will not heal without 
+psionic or similar special aid or the Accelerated Healing Special 
+Ability -- her arms could be blown off, her abdomen eviscerated, or 
+whatever. She may perform only the most minimal of physical
 actions, such as squirming, and some actions may be impossible. She
 may rely on her Agility for initiative purposes only.
+
 There should be one particular set of circumstances whereby the
 character will die forever. These sets of circumstances should not
 be too unusual -- killed directly by an Extranormal blast, drowning
 decapitation, and so on are all good examples.
+
 A character may not have this ability more than once.
 
-Immunity (1)
+
+### Immunity (1) ###
+
 The character is highly resistant to disease and poisons and receives a
 +1D per rank to Strength or stamina checks when determining whether
 he has contracted an illness or suffering from ingested poisons.
 
-Increased Attribute (2)
-Some extraordinary training or physiological trait allows the character to gain +1 bonus per rank to all rolled totals related to that attribute.
 
-33
+### Increased Attribute (2) ###
 
-Chapter 2
-
-(For Strength, this also includes the
-damage resistance total and Strength
+Some extraordinary training or physiological trait allows the character 
+to gain +1 bonus per rank to all rolled totals related to that attribute.
+(For Strength, this also includes the damage resistance total and Strength
 Damage.) A character may have multiple ranks of this Special Ability, as well
 as multiple versions of it.
-Note: To get another rank in this
-Special Ability after character creation
-costs 4 times the number in front of
-the "D" of the attribute that it affects
-plus the number of ranks currently
-in the Special Ability. (This is instead
-of the normal cost to increase Special
-Abilities.)
 
-Infravision/
-Ultravision (1)
-The character gains the ability to see
-in the dark using either infravision or
-ultravision. Infravision allows the character to see changes in heat, while ultravision enables the character to make the
-most of the available light. Each provides
-a +2 per rank in a single version of this
-Special Ability to sight-based rolls while
-in dim or dark conditions. Obviously,
-extreme heat or bright light (including
+Note: To get another rank in this Special Ability after character creation
+costs 4 times the number in front of the "D" of the attribute that it affects
+plus the number of ranks currently in the Special Ability. (This is instead
+of the normal cost to increase Special Abilities.)
+
+
+### Infravision/ Ultravision (1) ###
+The character gains the ability to see in the dark using either 
+infravision or ultravision. Infravision allows the character to see 
+changes in heat, while ultravision enables the character to make the
+most of the available light. Each provides a +2 per rank in a single 
+version of this Special Ability to sight-based rolls while in dim or 
+dark conditions. Obviously, extreme heat or bright light (including
 daylight) prevent this Special Ability from working.
 
-Intangibility (5)
+
+
+### Intangibility (5) ###
+
 The character can reduce his physical density to virtually zero for one
 minute per rank. During that time, his damage resistance score against
 physical and energy attacks is +3D per rank, but his movement rate is
@@ -3784,88 +3782,99 @@ full round for a character to become intangible or solid, during which
 he can do nothing else. The character must spend at least one minute
 solid before attempting intangibility again.
 
-Invisibility (3)
+
+### Invisibility (3) ###
+
 The character can become transparent. This adds 1 per rank to the
 character's dodge, sneak, and hide totals, as well as +1 per rank to all
 default search, investigation, and attack difficulties against the character
 that the invisible character is not actively trying to defeat. Additionally,
-no character may take an action to"spot" the character unless the gamemaster feels there is sufficient provocation, such as brushing against
+no character may take an action to"spot" the character unless the gamemaster 
+feels there is sufficient provocation, such as brushing against
 others or removing something in a crowded area.
+
 The invisibility covers the character's basic clothes only -- not
 any gear she's carrying, or anything she picks up. Also, remember that
 the character is transparent when invisible -- she can't hide things
 behind her back.
 
-34
 
-Iron Will (2)
-The character is highly resistant
-to all interaction attempts and
-mental attacks. The character gains
-a +1D per rank to all willpower rolls
-and +2 to the standard difficulty
-of any such attempts against this
+### Iron Will (2) ###
+The character is highly resistant to all interaction attempts and
+mental attacks. The character gains a +1D per rank to all willpower rolls
+and +2 to the standard difficulty of any such attempts against this
 character.
 
-Life Drain (5)
-This ability allows the character
-to drain attribute pips, Body Points,
+
+### Life Drain (5) ###
+
+This ability allows the character to drain attribute pips, Body Points,
 or Wounds from his target.
-The character must choose
-one set of attributes to target,
-either physical (Agility, Mechanical,
-Strength), mental (Knowledge, Perception, Technical), Wounds, or Body
-Points. For example, most vampires
-drink blood, and thus lower Body
-Points, while succubi target the soul
-and so weaken mental attributes. The
-player must specify in what manner
-the character drains these attributes
-(biting the neck, hypnosis, or another
-means). It should involve some sort of successful attack result (either
-physical or mental).
+
+The character must choose one set of attributes to target,
+either physical (Agility, Mechanical, Strength), mental (Knowledge, 
+Perception, Technical), Wounds, or Body Points. For example, most 
+vampires drink blood, and thus lower Body Points, while succubi target 
+the soul and so weaken mental attributes. The player must specify in 
+what manner the character drains these attributes (biting the neck, 
+hypnosis, or another means). It should involve some sort of successful 
+attack result (either physical or mental).
+
 When the character wishes to employ Life Drain, he makes an
 attack on his target using the relevant skill. For every four points over
 the target's defense roll, the character drains one pip per rank off each
 of the target's relevant attributes or three points per rank from the
 character's Body Points or one Wound for every two ranks. (Remember
 that there are three pips in each die.)
+
 If any of the target's attributes or Body Points ever go to zero (or
 the character reaches the Dead Wound level), the target goes into a
 coma. She may try once per day to wake up by making a successful
 Moderate stamina or Strength roll. She regains one attribute point (to
 each attribute affected) every hour after the attack. Body Points and
 Wound levels return at the normal rate.
+
 For each attribute pip the character drains, he may add one pip to
 any attribute in his chosen category. He would get one Body Point for
 each Body Point drained or one Wound for each Wound drained.
-Life-Drained attributes and unused Body Points or Wounds disappear at a rate of one pip or point per hour.
+Life-Drained attributes and unused Body Points or Wounds disappear at a 
+rate of one pip or point per hour.
+
 A character may have multiple ranks of this Special Ability, as well
 as multiple versions of it.
 
-Longevity (3)
+
+### Longevity (3) ###
+
 The character lives longer than the average Human. Often, this
 Special Ability has a Flaw attached that governs what the character
 must do to maintain his life. The character should gain peripheral
 bonuses during game play because of his "longer outlook." A character
 may not have this ability more than once.
 
-Luck, Good (2)
+
+### Luck, Good (2) ###
+
 The character is blessed with unusually good luck. Once per adventure, 
 a character with Good Luck can receive one of the following beneﬁts
 just by asking for it: action, breakthrough, haste, or second chance. See
 the "Luck Beneﬁts" sidebar for details on each of these options. Calling
 upon one's luck does not count as an action.
+
 Good Luck can only be declared once per rank during a particular
 adventure, but it may be declared at any time, and it cannot be 
 cancelled by any other effect. A character may have up to two ranks of
 this Special Ability.
 
-Luck, Great (3)
-A character with Great Luck can call on one of the following beneﬁts once per adventure per rank: action, alertness, breakthrough, haste,
+
+### Luck, Great (3) ###
+
+A character with Great Luck can call on one of the following beneﬁts 
+once per adventure per rank: action, alertness, breakthrough, haste,
 hero, opponent fails, or second chance. See the "Luck Beneﬁts" sidebar
 for details on each of these options. Calling upon one's luck does not
 count as an action.
+
 If the character has not used his Great Luck during an adventure
 and something really disastrous happens, the gamemaster may choose to
 counteract the effects and temporarily "burn out" the character's Special
@@ -3877,7 +3886,7 @@ gamemaster-controlled effort when circumstances get out of control. It
 is also a nice thing for inexperienced roleplayers to have -- just in case
 they do something they really shouldn't have, they get another chance.
 
-Example: The character's mission is to turn off the power at a
+Example: *The character's mission is to turn off the power at a
 nuclear plant or it will explode and destroy the city that's conveniently
 downwind. Unfortunately, the character takes too long ﬁghting the
 minions of the bad guy who set the plant to overload, and, according
@@ -3887,62 +3896,94 @@ be really lucky -- the villain was bluffing, and there's really more time
 on the clock than anyone thought, or the power plant begins a long
 meltdown procedure instead of exploding. In any case, the character's
 Good Luck is gone for this adventure (his luck ran out), but he has a
-chance of averting disaster.
+chance of averting disaster.*
+
 As with Good Luck, the character may have up to two ranks of
 this Special Ability.
 
-Master of Disguise (3)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#### Luck Beneﬁts ####
+
+* action: Add 2 to all of the character's skill or attribute totals for 
+the round.
+
+* alertness: When the character calls upon this beneﬁt, he gains a special 
+"sixth sense" outside of all other rules and roleplaying situations
+that will help him to spot a previously unseen item, character, or clue 
+selected by the gamemaster. The beneﬁt does not confer omniscience,
+however -- and the gamemaster can select her own time for having it come 
+into effect. It is normally used to allow a character to spot
+something he missed in a previous search, something that is important 
+to the adventure.
+
+* breakthrough: Add 1D to any one skill die code in which the character 
+has no additional pips or dice (in other words, a skill in which
+the character is untrained). The beneﬁt also eliminates the unskilled 
+modiﬁer for using that skill.
+
+* haste: Gain one additional action for one round.
+
+* hero: Receive one bonus Fate Point, which must be used on an action 
+immediately after requesting it.
+
+* opponent fails: After an opponent or enemy has completed an action 
+against the character, this beneﬁt may be called upon to cancel
+the effects entirely. The opponent's action is then wasted, and play 
+continues. This beneﬁt may not be used to cancel an action that is not 
+directed at least partially at the lucky character.
+
+* second chance: Using this beneﬁt allows the character to attempt any 
+action she has just tried again, from the very beginning. Relying
+on this beneﬁt, however, may not be used to negate "bad choices" -- 
+the action performed must be performed again -- nor does it allow
+the character to "get back" Fate Points, Character Points, or cards 
+(if used) spent on the original action. The character merely gets 
+another chance, immediately following the ﬁrst attempt, to perform 
+the action again. All effects from the ﬁrst attempt are negated.
+
+#### Luck Notes ####
+
+A character may have up to two ranks each in Good Luck and Great Luck. 
+This Special Ability can be taken with the Bad Luck Disadvantage -- 
+sometimes really good things happen, sometimes really bad things happen.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+### Master of Disguise (3) ###
+
 The character has a natural talent for disguise. She gains a +5 per
 rank bonus to con totals when using that skill to disguise herself and
 a +1D bonus per rank to any con, intimidation, or persuasion actions
 while in that disguise.
 
-Multiple Abilities (1)
-The character has multiple minor abilities that improve a few different tasks. All bonuses are added to the skill or attribute total, not
-to the die code. The bonuses should be fairly limited in their applications, pertaining to speciﬁc uses of particular skills (like specializations
-do), but there can be several of them for each selection of this Special
-Ability. The maximum total bonus for each rank is +4.
 
-> Luck Beneﬁts
-action: Add 2 to all of the character's skill or attribute totals for the round.
-alertness: When the character calls upon this beneﬁt, he gains a special "sixth sense" outside of all other rules and roleplaying situations
-that will help him to spot a previously unseen item, character, or clue selected by the gamemaster. The beneﬁt does not confer omniscience,
-however -- and the gamemaster can select her own time for having it come into effect. It is normally used to allow a character to spot
-something he missed in a previous search, something that is important to the adventure.
-breakthrough: Add 1D to any one skill die code in which the character has no additional pips or dice (in other words, a skill in which
-the character is untrained). The beneﬁt also eliminates the unskilled modiﬁer for using that skill.
-haste: Gain one additional action for one round.
-hero: Receive one bonus Fate Point, which must be used on an action immediately after requesting it.
-opponent fails: After an opponent or enemy has completed an action against the character, this beneﬁt may be called upon to cancel
-the effects entirely. The opponent's action is then wasted, and play continues. This beneﬁt may not be used to cancel an action that is not
-directed at least partially at the lucky character.
-second chance: Using this beneﬁt allows the character to attempt any action she has just tried again, from the very beginning. Relying
-on this beneﬁt, however, may not be used to negate "bad choices" -- the action performed must be performed again -- nor does it allow
-the character to "get back" Fate Points, Character Points, or cards (if used) spent on the original action. The character merely gets another
-chance, immediately following the ﬁrst attempt, to perform the action again. All effects from the ﬁrst attempt are negated.
+### Multiple Abilities (1) ###
 
-> Luck Notes
+The character has multiple minor abilities that improve a few different 
+tasks. All bonuses are added to the skill or attribute total, not
+to the die code. The bonuses should be fairly limited in their 
+applications, pertaining to speciﬁc uses of particular skills (like 
+specializations do), but there can be several of them for each selection 
+of this Special Ability. The maximum total bonus for each rank is +4.
 
-A character may have up to two ranks each in Good Luck and Great Luck. This Special Ability can be taken with the Bad Luck
-Disadvantage -- sometimes really good things happen, sometimes really bad things happen.
 
-35
-
-Chapter 2
-
-Example: A character could have"eyestalks" that give him a +1 bonus
+Example: *A character could have"eyestalks" that give him a +1 bonus
 to Perception or search totals that would negate surprise, the ability to
 focus his ears on particular types of noises (+1 bonus when listening for
 particular sounds), and ﬁngers that are sensitive to subdermal motion
-(+1 bonus to sleight of hand against safes with moving tumblers).
+(+1 bonus to sleight of hand against safes with moving tumblers).*
 
-Natural Armor (3)
+
+### Natural Armor (3) ###
+
 The character has plates, toughened skin, scales, or something
 similar. His own surface adds 1D per rank to his damage resistance
 total to physical (not mental) attacks and contact poisons, corrosives,
 or similar materials.
 
-Natural Hand-to-Hand Weapon (2)
+
+### Natural Hand-to-Hand Weapon (2) ###
+
 The character has some sort of natural weapon -- such as claws,
 pincers, bone spikes, or stinger -- that add 1D per rank to his Strength
 Damage when determining his damage with the natural weapon. The
@@ -3950,91 +3991,112 @@ character uses brawling to attack, unless he can detach the weapon from
 himself or (in the case of a super-scientiﬁc weapon) its exists separately.
 In these latter cases, the character employs melee combat to wield it.
 
-Natural Ranged Weapon (3)
-The character has some sort of natural ranged weapon, using missile weapons (for solid objects) or ﬁrearms (for energy, gas, or chemical projection or for solid projectiles in cybernetics or super-science
+
+### Natural Ranged Weapon (3) ###
+
+The character has some sort of natural ranged weapon, using missile 
+weapons (for solid objects) or ﬁrearms (for energy, gas, or chemical 
+projection or for solid projectiles in cybernetics or super-science
 weapons) to target it. Long range equals 20 times the number of ranks
-in this Special Ability times the character's Strength, lift, or ﬁrearms (as
-appropriate) in meters. The damage for physically enhanced projections is the character's Strength Damage plus 1D per rank, while the
+in this Special Ability times the character's Strength, lift, or ﬁrearms 
+(as appropriate) in meters. The damage for physically enhanced projections 
+is the character's Strength Damage plus 1D per rank, while the
 damage for all other types of blasts is 3D per rank. The projection
 must have a visible effect (such as bone shards or a glowing ray) and
 it may not do mental damage. Note that, regardless of the nature of
 the projection, there are no additional effects from this type of Special
 Ability unless an Enhancement allows otherwise.
 
-Omnivorous (2)
+
+### Omnivorous (2) ###
+
 The character can gain nourishment from any organic substance
 (though she is not immune to poisons). She can also chew through
 just about any organic substance with no adverse effects to her teeth
 or jaws. A character may not have this ability more than once.
 
-Paralyzing Touch (4)
+
+### Paralyzing Touch (4) ###
+
 The character can freeze her target with the merest touch.
-When she makes a brawling attack, she may, instead of doing damage, paralyze her victim, who remains that way until he makes a successful Knowledge or willpower roll against the brawling skill total. He
+When she makes a brawling attack, she may, instead of doing damage, 
+paralyze her victim, who remains that way until he makes a successful 
+Knowledge or willpower roll against the brawling skill total. He
 may attempt to do so once per round; the only other actions he may
 take are mental-based ones and Extranormal (such as Metaphysics) or
 Special Ability ones that do not require movement.
+
 Note: Characters who are heavily armored or covered will be harder
 to hit. The gamemaster needs to decide how much skin is exposed and
 adjust the attack difficulty accordingly.
+
 A character may not have this ability more than once.
 
-36
 
-> Possession Knowledge Chart
-Result Points*
-Needed
-Knowledge Attained
-0
-Basic information: target's name, age, base
-of operations
-1-4
-More personal information: target's job,
-ﬁnancial status, any current schedule
-5-8
-More in-depth personal information: identities and backgrounds of family, friends,
-lovers
-9-12
-Very personal information: secrets, private
-likes and dislikes, and so on
-13
-Everything there is to know
-*Result points equal the difference between the investigation
-total and the target's Knowledge roll.
+### Possession, Limited (8) ###
 
-Possession, Limited (8)
 The character can possess the body of a living creature or a corpse.
 The character must be within three times the rank of this Special
 Ability in meters of the target in order to take possession.
 Possessing a corpse doesn't require a roll, but it does take an action.
+
 Possessing a living being involves making a Knowledge or willpower
 check by the possessor versus a standard interaction difficulty (see the
 "Mental Defenses" sidebar on page 85 for details). Exceeding (but not
 equalling) the difficulty means the target has been possessed. The target
 can actively defend if she is aware of the potential danger.
+
 To gather knowledge about his host body's life, the possessing
 character must generate a successful investigation total against the
 target's Knowledge roll (this does not count as an action for the target).
 Information the possessor gains depends upon the level of success
 achieved; see the accompanying chart for details.
+
 With Limited Possession, the character does not gain control of
 the new form. Instead, he must use persuasion, intimidation, or other
 interaction skills to convince his host to do what he wishes.
+
 Exiting a host body is commonly a simple action. As long as the
 possessing character exits before the host dies, he simply moves on to
 his own or another form. Killing a possessing spirit usually involves
 taking it completely by surprise with a killing blow to the host form or
 using a spell to force it to remain in the body until it can be slain.
 
-Possession, Full (10)
+
+### Possession, Full (10) ###
+
 The character can possess the body of a living creature or a corpse.
 This works in the same way as Limited Possession, save that the
-possessing character gains her new form's physical attributes (Agility, Mechanical, Strength), retains her own Extranormal and mental
+possessing character gains her new form's physical attributes (Agility, 
+Mechanical, Strength), retains her own Extranormal and mental
 attributes (Knowledge, Perception, and Technical), and gains complete
 control over the new form.
 
-Character Options
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#### Possession Knowledge Chart ####
 
-Quick Study (3)
+Result points equal the difference between the investigation
+total and the target's Knowledge roll.
+
+Result Points Needed -- Knowledge Attained
+
+* 0 -- Basic information: target's name, age, base of operations
+
+* 1 to 4 -- More personal information: target's job, ﬁnancial status, 
+any current schedule
+
+* 5 to 8 -- More in-depth personal information: identities and 
+backgrounds of family, friends, lovers
+
+* 9 to 12 -- Very personal information: secrets, private
+likes and dislikes, and so on 
+
+* 13 -- Everything there is to know
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+### Quick Study (3) ###
+
 The character has an uncanny ability to learn new skills and improve
 old ones, limited to one attribute. He always learns new skills as if he
 had a teacher (even if he doesn't), and he can improve skills he already
@@ -4044,140 +4106,202 @@ the Age Disadvantage, if the character is young -- he is a prodigy, and
 that's why he's learned his starting skills so quickly. This Special Ability
 can be taken once for each attribute.
 
-Sense of Direction (2)
+
+### Sense of Direction (2) ###
 The character has a good sense of direction. He gains +1D per
 rank to navigation and search rolls.
 
-Shapeshifting (3)
-The character can manipulate the shape, color, and overall appearance of her body, though mass and body compositions remain the same.
+
+### Shapeshifting (3) ###
+
+The character can manipulate the shape, color, and overall appearance 
+of her body, though mass and body compositions remain the same.
 The character must chose a speciﬁc creature to emulate, gaining one
 form for every three additional points spent on this Special Ability.
 At six ranks in this ability, the gamemaster may allow shifting among
 one class of creatures (such as birds or furniture) as long as all forms
 chosen for previous ranks were within the same class.
-Body Points, Wounds, and the Knowledge attribute remain unaffected by this Special Ability, but the dice in the Agility, Mechanical,
+
+Body Points, Wounds, and the Knowledge attribute remain unaffected by 
+this Special Ability, but the dice in the Agility, Mechanical,
 Strength, Perception, and Technical are redistributed to match the new
 form. The minimum Mechanical and Technical for non-humanoid
-
-> Shapeshifting Example
-Mark is playing a wereleopard. He chooses Shapeshifting,
-specifying that he will only change from Human to leopard
-and back again. The gamemaster decides he'll gain one rank
-of the Hypermovement Special Ability (+2 to the movement
-rate) and +2 to all search totals that require smell when in
-his wereleopard form.
-Mark's character has 18 attribute dice arranged thusly:
-AGILITY 2D+2
-STRENGTH 3D
-KNOWLEDGE 2D+2
-PERCEPTION 2D+2
-MECHANICAL 3D+1
-TECHNICAL 3D+2
-When he changes into wereleopard form, Mark's character
-has the following attribute values, the total of which has been
-lowered by 2D because of the bonuses:
-AGILITY 4D
-STRENGTH 3D+2
-KNOWLEDGE 2D+2
-PERCEPTION 3D+2
-MECHANICAL 1D
-TECHNICAL 1D
-
 forms is 1D, because the shapeshifter retains some memory of these
 attributes. Additional dice in skills above the base attribute score
 remain the same, though the total dice in each skill changes to reﬂect
 the adjustments in the base attribute. Likewise, not all skills will be
 usable in the new form.
+
 Attribute dice can also be used to include Special Abilities in the
 new form. One attribute die can be spent to gain one rank in one Special
 Ability or to get a +2 skill total bonus (split among up to two skills).
 The gamemaster may allow a larger skill total bonus or more skills to
 fall under the bonus if the desired effect is particularly narrow (such
 as a bonus for a single sense).
+
 For an example of how Shapeshifting can work, see the accompanying sidebar.
+
 Shapeshifting may be done at will, though a Limitation may force
 it to be triggered by stress or environmental factors.
+
 If shifting voluntarily, the character must generate a willpower total
 of 11 to bring about the change, and a second total to turn back again.
-Each change takes one full round in which the character may do nothing else. Failure at the check means the transformation does not occur,
+Each change takes one full round in which the character may do nothing 
+else. Failure at the check means the transformation does not occur,
 and the character cannot try again for at least an hour.
+
 It is highly recommended that the hero comes up with some typical
 forms and their game characteristics before beginning play. The new
 form need not exactly resemble a "typical" version of the emulated
 creature or object.
 
-Silence (3)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+####Shapeshifting Example:####
+
+Mark is playing a wereleopard. He chooses Shapeshifting,
+specifying that he will only change from Human to leopard
+and back again. The gamemaster decides he'll gain one rank
+of the Hypermovement Special Ability (+2 to the movement
+rate) and +2 to all search totals that require smell when in
+his wereleopard form.
+
+Mark's character has 18 attribute dice arranged thusly:    
+AGILITY 2D+2    
+STRENGTH 3D    
+KNOWLEDGE 2D+2    
+PERCEPTION 2D+2    
+MECHANICAL 3D+1    
+TECHNICAL 3D+2    
+
+When he changes into wereleopard form, Mark's character
+has the following attribute values, the total of which has been
+lowered by 2D because of the bonuses:    
+AGILITY 4D    
+STRENGTH 3D+2    
+KNOWLEDGE 2D+2    
+PERCEPTION 3D+2    
+MECHANICAL 1D    
+TECHNICAL 1D    
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+### Silence (3) ###
+
 The character can move in complete silence. He gains +2D per rank
 to all sneak checks and a +1D per rank when attacking from behind.
 
-Skill Bonus (1)
-Skill Bonus represents a natural talent (a character with the Charismatic group might be "friendly and outgoing"), a particular knack (a
-character with the Ranged Combat group has a "keen eye"), years of
-devotion to a profession prior to beginning adventure, or the result of
-an extended life.
+
+### Skill Bonus (1) ###
+
+Skill Bonus represents a natural talent (a character with the 
+Charismatic group might be "friendly and outgoing"), a particular 
+knack (a character with the Ranged Combat group has a "keen eye"), 
+years of devotion to a profession prior to beginning adventure, or 
+the result of an extended life.
+
 The character chooses a group of three related skills in which he
 gains +1 to the skill total of any action performed with those skills
 (or specializations of that skill). The skills need not be under the same
 attribute. The character may or may not actually have adds in those
 skills, and the gamemaster must approve the fact that they are "related."
 Some examples of skill groups include:
-Acting: bargain, con, persuasion
-Acute Balance: acrobatics, climb/jump, sneak
-Athletics: lift, running, throwing
-Charismatic: command, con, persuasion
-Close Combat: brawling, melee combat, dodge
-Investigative: investigation, search, streetwise
-Leadership: command, intimidation, persuasion
-Photographic Memory: languages, scholar, investigation
-Observant: gambling, investigation, search
-Ranged Combat: ﬁrearms, missile weapons, throwing
-Players may substitute other related skills for the ones listed in the
-groups above, or create their own groups as long as there is a common
-thread and the gamemaster approves the grouping.
 
-37
+* Acting: bargain, con, persuasion
 
-Chapter 2
+* Acute Balance: acrobatics, climb/jump, sneak
+
+* Athletics: lift, running, throwing
+
+* Charismatic: command, con, persuasion
+
+* Close Combat: brawling, melee combat, dodge
+
+* Investigative: investigation, search, streetwise
+
+* Leadership: command, intimidation, persuasion
+
+* Photographic Memory: languages, scholar, investigation
+
+* Observant: gambling, investigation, search
+
+* Ranged Combat: ﬁrearms, missile weapons, throwing
+
+* Players may substitute other related skills for the ones listed in the
+
+* groups above, or create their own groups as long as there is a common
+
+* thread and the gamemaster approves the grouping.
 
 Three specializations may replace one general skill, getting a +1 for
 three different specializations.
-Example: In the Close Combat group, a character might replace
+
+Example: *In the Close Combat group, a character might replace
 melee combat with three specializations -- melee combat: knives, melee
 combat: swords, and melee combat: clubs. While this means the character
 gains no bonus for "general" melee combat activities (such as using an
 improvised weapon), he does have a more"detailed" group. This may be
 done for up to all three skills in the group, choosing six specializations
-instead of two skills or nine specializations instead of three skills.
+instead of two skills or nine specializations instead of three skills.*
+
 Additionally, the character acts as if trained in these skills even if
 he doesn't have any additional pips in them, and so does not get the
 unskilled modiﬁer. This Special Ability does not affect the cost of
 improving the related skills.
+
 Gamemasters may allow a higher bonus for fewer skills (such as
 a set of two skills where one gets a +1 bonus and the other gets a +2
 bonus, or a +3 bonus to a set of three specializations). However, the
 bonus per rank may total no more than +3.
+
 At each additional rank, the player may increase the bonus by +1
 for three of the skills affected by this Special Ability. A character may
 have different versions of this ability for different groups of skills,
 though the skills in each group may not overlap.
 
-Skill Minimum (4)
+
+### Skill Minimum (4) ###
+
 The character can select three related skills unaffected by any other
 sort of Special Ability and the character will always gain a minimum
 total of 3 times the number before the "D," even if she rolls a Critical
 Failure.
 
-Transmutation (5)
+Example: *If the player selects persuasion, con, and intimidation (all
+interaction skills) for her character, all of which she has at 4D, and she
+generates a less than 12, the total automatically becomes 12. That is the
+character's minimum total.*
+
+The player may not select Skill Minimum for any skill that has any other
+Advantage or Special Ability tied to it. Also, the skills must be 
+related in some way (see the Skill Bonus Special Ability for information 
+on related skills). The character may only select general skills,
+but the specializations underneath that general skill are affected as 
+well. This Special Ability may be selected only once for each group of 
+skills.
+
+
+### Teleportation (3) ###
+
+The character can move instantly to another place up to 10 meters per
+rank away. The character must see her destination clearly. In combat, 
+this action takes an entire round. The character may take along 
+whatever she can carry.
+
+
+### Transmutation (5) ###
 The character can alter his substance to something else, while
 retaining his form (such as a man who turns to stone). Characters with
 this ability may only shift into one speciﬁc substance, which the player
 must specify when his character gets the Special Ability. Generally, this
 substance gives the character distinct advantages. The player may select
 up to 4 points (not ranks) in other Special Abilities that relate to the
-chosen form, per rank in this Special Ability. (Thus, two Transmutation ranks means 8 points in other Special Abilities.) Natural Armor,
+chosen form, per rank in this Special Ability. (Thus, two Transmutation 
+ranks means 8 points in other Special Abilities.) Natural Armor,
 Hardiness, and Environmental Resistance are common ones.
 
-Uncanny Aptitude (3)
+
+### Uncanny Aptitude (3) ###
+
 This Special Ability is similar to the Skill Bonus Special Ability
 in that some sort of bizarre ability gives the character added bonuses
 to certain actions. However, instead of selecting a group of skills that
@@ -4185,125 +4309,106 @@ the character gains a bonus to, the player and the gamemaster work
 out circumstances where these abilities come into play. For instance,
 a character might gain a +1 bonus to all Agility-related skill totals
 when in sunlight.
+
 A character may have several variations of this ability, reﬂecting
 different bonuses. Each variation could have several ranks, with the
 bonuses adding to each other.
 
-Ventriloquism (3)
+
+### Ventriloquism (3) ###
+
 The character can throw her voice up to three meters away per rank.
 No skill roll is required to do this, but if it is part of a trick attempt,
 she receives a +2D bonus per rank to con and persuasion rolls.
 
-Example: If the player selects
-persuasion, con, and intimidation (all
-interaction skills) for her character,
-all of which she has at 4D, and she
-generates a less than 12, the total
-automatically becomes 12. That is the
-character's minimum total.
 
-Water Breathing (2)
+### Water Breathing (2) ###
 
-The player may not select Skill Minimum for any skill that has any other
-Advantage or Special Ability tied to it.
-Also, the skills must be related in some
-way (see the Skill Bonus Special Ability
-for information on related skills). The
-character may only select general skills,
-but the specializations underneath that
-general skill are affected as well. This
-Special Ability may be selected only
-once for each group of skills.
-
-Youthful
-Appearance (1)
-
-Teleportation (3)
-The character can move instantly
-to another place up to 10 meters per
-rank away. The character must see her
-destination clearly. In combat, this action
-takes an entire round. The character may
-take along whatever she can carry.
-
-38
-
-The character can breathe water
-and will not drown under water. She
-gains +1D per rank to all swim rolls
-because she doesn't need to worry
+The character can breathe water and will not drown under water. She
+gains +1D per rank to all swim rolls because she doesn't need to worry
 about drowning.
 
-The character looks much
-younger than she actually is and
-receives a +1D per rank to persuasion
-or con. In general, characters should
-not look more than 10 to 20 years
-younger than they are, regardless of
+
+### Youthful Appearance (1) ###
+
+The character looks much younger than she actually is and receives 
+a +1D per rank to persuasion or con. In general, characters should
+not look more than 10 to 20 years younger than they are, regardless of
 the number of ranks, though gamemaster discretion and common sense
 should rule here.
 
-Special Ability
-Enhancements
-Enhancements allow Special
-Abilities to be somehow more than
-the typical version. Each Enhance-
 
-Character Options
+Special Ability Enhancements
+----------------------------
 
-ment may be taken more than once for each Special Ability, either altering
-the ability in similar though distinct ways or, for some, through stacking
-the effects. The cost of the Enhancement adds to the associated Special
-Ability's total cost (base cost plus the cost for additional ranks).
-Additional Effect (1): The Special Ability produces a useful, though
+Enhancements allow Special Abilities to be somehow more than
+the typical version. Each Enhancement may be taken more than once 
+for each Special Ability, either altering the ability in similar 
+though distinct ways or, for some, through stacking the effects. The 
+cost of the Enhancement adds to the associated Special Ability's total 
+cost (base cost plus the cost for additional ranks). 
+
+* Additional Effect (1): The Special Ability produces a useful, though
 minor, side effect that is a natural extension of the power. The more
 useful the side effect, the greater the number of ranks. Some examples
 include a skill bonus when using the ability, doing residual damage (such
 as reﬂection with Natural Armor or radiation with Natural Ranged
 Weapon), or adding functionality to an Extra Body Part.
-Bestow (varies): The character may share her Special Ability with
-a certain type of target: sentient living, nonsentient living, or nonliving.
-The player must chose which group when including this Enhancement. The cost of this Enhancement equals one-half (rounded up)
+
+* Bestow (varies): The character may share her Special Ability with
+a certain type of target: sentient living, nonsentient living, or 
+nonliving. The player must chose which group when including this 
+Enhancement. The cost of this Enhancement equals one-half (rounded up)
 of the Special Ability total (base cost plus additional ranks cost plus
 Enhancement costs). She may use her Special Ability on herself and on
 members of her target group with a multi-action penalty. The character
 may give her Special Ability to one person per action.
 Some Special Abilities will require better stories concerning how
-the character can manage sharing them than others (such as Youthful Appearance or Ambidextrous), while others may not have this
+the character can manage sharing them than others (such as Youthful 
+Appearance or Ambidextrous), while others may not have this
 Enhancement (such as Longevity or Immortality). The target has
 control over the use of the Bestowed Special Ability for as long as the
 Bestowing character allows. A character may only have one rank in this
 Enhancement, but she may have multiple versions of it.
-Extended Range (3): The factor used to determine the range of the
+
+* Extended Range (3): The factor used to determine the range of the
 character's Special Ability is increased. Every rank of this Enhancement
 allows the player to add one half of the ranks in the Special Ability
 (rounded up) to the factor when determining the range. Thus, to increase
 the range factor by half the ranks costs three, by the ranks in the ability
 costs six, by 1.5 times the ranks costs eight, and so on.
-Example: The range for Natural Ranged Weapon is 20 times the
-number of ranks in the Special Ability times the character's Strength
-or lift in meters. With two ranks of Extended range, the range would
-now be 20 times twice the number of ranks in the Special Ability times
-the character's Strength or lift.
-Multiple Targets (2): The character may use the Special Ability
+
+    *Example: The range for Natural Ranged Weapon is 20 times the
+    number of ranks in the Special Ability times the character's Strength
+    or lift in meters. With two ranks of Extended range, the range would
+    now be 20 times twice the number of ranks in the Special Ability times
+    the character's Strength or lift.
+
+* Multiple Targets (2): The character may use the Special Ability
 more than once per round without incurring a multi-action penalty. For
 each rank in this Enhancement, the character gains one additional use
 of the Special Ability. This adds to any other bonus actions provided
 by a power; it does not multiply it.
 
+
 Special Ability Limitations
-These Limitations can be associated with Special Abilities, restricting their functionality and reducing their total cost (base cost plus the
+---------------------------
+
+These Limitations can be associated with Special Abilities, restricting 
+their functionality and reducing their total cost (base cost plus the
 cost for additional ranks plus any Enhancements -- not the per rank
 cost). For example, the total cost of two ranks of Iron Will in a game
 where Special Abilities are uncommon is four, and in a game where
 they are common, the cost is three.
+
 Limitations may not lower a Special Ability's total cost below one,
 and all Limitations must have some sort of effect on play -- just like
 Disadvantages. Each of a character's Special Abilities may have more
-
 than one of each Limitation, as they can either describe similar but
 distinct negative situations or, in some cases, stack the effects.
-Ability Loss (3 for 1 rank; 4 for 2 ranks): The character temporarily loses his Special Ability at regular intervals or, when the Special
+
+* Ability Loss (3 for 1 rank; 4 for 2 ranks): The character temporarily 
+loses his Special Ability at regular intervals or, when the Special
 Ability is used, he loses the ability to use a common skill in which he
 has experience (that is, additional pips or dice). Examples include: a
 character who cannot shapeshift when the sun is out; a character who
@@ -4315,7 +4420,8 @@ simple) procedure to regain his ability or skill use. A Special Ability
 may have up to two ranks in a single variation of this Limitation, but
 a character may have it multiple times for different Special Abilities,
 circumstances, or combinations of Special Abilities and skills.
-Allergy (3 for 1 rank; 4 for 2 ranks): The character has a somewhat
+
+* Allergy (3 for 1 rank; 4 for 2 ranks): The character has a somewhat
 minor allergy. Exposure to a fairly common substance (smoke, sunlight,
 particular food, etc.) causes the character to lose all Critical Success
 rerolls until the condition is removed. For an additional point and
@@ -4323,171 +4429,171 @@ additional rank, the effects are worse, and the character loses all actions
 due to coughing ﬁts, watering eyes, or similar discomfort until she can
 get away from the allergen. A Special Ability may only have one rank
 in this Limitation, though it may have several different Allergies.
-Burn-out (1): See the Disadvantage by this name for suggestions
+
+* Burn-out (1): See the Disadvantage by this name for suggestions
 that could also be applied to a Special Ability. The more likely the
 Burn-out, the greater the number of ranks in this Limitation. A Special
 Ability may have multiple variations of this Limitation, representing
 different triggers for the Burn-out.
-Cybernetics (0): An artiﬁcial limb or organ provides the character's
+
+* Cybernetics (0): An artiﬁcial limb or organ provides the character's
 Special Ability. As a cybernetic improvement is impossible to accidently
 drop or remove, this Limitation has no cost. Characters may have only
 one rank in it.
-Debt (3): Someone (or, more likely, some entity) gave the character
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+### Cybernetics and Special Abilities ###
+
+Mechanical implants exist as the most common means for an unmutated 
+Human (and possibly some other species of the gamemaster's devising) 
+to gain Special Abilities. Read the "Cybernetics" chapter for details 
+on how to include Special Abilities in your character by replacing an 
+organic part with a mechanical construct.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+* Debt (3): Someone (or, more likely, some entity) gave the character
 the Special Ability, along with certain obligations and restrictions. The
 character must continually beg the giver to retain the Special Ability,
 or she must perform certain tasks at the giver's request in exchange for
 continued use of the Special Ability. A Special Ability may only have
 one rank in this Limitation.
 
-> Cybernetics and Special
-Abilities
-Mechanical implants exist as the most common means for
-an unmutated Human (and possibly some other species of
-the gamemaster's devising) to gain Special Abilities. Read the
-"Cybernetics" chapter for details on how to include Special
-Abilities in your character by replacing an organic part with
-a mechanical construct.
+*Flaw (1): All difficulties associated with using the Special Ability 
+are increased by +2 per rank. The greater the rank associated with this 
+Flaw, the greater the difficulty modiﬁer.
 
-39
+* Minor Stigma (3): The character cannot use the Special Ability without
+performing the "proper rituals" before or after (someone with a natural 
+weapon who must sketch an image of his intended victim before hunting 
+him down; a shapeshifter who must be puriﬁed by his cult after killing 
+someone). A Special Ability may only have one rank in this Limitation.
 
-Chapter 2
+* Others Only (2 for 1 rank; 3 for 2 ranks; 4 for 3 ranks): The 
+character may not use the Special Ability himself; he may only allow 
+others to use it. The value of this Limitation depends on how many
+groups of "others" he can use it on: For two points and one rank, the 
+character may affect sentient living, nonsentient living, and nonliving 
+targets. For three points and two ranks, the character can affect only
+two of the three groups. For four points and three ranks, the character 
+can affect only one of the three groups. 
 
-Flaw (1): All difficulties associated with
-using the Special Ability are increased by
-+2 per rank. The greater the rank associated with this Flaw, the greater the difficulty
-modiﬁer.
-Minor Stigma (3): The character
-cannot use the Special Ability without
-performing the "proper rituals" before or
-after (someone with a natural weapon who
-must sketch an image of his intended victim
-before hunting him down; a shapeshifter
-who must be puriﬁed by his cult after killing someone). A Special Ability may only
-have one rank in this Limitation.
-Others Only (2 for 1 rank; 3 for 2
-ranks; 4 for 3 ranks): The character may
-not use the Special Ability himself; he
-may only allow others to use it. The value
-of this Limitation depends on how many
-groups of "others" he can use it on: For two
-points and one rank, the character may
-affect sentient living, nonsentient living,
-and nonliving targets. For three points and
-two ranks, the character can affect only
-two of the three groups. For four points
-and three ranks, the character can affect only one of the three groups.
-This Limitation may not be taken more than once per Special Ability.
-Additionally, like the Bestow Enhancement, some Special Abilities may
-require valid reasons before the gamemaster allows the Limitation's
-inclusion. Some abilities, such as Immortality and Longevity, may
-not have this Limitation. The target who gets the Special Ability has
-control over its use as if she actually had the ability, for as long as the
-giving character allows.
-Allowing another person access to the Special Ability counts as an
-action for its owner, while using the newfound Special Ability counts
-as as an action for the one who gets it (though gaining access to it does
-not). The Special Ability's owner may only give the Special Ability to
-one character per round, but the target may be different each round.
-Price (1): The character must fulﬁll certain obligations in order to
-use the Special Ability. Perhaps when using Water Breathing, the character must remain in the water for at least 24 hours for every 24 hours
+    * This Limitation may not be taken more than once per Special Ability.
+    Additionally, like the Bestow Enhancement, some Special Abilities may
+    require valid reasons before the gamemaster allows the Limitation's
+    inclusion. Some abilities, such as Immortality and Longevity, may
+    not have this Limitation. The target who gets the Special Ability has
+    control over its use as if she actually had the ability, for as long 
+    as the giving character allows.
+
+    * Allowing another person access to the Special Ability counts as an
+    action for its owner, while using the newfound Special Ability counts
+    as as an action for the one who gets it (though gaining access to it does
+    not). The Special Ability's owner may only give the Special Ability to
+    one character per round, but the target may be different each round.
+
+* Price (1): The character must fulﬁll certain obligations in order to
+use the Special Ability. Perhaps when using Water Breathing, the character 
+must remain in the water for at least 24 hours for every 24 hours
 out of it or suffer -4 modiﬁer per rank in this Limitation to his damage
 resistance total for changing environments so quickly. Alternatively,
 there could be a Character or Fate Point fee of three Character Points
 per rank or one Fate Point per rank in the Limitation per adventure
 in which the character uses the Special Ability.
-Restricted (1): The Special Ability is hindered in a way not covered by any other Limitation. The more restrictive the situation, the
 
-40
+* Restricted (1): The Special Ability is hindered in a way not covered by 
+any other Limitation. The more restrictive the situation, the greater 
+the number of ranks in this Limitation. For instance, a Natural Weapon 
+(either kind) may only be useful against certain items. A Special 
+Ability may have multiple variations of this Limitation, each 
+representing a different restraint.
 
-greater the number of ranks in
-this Limitation. For instance, a
-Natural Weapon (either kind)
-may only be useful against certain
-items. A Special Ability may have
-multiple variations of this Limitation, each representing a different
-restraint.
-Side Effect (2): One of the
-character's Special Abilities has
-some sort of annoying side effect
-that appears with its use, such as
-constant whistling, a continuous
-glow, or a terrible stench. Add 4
-per rank to the difficulty of all
-sneak attempts when the Special
-Ability is in use, as everyone can
-ﬁgure out she's coming. This will
-also affect interaction attempts,
-adding at least a +1 per rank to
+* Side Effect (2): One of the character's Special Abilities has
+some sort of annoying side effect that appears with its use, such as
+constant whistling, a continuous glow, or a terrible stench. Add 4
+per rank to the difficulty of all sneak attempts when the Special
+Ability is in use, as everyone can ﬁgure out she's coming. This will
+also affect interaction attempts, adding at least a +1 per rank to
 the difficulty.
-Singularity (1 per Special
-Ability): The character may
-use only one of a group of two
-or more Special Abilities each
-round. It does not take an action to switch Special Abilities. He may
-change the Special Ability in use at the beginning of his turn in a
-round, and he may rely on the chosen Special Ability until the next
-time he changes it. For a second rank (and one additional point per
-Special Ability), it does take an action to switch Special Abilities. A
-Special Ability may not have more than two ranks in this Limitation
-and all Special Abilities in the same group must have this Limitation
-at the same rank. Not all of a character's Special Abilities need be in
-the same Singularity group.
-Super-science (2): The Special Ability is contained in a piece of
+
+* Singularity (1 per Special Ability): The character may use only one 
+of a group of two or more Special Abilities each round. It does not 
+take an action to switch Special Abilities. He may change the Special 
+Ability in use at the beginning of his turn in a round, and he may rely 
+on the chosen Special Ability until the next time he changes it. For a 
+second rank (and one additional point per Special Ability), it does take 
+an action to switch Special Abilities. A Special Ability may not have 
+more than two ranks in this Limitation and all Special Abilities in the 
+same group must have this Limitation at the same rank. Not all of a 
+character's Special Abilities need be in the same Singularity group.
+
+* Super-science (2): The Special Ability is contained in a piece of
 equipment -- such as a gun, a staff, or a ring -- developed through a
 technological means not readily available and certainly experimental.
 The item could be lent to another character or taken away with a
-successful grab and used by someone else, though at a +5 to the difﬁculty. On a Critical Failure, the item malfunctions and requires repair.
+successful grab and used by someone else, though at a +5 to the difﬁculty. 
+On a Critical Failure, the item malfunctions and requires repair.
 Unless combined with the Burn-out Limitation, a destroyed item may
 be recreated in a number of days equal to the total cost of the Special
-Ability (including all ranks, Enhancements, and Limitations). Characters who wish to have Special Abilities in their cybernetic implants
+Ability (including all ranks, Enhancements, and Limitations). Characters 
+who wish to have Special Abilities in their cybernetic implants
 may not take this Limitation, as cybernetic implants are impossible
 to remove without serious and extended effort. (See the Cybernetics
 Limitation, described herein.)
 
-> Aliens and Human
-Offshoots
+
+Aliens and Human Offshoots
+==========================
+
 What's in this Chapter
+----------------------
 
 Although it's possible to run a science-ﬁction adventure without
 aliens, it's not the norm. This chapter offers you suggestions on how
-to design believable aliens. You can use the same ideas to create offshoots of Humanity, those mutated by colonization circumstances to
+to design believable aliens. You can use the same ideas to create 
+offshoots of Humanity, those mutated by colonization circumstances to
 be something not quite like their progenitors.
 
-Designing Aliens and
-Human Offshoots
+
+Designing Aliens and Human Offshoots
+------------------------------------
 
 When it comes to game characteristics, aliens and Human offshoots
 are made the same way as a standard Human character. If the character
 options list doesn't give you any ideas, start either with the "Physical
-Appearance" or the "Society" sections. By the time you're done answering the questions in those, you'll have a better idea of how to form the
+Appearance" or the "Society" sections. By the time you're done answering 
+the questions in those, you'll have a better idea of how to form the
 package for a typical member of the species.
 
+
 Physical Appearance
+-------------------
 Jot down a few words or sentences for each of these categories. The
 more detailed you can be, the more vividly you can describe a member of
 the species to others. Additionally, having an idea of physical appearance
 can help you decide on the society. If you already have ﬁgured out the
 society, then that information can help you decide on an appearance
 appropriate for that type of people.
+
 Height range: You can either give a speciﬁc range in meters or be
 more vague (tall, short, medium, microscopic).
+
 Build and weight range: Build provides an accessible notion of a
 typical member's physique rather than merely giving a weight range.
 Most members of a species could be stocky, bulky, lumpy, skinny, well
 proportioned, or any of a number of descriptive words.
+
 Heads: The head is typically considered the part of the body where the
 most number of sensory organs and the brain are located. Some species
 might have their sensory organs split among a few locations, with the
 brain in another part, giving them the illusion of having no head.
+
 Sensory organs: Beings rely on sensory organs to gather information about their environment. How many does the alien have, and what
 do they sense? How well is each sense developed? Humans have ﬁve
 senses, but your alien species may have additional, specialized organs to
 detect other aspects of their environment, such as barometric pressure
-
-3
-
 changes or seismic activity. You also need to decide where the sensory
 organs are located.
+
 Mouth: Consider the number of mouths, location of them, their
 size and shape, type of tongue, and teeth (if any). This often dictates
 the alien's dietary needs and rituals. A mouth might even be separate
@@ -4496,43 +4602,53 @@ Facial features: On Humans, this includes eyes, ears, nose, and
 mouth. Alien species may have these located elsewhere. Decide what
 features are on your alien's face, and then specify number, location, size,
 shape, color, and other aspects of each.
+
 Respiration: What does the species breathe, and how do they
 breathe it? Decide on the respiratory organ, which could be the same
 one used to eat (like a Human's mouth), gills, or an organ designed
 solely for the purpose of respiration.
 Skeletal structure: Decide whether aliens carry their soft ﬂesh over a
 skeleton, under a skeleton, neither, or they've managed a little of both.
+
 Movement: How does the alien get around? How many limbs does
 the alien require for locomotion? This is often dictated by where the
 species typically lives. In heavy-gravity environments, creatures tend to
 be closer to the ground, while water-dwellers develop ﬁns and webbing
 to help them move through their environment.
+
 Limbs: Consider type, number, length, and what purpose they
 have. Some aliens might have developed a separate limb or tentacle
 for eating, holding, and ﬁghting.
+
 Manipulators: Determine how the species manipulates objects. If
 the species has hands, how many ﬁngers? They could also use pincers,
 tentacles, or telekinesis.
+
 Tail: Some species have a tail for balance. If that's the case, how
 long is a typical one? Is it tipped with any natural weaponry? Can it
 be used like an additional arm?
+
 Skin: Is the skin scaly, smooth, slimy, hairy, or something else? What
 color is it? Does it have any markings on it? Does it ooze anything?
-Body temperature: Some species can regulate their own body temperature, as do Humans and birds. The body of others could be more
+
+Body temperature: Some species can regulate their own body temperature, 
+as do Humans and birds. The body of others could be more
 inﬂuenced by changes in the environment, like reptiles and ﬁsh. Having
 some control of body temperature, as well as the preferred temperature,
 can inﬂuence the kind of clothes and preferred climactic conditions.
+
 Decorative features: Decorative features include horns, hair, bone
-protrusions, cartilage bumps or ridges, skin ﬂaps, frills, feathers, and other
-aspects that may not do more than be attractive to potential mates.
+protrusions, cartilage bumps or ridges, skin ﬂaps, frills, feathers, 
+and other aspects that may not do more than be attractive to potential 
+mates.
 
-41
-
-Chapter 3
 
 Society
+-------
+
 Establishing signiﬁcant features of the alien species' society gives
-them more depth by placing them in a larger context. This information can also help you decide on the physical appearance. Should you
+them more depth by placing them in a larger context. This information 
+can also help you decide on the physical appearance. Should you
 have already decided upon that, take into consideration what features
 you've given your alien so you can create a society that makes sense for
 that combination of physical characteristics.
@@ -4569,7 +4685,8 @@ the capabilities of the species in each area.
 Examples and Packages
 
 These sets of Advantages, Disadvantages, and Special Abilities deﬁne
-the physical and mental characteristics of stereotypical members of common science-ﬁction species, as well as offer an idea of how to represent
+the physical and mental characteristics of stereotypical members of 
+common science-ﬁction species, as well as offer an idea of how to represent
 your own aliens and alien packages. Realize that, to keep the point total
 down, not every characteristics of each kind of alien was represented
 through Advantages, Disadvantages, and Special Abilities. Instead, the
@@ -4635,18 +4752,28 @@ hearing-based skill totals; Extra Body Part: Tail (R1, cost 0)
 Felinoid (Cat People)
 Typical
 
-Agility 4D: acrobatics 4D+2, brawling 4D+1, dodge 4D+1,
-ﬁrearms 4D+1
+Agility 4D: acrobatics 4D+2, brawling 4D+1, dodge 4D+1, ﬁrearms 4D+1
+
 Strength 2D: climb/jump 2D+2
-Knowledge 3D: astrography 3D+1, bureaucracy 3D+1, intimidation 3D+1, willpower 3D+1
+
+Knowledge 3D: astrography 3D+1, bureaucracy 3D+1, intimidation 3D+1, 
+willpower 3D+1
+
 Perception 4D: search 4D+1, sneak 4D+1
+
 Mechanical 2D: piloting 2D+1, sensors 2D+2
+
 Technical 2D: ﬂight systems repair 2D+1, medicine 2D+1
+
 Advantages: None
-Disadvantages: Hindrance: Arrogance (R2), +3 to con and persuasion difficulties; Hindrance: Reduced Hardiness (R2), -2 to damage
+
+Disadvantages: Hindrance: Arrogance (R2), +3 to con and persuasion 
+difficulties; Hindrance: Reduced Hardiness (R2), -2 to damage
 resistance totals; Quirk: Hates Water (R2), make a Difficult willpower
 roll to be wet or will do nothing until dry
-Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sightbased skill totals; Enhanced Sense: Hearing (R1, cost 3), +2 to hearing-based skill totals; Extra Body Part: Tail (R1, cost 0); Skill Bonus:
+Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sightbased 
+skill totals; Enhanced Sense: Hearing (R1, cost 3), +2 to hearing-based 
+skill totals; Extra Body Part: Tail (R1, cost 0); Skill Bonus:
 Agility (R1, cost 1), +1 to acrobatics, climb/jump, and running totals;
 Natural Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage
 Move: 10
@@ -4660,10 +4787,13 @@ Package
 Total creation point cost: 3
 Total deﬁned limit cost: 3 skill dice
 Advantages: None
-Disadvantages: Hindrance: Arrogance (R2), +3 to con and persuasion difficulties; Hindrance: Reduced Hardiness (R2), -1 to damage
+Disadvantages: Hindrance: Arrogance (R2), +3 to con and persuasion 
+difficulties; Hindrance: Reduced Hardiness (R2), -1 to damage
 resistance totals; Quirk: Hates Water (R2), make a Difficult willpower
 roll to be wet or will do nothing until dry
-Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sightbased skill totals; Enhanced Sense: Hearing (R1, cost 3), +1 to hearing-based skill totals; Extra Body Part: Tail (R1, cost 0); Skill Bonus:
+Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sightbased 
+skill totals; Enhanced Sense: Hearing (R1, cost 3), +1 to hearing-based 
+skill totals; Extra Body Part: Tail (R1, cost 0); Skill Bonus:
 Agility (R1, cost 1), +1 to acrobatics, climb/jump, and running totals;
 Natural Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage
 
@@ -4699,7 +4829,8 @@ Advantages: None
 Disadvantages: Hindrance: Slow (R2), +4 to climb/jump and
 running difficulties; Achilles' Heel: Vulnerability (R3), damage from
 ﬁre increased by +3D
-Special Abilities: Extra Body Part: Vine (R1, cost 0) with Enhancement Additional Effect (R3), can grasp with vine; Natural Armor: Bark
+Special Abilities: Extra Body Part: Vine (R1, cost 0) with Enhancement 
+Additional Effect (R3), can grasp with vine; Natural Armor: Bark
 (R1, cost 3), +1D to damage resistance total against physical damage
 
 Heavy Worlder (Human Offshoot)
@@ -4754,7 +4885,8 @@ Disadvantages: Devotion (R3), dedicated to hive and will support
 it above all else; Hindrance: Swimming (R2), +8 to swim difficulties
 
 Special Abilities: Natural Armor: Chiton (R1, cost 3), +1D to
-damage resistance total against physical damage; Natural Hand-toHand Weapon: Claws (R1, cost 2), +1D damage
+damage resistance total against physical damage; Natural Hand-toHand 
+Weapon: Claws (R1, cost 2), +1D damage
 Move: 10
 Strength Damage: 2D
 Fate Points: 0
@@ -4769,7 +4901,8 @@ Advantages: None
 Disadvantages: Devotion (R3), dedicated to hive and will support
 it above all else; Hindrance: Swimming (R2), +8 to swim difficulties
 Special Abilities: Natural Armor: Chiton (R1, cost 3), +1D to
-damage resistance total against physical damage; Natural Hand-toHand Weapon: Claws (R1, cost 2), +1D damage
+damage resistance total against physical damage; Natural Hand-toHand 
+Weapon: Claws (R1, cost 2), +1D damage
 
 Reptiloid (Reptile People)
 Typical

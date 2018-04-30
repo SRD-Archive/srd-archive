@@ -1,0 +1,2627 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>Vehicle Movement and COmbat</title>
+	<meta name="generator" content="LibreOffice 5.4.6.2 (Linux)"/>
+	<meta name="author" content="AKSmith"/>
+	<meta name="created" content="2002-09-23T11:36:00"/>
+	<meta name="changed" content="2003-08-29T10:52:00"/>
+	<meta name="classification" content="MSRD"/>
+	<meta name="Company" content="Wizards of the Coast"/>
+	<meta name="Operator" content="AKSmith"/>
+	<style type="text/css">
+		@page { margin: 0.75in }
+		p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; orphans: 2; widows: 2 }
+		p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-US }
+		p.cjk { font-family: "Symbol"; font-size: 12pt; so-language: en-US }
+		p.ctl { font-family: "Wingdings"; font-size: 12pt }
+		h2 { margin-top: 0in; margin-bottom: 0in; direction: ltr; text-align: left; orphans: 2; widows: 2; text-decoration: underline }
+		h2.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-US; font-weight: normal }
+		h2.cjk { font-family: "Symbol"; font-size: 12pt; so-language: en-US; font-weight: normal }
+		h2.ctl { font-family: "Wingdings"; font-size: 12pt; font-weight: normal }
+		h3 { margin-top: 0in; margin-bottom: 0in; direction: ltr; text-align: left; orphans: 2; widows: 2 }
+		h3.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-US; font-style: italic; font-weight: normal }
+		h3.cjk { font-family: "Symbol"; font-size: 12pt; so-language: en-US; font-style: italic; font-weight: normal }
+		h3.ctl { font-family: "Wingdings"; font-size: 12pt; font-weight: normal }
+		h4 { margin-top: 0in; margin-bottom: 0in; direction: ltr; text-align: left; orphans: 2; widows: 2 }
+		h4.western { font-family: "Times New Roman", serif; font-size: 10pt; so-language: en-US }
+		h4.cjk { font-family: "Symbol"; font-size: 10pt; so-language: en-US }
+		h4.ctl { font-family: "Wingdings"; font-weight: normal }
+		h5 { margin-top: 0in; margin-bottom: 0in; direction: ltr; text-align: center; orphans: 2; widows: 2 }
+		h5.western { font-family: "Times New Roman", serif; so-language: en-US }
+		h5.cjk { font-family: "Symbol"; so-language: en-US }
+		h5.ctl { font-family: "Wingdings"; font-size: 12pt; font-weight: normal }
+		a:link { color: #0000ff }
+	</style>
+</head>
+<body lang="en-US" link="#0000ff" dir="ltr">
+<p style="margin-bottom: 0in; line-height: 100%; orphans: 2; widows: 2">
+<sup><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">This
+material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.</font></font></sup></p>
+<p style="margin-bottom: 0in; line-height: 100%; orphans: 2; widows: 2">
+<br/>
+
+</p>
+<h2 class="western" style="text-decoration: none"><font face="Times New Roman, serif"><font size="5" style="font-size: 18pt">Vehicle
+Movement and Combat</font></font></h2>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">For
+simply traveling from point to point, the vehicle used is largely a
+matter of personal style and finances. Skill checks are only required
+in extraordinary circumstances. These rules are primarily focused on
+ground vehicles—cars, trucks, and light military vehicles. The
+rules can be modified for boats, heavier armored vehicles, and
+aircraft.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Characters
+in Vehicles</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+character in a vehicle fills one of several possible roles, which
+determines what the character can do.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Driver:
+</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">The
+driver of the vehicle controls its movement. Most vehicles have only
+one position from where the vehicle can be driven, so the person
+seated there is the driver. Driving a vehicle is, at a minimum, a
+move action, which means that the driver may be able to do something
+else with his or her attack action. There can be only one driver in a
+vehicle at one time.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Copilot:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+A copilot can help the driver by taking an aid another action. The
+copilot must be seated in a location where he or she can see the road
+and advise the driver (in a car, this generally means the front
+passenger seat). Aiding the driver is a move action, leaving the
+copilot with an attack action each round to do something else. A
+vehicle can have only one copilot at a time. A copilot can also drive
+the vehicle if the driver cannot or chooses not to, provided there is
+a second set of controls at the copilot’s seat (usually true in
+aircraft, but not ground vehicles).</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Gunner:
+</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">Some
+vehicles have built-in weapons. If such a weapon is controlled from a
+location other than the driver’s position, a character can man that
+position and become the gunner. A vehicle can have as many gunners as
+it has gunner positions.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Passenger:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+All other personnel aboard the vehicle are considered passengers.
+Passengers have no specific role in the vehicle’s operation, but
+may be able to fire weapons from the vehicle or take other actions.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Scale</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">These
+rules use two scales.  If the encounter involves both vehicles and
+characters on foot, use character scale. If the scene involves only
+vehicles, and they’re likely to move at much higher speeds than
+characters or creatures on foot, use chase scale.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Character
+Scale: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">Character
+scale is identical to the standard movement scale: It’s carried out
+on a grid in which each square equals 5 feet. In character scale,
+most vehicles are large enough to occupy multiple squares on the map
+grid. How many squares a vehicle occupies is specified in the
+vehicle’s description.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">When
+moving a vehicle, count the squares from the vehicle’s rear. When
+turning, pivot the vehicle on the rear square toward which it is
+turning. When firing weapons, count squares from the location of the
+weapon.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">In
+character scale, more than one ground vehicle cannot occupy the same
+square.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Chase
+Scale: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">In
+chase scale, each square of the grid represents 50 feet.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">In
+chase scale, most commonly encountered vehicles occupy only one
+square. (Some especially large vehicles, such as ships or jumbo jets,
+might occupy more than one square.) More than one vehicle can occupy
+the same square. Vehicles in the same square are considered to be 20
+feet apart for the purposes of determining range for attacks.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Vehicle
+Sizes</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Vehicles
+use the same size categories as characters and creatures, as shown on
+Table: Vehicle Sizes. The vehicle’s size modifier applies to its
+initiative modifier, maneuver modifier, and Defense. (The size
+modifier is already included in the vehicle statistics on Table:
+Vehicles)</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<table width="370" cellpadding="7" cellspacing="0">
+	<col width="71">
+	<col width="77">
+	<col width="181">
+	<tr>
+		<td colspan="3" width="356" valign="top" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Table:
+			Vehicle Sizes</b></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="71" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Vehicle
+			Size</font></h4>
+		</td>
+		<td width="77" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center"><font face="Times New Roman, serif">Size
+			Modifier</font></h4>
+		</td>
+		<td width="181" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Examples</font></h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="71" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Colossal</font></font></p>
+		</td>
+		<td width="77" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">8</font></font></p>
+		</td>
+		<td width="181" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Yacht,
+			semi with trailer</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="71" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Gargantuan</font></font></p>
+		</td>
+		<td width="77" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">4</font></font></p>
+		</td>
+		<td width="181" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Tank,
+			limousine</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="71" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Huge</font></font></p>
+		</td>
+		<td width="77" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+		<td width="181" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Luxury
+			car, SUV, armored car</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="71" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Large</font></font></p>
+		</td>
+		<td width="77" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1</font></font></p>
+		</td>
+		<td width="181" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Economy
+			car, Harley</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="71" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Medium-size</font></font></p>
+		</td>
+		<td width="77" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="181" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Racing
+			bike, dirt bike</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Facing
+and Firing Arcs</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Unlike
+with characters, when dealing with vehicles, the vehicle’s facing
+(the direction it’s pointing) is important. Facing indicates the
+direction in which the vehicle is traveling (assuming it’s not
+moving in reverse). It can also determine which weapons aboard the
+vehicle can be brought to bear on a target.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+weapon built into a vehicle can by mounted to fire in one of four
+directions—forward, aft (rear), right, or left—or be built into a
+partial or full turret. A partial turret lets a weapon fire into
+three adjacent fire arcs (such as forward, left, and right), while a
+full turret lets it fire in any direction. For vehicles with weapons,
+a weapon’s arc of fire is given in the vehicle’s description.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Getting
+Started</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Most
+vehicles can be entered with a move action and started with a second
+move action.  An exception is noted in a vehicle’s description when
+it applies.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Initiative</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">There
+are two options for determining initiative in vehicle combat. First,
+is individual initiative just as in normal combat, where each
+character rolls separately. This is probably the best method if most
+or all characters are aboard the same vehicle, but it can result in a
+lot of delayed or readied actions as passengers wait for drivers to
+perform maneuvers. An alternative is to roll initiative for each
+vehicle, using the vehicle’s initiative modifier. This is
+particularly appropriate when characters are in separate vehicles,
+since it allows everyone aboard the same vehicle to act more or less
+simultaneously.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Vehicle
+Speed</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Vehicle
+speed is expressed in five categories: stationary, alley speed,
+street speed, highway speed, and all-out. Each of these speed
+categories represents a range of possible movement (see Table:
+Vehicle Speeds and Modifiers). Each round, a vehicle moves according
+to its current speed category.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<table width="631" cellpadding="7" cellspacing="0">
+	<col width="90">
+	<col width="70">
+	<col width="89">
+	<col width="70">
+	<col width="92">
+	<col width="53">
+	<col width="70">
+	<tr>
+		<td colspan="7" width="617" valign="top" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Table:
+			Vehicle Speeds and Modifiers</b></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2" width="90" valign="bottom" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Speed
+			Category</b></font></font></p>
+		</td>
+		<td colspan="2" width="173" valign="bottom" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Character
+			Scale</b></font></font></p>
+		</td>
+		<td colspan="2" width="176" valign="bottom" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Chase
+			Scale</b></font></font></p>
+		</td>
+		<td width="53" valign="top" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Defense
+			Modifier</b></font></font></p>
+		</td>
+		<td width="70" valign="top" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Check/Roll
+			Modifier</b></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="70" valign="top" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Movement</b></font></font><sup><font face="Agenda-BoldCondensed, serif"><font size="2" style="font-size: 10pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>1</b></font></font></font></font></sup></p>
+		</td>
+		<td width="89" valign="top" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Turn
+			Number</b></font></font><sup><font face="Agenda-BoldCondensed, serif"><font size="2" style="font-size: 10pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>2</b></font></font></font></font></sup></p>
+		</td>
+		<td width="70" valign="top" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Movement</b></font></font><sup><font face="Agenda-BoldCondensed, serif"><font size="2" style="font-size: 10pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>1</b></font></font></font></font></sup></p>
+		</td>
+		<td width="92" valign="top" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Turn
+			Number</b></font></font><sup><font face="Agenda-BoldCondensed, serif"><font size="2" style="font-size: 10pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>2</b></font></font></font></font></sup></p>
+		</td>
+		<td width="53" valign="top" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="70" valign="top" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="90" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Stationary</font></font><sup><font face="Agenda-BoldCondensed, serif"><font size="2" style="font-size: 10pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">3</font></font></font></font></sup></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">0</font></font></p>
+		</td>
+		<td width="89" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">—</p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">0</font></font></p>
+		</td>
+		<td width="92" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">—</p>
+		</td>
+		<td width="53" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">—</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="90" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Alley
+			speed</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1–20</font></font></p>
+		</td>
+		<td width="89" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1–2</font></font></p>
+		</td>
+		<td width="92" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1</font></font></p>
+		</td>
+		<td width="53" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="90" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Street
+			speed</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">21–50</font></font></p>
+		</td>
+		<td width="89" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">3–5</font></font></p>
+		</td>
+		<td width="92" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1</font></font></p>
+		</td>
+		<td width="53" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+1</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="90" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Highway
+			speed</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">51–150</font></font></p>
+		</td>
+		<td width="89" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">4</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">6–15</font></font></p>
+		</td>
+		<td width="92" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+		<td width="53" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="90" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">All-out</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">151+</font></font></p>
+		</td>
+		<td width="89" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">8</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">16+</font></font></p>
+		</td>
+		<td width="92" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+		<td width="53" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+4</font></font></p>
+		</td>
+		<td width="70" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">4</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="7" width="617" valign="top" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><sup><font face="Agenda-BoldCondensed, serif"><font size="2" style="font-size: 10pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			</font></font></font></font></sup><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+			number of squares a vehicle can move at this speed.</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="7" width="617" valign="top" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><sup><font face="Agenda-BoldCondensed, serif"><font size="2" style="font-size: 10pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2
+			</font></font></font></font></sup><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+			number of squares a vehicle must move at this speed before making
+			a turn.</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="7" width="617" valign="top" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><sup><font face="Agenda-BoldCondensed, serif"><font size="2" style="font-size: 10pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">3
+			</font></font></font></font></sup><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+			stationary vehicle cannot move or maneuver.</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Declaring
+Speed</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">At
+the beginning of his or her action, a driver must declare his or her
+speed category for the round. The driver can choose to go one
+category faster or slower than the vehicle’s speed category at the
+end of the previous round.  A stationary vehicle can change to alley
+speed in either forward or reverse. Most vehicles cannot go faster
+than alley speed in reverse.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Stationary:
+</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">The
+vehicle is motionless.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Alley
+Speed:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+This speed is used for safely maneuvering a vehicle in tight spaces,
+such as alleys and parking garages. It tops out at about the speed a
+typical person can run.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Street
+Speed: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">The
+vehicle is traveling at a moderate speed, up to about 35 miles per
+hour.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Highway
+Speed:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+The vehicle is moving at a typical highway speed, from about 35 to 80
+miles per hour.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>All-Out:
+</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">The
+vehicle is traveling extremely fast, more than 80 miles per hour.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Moving</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">On
+his or her action, the driver moves the vehicle a number of squares
+that falls within the vehicle’s speed category.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Unlike
+characters, a vehicle cannot double move, run, or otherwise extend
+its movement (except by changing to a higher speed category).</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Every
+vehicle has a top speed, included in its statistics on Table:
+Vehicles. A vehicle cannot move more squares than its top speed. This
+means that some vehicles cannot move at all-out speed, or even
+highway speed.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Count
+squares for vehicles just as for characters. Vehicles can move
+diagonally; remember that when moving diagonally, every second square
+costs two squares’ worth of movement. Unlike with moving
+characters, a vehicle’s facing is important; unless it changes
+direction, a vehicle always moves in the direction of its facing (or
+in the opposite direction, if it’s moving in reverse).</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">The
+Effects of Speed</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+fast-moving vehicle is harder to hit than a stationary one—but it’s
+also harder to control, and to attack from.</font></font></p>
+<p style="margin-bottom: 0in; line-height: 100%; orphans: 2; widows: 2">
+<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">As
+shown on Table: Vehicle Speeds and Modifiers, when a vehicle travels
+at street speed or faster, it gains a bonus to Defense. However, that
+speed brings along with it a penalty on all skill checks and attack
+rolls made by characters aboard the vehicle—including Drive checks
+to control the vehicle and attacks made from it.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Driving
+a Vehicle</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Driving
+a vehicle is a move action, taken by the vehicle’s driver. During
+his or her move action, the driver moves the vehicle a number of
+squares that falls within its speed category. The driver can attempt
+maneuvers to change the vehicle’s course or speed. These maneuvers
+can be attempted at any point along the vehicle’s route. The driver
+can choose to use his or her attack action to attempt additional
+maneuvers.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+two kinds of vehicle movement are simple maneuvers and stunts.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Simple
+Maneuvers:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+A simple maneuver, such as a 45-degree turn, is easy to perform. Each
+is a free action and can be taken as many times as the driver likes
+while he or she moves the vehicle. However, simple maneuvers do cost
+movement—so a vehicle that makes a lot of simple maneuvers will not
+get as far as one going in a straight line. Simple maneuvers do not
+require the driver to make skill checks.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Stunts:
+</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">Stunts
+are difficult and sometimes daring maneuvers that enable a driver to
+change his or her vehicle’s speed or heading more radically than a
+simple maneuver allows. A stunt is a move action. It can be taken as
+part of a move action to control the vehicle, and a second stunt can
+be attempted in lieu of the driver’s attack action. Stunts always
+require Drive checks.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Simple
+Maneuvers</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">During
+a vehicle’s movement, the driver can perform any one of the
+following maneuvers.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>45-Degree
+Turn:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+Any vehicle can make a simple 45-degree turn as part of its movement.
+The vehicle must move forward at least a number of squares equal to
+its turn number (shown on Table: Vehicle Speeds and Modifiers) before
+it can turn. Making a 45-degree turn costs 1 square of movement.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Ram:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+At character scale, a driver does not have to perform a maneuver to
+ram another vehicle—he or she only needs to drive his or her
+vehicle into the other vehicle’s square, and a collision occurs
+(see Collisions and Ramming).</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">At
+chase scale, however, more than one vehicle can occupy the same
+square and not collide—so ramming another vehicle requires a simple
+maneuver. The driver moves his or her vehicle into the other
+vehicle’s square and states that he or she is attempting to ram.
+Resolve the ram as a collision, except that the driver of the target
+vehicle can make a Reflex save (DC 15) to reduce the damage to both
+vehicles by half.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Sideslip:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+A driver might wish to move to the side without changing the
+vehicle’s facing, for instance to change lanes. This simple
+maneuver, called a sideslip, allows a vehicle to avoid obstacles or
+weave in and out of traffic without changing facing. A sideslip moves
+a vehicle 1 square forward and 1 square to the right or left, and
+costs 3 squares of movement.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Stunts</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Stunts
+are maneuvers that require a Drive check to perform successfully.
+Unsuccessful stunts often result in the vehicle ending up someplace
+other than where the driver intended. When this happens, the vehicle
+collides with any objects in its path. Remember that the check/roll
+modifier from Table: Vehicle Speeds and Modifiers affects all Drive
+checks made by the driver and attack rolls made by all occupants of
+the vehicle.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Avoid
+Hazard:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+Vehicle combat rarely occurs on a perfectly flat, featureless plain.
+When a vehicle tries to move through a square occupied by a hazard,
+the driver must succeed on a Drive check to avoid the hazard and
+continue moving.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Structures
+simply cannot be avoided. Also, if a driver cannot make a check (if
+he or she has used all his or her actions for the round in performing
+other stunts), he or she automatically fails to avoid the hazard. In
+such cases, a collision occurs.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+DC to avoid a hazard varies with the nature of the hazard.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">On
+a failed check, the vehicle hits the obstacle. For caltrops, this
+means the caltrops make an attack against the vehicle (see Caltrops).
+An oil slick forces the drive to make a Drive check (DC 15) to retain
+control of the vehicle (see Losing Control). Failing to avoid an
+object results in a collision with the object (see Collisions and
+Ramming).</font></font></p>
+<table width="286" cellpadding="7" cellspacing="0">
+	<col width="151">
+	<col width="107">
+	<tr valign="top">
+		<td width="151" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Hazard</font></h4>
+		</td>
+		<td width="107" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center"><font face="Times New Roman, serif">DC</font></h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="151" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Caltrops</font></font></p>
+		</td>
+		<td width="107" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">15</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="151" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Oil
+			slick</font></font></p>
+		</td>
+		<td width="107" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">15</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="151" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Object</font></font></p>
+		</td>
+		<td width="107" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="151" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" style="text-indent: 0.13in"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Small
+			(tire, light debris)</font></font></p>
+		</td>
+		<td width="107" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">5</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="151" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" style="text-indent: 0.13in"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Medium-size
+			(crate)</font></font></p>
+		</td>
+		<td width="107" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">10</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="151" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" style="text-indent: 0.13in"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Large
+			(pile of wreckage)</font></font></p>
+		</td>
+		<td width="107" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">15</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="151" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Structure</font></font></p>
+		</td>
+		<td width="107" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Cannot
+			be avoided</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Bootleg
+Turn:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+By making a bootleg turn, a driver can radically change direction
+without turning in a loop. However, in so doing, the vehicle comes to
+a stop.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Before
+a vehicle can make a bootleg turn, it must move in a straight line at
+least a number of squares equal to its turn number. To make a bootleg
+turn, simply change the vehicle’s facing to the desired direction.
+The vehicle ends its movement in that location, at stationary speed.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+DC for a bootleg turn depends on the change in facing.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">On
+a failed check, instead of facing the desired direction, the vehicle
+only changes facing by 45 degrees. Make a Drive check to retain
+control against a DC equal to the DC for the bootleg turn attempted
+(see Losing Control).</font></font></p>
+<table width="134" cellpadding="7" cellspacing="0">
+	<col width="86">
+	<col width="20">
+	<tr valign="top">
+		<td width="86" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p style="orphans: 2; widows: 2"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Facing
+			Change</b></font></font></p>
+		</td>
+		<td width="20" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p align="center" style="orphans: 2; widows: 2"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>DC</b></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="86" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">45
+			degrees</font></font></p>
+		</td>
+		<td width="20" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">5</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="86" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">90
+			degrees</font></font></p>
+		</td>
+		<td width="20" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">10</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="86" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">135
+			degrees</font></font></p>
+		</td>
+		<td width="20" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">15</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="86" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">180
+			degrees</font></font></p>
+		</td>
+		<td width="20" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">20</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Dash:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+With a dash stunt, a driver can increase the vehicle’s speed by one
+category. (This increase is in addition to any speed change made at
+the beginning of the driver’s action; if the driver increased speed
+at that time, he or she can accelerate a total of two categories in
+the same round.) The vehicle’s total movement for the round cannot
+exceed the maximum number of squares for its new speed category. (The
+squares it has already moved before attempting the dash count against
+this total.)</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+DC for a dash is 15. The driver can only succeed at one dash per
+round.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">On
+a failed check, the vehicle does not change speed categories.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Hard
+Brake:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+With a hard brake stunt, a driver can reduce the vehicle’s speed by
+up to two categories. (This is in addition to any speed change made
+at the beginning of his action; if the driver reduced speed at that
+time, he or she can drop a total of three categories in the same
+round.) The vehicle’s movement for the round ends as soon as it has
+moved the minimum number of squares for its new speed category. (If
+it has already moved that far before attempting the hard brake, it
+ends its movement immediately.)</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+DC for a hard brake is 15.  The driver can only succeed at one hard
+break per round.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">On
+a failed check, the vehicle does not change speed categories. Make a
+Drive check (DC 15) to retain control (see Losing Control).</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Hard
+Turn:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+A hard turn allows a vehicle to make a turn in a short distance
+without losing speed.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+hard turn functions like a 45-degree turn simple maneuver, except
+that the vehicle only needs to move forward a number of squares equal
+to half its turn number (rounded down).</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+DC for a hard turn is 15.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">On
+a failed check, the vehicle continues to move forward a number of
+squares equal to its turn number before turning, just as with a
+simple 45-degree turn. Make a Drive check (DC 15) to retain control
+(see Losing Control).</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Jump:
+</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">A
+driver can attempt to jump his or her vehicle across a gap in his or
+her path.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">To
+make a jump, the vehicle must move in a straight line a number of
+squares equal to its turn number. If the vehicle doesn’t have
+enough movement left to clear the gap, it must complete the jump at
+the start of its next turn.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+DC for a jump depends on the width of the gap, modified by the
+vehicle’s speed category.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">On
+a failed check, the vehicle fails to clear the gap, and instead falls
+into it (or collides with the far side). Determine damage as for a
+collision (see Collisions and Ramming).</font></font></p>
+<table width="239" cellpadding="7" cellspacing="0">
+	<col width="191">
+	<col width="20">
+	<tr valign="top">
+		<td width="191" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Gap Width</font></h4>
+		</td>
+		<td width="20" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center"><font face="Times New Roman, serif">DC</font></h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="191" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1–3
+			ft. (ditch)</font></font></p>
+		</td>
+		<td width="20" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">15</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="191" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">4–8
+			ft. (culvert)</font></font></p>
+		</td>
+		<td width="20" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">20</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="191" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">8–15
+			ft. (creek, small ravine)</font></font></p>
+		</td>
+		<td width="20" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">25</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="191" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">16–25
+			ft. (narrow road, small pond)</font></font></p>
+		</td>
+		<td width="20" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">35</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="191" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">26–40
+			ft. (wide road, small river)</font></font></p>
+		</td>
+		<td width="20" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">45</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<table width="237" cellpadding="7" cellspacing="0">
+	<col width="136">
+	<col width="73">
+	<tr valign="top">
+		<td width="136" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Vehicle
+			Speed Category</font></h4>
+		</td>
+		<td width="73" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center"><font face="Times New Roman, serif">DC
+			Modifier</font></h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Alley
+			speed</font></font></p>
+		</td>
+		<td width="73" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+10</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Street
+			speed</font></font></p>
+		</td>
+		<td width="73" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+5</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Highway
+			speed</font></font></p>
+		</td>
+		<td width="73" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">All-out</font></font></p>
+		</td>
+		<td width="73" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">5</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+shallow gap (1 to 3 feet deep) is equivalent to a Medium-size object;
+the vehicle may be able to avoid taking collision damage from the
+failed jump by treating the far side as a hazard and then continue
+moving (see Avoid Hazard, above).</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+moderately deep gap (4 to 10 feet deep) is equivalent to a Huge
+object. The vehicle can only drive out of the gap if the walls are
+not too steep.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+deeper gap (11 feet or deeper) is equivalent to a Colossal object.
+The vehicle can only drive out of the gap if the walls are not too
+steep.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">If
+the gap is filled with water, the vehicle takes only half damage from
+the collision with the ground. However, if the water is too deep or
+the bottom is too soft (GM’s discretion), the vehicle might not be
+able to move.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Sideswipe:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+During a vehicle’s movement, a driver can attempt to sideswipe a
+vehicle or other target, either to deal damage without fully ramming
+it or to cause another driver to lose control of his or her vehicle.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">At
+character scale, a vehicle must be side by side with its target (that
+is, occupying the square or squares directly to its side) and moving
+in the same direction. Attempting a sideswipe costs 1 square of
+movement.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">At
+chase scale, the vehicle must be in the same square as its target and
+moving in the same direction. There is no movement cost.</font></font></p>
+<p style="margin-bottom: 0in; line-height: 100%; orphans: 2; widows: 2">
+<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">If
+the stunt is successful, the sideswiping vehicle and the target both
+take damage as if they had collided (see Collisions and Ramming),
+except that the collision multiplier is 1/4, and the target (or
+driver of the target vehicle) can make a Reflex save (DC 15) to
+reduce the damage to both by half. If the target is another vehicle
+the driver must succeed at a Drive check (DC 15) at the beginning of
+his or her next action or lose control of the vehicle.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+DC for a sideswipe is 15. It’s modified by the relative size and
+speed of the target.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<table width="283" cellpadding="7" cellspacing="0">
+	<col width="182">
+	<col width="73">
+	<tr valign="top">
+		<td width="182" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Target
+			Condition</font></h4>
+		</td>
+		<td width="73" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center"><font face="Times New Roman, serif">DC
+			Modifier</font></h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="182" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Each
+			size category larger</font></font></p>
+		</td>
+		<td width="73" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">5</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="182" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Each
+			size category smaller</font></font></p>
+		</td>
+		<td width="73" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+5</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="182" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Each
+			speed category of difference</font></font></p>
+		</td>
+		<td width="73" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">On
+a failed check, both vehicles take damage as though the sideswipe
+attempt was a success. However, the other driver does not need to
+make a check to retain control.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Driver
+Options</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Here
+is what a vehicle driver can do in a single round:</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Choose
+the Vehicle’s Speed:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+The driver may increase or decrease his or her vehicle’s speed
+category by one (or keep it the same).</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Optional
+Attack Action: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">If
+the driver wants, he or she can use his or her attack action before
+moving the vehicle. If the driver does so, however, he or she will be
+limited to a single stunt during movement.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Movement:
+</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">Move
+the vehicle any number of squares within the vehicle’s speed
+category. Along the way, perform any number of simple maneuvers
+(limited only by their movement cost). The driver may also attempt a
+single stunt as part of the movement (or two, if the driver didn’t
+take his or her attack action before moving).</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Optional
+Attack Action: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">If
+the driver did not take an attack action before moving, </span></font></font><font face="Agenda-LightItalic, serif"><font size="2" style="font-size: 9pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">and</span></font></font></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+performed one or fewer stunts, the driver has an attack action left.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<h3 class="western" style="font-style: normal"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Collisions
+and Ramming</font></font></h3>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+collision occurs when a vehicle strikes another vehicle or a solid
+object. Generally, when a vehicle collides with a creature or other
+moving vehicle, the target can attempt a Reflex save (DC 15) to
+reduce the damage by half.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Resolving
+Collisions</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+base damage dealt by a vehicle collision depends on the speed and
+size of the objects involved. Use the highest speed and the smallest
+size of the two colliding objects and refer to Table: Collision
+Damage.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<table width="213" cellpadding="7" cellspacing="0">
+	<col width="83">
+	<col width="102">
+	<tr>
+		<td colspan="2" width="199" valign="top" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Table:
+			Collision Damage</b></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="83" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="left"><font face="Times New Roman, serif">Highest
+			Speed</font></p>
+		</td>
+		<td width="102" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h5 class="western"><font face="Times New Roman, serif">Damage Die
+			Type</font></h5>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="83" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Alley
+			speed</font></font></p>
+		</td>
+		<td width="102" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">d2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="83" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Street
+			speed</font></font></p>
+		</td>
+		<td width="102" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">d4</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="83" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Highway
+			speed</font></font></p>
+		</td>
+		<td width="102" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">d8</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="83" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">All-out</font></font></p>
+		</td>
+		<td width="102" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">d12</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<table width="320" cellpadding="7" cellspacing="0">
+	<col width="194">
+	<col width="97">
+	<tr valign="top">
+		<td width="194" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Smallest
+			Object or Creature Size</font></h4>
+		</td>
+		<td width="97" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center"><font face="Times New Roman, serif">Number
+			of Dice</font></h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="194" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Colossal</font></font></p>
+		</td>
+		<td width="97" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">20</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="194" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Gargantuan</font></font></p>
+		</td>
+		<td width="97" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">16</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="194" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Huge</font></font></p>
+		</td>
+		<td width="97" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">12</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="194" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Large</font></font></p>
+		</td>
+		<td width="97" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">8</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="194" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Medium-size</font></font></p>
+		</td>
+		<td width="97" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">4</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="194" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Small</font></font></p>
+		</td>
+		<td width="97" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="194" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Tiny</font></font></p>
+		</td>
+		<td width="97" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="194" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Smaller
+			than Tiny</font></font></p>
+		</td>
+		<td width="97" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">0</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">After
+finding the base damage, determine the collision’s damage
+multiplier based on how the colliding vehicle struck the other
+vehicle or object. (For vehicles moving in reverse, consider the back
+end to be the vehicle’s “front” for determining the collision
+multiplier.) Consult Table: Collision Direction for a multiplier.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Once
+the damage has been determined, apply it to both vehicles (or objects
+or creatures) involved in the collision. Both vehicles reduce their
+speed by two speed categories. If the colliding vehicle moved the
+minimum number of squares for its new speed category before the
+collision, it ends its movement immediately. If not, it pushes the
+other vehicle or object aside, if possible, and continues until it
+has moved the minimum number of squares for its new speed category.</font></font></p>
+<table width="451" cellpadding="7" cellspacing="0">
+	<col width="364">
+	<col width="59">
+	<tr>
+		<td colspan="2" width="437" valign="top" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Table:
+			Collision Direction</b></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="364" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="left"><font face="Times New Roman, serif">Colliding
+			Vehicle’s Target</font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h5 class="western"><font face="Times New Roman, serif">Multiplier</font></h5>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="364" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+			stationary object</font></font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">x
+			1</font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="364" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+			moving vehicle, striking head-on or 45 degrees from head-on</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">x
+			2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="364" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+			moving vehicle, striking perpendicular</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">x
+			1</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="364" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+			moving vehicle, striking from the rear or 45 degrees from the rear</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">x
+			1/2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="364" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+			vehicle being sideswiped (see Sideswipe)</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">x
+			1/4</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+driver of the vehicle that caused the collision must immediately make
+a Drive check (DC 15) or lose control of the vehicle (see Losing
+Control, below). The driver of the other vehicle must succeed on a
+Drive check (DC 15) at the beginning of his or her next action or
+lose control of his or her vehicle.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<h3 class="western" style="font-style: normal"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Damage
+to Vehicle Occupants</font></font></h3>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">When
+a vehicle takes damage from a collision, its occupants may take
+damage as well. The base amount of damage depends on the cover
+offered by the vehicle.</font></font></p>
+<table width="352" cellpadding="7" cellspacing="0">
+	<col width="124">
+	<col width="200">
+	<tr valign="top">
+		<td width="124" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Cover</font></h4>
+		</td>
+		<td width="200" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Damage</font></h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="124" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">None</font></font></p>
+		</td>
+		<td width="200" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Same
+			as damage taken by vehicle</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="124" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">One-quarter</font></font></p>
+		</td>
+		<td width="200" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">One-half
+			damage taken by vehicle</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="124" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">One-half</font></font></p>
+		</td>
+		<td width="200" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">One-quarter
+			damage taken by vehicle</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="124" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Three-quarters
+			or more</font></font></p>
+		</td>
+		<td width="200" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">None</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Each
+of the occupants may make a Reflex save (DC 15) to take half damage.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<h3 class="western" style="font-style: normal"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Losing
+Control</font></font></h3>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+collision or a failed stunt can cause a driver to lose control of his
+vehicle. In these cases, the driver must make a Drive check to retain
+control of the vehicle. If this check is successful, the driver
+maintains control of the vehicle. If it fails, the vehicle goes into
+a spin. If it fails by 10 or more, the vehicle rolls. Remember that
+the check/roll modifier from Table: Vehicle Speeds and Modifiers
+applies to all Drive checks.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">An
+out-of-control vehicle may strike an object or other vehicle. When
+that happens, a collision occurs (see Collisions and Ramming, above).</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Spin:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+The vehicle skids, spinning wildly.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">At
+character scale, the vehicle moves in its current direction a number
+of squares equal to the turn number for its speed, then ends its
+movement. Once it stops, roll 1d8 to determine its new facing: 1, no
+change; 2, right 45 degrees; 3, right 90 degrees; 4, right 135
+degrees; 5, 180 degrees; 6, left 135 degrees; 7, left 90 degrees; 8,
+left 45 degrees. Reorient the vehicle accordingly.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">At
+chase scale, the vehicle moves 1 square and ends its movement. Roll
+to determine its new facing as indicated above.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Roll:
+</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">The
+vehicle tumbles, taking damage.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">At
+character scale, the vehicle rolls in a straight line in its current
+direction for a number of squares equal to the turn number for its
+speed, then ends its movement. At the end of the vehicle’s roll,
+reorient the vehicle perpendicular to its original direction of
+travel (determine left or right randomly).</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">At
+chase scale, the vehicle rolls one square before stopping and
+reorienting.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">At
+either scale, a vehicle takes damage equal to 2d6 x the character
+scale turn number for its speed (use the turn number from character
+scale even at chase scale). The vehicle’s occupants take damage
+equal to 2d4 x the character scale turn number for its speed (Reflex
+save, DC 15, for half damage).</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Hide
+and Seek</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">When
+being pursued, a driver can attempt a Hide check to lose the pursuer
+in heavy traffic, or a Bluff check to misdirect the pursuer before
+turning onto an off-ramp or a side street.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">To
+make a Hide check, use the normal rules for hiding (see the Hide
+skill description). The normal size modifiers apply, but because the
+driver is hiding among other vehicles, most of which are size Large
+or Huge, he or she gains a +8 bonus on the check. This use of the
+Hide skill can only be attempted in fairly heavy traffic; in lighter
+traffic, the GM might not allow it or might apply a penalty to the
+check.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+driver can use Bluff to make a pursuer think he or she is going a
+different direction from what the driver intends. Just before making
+a turn onto an off-ramp or side street, make a Bluff check opposed by
+the pursuer’s Sense Motive check. If the driver is successful, the
+pursuer takes a –5 penalty on any Drive check needed to make the
+turn to follow the driver. If the other driver can make the turn
+using only simple maneuvers and does not have to make a Drive check,
+the Bluff attempt has no effect.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<h3 class="western" style="font-style: normal"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Fighting
+from Vehicles</font></font></h3>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">The
+following rules provide a further framework for combat involving
+vehicles.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Vehicle
+Combat Actions</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Actions
+during vehicle combat are handled the same way as actions during
+personal combat. In general, a character can take two move actions,
+one move action and one attack action, or one full-round action in a
+round. Free actions can be performed normally, in conjunction with
+another action.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Free
+Actions: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">Communicating
+orders is a free action. Characters can perform as many free actions
+as the GM permits in a single round.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Move
+Actions: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">Changing
+position within a vehicle is usually a move action, especially if the
+character has to trade places with another character. If the
+character’s movement is short and unobstructed, the character can
+do it as the equivalent of a 5-foot step. Otherwise, it requires a
+move action.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Attack
+Actions:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+Anyone aboard a vehicle can make an attack with a personal weapon,
+and drivers and gunners can make attacks with any vehicle-mounted
+weapons controlled from their positions.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Full-Round
+Actions: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">Since
+the driver must use a move action to control the vehicle, he or she
+can’t take a full-round action unless he or she starts it in one
+round and completes it on his or her next turn (see Start/Complete
+Full-Round Action).</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Crew
+Quality</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Rather
+than force the GM to create, or remember, statistics for everyone
+aboard a vehicle, vehicle statistics include a general “crew
+quality” descriptor. This indicates a typical crew’s aptitude
+with the vehicle’s systems.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Table:
+Vehicle Crew Quality shows the five levels of crew quality for
+GM-controlled vehicle crews, along with the appropriate check
+modifier. Use the check modifier for all skill checks related to the
+operation of the vehicle (including Drive and Repair checks). Use the
+attack bonus for all attack rolls performed by the crew. For quick
+reference, Table: Crewed Vehicles shows the typical crew quality, and
+the crew’s total initiative and maneuver modifiers, for the
+vehicles covered in this book.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">This
+by no means restricts the GM from creating unique vehicles where the
+crew’s statistics are included, or from using GM characters’
+abilities when they drive or attack from vehicles. It’s merely a
+shortcut to save time if the GM doesn’t have particular characters
+behind the wheel.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<table width="288" cellpadding="7" cellspacing="0">
+	<col width="78">
+	<col width="90">
+	<col width="78">
+	<tr>
+		<td colspan="3" width="274" valign="top" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Table:
+			Vehicle Crew Quality</b></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Crew
+			Quality</b></font></font></p>
+		</td>
+		<td width="90" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Check
+			Modifier</b></font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Attack
+			Bonus</b></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Untrained</font></font></p>
+		</td>
+		<td width="90" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">4</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Normal</font></font></p>
+		</td>
+		<td width="90" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p style="orphans: 2; widows: 2"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Skilled</font></font></p>
+		</td>
+		<td width="90" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p align="center" style="orphans: 2; widows: 2"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+4</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p align="center" style="orphans: 2; widows: 2"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Expert</font></font></p>
+		</td>
+		<td width="90" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+8</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+4</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Ace</font></font></p>
+		</td>
+		<td width="90" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+12</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+8/+3</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<table width="381" cellpadding="7" cellspacing="0">
+	<col width="136">
+	<col width="78">
+	<col width="52">
+	<col width="59">
+	<tr>
+		<td colspan="4" width="367" valign="top" style="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Table:
+			Crewed Vehicles</b></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Name</b></font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Crew</b></font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Initiative</b></font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><b>Maneuver</b></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Civilian
+			Aircraft</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Bell
+			Jet Ranger</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2
+			(Skilled +4)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Bell
+			Model 212</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2
+			(Skilled +4)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Cessna
+			172 Skyhawk</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Learjet
+			Model 45</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2
+			(Skilled +4)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p style="orphans: 2; widows: 2"><br/>
+
+			</p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center" style="orphans: 2; widows: 2"><br/>
+
+			</p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center" style="orphans: 2; widows: 2"><br/>
+
+			</p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center" style="orphans: 2; widows: 2"><br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Civilian
+			Cars</font></h4>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Acura
+			3.2 TL</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+1</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Aston-Martin
+			Vanquish</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">BMW
+			M3</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+3</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Chevrolet
+			Cavalier</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+1</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+1</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Chevrolet
+			Corvette</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Dodge
+			Neon</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+1</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+1</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Ford
+			Crown Victoria</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+1</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Jaguar
+			XJS</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+1</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Lamborghini
+			Diablo</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+3</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Mercedes
+			E55 AMG</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Volkswagen
+			Jetta</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><br/>
+
+			</p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Civilian
+			Motorcycles</font></h4>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Ducati
+			998R</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+5</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Harley
+			Davidson FLSTF</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+1</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+3</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Yamaha
+			YZ250F</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+4</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><br/>
+
+			</p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Civilian
+			Trucks</font></h4>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">AM
+			General Hummer</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Chevrolet
+			Suburban</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Dodge
+			Caravan</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Ford
+			Escape XLT</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Ford
+			F-150 XL</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Toyota
+			Tacoma Xtracab </font></font>
+			</p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><br/>
+
+			</p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Civilian
+			Water Vehicles</font></h4>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Bayliner
+			1802 Capri</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Fairline
+			Targa 30</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Sea-Doo
+			XP</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+1</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+3</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><br/>
+
+			</p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Other
+			Vehicles</font></h4>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Armored
+			truck</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2
+			(Skilled +4)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Honda
+			TRX400FW</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+1</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+3</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Limousine</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Skilled +4)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Moving
+			truck</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Normal +2)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center">–<font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">NABI
+			Model 40LFW</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">1
+			(Skilled +4)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><br/>
+
+			</p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><br/>
+
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western"><font face="Times New Roman, serif">Military
+			Vehicles</font></h4>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<h4 class="western" align="center" style="font-weight: normal"><br/>
+
+			</h4>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">BMP-2</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">3
+			(Skilled +4)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">M1A2
+			Abrams</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">4
+			(Skilled +4)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">M2A2
+			Bradley</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">3
+			(Skilled +4)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">M113A1
+			Gavin</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2
+			(Skilled +4)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+2</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="136" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">UH-60
+			Black Hawk</font></font></p>
+		</td>
+		<td width="78" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">2
+			(Skilled +4)</font></font></p>
+		</td>
+		<td width="52" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+		<td width="59" style="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<p class="western" align="center"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">+0</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<h3 class="western" style="font-style: normal"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Attack
+Options</font></font></h3>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Firing
+a vehicle’s weapon requires an attack action and uses the driver’s
+or gunner’s ranged attack modifier.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">A
+driver with 5 or more ranks in the Drive skill gains a +2 synergy
+bonus when firing vehicle-mounted weapons while driving.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Some
+military vehicles are equipped with fire-control computers. These
+systems grant equipment bonuses on attack rolls with the
+vehicle-mounted weapons to which they apply.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Driving
+Defensively:</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">
+Just as in melee combat, one can fight defensively while driving a
+vehicle, which grants a +2 dodge bonus to the vehicle’s Defense and
+applies a –4 penalty on attack rolls made by occupants of the
+vehicle.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Total
+Defense: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">A
+driver can choose the total defense, action which grants a +4 dodge
+bonus to Defense but does not allow the driver to attack (gunners or
+passengers take a –8 penalty on attack rolls). These modifiers last
+until the driver’s next round of actions.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Full
+Attack Action: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">A
+driver cannot normally make a full attack, since controlling the
+vehicle requires a move action.</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Gunners
+or passengers, however, can take full attack actions, since they
+don’t have to use a move action (except, perhaps, to change
+positions in the vehicle). In general, taking a full attack action is
+useful only if a character has a base attack bonus high enough to get
+multiple attacks. A passenger can make multiple attacks with his or
+her own weapon. A gunner can make multiple attacks with one or more
+weapons controlled from his or her position.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Targeting
+Occupants</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">An
+attack made against a vehicle uses the vehicle’s Defense, modified
+by its speed category. Attackers can choose instead to target
+specific vehicle occupants.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">An
+attack against a vehicle occupant is made like any other attack.
+Remember, however, that a character in a vehicle gains bonuses to
+Defense from both the vehicle’s speed and any cover it provides.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Cover</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">When
+a character fires from a vehicle, objects or other vehicles in the
+way can provide cover for the target.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<h3 class="western" style="font-style: normal"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Damaging
+Vehicles</font></font></h3>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">All
+vehicles have hit points, which are roughly equivalent to a
+character’s hit points. Like most inanimate objects, vehicles also
+have hardness. Whenever a vehicle takes damage, subtract the
+vehicle’s hardness from the damage dealt.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">When
+a vehicle is reduced to 0 hit points, it is disabled. Although it
+might be repairable, it ceases functioning. A vehicle that is
+disabled while moving drops one speed category each round until it
+comes to a stop. The driver cannot attempt any maneuvers except a
+45-degree turn.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Unlike
+characters, vehicles don’t “die” when they reach –10 hit
+points. Instead, a vehicle is destroyed when it loses hit points
+equal to twice its full normal total. A destroyed vehicle cannot be
+repaired.</font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Energy
+Attacks: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">Vehicles
+are treated as objects when subjected to energy attacks. </span></font></font>
+</p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US"><b>Exploding
+Vehicles: </b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt"><span lang="en-US">If
+the attack that disables a vehicle deals damage equal to half its
+full normal hit points or more, the vehicle explodes after 1d6
+rounds. This explosion deals 10d6 points of fire damage to everyone
+within the vehicle (Reflex save, DC 20, for half damage), and half
+that much to everyone and everything within 30 feet of the explosion
+(Reflex save, DC 15, for half damage).</span></font></font></p>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><br/>
+
+</p>
+<h3 class="western" style="font-style: normal"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Repairing
+Damage</font></font></h3>
+<p class="western" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="2" style="font-size: 10pt">Repairing
+damage to a vehicle takes a full hour of work, a mechanical tool kit,
+and a garage or some other suitable facility. (Without the tool kit,
+a character takes a –4 penalty on his or her Repair check.) At the
+end of the hour, make a Repair check (DC 20). Success restores 2d6
+hit points. If damage remains, the character may continue to make
+repairs for as many hours as it takes to restore all of the vehicle’s
+hit points.</font></font></p>
+</body>
+</html>
