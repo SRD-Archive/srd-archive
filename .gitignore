@@ -1,3 +1,4 @@
 .*
 *~ 
 !.gitignore
+!.make_pdf_and_html.sh
