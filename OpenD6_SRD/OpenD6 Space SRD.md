@@ -4567,6 +4567,7 @@ package for a typical member of the species.
 
 Physical Appearance
 -------------------
+
 Jot down a few words or sentences for each of these categories. The
 more detailed you can be, the more vividly you can describe a member of
 the species to others. Additionally, having an idea of physical appearance
@@ -4652,37 +4653,45 @@ can also help you decide on the physical appearance. Should you
 have already decided upon that, take into consideration what features
 you've given your alien so you can create a society that makes sense for
 that combination of physical characteristics.
-Community and family: How does the species raise children?
+
+* Community and family: How does the species raise children?
 Consider whether the groups formed are based on age, sex, life stage,
 relation, or something else. Decide how large the groups can get, and
 what happens if the group gets "too big." If there isn't much overlap
 between groups, describe why.
-Conﬂicts: Does the species have particular rituals that it performs
+
+* Conﬂicts: Does the species have particular rituals that it performs
 in order to solve conﬂicts? Do different groups have alternate ways of
 resolving conﬂicts? Are there any penalties for not following the rules?
-Government: The kind of governments that develop generally stem
+
+* Government: The kind of governments that develop generally stem
 from the types of groups that are formed and how each resolves conﬂicts.
 A highly segregated society with many rituals might consider it natural
 to follow a military dictatorship, while one with loosely formed groups
 and a discussion-based resolution system might have a democracy.
-Social graces: Every society has many customs that each member
+
+* Social graces: Every society has many customs that each member
 takes for granted. Coming up with a few of these -- which could
 include traditional means of performing actions, ritual greetings, table
 etiquette, or anything else that can be formalized -- gives the society
 a distinctive ﬂavor, as well as providing the opportunity for conﬂict
 among species who meet for the ﬁrst time.
-Playtime: Playing is a way of learning about one's environment and
+
+* Playtime: Playing is a way of learning about one's environment and
 other people in one's social group, even if that's not the most obvious
 result. Think about what kinds of games are played: intellectual, physical,
 or emotional? Are they played as a way of learning how to get along,
 or are they another means of showing off power?
-Science, art, and religion: Decide whether the species considers
+
+* Science, art, and religion: Decide whether the species considers
 any of these more or less important than the others. Describe a few
 key aspects -- how prevalent the technology is, whether art is limited
 to a single group, the number of religions present --that demonstrate
 the capabilities of the species in each area.
 
+
 Examples and Packages
+---------------------
 
 These sets of Advantages, Disadvantages, and Special Abilities deﬁne
 the physical and mental characteristics of stereotypical members of 
@@ -4692,65 +4701,87 @@ down, not every characteristics of each kind of alien was represented
 through Advantages, Disadvantages, and Special Abilities. Instead, the
 most signiﬁcant features were chosen. Gamemasters should customize
 these basic characters to ﬁt their idea of each species more closely.
+
 Players may overlay the packages on any other character template.
 Disadvantages received from these packages do not count toward the
 maximum number of Disadvantages set by the gamemaster. Body
 Points for typical characters were added to a gamemaster's character
 base of 10.
+
 All species listed here are about two meters tall on average, and
 have roughly the same weight range as Humans. Player's characters
-
-42
-
 designed using the packages should follow the normal character creation
 guidelines with respect to Fate Points, Character Points, Body Points,
 Wounds, languages, and any other feature not listed in the package.
+
 The total creation point cost refers to the number of points from the
 creation point pool that the player must spend to include that package
 with her character. The total deﬁned limit cost indicates the number of
 skill and attribute dice the player must deduct from the total number
 of dice she may spend when creating her character.
 
+
 Caninoid (Dog/Wolf People)
-Typical
+--------------------------
+
+### Typical ###
 
 Agility 3D+1: brawling 4D, dodge 3D+2, ﬁrearms 3D+2, running 3D+2
+
 Strength 4D: lift 4D+1, swim 4D+1
+
 Knowledge 2D+2: bureaucracy 3D+1, intimidation 3D, willpower
 3D+1
+
 Perception 3D+2: command 4D, search 4D+1, sneak 4D
+
 Mechanical 2D: exoskeleton operation 2D+1, gunnery 2D+1
+
 Technical 2D+1: demolitions 2D+2, security 2D+2
+
 Advantages: Contacts (R1), other members of family pack
+
 Disadvantages: Devotion (R1), to family pack; Quirk: Tenacious
 (R1), make a Moderate willpower roll to stop a project once starts it
+
 Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to
 sight-based skill totals; Enhanced Sense: Hearing (R1, cost 3), +2 to
 hearing-based skill totals; Extra Body Part: Tail (R1, cost 0)
 
-Aliens and Human Offshoots
-
 Move: 10
+
 Fate Points: 0
+
 Body Points: 16
 
 Strength Damage: 1D
+
 Character Points: 2
+
 Wound levels: 3
 
-Package
+
+### Package ###
+
 Total creation point cost: 5
+
 Total deﬁned limit cost: 5 skill dice, or 1 attribute die plus 1 skill
 die
+
 Advantages: Contacts (R1), other members of family pack
+
 Disadvantages: Devotion (R1), to family pack; Quirk: Tenacious
 (R1), make a Moderate willpower roll to stop a project once starts it
+
 Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to
 sight-based skill totals; Enhanced Sense: Hearing (R1, cost 3), +2 to
 hearing-based skill totals; Extra Body Part: Tail (R1, cost 0)
 
+
 Felinoid (Cat People)
-Typical
+---------------------
+
+### Typical ###
 
 Agility 4D: acrobatics 4D+2, brawling 4D+1, dodge 4D+1, ﬁrearms 4D+1
 
@@ -4771,184 +4802,284 @@ Disadvantages: Hindrance: Arrogance (R2), +3 to con and persuasion
 difficulties; Hindrance: Reduced Hardiness (R2), -2 to damage
 resistance totals; Quirk: Hates Water (R2), make a Difficult willpower
 roll to be wet or will do nothing until dry
+
 Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sightbased 
 skill totals; Enhanced Sense: Hearing (R1, cost 3), +2 to hearing-based 
 skill totals; Extra Body Part: Tail (R1, cost 0); Skill Bonus:
 Agility (R1, cost 1), +1 to acrobatics, climb/jump, and running totals;
 Natural Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage
+
 Move: 10
+
 Strength Damage: 1D
+
 Fate Points: 0
+
 Character Points: 2
+
 Body Points: 16
+
 Wound levels: 3
 
-Package
+
+#### Package ####
+
 Total creation point cost: 3
+
 Total deﬁned limit cost: 3 skill dice
+
 Advantages: None
+
 Disadvantages: Hindrance: Arrogance (R2), +3 to con and persuasion 
 difficulties; Hindrance: Reduced Hardiness (R2), -1 to damage
 resistance totals; Quirk: Hates Water (R2), make a Difficult willpower
 roll to be wet or will do nothing until dry
+
 Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sightbased 
 skill totals; Enhanced Sense: Hearing (R1, cost 3), +1 to hearing-based 
 skill totals; Extra Body Part: Tail (R1, cost 0); Skill Bonus:
 Agility (R1, cost 1), +1 to acrobatics, climb/jump, and running totals;
 Natural Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage
 
+
 Floran (Plant People)
-Typical
+---------------------
+
+### Typical ###
 
 Agility 2D: brawling 3D, ﬁrearms 2D+2, melee combat 2D+2
+
 Strength 4D: lift 4D+1, stamina 4D+1
+
 Knowledge 3D+2: business 4D, scholar 4D, tactics 4D, willpower
 4D
+
 Perception 3D+1: artist 3D+2, bargain 3D+2, persuasion
 3D+2
+
 Mechanical 2D: comm 2D+1, sensors 2D+1
+
 Technical 3D: personal equipment repair 3D+1
+
 Advantages: None
+
 Disadvantages: Hindrance: Slow (R2), +4 to climb/jump and
 running difficulties; Achilles' Heel: Vulnerability (R3), damage from
 ﬁre increased by +3D
+
 Special Abilities: Extra Body Part: Vine (R1, cost 0) with Enhancement Additional Effect (R3, cost 3), can grasp with vine; Natural
 Armor: Bark (R1, cost 3), +1D to damage resistance total against
 physical damage
+
 Move: 10
+
 Strength Damage: 2D
+
 Fate Points: 0
+
 Character Points: 2
+
 Body Points: 20
+
 Wound levels: 3
 
-Package
+
+### Package ###
+
 Total creation point cost: 1
+
 Total deﬁned limit cost: 1 skill die
+
 Advantages: None
+
 Disadvantages: Hindrance: Slow (R2), +4 to climb/jump and
 running difficulties; Achilles' Heel: Vulnerability (R3), damage from
 ﬁre increased by +3D
+
 Special Abilities: Extra Body Part: Vine (R1, cost 0) with Enhancement 
 Additional Effect (R3), can grasp with vine; Natural Armor: Bark
 (R1, cost 3), +1D to damage resistance total against physical damage
 
+
 Heavy Worlder (Human Offshoot)
-Typical
+------------------------------
+
+### Typical ###
 
 Agility 2D: brawling 3D, ﬁrearms 3D
+
 Strength 4D: lift 4D+1, stamina 4D+1
+
 Knowledge 3D+1: astrography 3D+2, intimidation 3D+2, tactics
 3D+2
+
 Perception 3D+2: command 4D, investigation 4D, search 4D
+
 Mechanical 3D: gunnery 3D+1, piloting 3D+1, sensors 3D+1,
 shields 3D+1
+
 Technical 3D
+
 Advantages: None
+
 Disadvantages: Achilles' Heel: Low Gravity (R3), +1 to all Agility
 difficulties in a gravities of 1 g or less
+
 Special Abilities: Hardiness (R4, cost 4), +4 to damage resistance
 totals
+
 Move: 10
+
 Strength Damage: 2D
+
 Fate Points: 0
+
 Character Points: 2
+
 Body Points: 21
+
 Wound levels: 3
 
-43
 
-Chapter 3
+### Package ###
 
-Package
 Total creation point cost: 1
+
 Total deﬁned limit cost: 1 skill die
+
 Advantages: None
+
 Disadvantages: Achilles' Heel: Low Gravity (R3), +1 to all Agility
 difficulties in a gravities of 1 g or less
+
 Special Abilities: Hardiness (R4, cost 4), +4 to damage resistance
 totals
+
 
 Insectoid (Insect People)
-Typical
+-------------------------
+
+### Typical ###
 
 Agility 3D+1: brawling 4D, melee combat 4D, running 3D+2
+
 Strength 3D+2: climb/jump 4D, lift 4D+1, stamina 4D
+
 Knowledge 3D: astrography 3D+1, intimidation 4D, tactics
 3D+2
+
 Perception 3D+2: search 4D
+
 Mechanical 2D+1: gunnery 3D, navigation 2D+2, piloting 2D+2,
 sensors 2D+2
+
 Technical 2D
+
 Advantages: None
+
 Disadvantages: Devotion (R3), dedicated to hive and will support
 it above all else; Hindrance: Swimming (R2), +8 to swim difficulties
 
 Special Abilities: Natural Armor: Chiton (R1, cost 3), +1D to
 damage resistance total against physical damage; Natural Hand-toHand 
 Weapon: Claws (R1, cost 2), +1D damage
+
 Move: 10
+
 Strength Damage: 2D
+
 Fate Points: 0
+
 Character Points: 2
+
 Body Points: 20
+
 Wound levels: 3
 
-Package
+
+### Package ###
+
 Total creation point cost: 0
+
 Total deﬁned limit cost: 0
+
 Advantages: None
+
 Disadvantages: Devotion (R3), dedicated to hive and will support
 it above all else; Hindrance: Swimming (R2), +8 to swim difficulties
+
 Special Abilities: Natural Armor: Chiton (R1, cost 3), +1D to
 damage resistance total against physical damage; Natural Hand-toHand 
 Weapon: Claws (R1, cost 2), +1D damage
 
+
 Reptiloid (Reptile People)
-Typical
+--------------------------
+
+### Typical ###
 
 Agility 3D+2: brawling 4D+1, dodge 4D, ﬁrearms 4D, melee
 weapons 4D, running 4D
+
 Strength 4D: lift 4D+1, stamina 4D+1
+
 Knowledge 3D: bureaucracy 3D+1, tactics 3D+2
+
 Perception 3D+1: bargain 3D+2, command 3D+2, con
 3D+2
+
 Mechanical 2D: gunnery 2D+2, piloting 2D+1, vehicle operation 2D+1
+
 Technical 2D: ﬂight systems repair 2D+1, security 2D+1,
 vehicle repair 2D+1
+
 Advantages: None
+
 Disadvantages: Hindrance: Arrogance (R2), +3 to con and
 persuasion difficulties; Achilles' Heel: Cold (R3), take 1D in damage
 per round in temperatures below 15ª C
+
 Special Abilities: Extra Body Part: Tail (R1, cost 0); Natural
 Armor: Scales (R1, cost 3), +1D to damage resistance total against
 physical damage; Natural Hand-to-Hand Weapon: Claws (R1,
 cost 2), +1D damage
+
 Move: 10
+
 Strength Damage: 2D
+
 Fate Points: 0
+
 Character Points: 2
+
 Body Points: 22
+
 Wound levels: 3
 
-Package
+
+### Package ####
+
 Total creation point cost: 0
+
 Total deﬁned limit cost: 0
+
 Advantages: None
+
 Disadvantages: Hindrance: Arrogance (R2), +3 to con and
 persuasion difficulties; Achilles' Heel: Environmental Incompatibility
 (R3), +1 modiﬁer to difficulties per round exposed to temperatures
 below 15ª C
+
 Special Abilities: Extra Body Part: Tail (R1, cost 0); Natural
 Armor: Skin (R1, cost 3), +1D to damage resistance total; Natural
 Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage
 
-44
 
-4
+Cybernetics
+===========
 
-> Cybernetics
 What's in this Chapter
+----------------------
 
 Cybernetic enhancements are widely available in the average space
 opera universe, both from legitimate dealers and from street surgeons.
@@ -4956,8 +5087,9 @@ This section presents basic details on how to customize some of the
 more popular varieties, as well as a sampling of typically available
 cyberware.
 
-Character Options and
-Cybernetic Implants
+
+Character Options and Cybernetic Implants
+-----------------------------------------
 
 Cybernetic implants can serve as a handy excuse for having certain
 Special Abilities and Disadvantages. These represent, in a convenient
@@ -4970,34 +5102,42 @@ has the right to request that the player alter his choice if the addition
 is unreasonable (such a high-powered machine gun installed in a toe).
 Gamemasters may even reduce the number of upgrade slots available
 in each implant to reﬂect a (relatively) lower-tech setting.
+
 There is no additional cost to include a Special Ability in cybernetic
 implants, beyond the normal charge for gaining that Special Ability. Special Abilities in cybernetic implants can have Enhancements
 and Limitations as per the rules in the "Character Options" chapter.
 Gamemasters may require Special Abilities such as Skill Bonus to
 be restricted to specializations of the boosted skill that reﬂect what a
 character could do with just the limb or organ in question.
+
 Likewise, the cybernetic implants can exist as the focus for certain
 Disadvantages, including Price, Debt, and Quirk.
 
-Getting Cybernetic Implants
-At Character Creation
 
-When designing a character, the player chooses the type of cybernetic implants she wants her character have. This should be limited
+Getting Cybernetic Implants At Character Creation
+-------------------------------------------------
+
+When designing a character, the player chooses the type of cybernetic 
+implants she wants her character have. This should be limited
 to one full limb or a few organs, unless the character also has the
 Equipment Advantage. (A higher rank in Equipment means more
 cybernetic implants.) The player then selects (and pays the cost for)
 any Special Abilities and Disadvantages she wants associated with
 the cybernetic implants. Certain Advantages are also appropriate for
 cybernetic implants, including Fame, Trademark Specialization, or a
-
 high-ranking Contact or any rank of Patron (either of which could
 have arranged for the character to gain the cyberware).
+
 The character need not go through the surgery process or pay the
 monetary purchase cost.
 
+
 After Character Creation
+------------------------
+
 After character creation, the character needs not only money (and
-Character Points) but time for surgery. The character pays the cybernetic implant cost with Funds or credits, including the cost of adding
+Character Points) but time for surgery. The character pays the cybernetic 
+implant cost with Funds or credits, including the cost of adding
 any Special Abilities, and goes through the surgery installation process
 (see the next section). Characters may lower the cost and the surgery
 difficulty by taking Disadvantages. Instead of getting bonus Character
@@ -5005,11 +5145,15 @@ Points for opting for more restrictions, Disadvantages lower the surgery
 and price difficulty each by 3 times the rank in the Disadvantage, with
 a minimum difficulty of 10. If using credits, reduce the cost by 10% per
 rank, with a minimum cost of 10,000 credits.
+
 The player also needs to pay the Character Point cost of the Special
 Ability plus a number of Character Points equal to the base surgery
 cost of the implant.
 
+
 Installation Surgery
+--------------------
+
 Fitting the body with cybernetic implants involves surgery and
 can be an extremely painful process. A successful medicine skill check
 is required to install cybernetic implants in this manner. If the 
@@ -5028,31 +5172,33 @@ rate as normal wounds. Additionally, Character or Fate Points may
 not be spent to improve the cyber-character's natural healing abilities
 or the skills of herself or others when trying to recover from wounds
 incurred during cyber surgery.
+
 The results of cyber surgery are determined by the level of success
 of the medicine check (the difference between the skill total and the
 difficulty). Use the following guidelines:
-Failure (skill total did not meet or beat difficulty): The cyber system
+
+* Failure (skill total did not meet or beat difficulty): The cyber system
 is not installed. Worse, the surgeon has botched the job. The patient
-
-45
-
-Chapter 4
-
 takes more damage than he normally would have -- increase the damage
 to Incapacitated or 75% of the character's base Body Points.
 Minimal (skill total equals difficulty): System is installed, but just
 barely. Damage is Severely Wounded or 50% of the character's base Body
 Points, and the system malfunctions on a 1 or 2 on the Wild Die.
-Average (skill total beats difficulty by 1-5 points): The system is
+
+* Average (skill total beats difficulty by 1-5 points): The system is
 installed, but malfunctions on a Critical Failure. The character incurs
 normal damage (Severely Wounded or 50% of the character's base
 Body Points).
-Good (skill total beats difficulty by 6-9 points): Installation is
+
+* Good (skill total beats difficulty by 6-9 points): Installation is
 successful. The character incurs normal damage (Severely Wounded
 or 50% of the character's base Body Points).
-Superior (skill total beats difficulty by 10 or more points): Installation is successful and the amount of time needed to recover from
+
+* Superior (skill total beats difficulty by 10 or more points): 
+Installation is successful and the amount of time needed to recover from
 surgery damage is halved. The character incurs normal damage (Severely
 Wounded or 50% of the character's base Body Points).
+
 When using stripped cybergear, make two separate skill totals -- one
 medicine and one personal equipment repair at the same difficulty. One
 failure is enough to botch the surgery entirely. In any other instance,
@@ -5060,8 +5206,31 @@ add together the amounts by which each skill beat the difficulty. Divide
 this total by 2, and compare the new number to the levels above to
 determine the effect on the character.
 
-Upgrading Existing
-Cybernetic Implants
+
+Upgrading Existing Cybernetic Implants
+--------------------------------------
+
+Once a character has a cybernetic implant installed, he may upgrade
+it as long as he has upgrade slots left in the unit. Even then, by 
+swapping out one upgrade for another, the character can put something
+new in.
+
+To add an upgrade to an empty slot requires a single personal
+equipment repair roll at the difficulty. To swap out an existing upgrade
+needs a personal equipment repair roll for the removal and one for the
+installation. In both instances, the character pays the cost of adding a
+Special Ability, but does not pay any additional fee.
+
+In most cases, the gamemaster should rule that improving an
+existing upgrade (such as adding an additional rank to a Natural
+Weapons Special Ability) demands a swapping-out procedure. A few,
+such as adding ranks to low levels of the Skill Bonus Special Ability,
+may only call for the installation of a new ﬁrmware, which can be done 
+with a computer interface/repair attempt. Whether it's a swapping or 
+ﬁrmware procedure, the character only pays for the additional ranks, 
+not for the total number of ranks. (Unless, of course, the character 
+wants to keep the old upgrade as a spare; then the character would
+need to pay for the entire cost.)
 
 Note that if the character wants to go from a small part of a larger
 unit to a larger unit (such as a hand to an arm), she must purchase a
@@ -5071,8 +5240,9 @@ Cybernetic Implants" section earlier in this chapter). Hopefully, the
 shop where she's getting the new parts from will buy her old cybernetic
 implants from her.
 
-Determining the Installation
-Difﬁculty
+
+Determining the Installation Difﬁculty
+--------------------------------------
 
 Every type of cybernetic implant has a base surgery difficulty, which
 indicates how challenging it is to install a standard, no-frills unit. Of
@@ -5091,78 +5261,56 @@ implant. Finally, once everything is approved by the gamemaster (that
 is, the gamemaster decides whether that model is currently available),
 the player adds that number to the base surgery difficulty to ﬁgure out
 the installation difficulty of the item.
+
 Use this number regardless of whether the character is getting a
 new implant or upgrading an existing one.
 
-Once a character has a cybernetic implant installed, he may upgrade
-it as long as he has upgrade slots left in the unit. Even then, by swapping out one upgrade for another, the character can put something
-new in.
-To add an upgrade to an empty slot requires a single personal
-equipment repair roll at the difficulty. To swap out an existing upgrade
-needs a personal equipment repair roll for the removal and one for the
-The price difficulty for a new cybernetic implant equals the instalinstallation. In both instances, the character pays the cost of adding a
-lation difficulty, modiﬁed as the gamemaster deems necessary based
-Special Ability, but does not pay any additional fee.
-on the circumstances of the installation. In credits, the cyberware costs
-In most cases, the gamemaster
-1,000 times the installation difficulty.
-should rule that improving an
-Again, the gamemaster may alter this
-existing upgrade (such as adding
-based on the situation.
-an additional rank to a Natural
-For upgrading an existing unit, subtract
-A gamemaster might have available the Equilibria
-Weapons Special Ability) demands
-10 from the installation difficulty to get
-cyber-ear. Fitted in place of the inner ear, the Equilibria
-a swapping-out procedure. A few,
-the upgrade price difficulty. In credits,
-improves balance. This is an ear unit with one upgrade,
-such as adding ranks to low levels
-the upgrade costs 100 times this price
-Skill Bonus: Balance (R3), +3 to brawling: block, melee
-of the Skill Bonus Special Ability,
-difficulty. Either number may be modiﬁed
-combat: parry/block, acrobatics: beam walking, dodge, and
-may only call for the installation of
-as the gamemaster sees ﬁt.
-riding totals. The gamemaster decides that a low-grade
-a new ﬁrmware, which can be done
-Equilibria has the Limitation Allergy: Loud Sounds
-with a computer interface/repair
-(R1), character loses all Critical Success rerolls when
-attempt. Whether it's a swapping or
-Cyberpsychosis is a state of mind
-exposed very loud sounds (like hammering). The total
-ﬁrmware procedure, the character
-some "chipheads" and "cynchware chocks"
-point cost for the Special Ability is 1 (3 for the Special
-only pays for the additional ranks,
-achieve after too much cyber-strain has
-Ability and its ranks minus 3 for the Limitation, with
-not for the total number of ranks.
-a minimum cost of 1). The base surgery difficulty is 17
-been placed on their nervous systems
-(Unless, of course, the character
-for an ear. With the upgrade, the installation difficulty
-and cranial functions."Cyber-psyches" are
-wants to keep the old upgrade as
-becomes 18. The price difficulty is 18, while the credits
-people who have gone too deep into the
-a spare; then the character would
-cost is 18,000.
-slicksteel universe and have truly become
-need to pay for the entire cost.)
-"one" with their cyberware.
 
 Determining the Cost
+--------------------
 
-> Installation Example
+The price difficulty for a new cybernetic implant equals the 
+instilation difficulty, modiﬁed as the gamemaster deems necessary based
+on the circumstances of the installation. In credits, the cyberware costs
+1,000 times the installation difficulty. Again, the gamemaster may alter 
+this based on the situation.
+
+For upgrading an existing unit, subtract 10 from the installation 
+difficulty to get the upgrade price difficulty. In credits,
+the upgrade costs 100 times this price difficulty. Either number may be 
+modiﬁed as the gamemaster sees ﬁt.
+
 
 Cyberpsychosis
+--------------
 
-46
+Cyberpsychosis is a state of mind some "chipheads" and "cynchware chocks"
+achieve after too much cyber-strain has been placed on their nervous systems
+and cranial functions."Cyber-psyches" are people who have gone too deep 
+into the slicksteel universe and have truly become "one" with their 
+cyberware.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+**Installation Example**
+
+A gamemaster might have available the Equilibria
+cyber-ear. Fitted in place of the inner ear, the Equilibria
+improves balance. This is an ear unit with one upgrade,
+Skill Bonus: Balance (R3), +3 to brawling: block, melee
+combat: parry/block, acrobatics: beam walking, dodge, and
+riding totals. The gamemaster decides that a low-grade
+Equilibria has the Limitation Allergy: Loud Sounds
+(R1), character loses all Critical Success rerolls when
+exposed very loud sounds (like hammering). The total
+point cost for the Special Ability is 1 (3 for the Special
+Ability and its ranks minus 3 for the Limitation, with
+a minimum cost of 1). The base surgery difficulty is 17
+for an ear. With the upgrade, the installation difficulty
+becomes 18. The price difficulty is 18, while the credits
+cost is 18,000.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 Cybernetics
 
