@@ -87,12 +87,15 @@ in the rest of this book, and an introductory adventure will give you a
 chance to try out what you've learned here.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-> **Reality**    
+
+> **Reality**
+>
 > The D6 System rules are not meant to reﬂect the real world's reality. 
 > Rather, they have been designed to model ﬁction reality, the reality 
 > of stories, television shows, comic books, and movies. Gamemasters who 
 > want to use this system to describe the real world will need to add 
 > their own modiﬁers and limits.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
@@ -230,11 +233,14 @@ or the Body Points range, so you can ignore them. Instead, you only
 need to use your Body Points number.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-> **Already Have a Character?**    
-> If you already have a D6 System character -- from another
-> D6 System game or because you created a new one using the
-> rules in this book -- you can still play this adventure. Simply
-> skip to the "Station Visit" section and follow the directions.
+
+**Already Have a Character?**    
+
+If you already have a D6 System character -- from another
+D6 System game or because you created a new one using the
+rules in this book -- you can still play this adventure. Simply
+skip to the "Station Visit" section and follow the directions.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Templates
@@ -771,7 +777,9 @@ background, and character features, see the appropriate sections in
 this chapter for more details on how to ﬁll out these optional sections.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-> **Gamemaster's Characters**    
+
+> **Gamemaster's Characters**
+>
 > Gamemaster's characters (sometimes referred to as nonplayer characters 
 > or NPCs) may or may not be created using
 > the same rules as players' characters. Because the gamemaster's
@@ -785,6 +793,7 @@ this chapter for more details on how to ﬁll out these optional sections.
 > and Special Abilities than a typical starting player's character.
 > An increase over the players' characters reﬂects the fact that a
 > major antagonist has been around much longer.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
@@ -889,6 +898,7 @@ each attribute, or you can give each a mixture of whole dice and pips.
 Each die equals three pips.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 > **Creating Experienced Characters**
 > 
 > If you are making an experienced character, you'll need to ﬁgure out 
@@ -916,6 +926,7 @@ Each die equals three pips.
 > and, with their gamemaster's approval, create the character
 > by distributing dice as best reﬂects how the character
 > appears in his, her, or its stories.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Character Basics
@@ -1020,7 +1031,9 @@ discusses these characteristics. You may ignore this section if you
 don't want to add them to your character.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-> **Focused Skills**    
+
+> **Focused Skills**
+>
 > Some gamemasters prefer narrower skill categories, 
 > requiring characters to select more speciﬁc abilities, such as
 > vehicle operation: ground or languages: Old Terran. If that's the
@@ -1031,6 +1044,7 @@ don't want to add them to your character.
 > disciplines) or too narrow (a particular model of handgun).
 > Players may take specializations of these narrower skills, as
 > described in the rules.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
@@ -5280,6 +5294,28 @@ difficulty to get the upgrade price difficulty. In credits,
 the upgrade costs 100 times this price difficulty. Either number may be 
 modiﬁed as the gamemaster sees ﬁt.
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> **Installation Example**
+> 
+> A gamemaster might have available the Equilibria
+> cyber-ear. Fitted in place of the inner ear, the Equilibria
+> improves balance. This is an ear unit with one upgrade,
+> Skill Bonus: Balance (R3), +3 to brawling: block, melee
+> combat: parry/block, acrobatics: beam walking, dodge, and
+> riding totals. The gamemaster decides that a low-grade
+> Equilibria has the Limitation Allergy: Loud Sounds
+> (R1), character loses all Critical Success rerolls when
+> exposed very loud sounds (like hammering). The total
+> point cost for the Special Ability is 1 (3 for the Special
+> Ability and its ranks minus 3 for the Limitation, with
+> a minimum cost of 1). The base surgery difficulty is 17
+> for an ear. With the upgrade, the installation difficulty
+> becomes 18. The price difficulty is 18, while the credits
+> cost is 18,000.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 
 Cyberpsychosis
 --------------
@@ -5290,520 +5326,592 @@ and cranial functions."Cyber-psyches" are people who have gone too deep
 into the slicksteel universe and have truly become "one" with their 
 cyberware.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-**Installation Example**
-
-A gamemaster might have available the Equilibria
-cyber-ear. Fitted in place of the inner ear, the Equilibria
-improves balance. This is an ear unit with one upgrade,
-Skill Bonus: Balance (R3), +3 to brawling: block, melee
-combat: parry/block, acrobatics: beam walking, dodge, and
-riding totals. The gamemaster decides that a low-grade
-Equilibria has the Limitation Allergy: Loud Sounds
-(R1), character loses all Critical Success rerolls when
-exposed very loud sounds (like hammering). The total
-point cost for the Special Ability is 1 (3 for the Special
-Ability and its ranks minus 3 for the Limitation, with
-a minimum cost of 1). The base surgery difficulty is 17
-for an ear. With the upgrade, the installation difficulty
-becomes 18. The price difficulty is 18, while the credits
-cost is 18,000.
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Cybernetics
-
-Cyberpsychosis is
-like any other psychosis.
-The character becomes
-caught up in a world
-detached from reality.
-Cyberware, chiplife, and
-"jacking in and tuning
-out" have become the
-most important thing
-to this person. Organic
-flesh (and the needs
-of that ﬂesh) are only
-distractions along the
-pure slicksteel path. A
-character with cyberpsychosis cannot relate
-well with the organic
-world but is intimately
-familiar with the nonorganic. Cyberpsyches
-seek to replace their
-organicness with the
-"new-and-improved"
-cybernetics available to
+Cyberpsychosis is like any other psychosis. The character becomes
+caught up in a world detached from reality. Cyberware, chiplife, and
+"jacking in and tuning out" have become the most important thing
+to this person. Organic flesh (and the needs of that ﬂesh) are only
+distractions along the pure slicksteel path. A character with 
+cyberpsychosis cannot relate well with the organic world but is 
+intimately familiar with the nonorganic. Cyberpsyches seek to replace 
+their organicness with the "new-and-improved" cybernetics available to
 them. Then, they seek to upgrade themselves by getting more powerful
 and better attachments. It is a never-ending cycle, an addiction that
 feeds on itself.
-Cyberpsychosis can be roleplayed by players' characters and gamemaster characters alike (and represented through the Hindrance or
-Quirk Disadvantages). It is recommended that the gamemaster (and
-the players, if a player's character is involved) work out the severity and
-details of this psychosis, so that it can be effectively roleplayed. It should
+
+Cyberpsychosis can be roleplayed by players' characters and gamemaster 
+characters alike (and represented through the Hindrance or Quirk 
+Disadvantages). It is recommended that the gamemaster (and the players, 
+if a player's character is involved) work out the severity and details 
+of this psychosis, so that it can be effectively roleplayed. It should
 be a roleplaying choice as well -- it is very hard to play a psychosis
 effectively or realistically, and the person playing the cyberpsychotic
 character should decide if she is up to the challenge.
 
+
 Types of Cybernetic Implants
+----------------------------
 
 Characters can just about any body part replaced, except the brain,
-which can only be enhanced. The basic units provide no more functionality than the part a character came with, nor are they any sturdier than
-organic pieces. However, unlike natural body parts, they readily serve
-as a reason to gain new Special Abilities (and Disadvantages).
+which can only be enhanced. The basic units provide no more 
+functionality than the part a character came with, nor are they any 
+sturdier than organic pieces. However, unlike natural body parts, they 
+readily serve as a reason to gain new Special Abilities (and Disadvantages).
+
 All units are assumed to come with nearly limitless energy sources
 that have no harmful side effects. All units are controlled by mental
 commands, in the same way that a person can control her limbs by
 thinking about it. The wiring can't be shorted. The unit's covering
 matches the texture and appearance of the character's normal skin
-and ﬁts virtually seamlessly with the rest of the character's body. Disadvantages and Limitations can lower the cost of the unit at a risk or
+and ﬁts virtually seamlessly with the rest of the character's body. 
+Disadvantages and Limitations can lower the cost of the unit at a risk or
 inconvenience to the character (such as having to recharge the power
 cell or being susceptible to electricity-based attacks).
+
 The description of each unit includes the number of upgrade slots
 for that part. Once the upgrade slots are maxed out, the character must
 replace one of the older upgrades to get a new feature.
 
+
 Upper Body
-Hand
+----------
 
-This unit replaces the whole hand, including the
-wrist, palm, and digits.
-Upgrade Slots: One upgrade slot per digit plus
-one in the palm or wrist. Thus, a Human would have
-six upgrade slots in a basic hand unit.
-Special Abilities Allowed: Ambidextrous;
-Armor-Defeating Attack; Enhanced Sense: Touch;
-Extra Sense (any tactile type); Fast Reactions with
-Limitation Restricted (R1), may only be used with
-hand-using skills; Natural Hand-to-Hand Weapon;
-Natural Ranged Weapon; Skill Bonus; Skill Minimum; Uncanny Aptitude.
-Notes: The maximum bonus to climb/jump, lift,
-and swim equals the number in front of the"D" of the
-character's current Strength die code. For additional
-restrictions, see the sidebar.
-Base Surgery Difficulty: 10
+### Hand ###
 
-Arm
-This unit replaces the hand, forearm, elbow, and
-upper arm.
-Upgrade Slots: One upgrade slot per digit, one in the palm or
+This unit replaces the whole hand, including the wrist, palm, and digits.
+
+* Upgrade Slots: One upgrade slot per digit plus one in the palm or wrist. 
+Thus, a Human would have six upgrade slots in a basic hand unit.
+
+* Special Abilities Allowed: Ambidextrous; Armor-Defeating Attack; 
+Enhanced Sense: Touch; Extra Sense (any tactile type); Fast Reactions with
+Limitation Restricted (R1), may only be used with hand-using skills; 
+Natural Hand-to-Hand Weapon; Natural Ranged Weapon; Skill Bonus; Skill 
+Minimum; Uncanny Aptitude.
+
+* Notes: The maximum bonus to climb/jump, lift, and swim equals the 
+number in front of the"D" of the character's current Strength die code. 
+For additional restrictions, see the sidebar. 
+
+* Base Surgery Difficulty: 10
+
+
+### Arm ###
+
+This unit replaces the hand, forearm, elbow, and upper arm.
+
+* Upgrade Slots: One upgrade slot per digit, one in the palm or
 wrist, one in the forearm, and one in the rear arm.
-Special Abilities Allowed: Ambidextrous; Armor-Defeating
+
+* Special Abilities Allowed: Ambidextrous; Armor-Defeating
 Attack; Enhanced Sense: Touch; Extra Sense (any tactile type); Fast
 Reactions with Limitation Restricted (R1), may only be used with
 hand-using skills; Natural Hand-to-Hand Weapon; Natural Ranged
 Weapon; Skill Bonus; Skill Minimum; Uncanny Aptitude.
 
-> Hand, Arm, and Shoulder
-Restrictions
-These restrictions apply to all hand, arm, and shoulder
-cybernetic implants.
-Skill Bonus, Skill Minimum, and Uncanny Aptitude may
-only be taken for skills the hand can use. Unless the character
-replaces both legs, the Fast Reactions ability only applies to
-skills that can be used with one hand.
-Ambidextrous may only be taken if both hands are replaced
-at the same time, though the Special Ability need only be purchased once per pair of hands. However, the Special Ability
-takes up one slot in each hand.
-For items requiring one hand to lift, the character receives
-the full bonus. For items requiring two hands to lift, the character gets one-half of the bonus (rounded up), unless he has
-both hands replaced. If the bonuses given by the hands are
-different, than the character gets the average of the bonuses
-(rounded up) when attempting two-handed maneuvers.
-
-47
-
-Chapter 4
-
-Notes: The maximum bonus to climb/jump, lift, and swim is 3 times
+* Notes: The maximum bonus to climb/jump, lift, and swim is 3 times
 the number in front of the "D" of the character's current Strength die
 code. For additional restrictions, see the sidebar.
-Base Surgery Difficulty: 12
 
-Complete Leg
-This unit replaces the entire leg, from foot to thigh.
+* Base Surgery Difficulty: 12
 
-Upgrade Slots: It has one upgrade slot for the lower leg, one upgrade
-slot for the upper leg, and the same number of upgrade slots as the
-foot (typically one non-weapon and one weapon).
-Shoulder
-Special Abilities Allowed: Armor-Defeating Attack; Fast Reactions
+
+### Shoulder ###
+
 This unit replaces the hand, forearm, elbow, upper arm, and
-with
-Limitation Restricted (R1), may only be used with foot-using skills;
 shoulder.
-Hypermovement; Natural Hand-to-Hand Weapon; Natural Ranged
-Upgrade Slots: It has the same numWeapon; Skill Bonus; Skill Miniber of upgrade slots as the arm unit.
-mum; Uncanny Aptitude.
-Special Abilities Allowed: AmbiNotes: There is no maximum
-dextrous; Armor-Defeating Attack;
-climb/jump, running, or swim
-Enhanced Sense: Touch; Extra Sense
-bonus. For additional restrictions,
-(any tactile type); Fast Reactions with
-see the sidebar.
-These restrictions apply to all foot, lower leg, and
-Limitation Restricted (R1), may only
-Base Surgery Difficulty: 15
-complete leg cybernetic implants.
-be used with hand-using skills; NatuSkill
-Bonus,
-Skill
-Minimum,
-and
-Uncanny
-Aptitude
-ral Hand-to-Hand Weapon; Natural
-may only be taken for skills the foot can use. Unless the
-Ranged Weapon; Skill Bonus; Skill
-character replaces both legs, the Fast Reactions ability only
-Ear
+
+* Upgrade Slots: It has the same number of upgrade slots as the arm unit.
+ 
+* Special Abilities Allowed: Ambidextrous; Armor-Defeating Attack;
+Enhanced Sense: Touch; Extra Sense (any tactile type); Fast Reactions with
+Limitation Restricted (R1), may only be used with hand-using skills; 
+Natural Hand-to-Hand Weapon; Natural Ranged Weapon; Skill Bonus; Skill
 Minimum; Uncanny Aptitude.
-applies to skills that can be used with one foot.
-Notes: There is no maximum climb/
-One ear unit replaces one audiCharacters gain only half the bonus (rounded up) to
-jump, lift, and swim bonus. For additional
-tory
-receptor.
-climb/jump, running, or swim attempts and half of the
-restrictions, see the sidebar.
-Upgrade Slots: Two upgrade
-Hypermovement adjustment unless the character has
-Base Surgery Difficulty: 15
-both feet replaced. If the bonuses given by the feet are difslots
 
-> Foot, Lower Leg, and Complete
-Leg Restrictions
+* Notes: There is no maximum climb/jump, lift, and swim bonus. For 
+additional restrictions, see the sidebar.
 
-Head
+* Base Surgery Difficulty: 15
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> **Hand, Arm, and Shoulder Restrictions**
+>
+> These restrictions apply to all hand, arm, and shoulder cybernetic 
+> implants.
+> 
+> Skill Bonus, Skill Minimum, and Uncanny Aptitude may only be taken 
+> for skills the hand can use. Unless the character replaces both 
+> legs, the Fast Reactions ability only applies to skills that can be 
+> used with one hand. Ambidextrous may only be taken if both hands are 
+> replaced at the same time, though the Special Ability need only be 
+> purchased once per pair of hands. However, the Special Ability
+> takes up one slot in each hand.
+>
+> For items requiring one hand to lift, the character receives
+> the full bonus. For items requiring two hands to lift, the character 
+> gets one-half of the bonus (rounded up), unless he has
+> both hands replaced. If the bonuses given by the hands are
+> different, than the character gets the average of the bonuses
+> (rounded up) when attempting two-handed maneuvers.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 
 Lower Body
-Foot
+----------
 
-ferent, than the character gets the average of the bonuses
-(rounded up) when attempting these maneuvers.
+### Foot ###
 
-This unit replaces the foot and
-ankle.
-Upgrade Slots: It generally has one non-weapon upgrade slot and
+This unit replaces the foot and ankle.
+
+* Upgrade Slots: It generally has one non-weapon upgrade slot and
 one weapon upgrade slot, though gamemasters may allow certain species
 to include additional slots (at an increased cost, of course).
 Special Abilities Allowed: Armor-Defeating Attack; Fast Reactions
 with Limitation Restricted (R1), may only be used with foot-using
 skills; Natural Hand-to-Hand Weapon; Natural Ranged Weapon;
 Skill Bonus; Skill Minimum; Uncanny Aptitude.
-Notes: The maximum bonus to climb/jump, running, or swim equals
+
+* Notes: The maximum bonus to climb/jump, running, or swim equals
 the number in front of the "D" of the character's current Strength die
 code. For additional restrictions, see the sidebar.
-Base Surgery Difficulty: 10
 
-Lower Leg
+* Base Surgery Difficulty: 10
+
+
+### Lower Leg ###
+
 This unit replaces the foot, ankle, lower leg, and knee.
 Upgrade Slots: It has one upgrade slot for the leg plus the same
 number of upgrade slots as the foot (generally one non-weapon and
 one weapon).
-Special Abilities Allowed: Armor-Defeating Attack; Fast Reactions
+
+* Special Abilities Allowed: Armor-Defeating Attack; Fast Reactions
 with Limitation Restricted (R1), may only be used with foot-using
 skills; Natural Hand-to-Hand Weapon; Natural Ranged Weapon;
-Skill Bonus; Skill Minimum; Uncanny Aptitude.
-Notes: The maximum bonus to climb/jump, running, or swim is 3
+
+* Skill Bonus; Skill Minimum; Uncanny Aptitude.
+
+* Notes: The maximum bonus to climb/jump, running, or swim is 3
 times the number in front of the "D" of the character's current Strength
 die code. For additional restrictions, see the sidebar.
-Base Surgery Difficulty: 12
 
-48
+* Base Surgery Difficulty: 12
 
-Special Abilities Allowed:
-Enhanced Sense: Hearing; Extra
-Sense (auditory type); Skill
-Bonus; Skill Minimum; Uncanny
+
+### Complete Leg ###
+
+This unit replaces the entire leg, from foot to thigh.
+
+* Upgrade Slots: It has one upgrade slot for the lower leg, one upgrade
+slot for the upper leg, and the same number of upgrade slots as the
+foot (typically one non-weapon and one weapon).
+
+* Special Abilities Allowed: Armor-Defeating Attack; Fast Reactions
+with Limitation Restricted (R1), may only be used with foot-using skills;
+Hypermovement; Natural Hand-to-Hand Weapon; Natural Ranged
+Weapon; Skill Bonus; Skill Minimum; Uncanny Aptitude.
+
+* Notes: There is no maximum climb/jump, running, or swim
+bonus. For additional restrictions, see the sidebar.
+
+* Base Surgery Difficulty: 15
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+> **Foot, Lower Leg, and Complete Leg Restrictions**
+>
+> These restrictions apply to all foot, lower leg, and
+> complete leg cybernetic implants.
+> 
+> Skill Bonus, Skill Minimum, and Uncanny Aptitude may only be taken 
+> for skills the foot can use. Unless the character replaces both legs, 
+> the Fast Reactions ability only applies to skills that can be used 
+> with one foot.
+>
+> Characters gain only half the bonus (rounded up) to
+> climb/jump, running, or swim attempts and half of the
+> Hypermovement adjustment unless the character has
+> both feet replaced. If the bonuses given by the feet are 
+> different, than the character gets the average of the bonuses
+> (rounded up) when attempting these maneuvers.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Head
+----
+
+### Ear ###
+
+One ear unit replaces one auditory receptor.
+
+* Upgrade Slots: Two upgrade slots
+
+* Special Abilities Allowed: Enhanced Sense: Hearing; Extra
+Sense (auditory type); Skill Bonus; Skill Minimum; Uncanny
 Aptitude.
-Notes: Skill Bonus, Skill Minimum, and Uncanny Aptitude are
+
+* Notes: Skill Bonus, Skill Minimum, and Uncanny Aptitude are
 restricted to hearing-based or balance-related specializations. Cannot
 be ﬁtted with weapons.
-Base Surgery Difficulty: 17
 
-Eye
+* Base Surgery Difficulty: 17
+
+
+### Eye ###
+
 One eye unit replaces one visual receptor.
-Upgrade Slots: Two upgrade slots, but see restriction.
-Special Abilities Allowed: Enhanced Sense: Sight; Extra Sense
+
+* Upgrade Slots: Two upgrade slots, but see restriction.
+
+* Special Abilities Allowed: Enhanced Sense: Sight; Extra Sense
 (visual type); Infravision/Ultravision; Natural Ranged Weapon; Skill
 Bonus; Skill Maximum; Uncanny Aptitude.
-Notes: A weapon upgrade would take up both slots. Skill Bonus,
+
+* Notes: A weapon upgrade would take up both slots. Skill Bonus,
 Skill Maximum, and Uncanny Aptitude are restricted to sight-based
 specializations.
-Base Surgery Difficulty: 17
 
-Mouth
+* Base Surgery Difficulty: 17
+
+
+### Mouth ###
+
 This unit replaces the jaw or chewing organ of the character. If
-the whole mouth is replaced, it can withstand the force of a cyberthroat's blast.
-Upgrade Slots: The only upgrade a jaw can get is additional damage through Natural Hand-to-Hand Weapon: Teeth. By replacing the
+the whole mouth is replaced, it can withstand the force of a 
+cyberthroat's blast.
+
+* Upgrade Slots: The only upgrade a jaw can get is additional damage 
+through Natural Hand-to-Hand Weapon: Teeth. By replacing the
 tongue, the character may also gain one non-weapon upgrade slot and
 one weapon upgrade unit.
-Special Abilities Allowed: Enhanced Sense: Taste; Extra Body
+
+* Special Abilities Allowed: Enhanced Sense: Taste; Extra Body
 Part: Tentacle-Tongue; Extra Sense (any tasting or tactile type); Skill
+Bonus; Natural Hand-to-Hand Weapon: Teeth; Natural Hand-toHand Weapon: 
+Tentacle-Tongue; Natural Ranged Weapon; Skill Maximum; Uncanny Aptitude.
 
-Cybernetics
-
-Bonus; Natural Hand-to-Hand Weapon: Teeth; Natural Hand-toHand Weapon: Tentacle-Tongue; Natural Ranged Weapon; Skill
-Maximum; Uncanny Aptitude.
-Notes: Skill Bonus, Skill Maximum, and Uncanny Aptitude are
+* Notes: Skill Bonus, Skill Maximum, and Uncanny Aptitude are
 restricted to taste-based specializations. The tongue can be ﬁtted with
 a weapon on a tentacle.
-Base Surgery Difficulty: 15
 
-Nose
+* Base Surgery Difficulty: 15
+
+
+### Nose ###
+
 This unit replaces the olfactory organ.
-Upgrade Slots: One upgrade slot.
-Special Abilities Allowed: Enhanced Sense: Smell; Extra Sense (any
+
+* Upgrade Slots: One upgrade slot.
+
+* Special Abilities Allowed: Enhanced Sense: Smell; Extra Sense (any
 olfactory type); Skill Bonus; Skill Maximum; Uncanny Aptitude.
-Notes: Skill Bonus, Skill Maximum, and Uncanny Aptitude
+
+* Notes: Skill Bonus, Skill Maximum, and Uncanny Aptitude
 are restricted to scent-based specializations. Cannot be ﬁtted with
 weapons.
-Base Surgery Difficulty: 17
 
-Scholarchip Reader
+* Base Surgery Difficulty: 17
+
+
+### Scholarchip Reader ###
+
 The reader unit is implanted in the brain, with a slot for scholarchips
 accessible on the surface. Scholarchips allow characters to gain skills
 or bonuses to skills without have to go through the tedious task of
 learning them. Of course, a character may not rely on any skill bonus
 from a scholarchip that is not installed, even if he used that chip in
 the past.
-Upgrade Slots: One slot in reader (takes one scholarchip).
-Special Abilities Allowed: Combat Sense; Iron Will; Master of
+
+* Upgrade Slots: One slot in reader (takes one scholarchip).
+
+* Special Abilities Allowed: Combat Sense; Iron Will; Master of
 Disguise; Skill Bonus; Skill Minimum.
-Notes: Special Abilities may
-be incorporated into scholarchips
+
+* Notes: Special Abilities may be incorporated into scholarchips
 only.
-Base Surgery Difficulty: 20
 
-Throat
-This unit replaces the throat
-and vocal apparatus, if located in
+* Base Surgery Difficulty: 20
+
+
+### Throat ###
+
+This unit replaces the throat and vocal apparatus, if located in
 the throat.
-Upgrade Slots: Two nonweapon slots and one weapon
-slot.
-Special Abilities Allowed:
-Multiple Abilities: Synthetic
-Voice, +2 to languages attempts
-when speaking, +1 con bonus,
-and +1 persuasion bonus; Natural
-Ranged Weapon: Scream; Natural Ranged Weapon: Chemical
-Blast; Natural Ranged Weapon:
-Energy Blast; Ventriloquism.
-Notes: Natural Ranged
-Weapon: Chemical Blast and
-Natural Ranged Weapon: Energy
-Blast require the character have
-a cybernetic mouth or a Special
 
-Ability that will allow her to heal rapidly the damage to her mouth
-because of her own blast.
-Base Surgery Difficulty: 15
+* Upgrade Slots: Two non-weapon slots and one weapon slot.
+
+*Special Abilities Allowed: Multiple Abilities: Synthetic
+Voice, +2 to languages attempts when speaking, +1 con bonus,
+and +1 persuasion bonus; Natural Ranged Weapon: Scream; Natural 
+Ranged Weapon: Chemical Blast; Natural Ranged Weapon: Energy Blast; 
+Ventriloquism.
+
+* Notes: Natural Ranged Weapon: Chemical Blast and Natural Ranged 
+Weapon: Energy Blast require the character have a cybernetic mouth 
+or a Special Ability that will allow her to heal rapidly the damage 
+to her mouth because of her own blast.
+
+* Base Surgery Difficulty: 15
+
 
 Organs
-Heart
+------
+
+### Heart ###
 
 This unit replaces the primary circulatory organ.
-Upgrade Slots: Two slots.
-Special Abilities Allowed: Endurance; Immunity.
-Notes: None.
-Base Surgery Difficulty: 20
 
-Digestive System
+* Upgrade Slots: Two slots.
+
+* Special Abilities Allowed: Endurance; Immunity.
+
+* Notes: None.
+
+* Base Surgery Difficulty: 20
+
+
+### Digestive System ###
+
 This unit replaces the digestive system.
-Upgrade Slots: Two slots.
-Special Abilities Allowed: Immunity; Omnivorous.
-Notes: None.
-Base Surgery Difficulty: 20
 
-Lungs
+* Upgrade Slots: Two slots.
+
+* Special Abilities Allowed: Immunity; Omnivorous.
+
+* Notes: None.
+
+* Base Surgery Difficulty: 20
+
+
+### Lungs ###
+
 This unit replaces the respiratory organs.
-Upgrade Slots: Four slots.
-Special Abilities Allowed: Endurance; Atmospheric Tolerance;
+
+* Upgrade Slots: Four slots.
+
+* Special Abilities Allowed: Endurance; Atmospheric Tolerance;
 Water Breathing; Natural Ranged Weapon: Breath (with Limitation
 Restricted (R2), damage used as Strength to determine knockdown
 only).
-Notes: None.
-Base Surgery Difficulty: 20
+
+* Notes: None.
+
+* Base Surgery Difficulty: 20
+
 
 Other Parts
-Dermal Plate
+-----------
 
-Dermal plate replaces the character's
-skin. While the character gains protection
-from the new layers, the character can
-no longer feel with that part of her body
-unless she has a Special Ability installed
-in a cybernetic replacement for that part
-of the body. Dermal plate may be layered
-over cybernetic limbs.
-Upgrade Slots: Two slots.
-Special Abilities Allowed: Attack
-Resistance; Environmental Resistance;
-Hardiness; Natural Armor.
-Notes: Environmental Resistance
-may only be taken with full-body dermal
+### Dermal Plate ###
+
+Dermal plate replaces the character's skin. While the character gains 
+protection from the new layers, the character can no longer feel with 
+that part of her body unless she has a Special Ability installed
+in a cybernetic replacement for that part of the body. Dermal plate may 
+be layered over cybernetic limbs.
+
+* Upgrade Slots: Two slots.
+
+* Special Abilities Allowed: Attack Resistance; Environmental Resistance;
+Hardiness; Natural Armor. 
+
+* Notes: Environmental Resistance may only be taken with full-body dermal
 armor.
-Base Surgery Difficulty: 10 per body
-part (limb, tail, tentacle, torso, head)
 
-Drug Dispenser
+* Base Surgery Difficulty: 10 per body part (limb, tail, tentacle, 
+torso, head)
+
+
+### Drug Dispenser ###
+
 The drug dispenser allows a convenient and sanitary method for injecting
-
-49
-
-Chapter 4
-
 any one of a number of legal and illegal physical- or mental-enhancing
-substances into the body.
-Upgrade Slots: One slot.
-Special Abilities Allowed: Accelerated Healing, Animal Control,
-Atmospheric Tolerance, Attack Resistance, Blur, Combat Sense, Confusion, Endurance, Enhanced Sense, Environmental Resistance, Fast
+substances into the body. 
+
+* Upgrade Slots: One slot.
+
+* Special Abilities Allowed: Accelerated Healing, Animal Control,
+Atmospheric Tolerance, Attack Resistance, Blur, Combat Sense, Confusion, 
+Endurance, Enhanced Sense, Environmental Resistance, Fast
 Reactions, Fear, Quick Study, Hardiness, Hypermovement, Immunity,
 Increased Attribute, Infravision/Ultravision, Invisibility, Iron Will,
 Omnivorous, Paralyzing Touch, Sense of Direction, Silence, Skill
 Bonus, Skill Minimum, Uncanny Aptitude, Ventriloquism, Water
 Breathing, Youthful Appearance.
-Notes: All Special Abilities must have the Limitation Burn-out
+
+* Notes: All Special Abilities must have the Limitation Burn-out
 (R1), disappears after one hour. Additional ranks of Burn-out can be
-added; one additional rank equals ﬁve less minutes of time. Gamemasters may allow characters to pay only the price and not the Character
+added; one additional rank equals ﬁve less minutes of time. Gamemasters 
+may allow characters to pay only the price and not the Character
 Point cost for a one-time use of a drug. Likewise, characters who wish
 to permanently rely on the drugs to get their Special Abilities should
 instead take the Limitation Price (R2), must recharge drug dispenser
 with a new dose after one hour.
-Base Surgery Difficulty: 10 (when installed alone in ﬂesh); 5 (when
+
+* Base Surgery Difficulty: 10 (when installed alone in ﬂesh); 5 (when
 installed in a cybernetic upgrade slot)
 
-Neural Jack
+
+### Neural Jack ###
+
 This device resembles a socket, used for interface with cyberdecks
 and computers with matching ports. A cable connects the user's jack
 with the machine, allowing for easy access. Generally, neural jacks are
 installed on the neck or behind the ear, but since the character receives
 the bonus only once per jack, some characters add jacks to other parts
 of the body.
-Upgrade Slots: One slot.
-Special Abilities Allowed: Skill
-Bonus: computer interface/repair.
-Notes: A character may use the neural
-jack to improve her ability to work on the
-computer. With a computer that allows
-her access automatically (such as a ship
-she's authorized to be on), she may add her
-neural jack bonus to any one bonus that
-the computer provides. A neural jack with
-no upgrade merely allows a character to
-interface with a computer that has a neural
-port and no other means of input.
-Base Surgery Difficulty: 20
 
-Syntheskin
-Syntheskin is a manufactured covering
-that looks and feels like natural skin (or
-scales or whatever the species in question
-has). It provides no protection and comes
-by default with all limbs and dermal armor.
-Characters who took a Disadvantage that
-eliminated the syntheskin from the base
-package must purchase it separately when
-they get rid of that Disadvantage.
+* Upgrade Slots: One slot.
 
-50
+* Special Abilities Allowed: Skill Bonus: computer interface/repair.
 
-> Extra Cybernetic Parts
-Characters may include certain additional pieces on themselves. Such cybernetic equipment includes shoulder, complete
-leg, tail, tentacle, eye, ear, nose, heart, scholarchip reader, neural
-jack, and drug dispenser. The character automatically gains the
-Extra Body Part Special Ability. Except for the scholarchip
-reader, neural jack, and drug dispenser, each additional unit
-adds 10 to the surgery difficulty. Furthermore, the character is
-disoriented for a few days after recovering from the surgery (+5
-to all difficulties), as she adjusts to having the new body part.
+* Notes: A character may use the neural jack to improve her ability to 
+work on the computer. With a computer that allows her access 
+automatically (such as a ship she's authorized to be on), she may add 
+her neural jack bonus to any one bonus that the computer provides. A 
+neural jack with no upgrade merely allows a character to interface 
+with a computer that has a neural port and no other means of input.
 
-Upgrade Slots: Not applicable.
-Special Abilities Allowed: Not applicable.
-Notes: None.
-Base Surgery Difficulty: 3
+* Base Surgery Difficulty: 20
 
-Tail/Tentacle
+
+### Syntheskin ###
+
+Syntheskin is a manufactured covering that looks and feels like natural 
+skin (or scales or whatever the species in question has). It provides 
+no protection and comes by default with all limbs and dermal armor.
+Characters who took a Disadvantage that eliminated the syntheskin from 
+the base package must purchase it separately when they get rid of that 
+Disadvantage.
+
+* Upgrade Slots: Not applicable.
+
+* Special Abilities Allowed: Not applicable.
+
+* Notes: None.
+
+* Base Surgery Difficulty: 3
+
+
+### Tail/Tentacle ###
+
 This unit replaces or adds a tail or tentacle.
-Upgrade Slots: One non-weapon upgrade slot and one weapon
+
+* Upgrade Slots: One non-weapon upgrade slot and one weapon
 upgrade slot.
-Special Abilities Allowed: Ambidextrous; Armor-Defeating
+
+* Special Abilities Allowed: Ambidextrous; Armor-Defeating
 Attack; Enhanced Sense: Touch; Extra Sense (any tactile type); Natural
 Hand-to-Hand Weapon; Natural Ranged Weapon; Skill Bonus; Skill
 Minimum; Uncanny Aptitude.
-Notes: Skill Bonus, Skill Minimum, and Uncanny Aptitude may
+
+* Notes: Skill Bonus, Skill Minimum, and Uncanny Aptitude may
 only be taken for skills the tail or tentacle can use.
-Base Surgery Difficulty: 10
+
+* Base Surgery Difficulty: 10
+
 
 Examples
+--------
 
-AdrenoCharger Dispenser:
-A small injector ﬁtted into a
-cybernetic implant or onto
-the adrenal glands, the AdrenoCharger shoots adrenaline
-directly into the bloodstream.
-Increased Attribute: Strength
-(R4), +4 to Strength-related skill,
+### AdrenoCharger Dispenser ###
+
+A small injector ﬁtted into a cybernetic implant or onto the adrenal 
+glands, the AdrenoCharger shoots adrenaline directly into the bloodstream.
+
+Increased Attribute: Strength (R4), +4 to Strength-related skill,
 and Increased Attribute: Agility (R4), +4 to Agility-related
-totals, both with Cybernetics:
-Drug (R1) and Burn-out (R7),
-disappears after 30 minutes;
-installation difficulty 11; cost 11
+totals, both with Cybernetics: Drug (R1) and Burn-out (R7),
+disappears after 30 minutes; installation difficulty 11; cost 11
 (11,000 credits).
-Claws: Long, lethal blades,
-these claws are stored in the forearm and spring from the top of
-the wrist. Relies on melee combat.
-Requires one upgrade slot in an
-arm. Natural Hand-to-Hand
-Weapon: Claws (R1), Strength
 
-Cybernetics
 
-Damage +1D, with Cybernetics: Arm (R1);
-installation difficulty +2 to base; cost +2 to
+### Claws ###: 
+
+Long, lethal blades, these claws are stored in the forearm and 
+spring from the top of the wrist. Relies on melee combat.
+Requires one upgrade slot in an arm. 
+
+Natural Hand-to-Hand Weapon: Claws (R1), Strength Damage +1D, with 
+Cybernetics: Arm (R1); installation difficulty +2 to base; cost +2 to
 base (+2,000 credits).
-Dermal Plate: The character has thick, rubbery plates installed over major areas. Dermal
-plate is normally installed on the chest and
-arms. Natural Armor: Dermal Plate (R1), +1D
-to damage resistance totals, with Cybernetics:
-Plate (R1); installation difficulty 20; cost 20
+
+
+### Dermal Plate ###
+
+The character has thick, rubbery plates installed over major areas. 
+Dermal plate is normally installed on the chest and arms. 
+
+Natural Armor: Dermal Plate (R1), +1D to damage resistance totals, 
+with Cybernetics: Plate (R1); installation difficulty 20; cost 20
 (20,000 credits).
-Electric Claws: Similar to basic claws, these
-carry a powerful charge with them that allows
-them to do more damage. When drained, they
-do the same damage as normal claws. Relies on
-melee combat. Requires one upgrade slot in an
-arm. Natural Hand-to-Hand Weapon: Electriﬁed Claws (R2), Strength Damage +2D, with
-Cybernetics: Arm (R1) and Price (R1), lose all
-but +1D of damage bonus after 10 uses and
-recharges in 30 minutes; installation difficulty
+
+
+### Electric Claws ###
+
+Similar to basic claws, these carry a powerful charge with them 
+that allows them to do more damage. When drained, they do the same 
+damage as normal claws. Relies on melee combat. Requires one upgrade 
+slot in an arm. 
+
+Natural Hand-to-Hand Weapon: Electriﬁed Claws (R2), Strength Damage +2D, 
+with Cybernetics: Arm (R1) and Price (R1), lose all but +1D of damage 
+bonus after 10 uses and recharges in 30 minutes; installation difficulty
 +1 to base; cost +1 to base (+1,000 credits).
-Enhanced Cyberarm: Joined to the character at the shoulder, a full replacement arm can
-offer a greater boost to a character's abilities than just replacing the hand
-(see next entry). Skill Bonus: Strength (R4), +4 to climb/jump, lift, and
-swim totals, with Cybernetics: Hand (R1) and Ability Loss (R1), only
-for single arm; installation difficulty 13; cost 13 (13,000 credits).
-Enhanced Cyberhand: Basic enhanced cyberhands can improve
-climbing attempts. Skill Bonus: Strength (R2), +2 to climb/jump,
-lift, and swim totals, with Cybernetics: Hand (R1) and Ability Loss
-(R1), only for single hand; installation difficulty 11; cost 11 (11,000
-credits).
-Enhanced Full Cyberleg: Fully replacing the leg allows the character
-to boost his kicking power and, to one degree or another, his movement.
+
+
+### Enhanced Cyberarm ###
+
+Joined to the character at the shoulder, a full replacement arm can
+offer a greater boost to a character's abilities than just replacing 
+the hand (see next entry). 
+
+Skill Bonus: Strength (R4), +4 to climb/jump, lift, and swim totals, 
+with Cybernetics: Hand (R1) and Ability Loss (R1), only for single 
+arm; installation difficulty 13; cost 13 (13,000 credits).
+
+
+### Enhanced Cyberhand ###
+
+Basic enhanced cyberhands can improve climbing attempts. 
+
+Skill Bonus: Strength (R2), +2 to climb/jump, lift, and swim totals, 
+with Cybernetics: Hand (R1) and Ability Loss (R1), only for single 
+hand; installation difficulty 11; cost 11 (11,000 credits).
+
+
+### Enhanced Full Cyberleg ###
+
+Fully replacing the leg allows the character to boost his kicking 
+power and, to one degree or another, his movement. 
+
 Hypermovement (R2), +4 meters per round, Natural Hand-to-Hand
 Weapon: Increased Damage (R1), Strength Damage +1D to kick,
 with Cybernetics: Leg (R1) and Ability Loss (R1), only for single leg;
-installation difficulty 16; cost 16 (16,000 credits). Note: If both legs are
-replaced, the character may not take the Ability Loss Limitation.
-Equilibria: Fitted in place of the inner ear, the Equilibria improves
-balance. Skill Bonus: Balance (R3), +3 to brawling: block, melee combat:
-parry/block, acrobatics: beam walking, dodge, and riding totals, with Cybernetics: Ear (R1); installation difficulty 20; cost 20 (20,000 credits).
+installation difficulty 16; cost 16 (16,000 credits). 
 
-EVD: The EVD (short for"eavesdropper") allows characters to better hear sounds within the normal frequency range. Enhanced Sense:
+Note: If both legs are replaced, the character may not take the 
+Ability Loss Limitation.
+
+
+### Equilibria ###
+
+Fitted in place of the inner ear, the Equilibria improves balance. 
+
+Skill Bonus: Balance (R3), +3 to brawling: block, melee combat:
+parry/block, acrobatics: beam walking, dodge, and riding totals, 
+with Cybernetics: Ear (R1); installation difficulty 20; cost 20 
+(20,000 credits).
+
+
+### EVD ###
+
+The EVD (short for"eavesdropper") allows characters to better hear 
+sounds within the normal frequency range. Enhanced Sense:
+
 Hearing (R1), +1 to hearing-based skill totals, with Cybernetics: Ear
 (R1); installation difficulty 20; cost 20 (20,000 credits).
 Heat-Seeker: A visual unit designed to spot heat signatures of
@@ -5811,84 +5919,126 @@ beings or objects. Enhanced Sense: Sight (R1), +1 to sight-based
 skill totals, with Ability Loss: Daylight (R1), only works in low or no
 light, and Cybernetics: Eye (R1); installation difficulty 18; cost 18
 (18,000 credits).
-Serpent: A small-caliber slug thrower that can be concealed in the
-wrist. It is a favorite among cyberweapons as it is easily concealed by
+
+
+### Serpent ###
+
+A small-caliber slug thrower that can be concealed in the wrist. 
+It is a favorite among cyberweapons as it is easily concealed by
 syntheﬂesh and does not place the strain on the arm that larger weapons
-do. Relies on ﬁrearms. Requires one upgrade slot in an arm. Natural
-Ranged Weapon: Gun (R1), 3D damage, with Cybernetics: Arm (R1);
+do. Relies on ﬁrearms. Requires one upgrade slot in an arm. 
+
+Natural Ranged Weapon: Gun (R1), 3D damage, with Cybernetics: Arm (R1);
 installation difficulty +3 to base; cost +3 to base (+3,000 credits).
-SuperSight: A cybernetic eye ﬁtted into the socket, the SuperSight
-improves the character's ability to notice things. Enhanced Sense:
+
+
+### SuperSight ###
+A cybernetic eye ﬁtted into the socket, the SuperSight improves 
+the character's ability to notice things. Enhanced Sense:
 Sight (R1), +1 to sight-based skill totals, with Cybernetics: Eye (R1);
 installation difficulty 20; cost 20 (20,000 credits).
 
-51
 
-> Improving Characters
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+> **Extra Cybernetic Parts**
+>
+> Characters may include certain additional pieces on themselves. Such 
+> cybernetic equipment includes shoulder, complete leg, tail, tentacle, 
+> eye, ear, nose, heart, scholarchip reader, neural jack, and drug 
+> dispenser. The character automatically gains the
+> Extra Body Part Special Ability. Except for the scholarchip
+> reader, neural jack, and drug dispenser, each additional unit
+> adds 10 to the surgery difficulty. Furthermore, the character is
+> disoriented for a few days after recovering from the surgery (+5
+> to all difficulties), as she adjusts to having the new body part.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Improving Characters
+====================
+
 What's in this Chapter
+----------------------
 
 Once players have taken their characters through an adventure or
 three, they'll want to improve or change them. This chapter provides
 guidelines for accomplishing that.
 
+
 Learning and Improving Skills
+-----------------------------
 
 When a player ﬁrst creates a character, she should use the character
 creation guidelines for gaining attributes and skills.
+
 Players whose characters have been through at least one adventure
 can use Character Points, accumulated from completing adventures,
 to learn new skills and improve old ones. Spending Character Points
 this way may be done only between adventures.
+
 In addition to Character Points, the character needs experience
 with the skill, either through training or by attempting to use the skill
-(through rolling its die code or its governing attribute's die code, regardless of the outcome) during an adventure. If the gamemaster decides that
-there is a signiﬁcant amount of training involved (such as improving a
-skill beyond 6D), or the character needs to ﬁnd a suitable teacher, that
-might become an adventure's focus. (The teacher must have a skill die
-code higher than the one the potential student currently has.)
+(through rolling its die code or its governing attribute's die code, 
+regardless of the outcome) during an adventure. If the gamemaster 
+decides that there is a signiﬁcant amount of training involved (such 
+as improving a skill beyond 6D), or the character needs to ﬁnd a 
+suitable teacher, that might become an adventure's focus. (The 
+teacher must have a skill die code higher than the one the potential 
+student currently has.)
+
 The cost of getting one pip in a new base skill equals the number
 before the "D" in the governing attribute's die code.
-Example: If a character wants to learn languages after an adventure and he has a Knowledge die code of 3D, the ﬁrst pip in languages
+
+Example: *If a character wants to learn languages after an adventure 
+and he has a Knowledge die code of 3D, the ﬁrst pip in languages
 costs him three Character Points. The hero then has a 3D+1 in his
 languages skill.
+
 The cost of improving an existing skill is determined in the same way,
 except that the number of dice in the skill (instead of in the attribute)
-is used to determine the cost.
-Example: A character has a dodge of 4D+2 and wants to increase
+is used to determine the cost.*
+
+Example: *A character has a dodge of 4D+2 and wants to increase
 it. To raise the skill by one pip to 5D, the character must spend four
 Character Points. To increase the skill to 5D+1 after the next scenario,
-the character must spend ﬁve Character Points.
+the character must spend ﬁve Character Points.*
+
 The cost to get one pip in a new specialization equals one-half
 of the number before the "D" in the governing attribute or skill's die
 code. The cost to improve an existing specialization by one pip equals
 one-half of the number before the "D" in specialization skill's die code.
 (In both cases, round up.)
+
 A character does not need the governing skill to get a specialization
 in it. However, if he does have one, getting a specialization in it acts as
 a bonus to the base skill when taking actions of that type, but it does
 not also improve all uses of the base skill.
 
-52
-
-5
-
-Example: For a character with 6D in ﬁrearms to gain a energy weapons
+Example: *For a character with 6D in ﬁrearms to gain a energy weapons
 specialization, he needs to spend three Character Points to get a +1 in
-the specialization. The full ﬁrearms skill, however, stays at 6D.
+the specialization. The full ﬁrearms skill, however, stays at 6D.*
+
 Specializations that are associated with a full skill improve when
 the base skill improves.
+
 A character may improve a skill or any of its specializations but not
 both. In other words, a character may improve as many specializations
 as he desires at the same time, though he cannot improve them at the
 same time as he's improving the governing skill. Skills and specializations
 may only be improved by one pip each in between each adventure.
+
 Once characters reach 8D in a skill, gamemasters may choose to use the
 upper limit rule for improving attributes (see that section for details).
+
 Extranormal skills cost twice as much to learn as other skills. Skills
 gained due to a Special Ability are not improved when that Special
 Ability is improved. Instead, they are increased as a normal skill.
 
+
 Improving Strength Damage
+-------------------------
 
 As a character's Strength or lift goes up or is altered by Special Abilities,
 Disadvantages, or skill improvement, reﬁgure the Strength Damage die
@@ -5896,30 +6046,26 @@ code: Take the character's new Strength or lift (including any modiﬁers
 from Disadvantages or Special Abilities) and drop the pips. Divide by
 2, and round up. This is the Strength Damage die code.
 
+
 Improving Attributes
+--------------------
 
 With the exception of Extranormal (such as Metaphysics) and Funds,
 the attributes you choose for your character usually represent her
 maximum potential. Most of the time, you'll improve your character's
 attributes by training in one particular aspect (improving skills),
-through temporary means (taking drugs), or with implanted equipment. Nonetheless, some freak industrial accident or bio-manipulation
+through temporary means (taking drugs), or with implanted equipment. 
+Nonetheless, some freak industrial accident or bio-manipulation
 experiment might provide you with a reason to improve your character's
 base attributes. (Some characters, such as kids, might start with fewer
 attribute dice, but their excuse for their attributes' improvement is
 puberty.) There are two ways to do this.
 
-> Effects of Character Options
-When determining how many Character Points a player
-needs to improve his character's skills and attributes, ignore
-any modiﬁers provided by Advantages, Disadvantages, or
-Special Abilities.
-
-Improving Characters
-
 The ﬁrst way is how kids improve their normal attributes and how
 everyone improves their Extranormal attributes. The gamemaster may
 chose to use this option for adult characters who want to increase their
 normal attributes.
+
 In the ﬁrst method, to boost an attribute by one pip costs 10 times
 the number before the attribute's "D" in Character Points. Generally,
 a single attribute may be raised only one pip per adventure, though
@@ -5927,6 +6073,7 @@ it's possible that the effects of the situation inﬂuence the character's
 physical makeup for a while or the gamemaster may decide that the
 situation was so life-changing that more than one attribute may be
 boosted by more than one pip.
+
 There is an upper limit using this method: Every time an adult
 character boosts a normal attribute, the player rolls that attribute's
 new die code and the gamemaster rolls one die less than the maximum
@@ -5938,14 +6085,30 @@ improves. If it does not, the attribute does not improve, the character
 gets half the Character Points back, and the character has reached her
 upper limit for that attribute. Ignore this upper limit rule for Funds
 and Extranormal attributes.
+
 In the second way, the gamemaster requires all adult characters to
-take the Increased Attribute Special Ability (discussed in the "Character Options" chapter) in order to improve their Agility, Strength,
+take the Increased Attribute Special Ability (discussed in the 
+"Character Options" chapter) in order to improve their Agility, Strength,
 Mechanical, Knowledge, Perception, and Technical attributes. There is
 no maximum bonus that the character may gain with this method,
 aside from whatever roleplaying or adventure obstacles the gamemaster
 decides to include.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+> **Effects of Character Options**
+>
+> When determining how many Character Points a player
+> needs to improve his character's skills and attributes, ignore
+> any modiﬁers provided by Advantages, Disadvantages, or
+> Special Abilities.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 Changing Body Points
+--------------------
 
 As a character's Strength goes up or is altered by Special Abilities or
 Disadvantages, you'll need to change the Body Points amount. Roll the
@@ -5955,7 +6118,9 @@ Strength -- only the amount that changed.)Then add or subtract, as
 dictated by the Special Ability or Disadvantage, that number from
 the Body Points total.
 
+
 Changing Wounds
+---------------
 
 As a character's Body Points go up or down, the Wound level changes.
 For characters who rely solely on Wounds, the only way to alter how
@@ -5963,8 +6128,9 @@ quickly or slowly the character reaches each level is by changing his
 damage resistance total. This could be through a change in Strength or
 by acquiring more protective gear or protecting Special Abilities.
 
-Gaining and Losing
-Character Options
+
+Gaining and Losing Character Options
+------------------------------------
 
 As players take their characters through adventures and develop
 them, they may decide that the Advantages, Special Abilities, and
@@ -5974,9 +6140,12 @@ To be ﬂexible, there are ways you can accommodate your players' desire
 to grow their characters. For example, an "enemy" might eventually be
 killed, a character might be able to negotiate a way out of Debt, or an
 Advantage Flaw might be "repaired."
-Getting rid of and gaining Advantages, Special Abilities, and Disadvantages should only happen after the character has been used during
+
+Getting rid of and gaining Advantages, Special Abilities, and 
+Disadvantages should only happen after the character has been used during
 several adventures and has had a chance to come up with reasons for
 character alteration.
+
 These game mechanics for gaining Advantages, Special Abilities,
 and Disadvantages apply only to individuals who seek to have them.
 Because of an adventure or series of adventures, the members of a
@@ -5986,7 +6155,10 @@ Point beneﬁts outlined here. The new Advantage can be considered
 a reward for being part of the team and the scenario, while the new
 Disadvantage would be a penalty.
 
+
 Advantages
+----------
+
 There are two methods for acquiring new Advantages: (1) The
 player pays, in Character Points, 5 times the rank of the Advantage. (2)
 The player takes an equivalent amount of dice in Disadvantages and
@@ -5995,6 +6167,7 @@ In either case, the player must come up with a well-crafted story for
 getting the new Advantage that's backed by actual experiences in one
 or more adventures. The story, and its related Advantage, must be
 approved by the gamemaster.
+
 Generally, a player may not remove an Advantage from a character,
 but it might be lost in the course of roleplaying due to player negligence
 (that is, continuously bad roleplaying or ignoring Disadvantages)
@@ -6005,42 +6178,53 @@ Points per rank in the Advantage, or may substitute an equally valuable
 Advantage. Gamemasters should not reward the loss of an Advantage
 through player negligence.
 
+
 Disadvantages
-There are also two methods for permanently overcoming a Disadvantage: (1) The player pays 10 times the die code of the Disadvantage.
+-------------
+
+There are also two methods for permanently overcoming a Disadvantage: 
+(1) The player pays 10 times the die code of the Disadvantage.
 (2) The player loses an equal number of Advantages and pays a number
 of Character Points equal to the die code of the Disadvantage. As
 with Advantages, the player must have a good tale and the character
 has adequate adventuring experience before the gamemaster should
 approve the loss of any Disadvantage.
-Example: If a character had Equipment (R3), he might also have a
+
+Example: *If a character had Equipment (R3), he might also have a
 Rank 3 Disadvantage tied to it. If the character can get rid of the equipment
 (which he might not be able to do in some settings -- a cursed amulet or
-a cybernetic spine, for example), then the Disadvantage goes away.
+a cybernetic spine, for example), then the Disadvantage goes away.*
+
 When a player wishes to add another Disadvantage to her hero,
 she receives an immediate bonus for this choice if she isn't using the
-Disadvantage to help her get a new Advantage. For the new Disadvantage, the character receives a number of Character Points equal to
+Disadvantage to help her get a new Advantage. For the new Disadvantage, 
+the character receives a number of Character Points equal to
 3 times the die code of the Disadvantage. However, the character now
 has a new limitation to contend with!
 
-53
-
-Chapter 5
 
 Special Abilities
-Unless the gamemaster decides to reward a character with a Special Ability, it costs 5 times the sum of the Special Ability's base cost
+-----------------
+
+Unless the gamemaster decides to reward a character with a Special 
+Ability, it costs 5 times the sum of the Special Ability's base cost
 plus the current number of ranks in Character Points -- and a really
 good excuse -- to acquire or improve a Special Ability after character
 creation. A character may improve a Special Ability by only one rank
 after each adventure, unless there is some compelling reason to allow
 otherwise. Gamemasters may disallow increases in Special Abilities if
 they feel the reason for the improvement isn't good enough.
-Example: A character has Accelerated Healing at Rank 1. She
+
+Example: *A character has Accelerated Healing at Rank 1. She
 decides to spend some time in a monastery, learning how to improve it.
 The cost in Character Points to increase her Special Ability to Rank 2 is
-16 (5 times the sum of the base cost of 3 plus the current rank of 1).
-Characters can have their Special Abilities weakened and occasionally even lose them entirely, and they get no reward for this. In other
+16 (5 times the sum of the base cost of 3 plus the current rank of 1).*
+
+Characters can have their Special Abilities weakened and occasionally 
+even lose them entirely, and they get no reward for this. In other
 circumstances, the character could wish to use all his mental and
 spiritual resources to defeat an otherwise unstoppable force.
+
 In these instances, by sacriﬁcing one rank in a
 Special Ability, a character receives 2 times the base
 cost of the Special Ability in Character Points. If
@@ -6053,35 +6237,39 @@ receives in Character Points 7 times the initial cost
 of the Special Ability. Costs of Enhancements and
 Limitations are ignored. The character also, of
 course, loses all Enhancements and Limitations
-associated with that Special Ability when he permanently sacriﬁces it. (Getting the Special Ability
+associated with that Special Ability when he permanently 
+sacriﬁces it. (Getting the Special Ability
 back requires the character to spend Character
 Points for it as a new Special Ability.)
-The act of losing Special Abilities does not
-typically count as an action. Even so, some circumstances may justify a Moderate willpower roll
-or the character's complete concentration for a full
-round to simulate the character summoning his
-deep inner resources.
+
+The act of losing Special Abilities does not typically count as an 
+action. Even so, some circumstances may justify a Moderate willpower 
+roll or the character's complete concentration for a full round to 
+simulate the character summoning his deep inner resources.
+
 The player can combine losing Special Abilities with gaining Special
 Abilities to simulate an event that alters the character's extraordinary
 abilities completely. In this case, if the gamemaster accepts the player's
-explanation, simply trade the hero's current Special Abilities for Character Points and spend them on the desired new Special Abilities.
+explanation, simply trade the hero's current Special Abilities for 
+Character Points and spend them on the desired new Special Abilities.
 
-Gaining and Losing Special Ability
-Enhancements and Limitations
+
+Gaining and Losing Special Ability Enhancements and Limitations
+---------------------------------------------------------------
+
 It is possible for a character to gain or lose control over a Special
 Ability, beyond what increases in skill and Special Ability rank allow.
 Unlike Advantages and Disadvantages, Special Ability Enhancements
 and Limitations are fundamental to a Special Ability's manifestation in
 a character or item. Enhancements and Limitations must be purchased
 or overcome with Character Points, representing the character's greater
-
-54
-
 understanding of the Special Ability. Also, the gamemaster may not
 allow some Limitations to be bought off without an excellent plot-related
 explanation, especially if the Limitation is physical in nature. Unless the
 Enhancement or Limitation relates to the character's understanding of
-the Special Ability, such as many Minor Stigmas, a reasonable explanation of how the Special Ability has changed is also required.
+the Special Ability, such as many Minor Stigmas, a reasonable explanation 
+of how the Special Ability has changed is also required.
+
 Gaining a new Enhancement costs 8 times the desired rank times
 the base cost of the Enhancement in Character Points. Although most
 Enhancements have several possible ranks that can be purchased in
@@ -6089,33 +6277,28 @@ stages, common sense should apply. A Special Ability may obtain
 new levels for the same Enhancement, but the nature of previously
 added Enhancements cannot be altered, unless the Enhancements
 are removed.
-Example: An Enhancement that provides an extra effect must be
+
+Example: *An Enhancement that provides an extra effect must be
 purchased at the full cost of each desired effect. A player could not,
 for instance, buy one rank of Additional Effect: Energy Sustenance
 for Attack Resistance, and then later spend more Character Points
 to increase the Enhancement rank and change it to attack reﬂection.
-However, a character with an
-Additional Effect of stickiness on the Natural Ranged
-Weapon Special Ability
-could purchase additional
-ranks of the version of the
-Enhancement.
-Eliminating a Limitation
-costs 10 times the die code of
-the Limitation in Character
-Points. As with Enhancements, it is possible to buy
-off a Limitation in stages, if
-the stages are related. The
-Debt Limitation probably
-couldn't be bought down
-one level at a time, but a Flaw
-with multiple ranks could be,
-if the Narrator allowed. The
-gamemaster may disallow
-buying off certain variations
-of Limitations because they
-are inextricably tied to the related Special Ability.
-A character can also remove an Enhancement or acquire a Limitation after character creation. A character who purposely removes an
+
+However, a character with an Additional Effect of stickiness 
+on the Natural Ranged Weapon Special Ability could purchase additional
+ranks of the version of the Enhancement.*
+
+Eliminating a Limitation costs 10 times the die code of 
+the Limitation in Character Points. As with Enhancements, it is 
+possible to buy off a Limitation in stages, if the stages are related. 
+The Debt Limitation probably couldn't be bought down
+one level at a time, but a Flaw with multiple ranks could be,
+if the Narrator allowed. The gamemaster may disallow buying off 
+certain variations of Limitations because they are inextricably 
+tied to the related Special Ability.
+
+A character can also remove an Enhancement or acquire a Limitation 
+after character creation. A character who purposely removes an
 Enhancement from a Special Ability receives 4 times the rank times the
 base cost of the Enhancement in Character Points. The character can't
 rely on the Enhancement until the player buys it again. A character who
@@ -6124,23 +6307,30 @@ takes a Limitation for a Special Ability after character creation gains
 Points. Since it is unlikely (though not impossible) that a character
 would do either of these deliberately, the player must come up with
 a reasonable explanation for how the Special Ability has become less
-useful. Again, the gamemaster may take away Enhancement or Limitations based on the adventure situation and does not necessarily have
+useful. Again, the gamemaster may take away Enhancement or Limitations 
+based on the adventure situation and does not necessarily have
 to award points for it.
 
-6
 
-> Game Basics
+Game Basics
+===========
+
 What's in this Chapter
+----------------------
 
 This chapter deﬁnes how to play the game, from rolling the dice
 to using skills. The basic unit of game time, order of play, and what
-players can have their characters do on a turn are explained. Suggestions for determining the difficulty of actions are offered, including
-some examples.
+players can have their characters do on a turn are explained. 
+Suggestions for determining the difficulty of actions are offered, 
+including some examples.
+
 The introduction offered an overview of how the game works, so
 some of this may look familiar. However, this chapter clariﬁes a lot of
 special situations that will undoubtedly come up during play.
 
+
 Rolling Dice
+------------
 
 A die code shows how good a character is in a particular area, how
 harmful a weapon is, how useful a Special Ability or tool is, and so
@@ -6148,42 +6338,53 @@ on. Each die code (also known as a value) indicates the number of
 six-sided dice you roll (1D, 2D, 3D, 4D, 5D, etc.), and sometimes an
 added amount of "+1" or "+2" -- referred to as pips -- you add to the
 total result you roll on the dice.
+
 An Advantage, Special Ability, or piece of equipment may provide
 a bonus to the roll. If the bonus is in the form of a die code (such as
 +1D), then you add the listed number of regular dice to the amount
 you would roll. If the bonus is in the form of a number (such as +2),
 then you add the amount to the total that you rolled on the dice.
-Example: A shovel add 1D to digging attempts. A character who
+
+Example: *A shovel add 1D to digging attempts. A character who
 decides to dig a hole uses her lift skill. If your character has a lift skill
 of 4D, you would roll ﬁve dice to determine how well your character
-dug the hole with the shovel.
+dug the hole with the shovel.*
+
 
 Wild Die
+--------
+
 Whenever any player, including the gamemaster, makes any roll, one
 of the dice must be different from the rest (in size or color). Designated
 as the Wild Die, this odd die represents the vagaries of life -- like the
 direction of the wind affecting the ﬂight of a bullet -- that are too
 small to warrant their own difficulty modiﬁers.
-Example: Your character's Agility attribute is 3D+1, so if your
+
+Example: *Your character's Agility attribute is 3D+1, so if your
 character tried to jump onto a table, you would roll two regular dice
-and one Wild Die.
+and one Wild Die.*
+
 If the player has only 1D to roll, then that one die is always the
 Wild Die.
+
 If the player rolls a 6 on the Wild Die, this is called a Critical Success
 and she may add the 6 to her total and roll the Wild Die again. As long
 as she turns up Critical Successes on that die, she may continue to add
-
 them to her total and continue to roll. If she rolls anything other than
 a 6, she adds that number to the total and stops rolling.
+
 If the player rolls a 1 on the initial toss of the Wild Die, this is called
 a Critical Failure, and the gamemaster may chose one of two options
 for the result, depending on the gravity of the situation.
+
 1. The Critical Failure cancels out the highest roll. Then the player
 adds the remaining values, and the roll is determined normally.
+
 2. Add the dice results normally, but a complication occurs. The
 gamemaster gauges the signiﬁcance of the complication by the total
 generated -- from a funny, "nearly didn't do it" result for a high total
 to a serious, "we have a problem" obstacle for a low total.
+
 When using the second option, make certain the complication chosen
 relates to the task attempted. It should serve as an extra, minor obstacle
 the characters must now deal with or, more often, as a place to insert
@@ -6191,14 +6392,26 @@ a bit of comic relief. Only on rare occasions (such as numerous poor
 decisions by the players) should a complication be without solutions or
 even deadly. The complications can also serve as opportunities to bring
 nearly invincible characters down to a more reasonable level.
+
 Note: Unlike rolling a Critical Failure initially on the Wild Die,
 no complications occur when a 1 shows up on later tosses of the Wild
 Die in the same roll.
 
+
 Improving a Roll
+----------------
+
 The average person fails at average activities nearly half of the time.
 Characters aren't average people, so they need ways to beat those odds.
 Thus, they have Character and Fate Points, which represent those
+
+
+
+
+
+
+
+
 
 > Alternate Die Rolling Options
 Some gamemasters prefer rolling fewer dice. To this

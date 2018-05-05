@@ -2,131 +2,130 @@ OpenD6 Adventure SRD Text
 =========================
 
 
-
 Introduction
-------------
+============
 
-This book provides the fundamentals necessary to play in a Wild
-West, pulp ﬁction, modern adventure, espionage, low-level super
-hero, or similar setting using West End Game’s famous D6 System
-roleplaying game rules.
-If you’re reading this book, you probably already know what a roleplaying game is. In case you need a refresher or to explain it to your
+This book provides the fundamentals necessary to play in nearly
+any type of science ﬁction setting using West End Games' famous D6
+System roleplaying game rules.
+
+If you're reading this book, you are probably quite familiar with
+roleplaying games. In case you need a refresher or to explain it to your
 friends, we suggest telling them that this is an interactive storytelling
 game wherein they play the part of major characters in the story. If
-they’re still interested, let them read this introduction.
-You might also want to start with this introduction if you’ve roleplayed before getting this book but it wasn’t with the D6 System.
+that rouses their curiosity, let them read this introduction.
+
+You might also want to start with this introduction if you've roleplayed 
+before getting this book but it wasn't with the D6 System.
+
 
 What Is a Roleplaying Game?
+---------------------------
+
 A roleplaying game is very much like improvisational acting or
-interactive storytelling — but with rules. Many video games are like
+interactive storytelling -- but with rules. Many video games are like
 this, and there are plenty of online interactive worlds, so chances are
 good that you know what a roleplaying game is about. This roleplaying
-game, however, doesn’t need any expensive equipment or special software
-or cartridges or a connection to the Internet.
+game, however, doesn't need any expensive equipment, special software
+or cartridges, or a connection to the Internet.
+
 
 What Do I Need to Play?
+-----------------------
+
 To play this game, you need this book, some paper, something to
 write with, some six-sided dice, a lot of imagination, and a group of
-people, one of whom is willing to be the guiding force in the game.
-This person is called many things, but “gamemaster” serves well as a
-short hand for someone who presents information about the game
-setting and obstacles the other players encounter; who takes the part
-of the people the players’ characters interact with; and who adjudicates
-the rules. The rest of the group, simply called “the players,” take on
-roles of major characters in the story that they and the gamemaster
-create together.
-The stories are called “adventures,” or “scenarios.” Very short adventures, usually encompassing only one or two obstacles to a simple goal,
-are referred to as “encounters.” A series of encounters can become an
+people, one of whom is willing to act as the guiding force in the game.
+This person is called many things, but"gamemaster" serves well as 
+shorthand for someone who presents information about the game setting,
+creates obstacles for the other players to overcome, takes the part of
+the people the players encounter, and adjudicates the rules. The rest of
+the group, simply called "the players," take on roles of major characters
+in the story that they and the gamemaster create together.
+
+The stories are called "adventures," or "scenarios." Very short 
+adventures, usually encompassing only one or two obstacles to a simple goal,
+are referred to as "encounters." A series of encounters can become an
 adventure, while a series of adventures can turn into a campaign. This
-book contains a chapter on how to come up with adventures, and West
-End Games has an encounter generator online.
+book contains a chapter (called "Adventure Tips") on how to come up
+with adventures.
+
 
 Where Do I Go Next?
-Will you be you joining a game where everyone else knows how
-to play, and you don’t have a lot of time to learn the rules? Read
-Chapter 1, “Character Basics” and then ﬂip to the character templates
-on pages 128–137 of this book. Ask the gamemaster which one or ones
+-------------------
 
-you can use. (These are also available for downloading from the West
-End Games Web site). Fill in the template as you learned from Chapter
-1, then take the sheet to the game session and start playing. The rest
-of the players will teach the details as you go along.
-Do you have some time to learn the rules, but you don’t want to
-be the gamemaster? Read all of the chapters up through the “Healing”
-chapter. In this introduction is a solitaire adventure that will get you
-started on the basics; the rest of the chapters ﬁll in more details. Then
-skip to the “Equipment” chapter. If you want to play someone with
-psychic or magical abilities, you’ll also need to read those chapters.
+Will you be you joining a game where everyone else knows how
+to play, and you don't have a lot of time to learn the rules? Read
+"Character Basics" and then ﬂip to the character templates. Ask the 
+gamemaster which one or ones you can use. (These are also available 
+for downloading from the West End Games Web site.) Fill in the template 
+as you learned from Chapter 1, then take the sheet to the game session 
+and start playing.
+
+The rest of the players will teach the details as you go along.
+Do you have some time to learn the rules, but you don't want to
+be the gamemaster? Read all of the chapters up through the "Healing" 
+chapter. In this introduction is a solitaire adventure that will get
+you started on the basics; the rest of the chapters ﬁll in more details.
+Then skip to the "Equipment" chapter. If you want to play someone
+with the ability to manipulate the energy of universe, you'll also need
+to read the "Metaphysics" chapter.
+
 Do you want to be the gamemaster, with all its responsibilities
-and privileges? You’ll need to read this entire book, or at least through
-the “Healing” chapter and skim the rest. Then use the “Adventure Tips”
-chapter to design your own scenario, invite some friends over, introduce
-them to creating characters, and have fun!
+and privileges? You'll need to read this entire book, or at least through
+the "Healing" chapter and skim the rest. Then use the "Adventure Tips"
+chapter to design your own scenario. After that, invite some friends
+over, introduce them to creating characters, and have fun!
+
 
 System Overview
-This overview provides basic concepts germane to roleplaying with
-the D6 System. The concepts presented herein are further explained in
-the rest of this book, and an introductory adventure will give you a
-chance to try out what you’ve learned here.
+===============
+
+This overview provides basic concepts essential to roleplaying with
+the D6 System. The concepts presented herein are further explained
+in the rest of this book, and an introductory adventure will give you a
+chance to try out what you've learned here.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+> **Reality**    
+> The D6 System rules are not meant to reﬂect the real world's reality. 
+> Rather, they have been designed to model ﬁction reality, the reality 
+> of stories, television shows, comic books, and movies. Gamemasters who 
+> want to use this system to describe the real world will need to add 
+> their own modiﬁers and limits.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 Making Actions
+--------------
+
 Each player has a character with attributes and skills that describe
-how well that character can perform various actions. Attributes represent a character’s innate abilities, while skills are speciﬁc applications
-of those abilities.
-Most game mechanics in D6 involve rolling some six-sided dice. A
-die code associated with each attribute and skill represents how good
-the character is in that area. A die code associated with a weapon
+how well he or she can perform various actions. Attributes represent
+a character's innate abilities, while skills are speciﬁc applications of
+those abilities.
+
+Most game mechanics in the D6 System involve rolling some six-sided
+dice. A die code associated with each attribute and skill represents how
+good the character is in that area. A die code associated with a weapon
 shows how much harm it can cause. The larger the number, the more
 experienced, trained, or naturally adept your character is, or the more
 deadly the weapon, or the more useful the equipment.
+
 Each die code indicates the number of six-sided dice you roll when
 you want your character to do something (1D, 2D, 3D, 4D, 5D, etc.),
-and sometimes an added bonus (called pips) of “+1” or “+2” you add
+and sometimes an amount (called pips) of "+1" or "+2," which is added
 to the total result you roll on the dice.
-Example: If your character’s Physique attribute is 3D+1, when you
+
+Example: *If your character's Strength attribute is 3D+1, when you
 have her try to lift a cargo container, you would roll three dice and add
-1 to the total to get her result.
+1 to the total to get her result.*
+
 To represent the randomness of life (and the tons of little modiﬁers
 that go along with it), every time you roll dice, make sure that one of
-them is of a diﬀerent color than the others. This special die is the Wild
-
-Introduction
-
-•
-
-Page 4
-
-Reality —
-
-ct reality’s reality.
-The D6 System rules are not meant to reﬂe
-n reality, the
-ﬁctio
-el
-mod
-to
-Rather, they have been designed
-and movies.
-s,
-book
-ic
-com
-s,
-reality of stories, television show
-ribe the real
-desc
-to
-m
-syste
-this
-use
-to
-Gamemasters who want
-iﬁers and limits.
-world will need to add their own mod
-
-Die, and it can have some interesting eﬀects on your dice total. (If you
+them is of a different color than the others. This special die is the Wild
+Die, and it can have some interesting effects on your dice total. (If you
 only have one die to roll, then that die is the Wild Die.)
+
 If the Wild Die comes up as a 2, 3, 4, or 5, add the result to the
 other dice normally. If the Wild Die comes up as a 6, this is a Critical
 Success. Add the 6 to your other dice results and roll the Wild Die
@@ -135,223 +134,231 @@ rolling. If you roll anything else, you add that number to the total and
 stop rolling. If the Wild Die comes up as a 1 on the ﬁrst roll, this is a
 Critical Failure. Tell the gamemaster, who will let you know whether
 or not to add it to your total.
+
 The higher you roll, the better your character accomplishes the task
 at hand. When your character tries doing something, the gamemaster
-decides on the required skill and a diﬃculty based on the task’s complexity. The gamemaster doesn’t usually tell you the diﬃculty number
-you need to equal or beat to succeed. He often won’t inform you which
+decides on the required skill and a difficulty based on the task's 
+complexity. The gamemaster doesn't usually tell you the difficulty number
+you need to equal or beat to succeed. He often won't inform you which
 tasks are easier and which are harder, though he might give you hints.
-(“Hmmm, catching your grappling hook around that small outcropping
-is going to be pretty hard.…”) The gamemaster then uses the rules to
+("Hmmm, catching your grappling hook around that small outcropping
+is going to be pretty hard . . .") The gamemaster then uses the rules to
 interpret the die roll and determine the results of the action.
 
+
 Taking Damage
-To describe how much injury a character can sustain, the gamemaster decides on one of two ways of determining how much damage
+-------------
+
+To describe how much injury a character can sustain, the gamemaster 
+decides on one of two ways of determining how much damage
 a character can take: Body Points or Wounds.
+
 With the Body Points system, each character has a certain number
 of Body Points (which are ﬁgured out when you create your character).
 You subtract the amount of damage the attacker rolls for his weapon
 from the total number of Body Points your character has.
-With the Wounds system, each character has a certain number of
-Wounds. You roll your character’s Physique while the attacker rolls
-damage. Compare the diﬀerence between the damage and the Physique
+
+With the Wounds system, each character has a certain number
+of Wounds. You roll your character's Strength while the attacker rolls
+damage. Compare the difference between the damage and the Strength
 roll a Wounds level chart; the chart lets you know how many Wounds
 your character gets from the attack.
+
 In either system, when your character has no more Body Points or
-Wounds left, she’s toast.
+Wounds left, she's toast.
+
 
 Improving Rolls
-In addition to scores for a character’s attributes and skills, she has
-Fate Points and Character Points. You can spend these points in particularly diﬃcult and heroic situations.
+---------------
+
+In addition to scores for a character's attributes and skills, she
+has Fate Points and Character Points. You can spend these points in
+particularly difficult and heroic situations.
+
 When you spend a Character Point, you get to roll one extra die
 when you character tries to complete a task. You may choose to spend
-a Character Point after you’ve made a roll (in case you want to improve
+a Character Point after you've made a roll (in case you want to improve
 your result).
 
 When you spend a Fate Point, that means your character is using
 all of her concentration to try to succeed. You may spend a Fate Point
 only before any die rolls are made. Doing so doubles the number of
-dice you’d normally roll, usually for one round and one action only,
+dice you'd normally roll, usually for one round and one action only,
 though the gamemaster may allow players to spend more Fate Points
 in particularly challenging moments. This allows the character to do
 one action really well.
-Once a Character Point or Fate Point is used, it’s gone. You gain
+
+Once a Character Point or Fate Point is used, it's gone. You gain
 more Character Points at the end of a game for completing goals and
 playing well. You may get back Fate Points at the end of the game if
 they were used at a brave, heroic, or climactic moment.
 
 Try It Out!
-Now that you have the basics down, let’s try out a short scenario.
-First, you’ll need a character. On the next page, you’ll ﬁnd a template.
+-----------
+
+Now that you have the basics down, let's try out a short scenario.
+First, you'll need a character. On the next page, you'll ﬁnd a template.
 Most of the game characteristic information is ﬁlled in. The attributes
 and skills are listed in two columns on the left-hand side of the page.
-The attributes names — Reﬂexes, Coordination, Physique, Presence,
-Knowledge, Perception, and Extranormal — are printed in bold above
-the skill names. There are more skills in the game than the ones listed
-on this sheet, but these are the ones commonly associated with the type
+The attributes names -- Agility, Strength, Knowledge, Perception,
+Mechanical, Technical, and Metaphysics -- are printed in bold above the
+skill names. There are more skills in the game than the ones listed on
+this sheet, but these are the ones commonly associated with the type
 of profession this template is supposed to represent.
-On the far left column, below the gray line at the bottom, you’ll
-ﬁnd “Strength Damage.” This shows how much harm your character
-can cause with brute force.
-Right next to those, in the center column below the gray line, are
-some more characteristics. Fate Points and Character Points show
-the number of these special roll-improving bonuses your character
-currently has. Funds is a measure of how much wealth your character
-can usually get at. Below that is “Move.” This characteristic lists the
-number of meters your character can easily walk in ﬁve seconds. This
-quick encounter doesn’t require using any of these.
-In the far right column, you’ll see Advantages, Disadvantages,
+
+In the center column below the gray line, are some more characteristics. 
+Fate Points and Character Points show the number of these
+special roll-improving bonuses your character currently has. This quick
+encounter doesn't require using any of these.
+
+In the far right column, you'll see Advantages, Disadvantages,
 Special Abilities, and a description of your character. These give you
-an idea about the kind of character that you’re playing. The equipment
+an idea about the kind of character that you're playing. The equipment
 paragraph lists the items your character can use during the game.
+Below the description of the character, you'll ﬁnd "Funds" and
+"Credits," which are two similar methods of measuring how much
+wealth your character can usually get at without too much difficulty.
+On the next line is "Strength Damage," which shows how much harm
+your character can cause with brute force. Next to Strength Damage is
+"Move." This characteristic lists the number of meters your character
+can easily walk in ﬁve seconds.
+
 Below that are Body Points, Wound levels, and the related Body
 Point ranges for your character. Each of these represents how much
-injury your character can take. This short adventure won’t use Wounds
+injury your character can take. This short adventure won't use Wounds
 or the Body Points range, so you can ignore them. Instead, you only
 need to use your Body Points number.
-Now that you can ﬁnd your way around a character template, let’s
-ﬁll in the missing game characteristics. To keep it easy, pick seven skills
-that you want your character to have experience or training in. Look at
 
-Already Have a Chara
-ct
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-er?
+**Already Have a Character?**    
 
-If you already have a D6 Sys
-tem character — from ano
-ther
-D6 System game or becaus
-e you created a new on
-e
-usi
-ng
-the rules in this book —
-you can still play this adv
-enture.
-Simply skip to the “An
-Ordinary Day” section and
-follow
-the directions.
+If you already have a D6 System character -- from another
+D6 System game or because you created a new one using the
+rules in this book -- you can still play this adventure. Simply
+skip to the "Station Visit" section and follow the directions.
 
-Adventure
-Character Name: ______________________________________
-Occupation: Aspiring Hero
-Species: Human
-Gender: ____________
-Age: __________Height: ___________ Weight: ____________
-Physical Description: __________________________________
-____________________________________________________
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-totals/US$5,000 in cash
+Templates
+---------
 
-Disadvantages: Devotion (Rank 2), you’ve
-devoted your wealth and skills to those in need,
-especially those who can’t defend themselves
-Special Abilities: None
-Equipment: Heavy jacket (Armor Value +1);
-wallet
-Description: Inspired by heroes of legend and
-fact, you’ve decided to help those less fortunate
-than you by traveling the country, giving physical or ﬁnancial aid wherever you ﬁnd someone
-in need.
+    Character Name: ______________________________________
+    Occupation: Aspiring Hero
+    Species: Human
+    Gender: ____________
+    Age: __________Height: ___________ Weight: ____________
+    Physical Description: __________________________________
+    ____________________________________________________
 
-Body Points______________________ 33
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
+    totals/US$5,000 in cash
 
-Body Points Range
-20–27
-14–19
-7–13
-4–6
-1–3
-0
+    Disadvantages: Devotion (Rank 2), you’ve
+    devoted your wealth and skills to those in need,
+    especially those who can’t defend themselves
+    Special Abilities: None
+    Equipment: Heavy jacket (Armor Value +1);
+    wallet
+    Description: Inspired by heroes of legend and
+    fact, you’ve decided to help those less fortunate
+    than you by traveling the country, giving physical or ﬁnancial aid wherever you ﬁnd someone
+    in need.
 
-Coordination _______ 2D+2
-marksmanship ____________
-piloting _________________
-throwing ________________
-________________________
-________________________
-________________________
-________________________
-________________________
-Physique _____________ 3D
-lifting ___________________
-running _________________
-stamina _________________
-swimming _______________
-________________________
-________________________
-Presence _____________ 3D
-charm ___________________
-command ________________
-intimidation ______________
-persuasion _______________
-willpower ________________
-________________________
-________________________
-________________________
-Strength Damage ______ 2D
+    Body Points______________________ 33
+    Wound Level
+    Stunned
+    Wounded
+    Severely Wounded
+    Incapacitated
+    Mortally Wounded
+    Dead
 
-Knowledge ___________2D+2
-business __________________
-languages _________________
-medicine _________________
-navigation ________________
-scholar ___________________
-tech _____________________
-_________________________
-_________________________
-________________________
-________________________
-_________________________
-Perception ______________3D
-artist _____________________
-hide _____________________
-investigation _______________
-know-how ________________
-repair ____________________
-search ____________________
-streetwise _________________
-survival ___________________
-tracking __________________
-_________________________
-_________________________
-Extranormal ____________0D
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Fate Points ______________ 1
-Character Points __________ 5
-Funds ________________ 3D
-Move __________________ 10
+    Body Points Range
+    20–27
+    14–19
+    7–13
+    4–6
+    1–3
+    0
 
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
+    Coordination _______ 2D+2
+    marksmanship ____________
+    piloting _________________
+    throwing ________________
+    ________________________
+    ________________________
+    ________________________
+    ________________________
+    ________________________
+    Physique _____________ 3D
+    lifting ___________________
+    running _________________
+    stamina _________________
+    swimming _______________
+    ________________________
+    ________________________
+    Presence _____________ 3D
+    charm ___________________
+    command ________________
+    intimidation ______________
+    persuasion _______________
+    willpower ________________
+    ________________________
+    ________________________
+    ________________________
+    Strength Damage ______ 2D
 
-Advantages: Authority: Law (Rank 1), bounty
-hunter’s license; Wealth (Rank 1), +2 to Funds
+    Knowledge ___________2D+2
+    business __________________
+    languages _________________
+    medicine _________________
+    navigation ________________
+    scholar ___________________
+    tech _____________________
+    _________________________
+    _________________________
+    ________________________
+    ________________________
+    _________________________
+    Perception ______________3D
+    artist _____________________
+    hide _____________________
+    investigation _______________
+    know-how ________________
+    repair ____________________
+    search ____________________
+    streetwise _________________
+    survival ___________________
+    tracking __________________
+    _________________________
+    _________________________
+    Extranormal ____________0D
+    _________________________
+    _________________________
+    _________________________
+    _________________________
+    _________________________
+    _________________________
+    _________________________
+    Fate Points ______________ 1
+    Character Points __________ 5
+    Funds ________________ 3D
+    Move __________________ 10
 
-Reﬂexes ____________ 3D+1
-acrobatics ________________
-brawling _________________
-climbing _________________
-dodge ___________________
-jumping _________________
-melee combat _____________
-sneak ___________________
-________________________
-________________________
-________________________
+    Advantages: Authority: Law (Rank 1), bounty
+    hunter’s license; Wealth (Rank 1), +2 to Funds
+
+    Reﬂexes ____________ 3D+1
+    acrobatics ________________
+    brawling _________________
+    climbing _________________
+    dodge ___________________
+    jumping _________________
+    melee combat _____________
+    sneak ___________________
+    ________________________
+    ________________________
+    ________________________
 
 Introduction
 
