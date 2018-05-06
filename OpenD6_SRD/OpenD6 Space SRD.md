@@ -1368,8 +1368,9 @@ Determining Strength Damage
 To determine the Strength Damage die code, take the character's
 Strength or lift (including any die code modiﬁers from Disadvantages
 or Special Abilities) and drop the pips. Divide by 2, and round up.
-Example: A character with 3D in Strength has a Strength Damage
-of 2D. A character with 6D+2 in lift has a Strength Damage of 3D.
+
+Example: *A character with 3D in Strength has a Strength Damage
+of 2D. A character with 6D+2 in lift has a Strength Damage of 3D.*
 
 
 Templates and Strength Damage
@@ -1417,7 +1418,7 @@ how expensive goods and services are in their universe). This is how
 much money the character receives per week for whatever sort of work
 the character does or investments the character has.
 
-Example: Your character has 4D in Knowledge, 6D in business,
+Example: *Your character has 4D in Knowledge, 6D in business,
 and +2D in a specialization of business, investing. Starting with 3, you
 add to it 1 for your high Knowledge score and 1 for having at least 8D
 in business plus a specialization. Your ﬁnal total is 4, which gives you
@@ -1582,7 +1583,7 @@ that the average Human character can't do.
 > in this chapter useful.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Example: You decide to give your character a Special Ability that
+Example: *You decide to give your character a Special Ability that
 provides him with a +1 to one of three combat-related skill totals. If
 you don't have any points to spend on Special Abilities, your character
 needs to have some kind of Disadvantage as well. The character might
@@ -1959,11 +1960,11 @@ character to take a -4 modiﬁer to his damage resistance total or a +1
 modiﬁer to all difficulties (which increases by +1 per minute exposed)
 until the character is out of the harmful situation.
     
-    * Example: The high quantity of carbon monoxide produced by
+    * Example: *The high quantity of carbon monoxide produced by
     some combustion engines may poison a plant creature. When in the
     presence of these engines (for instance, when in a big city where these
     sorts of engines are used), the character must have an air ﬁlter on at
-    all times.
+    all times.*
 
 * Metabolic Difference: The character needs more life support
 (typically food) than "normal" and begins to take damage after hours
@@ -2142,7 +2143,7 @@ near the metaphysicist experience strong or negative emotions, the
 character gets a nasty headache, causing her to immediately lose the
 ability to use her mental powers and her player to be unable to reroll
 any Critical Successes until the end of the scene.
-Example: A character has Equipment (R3) -- a really powerful weapon. 
+Example: *A character has Equipment (R3) -- a really powerful weapon. 
 But, whenever the character suffers a Critical Failure using the weapon, 
 it not only runs out of ammo, but the character experiences some sort
 of feedback at a moderate damage total (maybe the weapon's normal
@@ -2370,7 +2371,7 @@ he is normally in. Alternatively, he could be an android who hasn't been
 programmed with all of the correct social skills. Bigots might get in the
 way of the character, and the character might not always "know" things
 about the setting that natives would automatically understand.
-Example: A character might be from a recognized and generally
+Example: *A character might be from a recognized and generally
 well-liked alien species but work on Human planets. Nonetheless,
 the character is from an alien culture and so might see some things
 differently.
@@ -4170,7 +4171,7 @@ form need not exactly resemble a "typical" version of the emulated
 creature or object.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-####Shapeshifting Example:####
+####Shapeshifting Example: *####
 
 Mark is playing a wereleopard. He chooses Shapeshifting,
 specifying that he will only change from Human to leopard
@@ -4392,7 +4393,7 @@ allows the player to add one half of the ranks in the Special Ability
 the range factor by half the ranks costs three, by the ranks in the ability
 costs six, by 1.5 times the ranks costs eight, and so on.
 
-    *Example: The range for Natural Ranged Weapon is 20 times the
+    *Example: *The range for Natural Ranged Weapon is 20 times the
     number of ranks in the Special Ability times the character's Strength
     or lift in meters. With two ranks of Extended range, the range would
     now be 20 times twice the number of ranks in the Special Ability times
@@ -6404,34 +6405,9 @@ Improving a Roll
 The average person fails at average activities nearly half of the time.
 Characters aren't average people, so they need ways to beat those odds.
 Thus, they have Character and Fate Points, which represent those
-
-
-
-
-
-
-
-
-
-> Alternate Die Rolling Options
-Some gamemasters prefer rolling fewer dice. To this
-end, a die code simpliﬁcation chart has been included in an
-appendix of this book. It offers two solutions for reducing
-the number of dice while retaining some of the randomness
-of rolling dice.
-For converting die codes in the middle of a game without
-referencing the table, multiply the number in front of the "D"
-by 3 for tasks that ought to fail (such as the damage resistance
-total of a cannon fodder character) or 4 for actions that
-ought to succeed (such as something the players' characters
-are doing).
-
-55
-
-Chapter 6
-
 surges of adrenaline, sudden insights, and other unexplained helpful
 acts of chance.
+
 Players may not trade Character Points for Fate Points, nor may
 they trade Fate Points for Character Points. A player may only spend
 her Character and Fate Points on her character's rolls. She may not
@@ -6440,7 +6416,30 @@ her sheet. Except when allowed by the gamemaster for exceptionally
 cinematic situations, players may not use Character Points and Fate
 Points on the same roll.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> **Alternate Die Rolling Options**
+>
+> Some gamemasters prefer rolling fewer dice. To this
+> end, a die code simpliﬁcation chart has been included in an
+> appendix of this book. It offers two solutions for reducing
+> the number of dice while retaining some of the randomness
+> of rolling dice.
+> 
+> For converting die codes in the middle of a game without
+> referencing the table, multiply the number in front of the "D"
+> by 3 for tasks that ought to fail (such as the damage resistance
+> total of a cannon fodder character) or 4 for actions that
+> ought to succeed (such as something the players' characters
+> are doing).
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 Character Points
+----------------
+
 Whenever a player makes any roll (attribute, skill, damage, Special
 Ability, and so on), he has the option to spend Character Points to
 increase the total rolled. He may spend one Character Point for each
@@ -6449,6 +6448,7 @@ and based on the challenge level of the adventure. (For adventures with
 easy challenges, the maximum is two; for more cinematic adventures,
 the maximum is ﬁve; for universe-shaking ones, the maximum is
 unlimited.)
+
 A player may choose to spend Character Points before or after he
 makes a roll -- or both -- but always before the gamemaster determines
 the result. The gamemaster need not tell the player whether he should
@@ -6459,59 +6459,68 @@ a 1; it does not adversely affect the roll. Because of the special nature
 of Character Point Wild Dice, the player may wish to roll these dice
 separately from his normal Wild Die.
 
-56
-
 Once used, the character loses the point. Players get Character
 Points for their characters by overcoming obstacles, roleplaying well,
 and having fun. They can also use Character Points to improve skills
 (see the "Improving Characters" chapter for details).
 
+
 Fate Points
+-----------
+
 Each players' character has a personal moral code, generally involving
 a sense of honor and justice. The devotion to this code is represented
 by Fate Points. Violating that code takes a little bit away from that
 nature, which is represented by a loss of Fate Points.
-Example: Heroic characters receive Fate Points for doing good,
+
+Example: *Heroic characters receive Fate Points for doing good,
 such as protecting innocents, bringing an evil character to justice
 (regardless of the justice system's ﬁnal decision), preventing damage,
 and saving a life (except the character's own). Heroic characters lose
 Fate Points for performing evil actions, such as stealing, maliciously
 destroying property, taking a life, and other terrible acts, especially if
-they use Fate Points to accomplish that harm.
+they use Fate Points to accomplish that harm.*
+
 Individual ethical codes may differ from the heroic code, but the more
 well-deﬁned the code is, the easier it is for the gamemaster to determine
 when to reward Fate Points -- and when to take them away.
+
 When a player feels she needs even greater help for her roll, she may
 spend a Fate Point to double the number of dice she normally gets for
 that roll. However, the player only rolls one Wild Die. Furthermore,
 anything that's not part of the character -- weapon damage die codes,
 equipment bonuses, and so on -- is not doubled.
-Example: Your character has a demolitions skill with a die code of
+
+Example: *Your character has a demolitions skill with a die code of
 4D+2. Normally, you would roll three regular dice and one Wild Die
-
-Game Basics
-
 and add two pips to the total. But this time, you want to make sure the
 villain's car doesn't ever move, so you spend a Fate Point. This allows
 you to roll seven regular dice and one Wild Die and add four pips to
-the total (for a total of 8D+4, or twice what you'd normally roll).
+the total (for a total of 8D+4, or twice what you'd normally roll).*
+
 Usually, a player may use only one Fate Point per roll per round,
 though a character may improve several different actions in a round
 with several different Fate Points expenditures. Particularly beneﬁcial
-or malicious deeds presented and roleplayed well by the player or gamemaster may allow additional Fate Points to be spent on a single roll.
+or malicious deeds presented and roleplayed well by the player or 
+gamemaster may allow additional Fate Points to be spent on a single roll.
+
 In the general course of play, a Fate Point is useful for one roll only.
 However, once per game session, a player may choose to spend a Fate
 Point climactically, which doubles all of the character's rolls for that
 round. The gamemaster also may allow players to spend Fate Points
 climactically several times during the highest point of the adventure
 (the climax).
-Players may only spend Fate Points before making a roll. Furthermore, double the initial number before applying any die code penalties
+
+Players may only spend Fate Points before making a roll. Furthermore, 
+double the initial number before applying any die code penalties
 and bonuses.
+
 Once used, the character loses the Fate Point -- but he may earn
 it back at the end of the game if it was used for a deed that supported
 his moral code. However, if the character used a Fate Point to go
 against his moral code, the gamemaster may decide that it costs an
 additional Fate Point.
+
 As characters become more experienced, the gamemaster may
 include further restrictions on Fate Point use. Gamemasters might
 allow moderately experienced characters (those with at least 6D in
@@ -6520,7 +6529,9 @@ story line, while highly experienced characters (those with at least 9D
 in several skills) might be permitted to use Fate Points only during
 climactic moments in the campaign.
 
+
 Using Skills
+------------
 
 At those times when there's a chance that a character may fail at an
 action, that character must make a skill check. The player decides what
@@ -6529,43 +6540,57 @@ the task (sometimes with the help of the gamemaster). The gamemaster
 determines a suitable difficulty number, which the player must meet or
 beat by rolling the number of dice in the skill and adding the results.
 
-> Game-Enhancing Cards
-In this rulebook, you'll occasionally ﬁnd references to"card
-use." One of the unique features of certain West End Games
-systems is their game-enhancing card decks. These cards
-can help players and gamemasters alter outcomes, inﬂuence
-initiative, and make dramatic scenes even more exciting. You
-can include one of these decks in your D6 Space games with
-a little tweaking. The Torg card deck is available as a printed
-deck on standard playing card stock and (as of this printing)
-is still sold directly by West End Games. Check the West
-End Games Web site, www.westendgames.com, for more
-information, including deck availability.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+> **Game-Enhancing Cards**
+>
+> In this rulebook, you'll occasionally ﬁnd references to"card
+> use." One of the unique features of certain West End Games
+> systems is their game-enhancing card decks. These cards
+> can help players and gamemasters alter outcomes, inﬂuence
+> initiative, and make dramatic scenes even more exciting. You
+> can include one of these decks in your D6 Space games with
+> a little tweaking. The Torg card deck is available as a printed
+> deck on standard playing card stock and (as of this printing)
+> is still sold directly by West End Games. Check the West
+> End Games Web site, www.westendgames.com, for more
+> information, including deck availability.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 Untrained Skill Use
+-------------------
+
 If a character doesn't have dice in the skill required to attempt an
 action, she generally may use the die code of the attribute under which
-that skill falls. This is sometimes referred to as defaulting to the attribute or using the skill untrained or unskilled. The gamemaster may
+that skill falls. This is sometimes referred to as defaulting to the 
+attribute or using the skill untrained or unskilled. The gamemaster may
 include an unskilled modiﬁer to the difficulty. This modiﬁer takes
 into account that people who aren't trained or don't have experience
 in certain tasks usually have a harder time doing them. Typically, this
 modiﬁer is +5, but it could be as low as +1 for simple tasks or much
-higher for complex plans. The gamemaster may rule that some situations, such as building a spaceship or performing brain surgery, are
+higher for complex plans. The gamemaster may rule that some situations, 
+such as building a spaceship or performing brain surgery, are
 impossible for anyone to attempt without the proper training and the
 correct skills.
+
 When attributes are given in the text along with the skill, such as
 in spell descriptions, resisting Wounds, and so on, do not apply the
 untrained modiﬁer. This also includes most uses of dodge and brawling
 in combat situations, attempts to ﬁnd clues in a room with search, and
 resisting interaction attempts or mental attacks with willpower.
 
+
 Rounds and Initiative
+---------------------
 
 Generally, time in a roleplaying game doesn't matter too much. A
 character may spend several hours searching a library, though only a
 minute passes as far as the players and gamemaster are concerned.
 To keep the story line moving, sometimes it's necessary to skip the
 tedious parts.
+
 More intense scenes require more detail. In these cases, time slows to
 units of ﬁve seconds called rounds. Each character may take one action
 in the round with no penalty. Unless the character has special skills or
@@ -6573,31 +6598,35 @@ abilities, additional actions increase the difficulty of performing each
 task; this concept is dealt with later, in the "Multiple Actions" section.
 Once a round ends, the next one begins, continuing until the scene ends
 (with the task completed, the opponent subdued, and so on).
-Since all characters in a scene are making actions in the same ﬁvesecond round, the actual length of game time taken up by an action is
+
+Since all characters in a scene are making actions in the same ﬁvesecond 
+round, the actual length of game time taken up by an action is
 usually less than ﬁve seconds. This is obviously the case when a single
 character is performing multiple actions, but it is also true when one
 character reacts to what another character is doing. Actions in rounds
 are not simultaneous (actions out of rounds sometimes are).
 Determining initiative does not count as an action.
+
 Once rounds have been declared and depending on the situation,
 the gamemaster applies one of three methods to determine in what
 order everyone goes.
 
+
 Initiative Method 1
+-------------------
+
 The ﬁrst method is to allow whoever makes the ﬁrst signiﬁcant
 action (such as those surprising other characters in an ambush) to
 act ﬁrst in the round. The characters retain the same order until the
 scene ends.
 
+
 Initiative Methods 2 and 3
+--------------------------
+
 The other two ways start out the same, by requiring the characters
 involved to make Perception rolls to generate initiative totals. The
 gamemaster makes one Perception roll for each character or group of
-
-57
-
-Chapter 6
-
 characters he controls, depending on the number and how important
 each character is to the adventure. The character with the highest roll
 takes her action ﬁrst. The character with the second highest roll then
@@ -6605,16 +6634,22 @@ takes his action, and so on. After the last character performs her action,
 the round ends and a new one begins. Note that characters rendered
 unconscious, immobile, or otherwise unable to act lose their action until
 they wake up or get free, even if they haven't taken it already.
+
 The gamemaster may chose then to keep the order for the entire
 scene (the faster method) or have everyone roll at the beginning of
 each round (the more realistic yet slower way).
+
 The gamemaster and players may use Character Points, but not
 Fate Points, to increase their initiative rolls if they want. Spending one
 Character Point, for example, allows the player or gamemaster to add
 the result of one extra Wild Die roll to the initiative roll.
 
+
 Initiative Ties/No Rolls
-In the event of ties, or if the gamemaster chooses not to have the players roll to determine initiative, comparing attribute and skill die codes
+------------------------
+
+In the event of ties, or if the gamemaster chooses not to have the players 
+roll to determine initiative, comparing attribute and skill die codes
 can decide the order of actions. The character with the highest value in
 the characteristic goes ﬁrst, and so on. Once a character has a spot in the
 order, it doesn't change, regardless of how other characteristics compare.
@@ -6623,51 +6658,49 @@ The order: (1) ability or talent that allows the character to go ﬁrst, (2)
 Perception, (3) search, (4) Agility, (5) dodge, (6) special equipment or
 situation that allows the character to go before another character.
 
+
 Optional Initiative Bonus
+-------------------------
+
 For every 2D over the base attribute in search (round down) or
 4D in Agility (round down), a character receives +1 to his initiative roll.
-Every six ranks in a Skill Bonus or
-Increased Attribute Special Ability
-that affects Agility or search provides
-a +1 bonus.
+Every six ranks in a Skill Bonus or Increased Attribute Special Ability
+that affects Agility or search provides a +1 bonus.
 
-Performing
-Actions in Rounds
 
-A character does not need to declare
-what she intends to do until her turn
+Performing Actions in Rounds
+----------------------------
+
+A character does not need to declare what she intends to do until her turn
 comes up in the round. Once the character decides to take her turn, she may
-use as many actions as she wants, but
-her player must determine the multiaction penalty for the total number of
-actions that the character wishes to
-take in that round. The character does
-not need to declare when ﬁguring the
-multi-action penalty what she intends
-to do with all of her actions. Note that
-waiting counts as an action (once per
-each time the character wishes to wait).
-The character may take no additional
-actions once the multi-action penalty
+use as many actions as she wants, but her player must determine the 
+multiaction penalty for the total number of actions that the character 
+wishes to take in that round. The character does not need to declare 
+when ﬁguring the multi-action penalty what she intends to do with all 
+of her actions. Note that  waiting counts as an action (once per
+each time the character wishes to wait). The character may take no 
+additional actions once the multi-action penalty is ﬁgured. Any actions 
+calculated into the multi-action penalty but that the character did not 
+use by the end of the round are lost.
 
-58
-
-is ﬁgured. Any actions calculated into the multi-action penalty but that
-the character did not use by the end of the round are lost.
 A character may take a few actions, wait, take a few more, wait
 again, and so on, as long as the player has declared a sufficient number
 of actions in which to do everything she wants her character to do
 (including waiting).
+
 A character may only interrupt another character's action if she has
 waited and after that character has made the skill roll and spent any
 points but before the gamemaster declares the result.
-Example: A character surprises a thug. Because she got the jump on
+
+Example: *A character surprises a thug. Because she got the jump on
 him, the gamemaster decides the character may act ﬁrst in this round.
 The character decides to wait and see what the thug will do, choosing
 to take one other action this turn. The thug takes a swing at her, so the
 character decides to dodge. If the character has no ability that gives her
 extra actions, she may take only one action without penalty. She used
 that one action on waiting. When she makes her dodge roll, it's at -1D,
-because it's the second action she's taking this round.
+because it's the second action she's taking this round.*
+
 Only a few instances exist in which the gamemaster may permit
 a character to "move up" her turn and react to another character's
 actions. These include catching a thrown object, resisting certain mental
@@ -6677,108 +6710,132 @@ her character will perform multiple actions in the round. For the most
 part, having a turn later in the round than another's simply means that
 another character could take advantage of the situation faster.
 
+
 Multiple Actions
+----------------
+
 Characters may attempt to perform several tasks in a single round,
-or, if the action takes longer than one
-round to complete, in the same minimum time period. The more they try to
-do, however, the less care and concentration they can apply to each action. It
-becomes more difficult to succeed at all
-of the tasks. Thus, for most characters,
-for each action taken beyond the ﬁrst,
-the player must subtract 1D from all
-skill or attribute rolls (but not damage,
-damage resistance, or initiative rolls).
-Thus, trying to do four actions in one
-round gives the character a -3D modiﬁer to each roll. For characters with an
-ability that increases their base number
-of actions, the multi-action penalty
-doesn't take effect until the character
-uses up his allotment of actions. For
-example, if a character with an action
-allotment of eight per round wants
-to do nine actions, each of the nine
-actions is at -1D.
-Only equipment and weapons
-suited for quick multiple actions may
-be used several times (up to the limit
-of their capabilities) in a round. Some
+or, if the action takes longer than one round to complete, in the 
+same minimum time period. The more they try to do, however, the 
+less care and concentration they can apply to each action. It
+becomes more difficult to succeed at all of the tasks. Thus, for most 
+characters, for each action taken beyond the ﬁrst, the player must 
+subtract 1D from all skill or attribute rolls (but not damage, damage 
+resistance, or  initiative rolls). Thus, trying to do four actions in one
+round gives the character a -3D modiﬁer to each roll. For characters with 
+an ability that increases their base number of actions, the multi-action 
+penalty doesn't take effect until the character uses up his allotment of 
+actions. For example, if a character with an action allotment of eight 
+per round wants to do nine actions, each of the nine actions is at -1D.
 
-Game Basics
+Only equipment and weapons suited for quick multiple actions may
+be used several times (up to the limit of their capabilities) in a round. 
+Some examples include semi-automatic guns or items with little or no 
+reload time, like hands or small melee weapons.
 
-examples include semi-automatic guns or items with little or no reload
-time, like hands or small melee weapons.
 A character may not rely on any skill or attribute reduced to zero.
 
+
 Actions that Take Time
+----------------------
+
 Each entry on this nonexhaustive list counts as one action taking no
 more than ﬁve seconds to perform. The gamemaster may decide that
 certain types of actions offer a bonus or special effect and, thus, have
 requirements to perform. The suggested skill to use with each action
 is included at the end of the task's description.
-Bash: Hit an opponent with a blunt weapon. (melee combat)
-Catch: Stop the movement of a thrown or dropped object or person.
+
+* Bash: Hit an opponent with a blunt weapon. (melee combat)
+
+* Catch: Stop the movement of a thrown or dropped object or person.
 (The catcher must act later in the round than the person doing the
 throwing or dropping. This is one of the few cases where a character
 may "move up" his turn.) (throwing)
-Choke: Grab a person's neck and gripping tightly. (brawling)
-Communicate: Relay plans or exchange complex ideas and information with other characters (more than a few words or one sentence).
+
+* Choke: Grab a person's neck and gripping tightly. (brawling)
+
+* Communicate: Relay plans or exchange complex ideas and information 
+with other characters (more than a few words or one sentence).
 (an interaction skill or only roleplaying)
-Disarm: Remove an object from an opponent's hand. This action
+
+* Disarm: Remove an object from an opponent's hand. This action
 is treated as a called shot. (brawling, ﬁrearms, melee combat, missile
 weapons, throwing)
-Dodge: Actively evade an attack. (dodge)
-Entangle: Throw an entangling weapon at an opponent.
-(throwing)
-Escape: Break a hold. (lift)
-Grab: Latch onto an opponent. Depending on where the opponent
+
+* Dodge: Actively evade an attack. (dodge)
+
+* Entangle: Throw an entangling weapon at an opponent. (throwing)
+
+* Escape: Break a hold. (lift)
+
+* Grab: Latch onto an opponent. Depending on where the opponent
 was grabbed, he can take other actions. (brawling)
-Kick: Strike out at an opponent with a foot. (brawling)
-Leap: Jump over an opponent, onto a table, or any other such
+
+* Kick: Strike out at an opponent with a foot. (brawling)
+
+* Leap: Jump over an opponent, onto a table, or any other such
 maneuver. (climb/jump)
-Lunge: Stab forward with a pointed weapon, such as a sword or a
+
+* Lunge: Stab forward with a pointed weapon, such as a sword or a
 knife. (melee combat)
-Move: Maneuver 51% of the character's Move or more around
+
+* Move: Maneuver 51% of the character's Move or more around
 the area. The gamemaster should call only for a roll if the terrain is
 challenging or the maneuvering complex. During some rounds, the
 gamemaster may decide that existing factors dictate all movement,
 regardless of length, require an action. (running, swim)
-Parry: Block an opponent's blow. (brawling, melee combat)
-Pin: Trap an opponent by either holding him to the ground or
+
+* Parry: Block an opponent's blow. (brawling, melee combat)
+
+* Pin: Trap an opponent by either holding him to the ground or
 tacking a piece of his clothing to a wall or other nearby object. When
-pinning the whole opponent, this is the same concept as tackling. Pinning prevents the victim from using the fastened part. (brawling, melee
+pinning the whole opponent, this is the same concept as tackling. 
+Pinning prevents the victim from using the fastened part. (brawling, melee
 combat, missile weapons, throwing)
-Punch: Strike out at an opponent with a ﬁst. (brawling)
-Push: Forcibly move an opponent. (brawling)
-Ready a Weapon: Draw or reload a gun or bow, unsheathe a knife,
+
+* Punch: Strike out at an opponent with a ﬁst. (brawling)
+
+* Push: Forcibly move an opponent. (brawling)
+
+* Ready a Weapon: Draw or reload a gun or bow, unsheathe a knife,
 and similar actions. This generally does not require a skill roll, but the
 gamemaster may chose to require one related to the weapon in question
 for particularly stressful situations.
-Run Away: Flee from the scene. (running)
-Shoot: Fire a missile or projectile weapon. (ﬁrearms, missile
-weapons)
-Slash: Swing an edged weapon. (melee combat)
 
-Switch a Weapon or Equipment's Setting: Although rare, some
+* Run Away: Flee from the scene. (running)
+
+* Shoot: Fire a missile or projectile weapon. (ﬁrearms, missile
+weapons)
+
+* Slash: Swing an edged weapon. (melee combat)
+
+* Switch a Weapon or Equipment's Setting: Although rare, some
 weapons and equipment have more than one damage or effect setting.
 It takes an action to change the setting. This generally does not require
 a skill roll, but the gamemaster may chose to require one related to the
 item in question for particularly stressful situations.
-Tackle: Bodily overcome an opponent. Once tackled, the opponent
+
+* Tackle: Bodily overcome an opponent. Once tackled, the opponent
 can do no other physical actions other than speak or attempt to break
 the attacker's grip. (brawling)
-Throw a Weapon or Object: Toss something at an opponent.
+
+* Throw a Weapon or Object: Toss something at an opponent.
 (throwing)
-Trip: Quickly force one or both of an opponent's legs upward.
+
+* Trip: Quickly force one or both of an opponent's legs upward.
 (brawling)
-Use a Skill or Ability: Perform a quick action related to a Special
+
+* Use a Skill or Ability: Perform a quick action related to a Special
 Ability the character possesses or a skill he wants to use. A character
 may not use a Special Ability he does not have, though he may use a
 skill he has no experience in (possibly at a penalty). Note that some
 skills and Special Abilities take longer than one action or one round to
 perform, so trying to do them in ﬁve seconds incurs penalties.
-Vehicle Maneuver: Perform a stunt in a moving vehicle. (exoskeleton
+
+* Vehicle Maneuver: Perform a stunt in a moving vehicle. (exoskeleton
 operation, piloting, vehicle operation)
-Waiting: Watch for a better opportunity to perform an action. This
+
+* Waiting: Watch for a better opportunity to perform an action. This
 does not require a skill roll, but it does take concentration.
 
 Free Actions
@@ -6825,7 +6882,7 @@ the one initially intended attempt and the character must make
 that attempt within a short time of using the other skills. Should
 the character decide to perform the primary skill and the related
 skill at the same time, he takes the multi-action penalty.
-Example: Your character has to carefully place some charges
+Example: *Your character has to carefully place some charges
 on a wall. You decide that the character ﬁrst examines the wall for
 weaknesses (using the search skill). Once examination has been
 completed and the search roll has been made, your gamemaster
@@ -6970,7 +7027,7 @@ warrants. Derived values do not
 get the unskilled modiﬁer if they
 are determined from the governing attribute.
 
-Example: Your character
+Example: *Your character
 attempts to intimidate a thug.
 The gamemaster could use the
 standard intimidation difficulty of
@@ -7133,7 +7190,7 @@ least worth writing home about. Gamemasters should dole
 of this book. With these plus the
 out some signiﬁcant bonuses for getting this large of a roll.
 generic difficulties and modiﬁers
-Example: A character who is trying to use the survival
+Example: *A character who is trying to use the survival
 described previously, you can run
 skill to forage for food gets a minimal success -- she ﬁnds
 just about any adventure. The next
@@ -7168,7 +7225,7 @@ the number of extra movements the character takes. One movement
 equals the character's Move value; two movements equals twice the
 Move value, and so on. For each movement beyond the ﬁrst, add 5 to
 the base difficulty of zero.
-Example: A character with a Move of 10 meters per round who
+Example: *A character with a Move of 10 meters per round who
 wants to move 20 meters in one round has a running difficulty of 5, while
 a character who wants to move 40 meters has a difficulty of 15.
 A character who fails his running roll in the ﬁrst round covers only
@@ -7197,7 +7254,7 @@ their normal Move (barring adverse environmental factors) with a base
 difficulty of 5. Those without such a skill move at half their normal
 movement rate. Increasing the rate increases the difficulty by +10 for
 each additional one-half of the base climbing Move (rounded up).
-Example: A character with a running Move of 10 and without the
+Example: *A character with a running Move of 10 and without the
 climb/jump skill wants to move quickly up a tree. His base climbing
 
 63
@@ -7249,8 +7306,8 @@ A character may increase his current movement rate by up to 2
 times that rate, regardless of whether his movement roll would allow
 him to travel a greater distance. The maximum increase is 2 times the
 character's base Move for that type of movement.
-Example: A character with a base walking Move of 10 has a maximum swimming change of 10 -- 2 times his swimming Move of 5.
-Example: A character with a Move of 10 is chasing a thief, who just
+Example: *A character with a base walking Move of 10 has a maximum swimming change of 10 -- 2 times his swimming Move of 5.
+Example: *A character with a Move of 10 is chasing a thief, who just
 swiped her cred-key lanyard. In the ﬁrst round, she may move up to 20
 meters, which has a running difficulty of 5. In the second round, she
 can increase her speed to 40 meters, which has a running difficulty of
@@ -7266,7 +7323,7 @@ movement even more if the player rolled particularly poorly.) In other
 words, subtract 2 times the base Move from the current movement rate
 to get the new movement rate. If this makes the current movement zero,
 then the character stops. If it's less than zero, the character trips.
-Example: The character chasing the thief increased her speed to a
+Example: *The character chasing the thief increased her speed to a
 rate of 40 meters per round. To maintain this speed, her player needs
 to continue generating a total of 15 with the character's running skill.
 If the player gets less than 15, then her character's speed drops to 20
@@ -7616,7 +7673,7 @@ that, the base difficulty becomes 15, with +1 added to it for every 10
 kilometers per hour the vehicle is traveling (rounded down). Additionally, the character takes damage from the fall, at a rate of 1 for every
 15 kilometers per hour the vehicle is moving (rounded up) minus the
 result points from the roll.
-Example: If the driver of a car traveling at 90 kilometers per hour
+Example: *If the driver of a car traveling at 90 kilometers per hour
 decided to leave the vehicle before it hit the tree it was traveling toward,
 the difficulty would be 24 (90/10 = 9, plus the base difficulty of 15).
 She would also take 6 points of damage unless she sufficiently succeeded at her jump (90/15 = 6).
@@ -8079,7 +8136,7 @@ receives a +1 to her passive defense value. This modiﬁer does not affect
 the character's active defense total. Every six ranks in a Skill Bonus or
 Increased Attribute Special Ability that affects Agility or dodge provides
 a +1 bonus, as speciﬁed for the skill in question.
-Example: A character with 4D in Agility gets no bonus, while a
+Example: *A character with 4D in Agility gets no bonus, while a
 character with 7D in acrobatics has a +2 bonus.
 
 Combat Difﬁculty Modiﬁers
@@ -8199,7 +8256,7 @@ Determining Strength Damage
 To ﬁgure the Strength Damage die code, drop the pips from the
 character's Strength or lift die code (but include any relevant Disadvantages or Special Abilities), divide the number by 2, and round up. The
 Increased Attribute: Strength Special Ability affects the total.
-Example: A character with 3D in Strength has a Strength Damage
+Example: *A character with 3D in Strength has a Strength Damage
 of 2D. A character with 6D+2 in lift has a Strength Damage of 3D.
 
 Optional Damage Bonus
@@ -9232,7 +9289,7 @@ Palm computer
 Cred-key
 15
 number of dice in the skill she's using before
-Example: A smuggler has snuck into a
+Example: *A smuggler has snuck into a
 Computer
 chip
 21
@@ -9259,7 +9316,7 @@ to its ﬁrearms roll, while the  smuggler gets a +6 code because the
 multi-action penalty was already ﬁgured in.
 
 to her damage resistance total. When the smuggler attacks the robot,
-Example: Two mercenaries face each other in a stand-off. One of
+Example: *Two mercenaries face each other in a stand-off. One of
 the scale modiﬁer is added to the smuggler's combat difficulty and to
 the mercenaries has 4D in Perception and 8D in ﬁrearms. He may take
 her damage total, if she manages to shoot it.
@@ -10837,7 +10894,7 @@ others can be handled through upstanding citizens. Generally, the
 modiﬁers are the same for each situation, but the gamemaster should
 adjust them depending on the circumstances. It is possible, though
 generally unlikely, that a character would be well-liked by both upstanding residents and local criminals.
-Example: In a village, a character would ﬁnd it easier to gather
+Example: *In a village, a character would ﬁnd it easier to gather
 information about a particular person (and thus the city-size modiﬁer would be -15 instead of +15), but he might have a harder time
 getting someone to trust him enough to tell him about it (making the
 tolerance modiﬁer +15).
@@ -11308,7 +11365,7 @@ suggestions.) If the character fails the willpower roll, the metaphysical
 attempt fails. A Critical Failure on the willpower roll indicates that
 the character takes any feedback associated with the skill used, even
 though it didn't work.
-Example: Four rounds of concentration gives a +4 bonus with a
+Example: *Four rounds of concentration gives a +4 bonus with a
 willpower difficulty of 10.
 The player must specify, before having her character concentrate,
 which Metaphysics skill the bonus will affect and how it will affect that
@@ -11533,7 +11590,7 @@ use standard combat difficulties and
 modiﬁers for their defense (regardless of the targeting skill). Common
 sense should be used to determine
 which skill and defense to use.
-Example: With a blast manipulation, the gamemaster decides that
+Example: *With a blast manipulation, the gamemaster decides that
 the metaphysicist has to generate a
 ﬁrearms skill total to hit his target.
 Even though the energy will go where
@@ -11959,7 +12016,7 @@ front of the "D" in the character's Funds attribute is a luxury purchase.
 A character may make one luxury purchase every seven days.
 When deciding on the type of purchase, include in the difficulty
 breakdowns any modiﬁers due to an Advantage or Disadvantage.
-Example: A character has 3D+2 in her Funds attribute. Her automatic purchases have a difficulty of 3 or less. Her average purchases
+Example: *A character has 3D+2 in her Funds attribute. Her automatic purchases have a difficulty of 3 or less. Her average purchases
 have a difficulty of 4 to 9. Her luxury purchases have a difficulty of
 10 or more. If the character also had Wealth (R1), she would add her
 bonus of +10 to each of these levels, giving her automatic purchases at
@@ -12231,7 +12288,7 @@ that can do this, skill attempts that
 default to the attribute are at +7.
 This accounts for the robot being
 smart but not terribly creative.
-Example: A character and
+Example: *A character and
 a robot (with no attributes) are
 challenged with repairing a damaged laser pistol. If neither has the
 
