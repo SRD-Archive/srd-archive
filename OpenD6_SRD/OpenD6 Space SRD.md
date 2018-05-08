@@ -6838,23 +6838,36 @@ operation, piloting, vehicle operation)
 * Waiting: Watch for a better opportunity to perform an action. This
 does not require a skill roll, but it does take concentration.
 
+
 Free Actions
+------------
+
 Free actions are anything a character can automatically perform except
 under the most extreme conditions. They don't require a skill roll or much
 effort. If the gamemaster thinks a task requires concentration (and has a
 possibility of failure, thus requiring a skill roll), it's not a free action.
-> speaking a few words to someone nearby
-> a quick glance around a room (and possibly a roll of Perception)
-> moving 50% or less of the character's Move over an easy area or
+
+* speaking a few words to someone nearby
+
+* a quick glance around a room (and possibly a roll of Perception)
+
+* moving 50% or less of the character's Move over an easy area or
 up to a meter over more challenging terrain
+
 Additionally, the following player actions do not count as character
 actions:
-> determining initiative
-> rolling to resist damage
-> rolling willpower or Knowledge to determine the emotional effects
+
+* determining initiative
+
+* rolling to resist damage
+
+* rolling willpower or Knowledge to determine the emotional effects
 of the environment on the character
 
+
 Related Skills
+--------------
+
 In some situations, two or more skills may suit the task at hand.
 The gamemaster can declare that only one is suitable for the current
 circumstances. Or he can choose the primary one and decide which
@@ -6862,6 +6875,7 @@ other skills are appropriate secondary, or related, skills that the character
 can use to improve his chances with the primary skill. The gamemaster
 sets difficulties for each skill. The character ﬁrst performs the related
 skills, and then he attempts the primary one.
+
 To determine the related skill's modiﬁer to the primary skill, the
 gamemaster subtracts the difficulty from the total rolled with the
 related skill; this determines the number of result points from the roll.
@@ -6869,19 +6883,16 @@ Then he divides that number by 2, rounding up, to get the modiﬁer
 to the total rolled with the primary skill. The minimum related skill
 modiﬁer is 1. If the skill total was less than the difficulty, the modiﬁer
 is subtracted from the primary skill total. If the skill total was equal
-
-59
-
-Chapter 6
-
 to or greater than the difficulty, the modiﬁer is added to the
 primary skill total.
+
 The character may perform the related skills and the primary
 skill successively, but the related skill modiﬁer is only good for
 the one initially intended attempt and the character must make
 that attempt within a short time of using the other skills. Should
 the character decide to perform the primary skill and the related
 skill at the same time, he takes the multi-action penalty.
+
 Example: *Your character has to carefully place some charges
 on a wall. You decide that the character ﬁrst examines the wall for
 weaknesses (using the search skill). Once examination has been
@@ -6889,17 +6900,24 @@ completed and the search roll has been made, your gamemaster
 lets you know that you beat the difficulty by four points. This
 gives you a result point bonus of +2. You apply the modiﬁer to
 your demolitions roll only, which must take place immediately
-after your character's examination of the wall.
+after your character's examination of the wall.*
+
 Gamemasters also can use the related-skills guidelines for
 deciding how well one person can help another person.
 
+
 Preparing
+---------
+
 A character willing to spend twice as much time to complete a task
 receives a +1D bonus for the die roll for every doubling of time, up to a
 maximum bonus of +3D. However, the character can do nothing else
 or be otherwise distracted (such as getting shot at) during this time.
 
+
 Rushing
+-------
+
 A character can also attempt to perform an action that normally
 requires two or more rounds (10 seconds or more) in less time. The
 difficulty increases depending on how much less time the character
@@ -6907,10 +6925,15 @@ puts into the task: +5 for 25% less time, +10 for 50% less time, and
 +20 for 75% less time. A character may not perform any task in less
 than 25% of the normally needed time. Thus, to rush an hour-long
 surgery into 30 minutes, the difficulty increases by +10.
-Of course, not every task can be rushed. If in doubt, the gamemaster should ask the player to justify how the character can speed
+
+Of course, not every task can be rushed. If in doubt, the gamemaster 
+should ask the player to justify how the character can speed
 up the task.
 
+
 Groups
+------
+
 To save time, gamemasters may chose to roll one action for a group
 of characters he controls. Any number can belong to the group. Each
 member of the group does not have to perform exactly the same
@@ -6919,7 +6942,9 @@ could make one roll for a pack of wolves who attack different characters, but he
 those circling if the gamemaster wanted to have them perform those
 distinctly different activities.
 
+
 Choosing Difﬁculties
+--------------------
 
 There are two possibilities for assigning difficulties to a speciﬁc
 action: a difficulty number or an opposed roll. Generally, the adventure
@@ -6927,77 +6952,94 @@ speciﬁes the difficulty and what skill is needed, but the gamemaster
 may come across circumstances that were not foreseen. In such cases,
 use these guidelines to decide what to do.
 
-60
-
 Certain circumstances (typically involving a character attempting
 a task without a force actively opposing her, such as climbing a wall or
 piloting a boat) may call for a static difficulty number. In these cases,
 select a standard difficulty or use a special difficulty. Circumstances
 involving an actively opposing force call for an opposed difficulty.
 
+
 Standard Difﬁculties
+--------------------
+
 A standard difficulty is a number that the gamemaster assigns to an
 action based on how challenging the gamemaster thinks it is. Existing
 conditions can change the difficulty of an action. For instance, walking
 has an Automatic difficulty for most characters, but the gamemaster
 may require someone who is just regaining the use of his legs to make
 a Very Difficult running roll to move even a few steps.
+
 The numbers in parentheses indicate the range of difficulty numbers
 for that level.
-Automatic (0): Almost anyone can perform this action; there is no
+
+* Automatic (0): Almost anyone can perform this action; there is no
 need to roll. (Generally, this difficulty is not listed in a pregenerated
 adventure; it is included here for reference purposes.)
-Very Easy (1-5): Nearly everyone can accomplish this task.
+
+* Very Easy (1-5): Nearly everyone can accomplish this task.
 Typically, tasks with such a low difficulty only are rolled when they
 are crucial to the scenario.
-Easy (6-10): Although characters usually have no difficulty with
+
+* Easy (6-10): Although characters usually have no difficulty with
 this task, an untrained character may ﬁnd it challenging.
-Moderate (11-15): There is a fair chance that the average character
+
+* Moderate (11-15): There is a fair chance that the average character
 will fail at this type of task. Tasks of this type require skill, effort, and
 concentration.
-Difficult (16-20): Those with little experience in the task must
+
+* Difficult (16-20): Those with little experience in the task must
 have a lot of luck to accomplish this type of action.
-Very Difficult (21-25): The average character only rarely succeeds
+
+* Very Difficult (21-25): The average character only rarely succeeds
 at these kinds of task. Only the most talented regularly succeed.
-Heroic (26-30), Legendary (31 or more): These kinds of tasks are
+
+* Heroic (26-30), Legendary (31 or more): These kinds of tasks are
 nearly impossible, though there's still a slim chance that lucky average
 or highly experienced characters can accomplish them.
 
-Game Basics
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> **Generic Standard Difﬁculties**
+> 
+> *Name: Difficulty*
+>
+> Automatic: 0    
+> Very Easy: 1-5    
+> Easy: 6-10    
+> Moderate: 11-15    
+> Difficult:16-20    
+> Very Difficult: 21-25    
+> Heroic: 26-30    
+> Legendary: 31 or more
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 Opposed Difﬁculties
+-------------------
 
-> Generic Standard Difﬁculties
-
-An opposed difficulty (also called an
-opposed roll) applies when one character
-Level
-resists another character's action. In this
-Automatic
-case, both characters generate skill totals
-Very Easy
-and compare them. The character with
-Easy
-the higher value wins, and ties go to the
-Moderate
+An opposed difficulty (also called an opposed roll) applies when 
+one character  resists another character's action. In this
+case, both characters generate skill totals and compare them. 
+The character with the higher value wins, and ties go to the
 initiator of the action.
-Difficult
-In an opposed task, since both charVery Difficult
-acters are actively doing something, both
-Heroic
-the initiator and the resisting character
-Legendary
-use up actions. This means that the resisting character can only participate in an
-opposed task either if he waited for the
-initiating character to make a move or if he was actively preparing for
-the attempt. Otherwise, the gamemaster may allow a reaction roll of
-the appropriate skill as a free action in some circumstances, or he may
-derive a difficulty (see the derived entry under "Special Difficulties"
-for an example).
+
+In an opposed task, since both char acters are actively doing something, 
+both  the initiator and the resisting character use up actions. This 
+means that the resisting character can only participate in an
+opposed task either if he waited for the initiating character to make 
+a move or if he was actively preparing for the attempt. Otherwise, the 
+gamemaster may allow a reaction roll of the appropriate skill as a free 
+action in some circumstances, or he may derive a difficulty (see the 
+derived entry under "Special Difficulties" for an example).
+
 
 Special Difﬁculties
+-------------------
+
 There are two special and optional difficulties: Wild Die Only
 and derived.
+
 Wild Die Only: The standard difficulty of an action may be so
 much lower than a character's skill value that rolling and totalling
 dice would waste time. However, the gamemaster may feel that the
@@ -7007,129 +7049,130 @@ roll the Wild Die. A Critical Success result indicates that some special
 bit of good fortune occurred, while a Critical Failure indicates a minor
 complication. Any other result shows that the result is successful,
 though nothing special.
-Derived: Any time one character does something to another character or animate creature or object, the base difficulty equals 2 times
 
-Number
-0
-1-5
-6-10
-11-15
-16-20
-21-25
-26-30
-31 or more
-
-the target's relevant opposing
-attribute or skill (drop the pips.)
-Gamemasters may further modify
-derived values, as the situation
-warrants. Derived values do not
-get the unskilled modiﬁer if they
+Derived: Any time one character does something to another character or 
+animate creature or object, the base difficulty equals 2 times
+the target's relevant opposing attribute or skill (drop the pips.)
+Gamemasters may further modify derived values, as the situation
+warrants. Derived values do not get the unskilled modiﬁer if they
 are determined from the governing attribute.
 
-Example: *Your character
-attempts to intimidate a thug.
-The gamemaster could use the
-standard intimidation difficulty of
-10 or she could derive one from
-the thug's willpower skill, or, if he
+Example: *Your character attempts to intimidate a thug.
+The gamemaster could use the standard intimidation difficulty of
+10 or she could derive one from the thug's willpower skill, or, if he
 doesn't have one, the governing attribute, Knowledge. If his Knowledge
-has a die code of 3D+1, then the base derived difficulty is 6.
+has a die code of 3D+1, then the base derived difficulty is 6.* 
+
 
 Generic Modiﬁers
+----------------
+
 The modiﬁers offered in a skill's list or a pregenerated adventure
 may not cover all the gamemaster's needs. When conditions arise for
 which there aren't pre-established modiﬁers, use the chart herein to
 help at those times. Gamemasters can add these modiﬁers to opposed,
 standard, or derived difficulty values.
 
+
 Good Roleplaying Modiﬁer
+------------------------
+
 Gamemasters should reward good roleplaying by lowering the
 difficulty a few points. The better the roleplaying -- and the more
 entertaining the player makes the scenario -- the higher the modiﬁer
 the gamemaster should include.
 
+
 Unskilled Attempts
+------------------
+
 Remember that someone without training or experience might, with
 blind luck, do better than someone with experience -- but generally
 only that one time. There is no guarantee of future success. When a
-character defaults to the attribute, ﬁgure in not only a difficulty modiﬁer
+character defaults to the attribute, ﬁgure in not only a difficulty 
+modiﬁerof +1, +5, or more, but also adjust the result accordingly: 
+the result won't happen as precisely or stylishly as someone with skill.
 
-> Generic Difﬁculty Modiﬁers
-Modiﬁer
-+16 or more
-+11-15
-+6-10
-+1-5
--1-5
--6-10
--11-15
--16 or more
 
-Situational Example
-Overwhelming disadvantage: Something affects the skill use in an almost crippling fashion (repairing a
-vehicle without any proper tools).
-Decisive disadvantage: The skill use is very limited by circumstance (trying to ﬁnd someone in complete darkness).
-Signiﬁcant disadvantage: The skill use is affected negatively (tracking someone through drizzling rain).
-Slight disadvantage: There is an annoying problem (picking a lock by ﬂashlight).
-Slight advantage: A tool or modiﬁcation that makes the skill use a little easier (small spikes on shoes for climb/jump).
-Signiﬁcant advantage: A tool or modiﬁcation that makes the skill use much easier (rope with knots is used for
-climb/jump).
-Decisive advantage: A tool speciﬁcally designed to make the job easier (complete language database used for languages).
-Overwhelming advantage: An exceptional tool or modiﬁcation that speciﬁcally makes the skill use much easier (wilderness tools
-and equipment specially designed to help with survival).
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-61
+> **Generic Difﬁculty Modiﬁers**
+> 
+> *Modiﬁer: Situational Example*
+> 
+> +16 or more: Overwhelming disadvantage -- Something affects the skill 
+> use in an almost crippling fashion (repairing a vehicle without any 
+> proper tools).
+> 
+> +11-15: Decisive disadvantage -- The skill use is very limited by 
+> circumstance (trying to ﬁnd someone in complete darkness).
+> 
+> +6-10: Signiﬁcant disadvantage -- The skill use is affected negatively 
+> (tracking someone through drizzling rain).
+> 
+> +1-5: Slight disadvantage -- There is an annoying problem (picking a 
+> lock by ﬂashlight).
+> 
+> -1-5: Slight advantage -- A tool or modiﬁcation that makes the skill 
+> use a little easier (small spikes on shoes for climb/jump).
+> 
+> -6-10: Signiﬁcant advantage -- A tool or modiﬁcation that makes the 
+> skill use much easier (rope with knots is used for climb/jump).
+> 
+> -11-15: Decisive advantage -- A tool speciﬁcally designed to make 
+> the job easier (complete language database used for languages).
+> 
+> -16 or more: Overwhelming advantage -- An exceptional tool or 
+> modiﬁcation that speciﬁcally makes the skill use much easier 
+> (wilderness tools and equipment specially designed to help with survival).
 
-Chapter 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-of +1, +5, or more, but also adjust the result accordingly: the result
-won't happen as precisely or stylishly as someone with skill.
 
 Alternate Attribute Option
-Sometimes it makes more sense to base a skill on a different attribute than the one it's under by default. In such cases as the gamemaster
+--------------------------
+
+Sometimes it makes more sense to base a skill on a different attribute 
+than the one it's under by default. In such cases as the gamemaster
 designates, subtract the skill value from the attribute value to get the
 number of skill adds. Then add those skill adds to the new attribute
 and roll away. Some example alternate skill-attribute combinations
 (and the reason for using each attribute) include:
-> Climb/jump, running, swim: Strength for distance; Agility for
+
+* Climb/jump, running, swim: Strength for distance; Agility for
 obstacles
-> Flying/0-G: Strength for wings or to represent the physical strain
+
+* Flying/0-G: Strength for wings or to represent the physical strain
 of rapid movement; Agility for obstacles
 
+
 Determining Success
-If the total rolled on the dice
-is greater than the difficulty, the
+-------------------
+
+If the total rolled on the dice is greater than the difficulty, the
 attempt was a success. Ties generally go to the initiator of the action,
-but certain circumstances dictate
-otherwise (such as the use of some
-Special Abilities or determining
-the amount of damage done). The
-description of the ability, challenge,
-or activity explains the results.
+but certain circumstances dictate otherwise (such as the use of some
+Special Abilities or determining the amount of damage done). The
+description of the ability, challenge, or activity explains the results.
+
 
 Result Points
+-------------
+
 Result points refer to the difference between the skill roll and
-the difficulty. The gamemaster can
-use the result points to decide how
-well the character completed the
-task. The gamemaster may allow a
-player to add one-half of the result
-points (rounded up) as a bonus to
-another skill roll or Metaphysics or
-Special Ability effect. One-ﬁfth of
-the result points from an attack roll
-can be included as bonus to damage.
+the difficulty. The gamemaster can use the result points to decide how
+well the character completed the task. The gamemaster may allow a
+player to add one-half of the result points (rounded up) as a bonus to
+another skill roll or Metaphysics or Special Ability effect. One-ﬁfth of
+the result points from an attack roll can be included as bonus to damage.
 (Round fractions up.)
 
+
 Second Chances
-As characters tackle obstacles,
-they'll find ones that they can't
-overcome initially. Gamemasters
-must rely on their judgment to
+--------------
 
-62
-
+As characters tackle obstacles, they'll find ones that they can't
+overcome initially. Gamemasters must rely on their judgment to
 decide whether and when a character may try an action again. For some
 actions, such as ﬁrearms or running, the character may try the action
 again the next turn, even if she failed. For other actions, such as repair
@@ -7144,110 +7187,124 @@ Critical Failure could mean that the character has created a disaster.
 She can't try that speciﬁc task for a long time -- perhaps ever. This is
 especially true with locks and computer programs.
 
+
 Gamemaster's Fiat
+-----------------
 
 The rules are a framework upon which the gamemasters and their
-friends build stories set in fantastic
-and dynamic worlds. As with most
-frameworks, the rules work best
-when they show the least, and when
-Here are some guidelines for describing different levels
-they can bend under stress. Keepof success. Use the result points of the roll -- the difference
-ing to the letter of the rules is almost
-between the skill total and the difficulty -- to decide on the
-certainly counterproductive to the
-exact level.
-whole idea of making an engaging
-Minimal (0): The total was just barely enough. The characstory and having fun. To keep a
-ter hardly succeeded at all, and only the most minimal effects
-story ﬂowing with a nice dramatic
-apply. If "minimal effects" are not an option, then maybe the
-beat, gamemasters might need to
-action took longer than normal to succeed.
-bend the rules, such as reducing the
-Solid (1-4): The action was performed completely, but
-signiﬁcance of a modiﬁer in this
-without frills.
-situation but not in another one,
-Good (5-8): The results were better than necessary and
-or allowing a character to travel
-there may be added beneﬁts.
-a meter or two beyond what the
-Superior (9-12): It is almost certain that there are
+friends build stories set in fantastic and dynamic worlds. As with most
+frameworks, the rules work best when they show the least, and when
+they can bend under stress. Keeping to the letter of the rules is almost
+certainly counterproductive to the whole idea of making an engaging
+story and having fun. To keep a story ﬂowing with a nice dramatic
+beat, gamemasters might need to bend the rules, such as reducing the
+signiﬁcance of a modiﬁer in this situation but not in another one,
+or allowing a character to travel a meter or two beyond what the
 movement rules suggest.
-additional beneﬁts to performing an action this well. The
-character performed the action better, faster, or more adeptly
-than expected.
-Spectacular (13-16): The performance of the action was
-deft and expert. Observers would notice the ease or grace with
-which the action was performed (if applicable).
-Incredible (16 or more): The skill performance was of
-You can ﬁnd the more comsuch dazzling quality that, if appropriate to the task, it could
-monly referenced difficulties listed
-become the subject of conversation for some time -- it's at
-on the Reference Sheet at the back
-least worth writing home about. Gamemasters should dole
-of this book. With these plus the
-out some signiﬁcant bonuses for getting this large of a roll.
-generic difficulties and modiﬁers
-Example: *A character who is trying to use the survival
-described previously, you can run
-skill to forage for food gets a minimal success -- she ﬁnds
-just about any adventure. The next
-"subsistence level" food; it's barely better than garbage. The
-several chapters include more, and
-next day she gets a spectacular result -- not only does she
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+> **Result Points and Success**
+>
+> Here are some guidelines for describing different levels
+> of success. Use the result points of the roll -- the difference
+> between the skill total and the difficulty -- to decide on the
+> exact level.
+> 
+> Minimal (0): The total was just barely enough. The character hardly 
+> succeeded at all, and only the most minimal effects apply. If "minimal 
+> effects" are not an option, then maybe the action took longer than 
+> normal to succeed.
+> 
+> Solid (1-4): The action was performed completely, but without frills.
+> 
+> Good (5-8): The results were better than necessary and there may be 
+> added beneﬁts.
+> 
+> Superior (9-12): It is almost certain that there are additional beneﬁts 
+> to performing an action this well. The character performed the action 
+> better, faster, or more adeptly than expected.
+> 
+> Spectacular (13-16): The performance of the action was
+> deft and expert. Observers would notice the ease or grace with
+> which the action was performed (if applicable).
+> 
+> Incredible (16 or more): The skill performance was of 
+> such dazzling quality that, if appropriate to the task, it could
+> become the subject of conversation for some time -- it's at
+> least worth writing home about. Gamemasters should dole
+> out some signiﬁcant bonuses for getting this large of a roll.
+> 
+> Example: *A character who is trying to use the survival
+> skill to forage for food gets a minimal success -- she ﬁnds
+> "subsistence level" food; it's barely better than garbage. The
+> next day she gets a spectacular result -- not only does she
+> ﬁnd good, wholesome food, but she ﬁnds enough for two
+> days instead of one.*
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Common Difﬁculties and Modiﬁers
+-------------------------------
+
+You can ﬁnd the more commonly referenced difficulties listed
+on the Reference Sheet at the back of this book. With these plus the
+generic difficulties and modiﬁers described previously, you can run
+just about any adventure. The next several chapters include more, and
 more detailed, difficulties.
-ﬁnd good, wholesome food, but she ﬁnds enough for two
-days instead of one.
 
-> Result Points and Success
 
-Common
-Difﬁculties and
-Modiﬁers
+Movement
+========
 
-> Movement
 What's in this Chapter
+----------------------
 
-Getting from here to there by any means - running, swimming,
-ﬂying, using a vehicle, you name it - is what this chapter's all about.
+Getting from here to there by any means -- running, swimming,
+ﬂying, using a vehicle, you name it -- is what this chapter's all about.
+
 
 Running
-
-7
-Move is 5. To increase this to eight meters per round means a difficulty
-of 15 (5 to climb the tree plus +10 to increase the movement by onehalf, or three meters, of his base climbing Move).
-Additional modiﬁers can be found in the "Example Skill Difficulties" chapter.
+-------
 
 The difficulty to cover rapidly a distance on foot is determined by
 the number of extra movements the character takes. One movement
 equals the character's Move value; two movements equals twice the
 Move value, and so on. For each movement beyond the ﬁrst, add 5 to
 the base difficulty of zero.
+
 Example: *A character with a Move of 10 meters per round who
 wants to move 20 meters in one round has a running difficulty of 5, while
-a character who wants to move 40 meters has a difficulty of 15.
+a character who wants to move 40 meters has a difficulty of 15.*
+
 A character who fails his running roll in the ﬁrst round covers only
 his Move or may even trip, depending on how badly the player missed
 the roll. See the "Accelerating and Decelerating" section for details on
 what happens in subsequent rounds.
 
+
 Swimming
+--------
 
 A hero's swimming Move equals half his normal Move (rounded
 up). One movement while swimming equals the swimming Move, two
 movements equals twice the swimming Move, and so on. Increasing
-this rate likewise increases the base difficulty of 5 by +5 for each movement beyond the ﬁrst. Thus, the difficulty for a character to move 2
+this rate likewise increases the base difficulty of 5 by +5 for each 
+movement beyond the ﬁrst. Thus, the difficulty for a character to move 2
 times his swimming speed is 10 (5 for the base difficulty plus 5 for
 the additional movement).
+
 Without preparation, a character may hold his breath for a number
 of seconds equal to 5 times a roll of his Strength or stamina. Pre-oxygenating his lungs gives a character a bonus. The maximum any character
 can hold his breath with preparation is 10 times a roll of his stamina
 in seconds, though this requires having the stamina skill. The bonus
 should be much less for the average person.
 
+
 Climbing
+--------
 
 Characters who have the climb/jump skill can move up a surface at
 their normal Move (barring adverse environmental factors) with a base
@@ -7256,24 +7313,31 @@ movement rate. Increasing the rate increases the difficulty by +10 for
 each additional one-half of the base climbing Move (rounded up).
 Example: *A character with a running Move of 10 and without the
 climb/jump skill wants to move quickly up a tree. His base climbing
+Move is 5. To increase this to eight meters per round means a difficulty
+of 15 (5 to climb the tree plus +10 to increase the movement by onehalf, 
+or three meters, of his base climbing Move).
 
-63
+Additional modiﬁers can be found in the "Example Skill Difficulties" chapter.
 
-Chapter 7
 
 Jumping
+-------
 
 A character's total leaping distance (vertically and horizontally)
 from a standing position equals one-quarter of his Move in meters
 (rounded up). The base difficulty is 5 to move this distance, and +10
-for each additional two meters (vertically and horizontally) the character hopes to cover. If there is enough room, the character may try
+for each additional two meters (vertically and horizontally) the 
+character hopes to cover. If there is enough room, the character may try
 running before jumping. The character may add 5 to his skill total per
 round of the running start, up to a maximum of +10 (two rounds).
 The character must have beat the running difficulty in both rounds in
 order to get the full bonus.
+
 Additional modiﬁers can be found in the "Example Skill Difficulties" chapter.
 
+
 Flying Characters
+-----------------
 
 Characters who ﬂy do so at the base rate designated in the Special
 Ability or equipment description. To increase this rate, use the same
@@ -7281,58 +7345,73 @@ rules as for running, except that the character relies on the ﬂying/0-G
 skill. Characters may not use this skill unless they have a means of
 propelling themselves through the air or they are in a zero-gravity
 environment.
+
 See the"Vehicles and Aerial Characters" section later in this chapter
 for more details on ﬂying movement.
 
-Short Distances
 
-A character may move up to 50% of his movement rate (swimming, ﬂying, or base Move) without this counting as an action. Thus,
-a character with a base Move of 10 could move ﬁve meters on land or
-2.5 meters in the water with no action penalty.
+Short Distances
+---------------
+
+A character may move up to 50% of his movement rate (swimming, ﬂying, 
+or base Move) without this counting as an action. Thus, a character 
+with a base Move of 10 could move ﬁve meters on land or 2.5 meters 
+in the water with no action penalty.
+
 
 Maximum Movement
+----------------
 
 Characters may perform only one movement action of each type
 per round, unless a Special Ability allows them to do otherwise.
 Gamemasters may choose to limit the speed at which characters
 may travel to 4 times the Move rate for each type of movement.
 
+
 Accelerating and Decelerating
+-----------------------------
 
 When it becomes important to the scenario, such as a race or a
 chase scene, the gamemaster may choose to include acceleration and
 deceleration rules for running, swimming, and ﬂying characters.
+
 A character may increase his current movement rate by up to 2
 times that rate, regardless of whether his movement roll would allow
 him to travel a greater distance. The maximum increase is 2 times the
 character's base Move for that type of movement.
-Example: *A character with a base walking Move of 10 has a maximum swimming change of 10 -- 2 times his swimming Move of 5.
+
+Example: *A character with a base walking Move of 10 has a maximum 
+swimming change of 10 -- 2 times his swimming Move of 5.*
+
 Example: *A character with a Move of 10 is chasing a thief, who just
 swiped her cred-key lanyard. In the ﬁrst round, she may move up to 20
 meters, which has a running difficulty of 5. In the second round, she
 can increase her speed to 40 meters, which has a running difficulty of
 15. If, in the second round, the player generates a running total of 20,
 by the acceleration rules, she may only move 40 meters, even though
-her running total meets the difficulty to move 50 meters.
-
-64
+her running total meets the difficulty to move 50 meters.*
 
 Similarly, if a character does not make a movement roll that would
-allow him to move at the previous round's rate, that character automatically slows by 2 times his base Move. (The gamemaster may lower the
+allow him to move at the previous round's rate, that character 
+automatically slows by 2 times his base Move. (The gamemaster may lower the
 movement even more if the player rolled particularly poorly.) In other
 words, subtract 2 times the base Move from the current movement rate
 to get the new movement rate. If this makes the current movement zero,
 then the character stops. If it's less than zero, the character trips.
+
 Example: *The character chasing the thief increased her speed to a
 rate of 40 meters per round. To maintain this speed, her player needs
 to continue generating a total of 15 with the character's running skill.
 If the player gets less than 15, then her character's speed drops to 20
-meters per round (40 minus 2 times her base Move of 10).
+meters per round (40 minus 2 times her base Move of 10).*
+
 Characters traveling more than 4 times their base movement rate
 must slow down gradually or risk hurting themselves by stopping
 suddenly.
 
+
 Fatigue
+-------
 
 Keep in mind that most characters cannot move rapidly for long
 periods of time. Determine a suitable length of time depending on
@@ -7342,21 +7421,24 @@ predetermined length requires a fatigue modiﬁer of +3 to the difficulty
 for each additional round that she continues running. The modiﬁer is
 cumulative. Thus, one round beyond the maximum is +3, two rounds
 is +6, and so on.
+
 The gamemaster may use the fatigue modiﬁer for any repetitive
 action performed for an extended period of time. They can also use
 
-> Movement Difﬁculty Modiﬁers
-Base Difficulty for Characters: 0 (running); 5 (other
-movement)
-Situation
-Modiﬁer
-Easy terrain (ﬂat surface, smooth water,
-using a ladder, light breeze, light rain or fog)
-0
-Moderate terrain (uneven surface, small
-obstacles, choppy water, climbing a tree,
-strong winds, heavy rain or fog)
-+5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> **Movement Difﬁculty Modiﬁer**
+>
+> *Base Difficulty for Characters: 0 (running); 5 (other movement)*
+>
+> *Situation: Modiﬁer*
+>
+> Easy terrain (ﬂat surface, smooth water, using a ladder, light breeze, 
+> light rain or fog): 0
+>
+> Moderate terrain (uneven surface, small obstacles, choppy water, 
+> climbing a tree, strong winds, heavy rain or fog): +5
+
 Rough terrain (large but negotiable
 obstacles, strong undercurrent, climbing
 a rough wall, ﬂying near unyielding
@@ -7375,6 +7457,8 @@ Very hazardous terrain (corridor ﬁlled
 with falling debris and explosions,
 swimming or ﬂying in a hurricane)
 +25 or more
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 Movement
 
