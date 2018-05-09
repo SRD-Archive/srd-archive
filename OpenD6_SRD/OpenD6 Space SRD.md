@@ -86,9 +86,10 @@ the D6 System. The concepts presented herein are further explained
 in the rest of this book, and an introductory adventure will give you a
 chance to try out what you've learned here.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> **Reality**
+> ### Reality ###
 >
 > The D6 System rules are not meant to reﬂect the real world's reality. 
 > Rather, they have been designed to model ﬁction reality, the reality 
@@ -232,16 +233,18 @@ injury your character can take. This short adventure won't use Wounds
 or the Body Points range, so you can ignore them. Instead, you only
 need to use your Body Points number.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-**Already Have a Character?**    
-
-If you already have a D6 System character -- from another
-D6 System game or because you created a new one using the
-rules in this book -- you can still play this adventure. Simply
-skip to the "Station Visit" section and follow the directions.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+> ### Already Have a Character? ###
+> 
+> If you already have a D6 System character -- from another
+> D6 System game or because you created a new one using the
+> rules in this book -- you can still play this adventure. Simply
+> skip to the "Station Visit" section and follow the directions.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 Templates
 ----------
@@ -776,9 +779,10 @@ Character Points: Characters start with ﬁve Character Points.
 background, and character features, see the appropriate sections in 
 this chapter for more details on how to ﬁll out these optional sections.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> **Gamemaster's Characters**
+> ### Gamemaster's Characters ###
 >
 > Gamemaster's characters (sometimes referred to as nonplayer characters 
 > or NPCs) may or may not be created using
@@ -897,21 +901,22 @@ When you put dice in an attribute, you can either put whole dice in
 each attribute, or you can give each a mixture of whole dice and pips.
 Each die equals three pips.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> **Creating Experienced Characters**
+> ### Creating Experienced Characters ###
 > 
 > If you are making an experienced character, you'll need to ﬁgure out 
 > how many more years that character has been around than one starting out.
 > 
-> By Deﬁned Limits    
+> **By Deﬁned Limits**    
 > Using the initial novice totals of seven skill dice, ﬁve Character 
 > Points, and one Fate Point, add 15 skill dice, 15 Character Points, 
 > and two Fate Points to the initial totals for each year the character 
 > has been a full-time active adventurer. (For part-timers, halve these 
 > fgures, rounding up.)
 > 
-> By Creation Point Pool    
+> **By Creation Point Pool**    
 > With the initial novice totals of 79 creation points, ﬁve
 > Character Points, and one Fate Point as a starting point,
 > add 15 creation points, 15 Character Points, and two Fate
@@ -920,7 +925,7 @@ Each die equals three pips.
 > rounding up.) Unless the gamemaster decides otherwise,
 > there are no maximums for skills and Disadvantages.
 
-> Creating Existing Characters    
+> **Creating Existing Characters**    
 > Players basing their characters on existing ﬁctional
 > entities should ignore the skill and Disadvantage limits
 > and, with their gamemaster's approval, create the character
@@ -928,6 +933,7 @@ Each die equals three pips.
 > appears in his, her, or its stories.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 Character Basics
 ----------------
@@ -1030,9 +1036,10 @@ most other Humans don't have. The next chapter,"Character Options,"
 discusses these characteristics. You may ignore this section if you 
 don't want to add them to your character.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> **Focused Skills**
+> ### Focused Skills ###
 >
 > Some gamemasters prefer narrower skill categories, 
 > requiring characters to select more speciﬁc abilities, such as
@@ -1394,14 +1401,23 @@ of work or investments.
 All characters start with a base of 3 in Funds. Use the
 accompanying table to adjust this number.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-> **Determining Funds**
-> *Characteristic (Modiﬁer)*
-> 1D in Perception (-1)
-> 1D in Knowledge (-1)
-> 4D or more in Perception (+1)
-> 4D or more in Knowledge (+1)
-> 8D or more in business skill plus its specializations (+1)
+
+> ### Determining Funds ###
+> 
+> *Characteristic: Modiﬁer*
+> 
+> 1D in Perception: -1
+> 
+> 1D in Knowledge: -1
+> 
+> 4D or more in Perception: +1
+> 
+> 4D or more in Knowledge: +1
+> 
+> 8D or more in business skill plus its specializations: +1
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Include any modiﬁers to attributes due to Disadvantages or Special 
@@ -1571,8 +1587,11 @@ effect might explain their origin. They give the character a bonus to
 her attributes or skills, or they provide her with access to something
 that the average Human character can't do.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-> **Game Mechanics**
+
+> ### Game Mechanics ###
+>
 > Within the descriptions of several Advantages, Disadvantages, and 
 > Special Abilities, you'll notice references to game
 > mechanics that haven't been explained yet (like the Critical
@@ -1581,6 +1600,7 @@ that the average Human character can't do.
 > now. You'll learn more about them in the next chapter. Once
 > you start playing adventures, you'll ﬁnd the game mechanics
 > in this chapter useful.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Example: *You decide to give your character a Special Ability that
@@ -1590,7 +1610,7 @@ needs to have some kind of Disadvantage as well. The character might
 have to add 1 to the difficulty of all interaction-related skill totals, or
 you might include a totally unrelated Disadvantage (of comparative
 power) -- like the character is afraid of the dark and has trouble 
-acting when in the dark.
+acting when in the dark.*
 
 
 Using Character Options
@@ -3168,8 +3188,11 @@ always useful. For example, the company might provide the character
 with plenty of extraordinary equipment, but it might not always be
 what the character needs or might not work correctly all of the time.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-> **Contacts, Patrons, Enemies**    
+
+> ### Contacts, Patrons, Enemies###
+>
 > Having friends in high places often means the character
 > attracts the attention of the friends' friends... and enemies.
 > Players willing to roleplay long, associative networks may add
@@ -3179,7 +3202,8 @@ what the character needs or might not work correctly all of the time.
 > Contacts and Enemies must be associated with that primary
 > Contact or Patron. As long as the total number of Ranks in
 > the additional Contacts equals the total number of Ranks
-> in the Enemies, the Enemies do not count toward the Disadvantage maximum.
+> in the Enemies, the Enemies do not count toward the Disadvantage 
+> maximum.
 > 
 > Example: *A player decides to have a Rank 3 Patron. The
 > player may then add any number of Rank 1 or 2 Contacts as
@@ -3188,6 +3212,7 @@ what the character needs or might not work correctly all of the time.
 > to the Patron), the player would have to think of three Rank
 > 1 Enemies, or one Rank 1 and one Rank 2 Enemy, or one
 > Rank 3 Enemy that this Patron has.*
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
@@ -3916,8 +3941,10 @@ chance of averting disaster.*
 As with Good Luck, the character may have up to two ranks of
 this Special Ability.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-#### Luck Beneﬁts ####
+
+### Luck Beneﬁts ###
 
 * action: Add 2 to all of the character's skill or attribute totals for 
 the round.
@@ -3956,11 +3983,13 @@ the character to "get back" Fate Points, Character Points, or cards
 another chance, immediately following the ﬁrst attempt, to perform 
 the action again. All effects from the ﬁrst attempt are negated.
 
-#### Luck Notes ####
+
+### Luck Notes ###
 
 A character may have up to two ranks each in Good Luck and Great Luck. 
 This Special Ability can be taken with the Bad Luck Disadvantage -- 
 sometimes really good things happen, sometimes really bad things happen.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
@@ -4087,26 +4116,29 @@ Mechanical, Strength), retains her own Extranormal and mental
 attributes (Knowledge, Perception, and Technical), and gains complete
 control over the new form.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-#### Possession Knowledge Chart ####
 
-Result points equal the difference between the investigation
-total and the target's Knowledge roll.
+> ### Possession Knowledge Chart ###
+> 
+> Result points equal the difference between the investigation
+> total and the target's Knowledge roll.
+> 
+> *Result Points Needed: Knowledge Attained
+> 
+> *0:* Basic information -- target's name, age, base of operations
+> 
+> *1 to 4:* More personal information -- target's job, ﬁnancial status, 
+> any current schedule
+>
+> *5 to 8:* More in-depth personal information -- identities and 
+> backgrounds of family, friends, lovers
+> 
+> *9 to 12:* Very personal information -- secrets, private
+> likes and dislikes, and so on 
+> 
+> *13:* Everything there is to know
 
-Result Points Needed -- Knowledge Attained
-
-* 0 -- Basic information: target's name, age, base of operations
-
-* 1 to 4 -- More personal information: target's job, ﬁnancial status, 
-any current schedule
-
-* 5 to 8 -- More in-depth personal information: identities and 
-backgrounds of family, friends, lovers
-
-* 9 to 12 -- Very personal information: secrets, private
-likes and dislikes, and so on 
-
-* 13 -- Everything there is to know
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
@@ -4170,33 +4202,36 @@ forms and their game characteristics before beginning play. The new
 form need not exactly resemble a "typical" version of the emulated
 creature or object.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-####Shapeshifting Example: *####
 
-Mark is playing a wereleopard. He chooses Shapeshifting,
-specifying that he will only change from Human to leopard
-and back again. The gamemaster decides he'll gain one rank
-of the Hypermovement Special Ability (+2 to the movement
-rate) and +2 to all search totals that require smell when in
-his wereleopard form.
+> ### Shapeshifting Example: ###
+> 
+> Mark is playing a wereleopard. He chooses Shapeshifting,
+> specifying that he will only change from Human to leopard
+> and back again. The gamemaster decides he'll gain one rank
+> of the Hypermovement Special Ability (+2 to the movement
+> rate) and +2 to all search totals that require smell when in
+> his wereleopard form.
+> 
+> Mark's character has 18 attribute dice arranged thusly:    
+> AGILITY 2D+2    
+> STRENGTH 3D    
+> KNOWLEDGE 2D+2    
+> PERCEPTION 2D+2    
+> MECHANICAL 3D+1    
+> TECHNICAL 3D+2    
+> 
+> When he changes into wereleopard form, Mark's character
+> has the following attribute values, the total of which has been
+> lowered by 2D because of the bonuses:    
+> AGILITY 4D    
+> STRENGTH 3D+2    
+> KNOWLEDGE 2D+2    
+> PERCEPTION 3D+2    
+> MECHANICAL 1D    
+> TECHNICAL 1D    
 
-Mark's character has 18 attribute dice arranged thusly:    
-AGILITY 2D+2    
-STRENGTH 3D    
-KNOWLEDGE 2D+2    
-PERCEPTION 2D+2    
-MECHANICAL 3D+1    
-TECHNICAL 3D+2    
-
-When he changes into wereleopard form, Mark's character
-has the following attribute values, the total of which has been
-lowered by 2D because of the bonuses:    
-AGILITY 4D    
-STRENGTH 3D+2    
-KNOWLEDGE 2D+2    
-PERCEPTION 3D+2    
-MECHANICAL 1D    
-TECHNICAL 1D    
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
@@ -4456,15 +4491,19 @@ Special Ability. As a cybernetic improvement is impossible to accidently
 drop or remove, this Limitation has no cost. Characters may have only
 one rank in it.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-### Cybernetics and Special Abilities ###
 
-Mechanical implants exist as the most common means for an unmutated 
-Human (and possibly some other species of the gamemaster's devising) 
-to gain Special Abilities. Read the "Cybernetics" chapter for details 
-on how to include Special Abilities in your character by replacing an 
-organic part with a mechanical construct.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+> ### Cybernetics and Special Abilities ###
+> 
+> Mechanical implants exist as the most common means for an unmutated 
+> Human (and possibly some other species of the gamemaster's devising) 
+> to gain Special Abilities. Read the "Cybernetics" chapter for details 
+> on how to include Special Abilities in your character by replacing an 
+> organic part with a mechanical construct.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 * Debt (3): Someone (or, more likely, some entity) gave the character
 the Special Ability, along with certain obligations and restrictions. The
@@ -5297,7 +5336,7 @@ modiﬁed as the gamemaster sees ﬁt.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> **Installation Example**
+> ### Installation Example ###
 > 
 > A gamemaster might have available the Equilibria
 > cyber-ear. Fitted in place of the inner ear, the Equilibria
@@ -5434,9 +5473,10 @@ additional restrictions, see the sidebar.
 
 * Base Surgery Difficulty: 15
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> **Hand, Arm, and Shoulder Restrictions**
+> ### Hand, Arm, and Shoulder Restrictions ###
 >
 > These restrictions apply to all hand, arm, and shoulder cybernetic 
 > implants.
@@ -5519,9 +5559,10 @@ bonus. For additional restrictions, see the sidebar.
 
 * Base Surgery Difficulty: 15
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> **Foot, Lower Leg, and Complete Leg Restrictions**
+> ### Foot, Lower Leg, and Complete Leg Restrictions ###
 >
 > These restrictions apply to all foot, lower leg, and
 > complete leg cybernetic implants.
@@ -5942,7 +5983,7 @@ installation difficulty 20; cost 20 (20,000 credits).
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> **Extra Cybernetic Parts**
+> ### Extra Cybernetic Parts ###
 >
 > Characters may include certain additional pieces on themselves. Such 
 > cybernetic equipment includes shoulder, complete leg, tail, tentacle, 
@@ -6098,7 +6139,7 @@ decides to include.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> **Effects of Character Options**
+> ### Effects of Character Options ###
 >
 > When determining how many Character Points a player
 > needs to improve his character's skills and attributes, ignore
@@ -6419,7 +6460,7 @@ Points on the same roll.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> **Alternate Die Rolling Options**
+> ### Alternate Die Rolling Options ###
 >
 > Some gamemasters prefer rolling fewer dice. To this
 > end, a die code simpliﬁcation chart has been included in an
@@ -6540,9 +6581,10 @@ the task (sometimes with the help of the gamemaster). The gamemaster
 determines a suitable difficulty number, which the player must meet or
 beat by rolling the number of dice in the skill and adding the results.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> **Game-Enhancing Cards**
+> ### Game-Enhancing Cards ###
 >
 > In this rulebook, you'll occasionally ﬁnd references to"card
 > use." One of the unique features of certain West End Games
@@ -6999,7 +7041,7 @@ or highly experienced characters can accomplish them.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> **Generic Standard Difﬁculties**
+> ### Generic Standard Difﬁculties ###
 > 
 > *Name: Difficulty*
 >
@@ -7096,7 +7138,7 @@ the result won't happen as precisely or stylishly as someone with skill.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> **Generic Difﬁculty Modiﬁers**
+> ### Generic Difﬁculty Modiﬁers ###
 > 
 > *Modiﬁer: Situational Example*
 > 
@@ -7205,32 +7247,32 @@ movement rules suggest.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> **Result Points and Success**
+> ### Result Points and Success ###
 >
 > Here are some guidelines for describing different levels
 > of success. Use the result points of the roll -- the difference
 > between the skill total and the difficulty -- to decide on the
 > exact level.
 > 
-> Minimal (0): The total was just barely enough. The character hardly 
+> **Minimal (0):** The total was just barely enough. The character hardly 
 > succeeded at all, and only the most minimal effects apply. If "minimal 
 > effects" are not an option, then maybe the action took longer than 
 > normal to succeed.
 > 
-> Solid (1-4): The action was performed completely, but without frills.
+> **Solid (1-4):** The action was performed completely, but without frills.
 > 
-> Good (5-8): The results were better than necessary and there may be 
+> **Good (5-8):** The results were better than necessary and there may be 
 > added beneﬁts.
 > 
-> Superior (9-12): It is almost certain that there are additional beneﬁts 
+> **Superior (9-12):** It is almost certain that there are additional beneﬁts 
 > to performing an action this well. The character performed the action 
 > better, faster, or more adeptly than expected.
 > 
-> Spectacular (13-16): The performance of the action was
+> **Spectacular (13-16):** The performance of the action was
 > deft and expert. Observers would notice the ease or grace with
 > which the action was performed (if applicable).
 > 
-> Incredible (16 or more): The skill performance was of 
+> **Incredible (16 or more):** The skill performance was of 
 > such dazzling quality that, if appropriate to the task, it could
 > become the subject of conversation for some time -- it's at
 > least worth writing home about. Gamemasters should dole
@@ -7424,10 +7466,13 @@ is +6, and so on.
 
 The gamemaster may use the fatigue modiﬁer for any repetitive
 action performed for an extended period of time. They can also use
+it as the modiﬁer to a base difficulty of 5 when using the stamina or
+willpower skill in an attempt to overcome the fatigue.
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> **Movement Difﬁculty Modiﬁer**
+> ### Movement Difﬁculty Modiﬁer ###
 >
 > *Base Difficulty for Characters: 0 (running); 5 (other movement)*
 >
@@ -7438,74 +7483,84 @@ action performed for an extended period of time. They can also use
 >
 > Moderate terrain (uneven surface, small obstacles, choppy water, 
 > climbing a tree, strong winds, heavy rain or fog): +5
-
-Rough terrain (large but negotiable
-obstacles, strong undercurrent, climbing
-a rough wall, ﬂying near unyielding
-obstacles such as pillars or trees)
-+10
-Very rough terrain (dense and large
-obstacles, stormy weather, a few
-airborne hazards, hail)
-+15
-Hazardous terrain (mineﬁeld, narrow
-walkway, many airborne hazards,
-large waves, climbing a smooth surface,
-complete darkness)
-+20
-Very hazardous terrain (corridor ﬁlled
-with falling debris and explosions,
-swimming or ﬂying in a hurricane)
-+25 or more
+>
+> Rough terrain (large but negotiable obstacles, strong undercurrent, 
+> climbing a rough wall, ﬂying near unyielding obstacles such as 
+> pillars or trees): +10
+>
+> Very rough terrain (dense and large obstacles, stormy weather, a 
+> few airborne hazards, hail): +15
+>
+> Hazardous terrain (mineﬁeld, narrow walkway, many airborne 
+> hazards, large waves, climbing a smooth surface, complete 
+> darkness): +20
+>
+> Very hazardous terrain (corridor ﬁlled with falling debris and 
+> explosions, swimming or ﬂying in a hurricane): +25 or more
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Movement
-
-it as the modiﬁer to a base difficulty of 5 when using the stamina or
-willpower skill in an attempt to overcome the fatigue.
 
 Other Movement Options
+----------------------
 
 The gamemaster may include additional modiﬁers or require an
 additional related skill roll for any form of movement, depending on
 surrounding conditions, such as high winds, numerous obstacles, slick
 surfaces, sharp turns, and so on.
 
+
 Vehicles and Aerial Characters
+------------------------------
 
 Vehicle actions work like normal character actions, with some
 additional game mechanics for special situations.
+
 Much of the information found in this section applies equally well
 to ﬂying characters, particularly the details on stunts.
 
+
 Vehicle Movement
+----------------
+
 Vehicles have ﬁve speeds of movement: stopped, cautious, cruising,
 high, and all-out. They may make one movement action per round.
-Stopped: The vehicle is motionless. This requires no roll. Air vehicles
+
+* Stopped: The vehicle is motionless. This requires no roll. Air vehicles
 should be on the ground when at this speed level.
-Cautious: The vehicle travels at half its Move. This is generally a
+
+* Cautious: The vehicle travels at half its Move. This is generally a
 free action requiring no roll, but terrain conditions may increase it from
 its base difficulty of zero. Air vehicles at this level must be attempting
 to reach a higher or lower altitude at this speed; they cannot maintain
 altitude at cautious.
-Cruising: The vehicle travels at its Move. This requires an action,
+
+* Cruising: The vehicle travels at its Move. This requires an action,
 but since it has a base difficulty of zero, the character need only roll if
 movement conditions dictate otherwise.
-High: The vehicle travels at twice its Move. This requires an exoskeleton operation, piloting, or vehicle operation roll with a base difficulty
-of 5, modiﬁed by existing conditions.
-All-out: The vehicle travels at four times its Move. This requires
+
+* High: The vehicle travels at twice its Move. This requires an 
+exoskeleton operation, piloting, or vehicle operation roll with a base 
+difficulty of 5, modiﬁed by existing conditions.
+
+* All-out: The vehicle travels at four times its Move. This requires
 an exoskeleton operation, piloting, or vehicle operation roll with a base
 difficulty of 10, modiﬁed by existing conditions.
+
 Vehicles may travel anywhere between half their current speed and
 the full current speed at each level. Rapid acceleration and deceleration
 are considered stunts and dealt with later in this section.
 
+
 Stunts
+------
+
 For normal vehicle use or casual ﬂying under ideal conditions, a
 character need not make a skill roll. When the conditions turn less than
 favorable or he decides to attempt a fancy maneuver, his exoskeleton
-operation, piloting, or vehicle operation skill plus the vehicle's Maneuverability code or his ﬂying/0-G skill determines his success.
+operation, piloting, or vehicle operation skill plus the vehicle's 
+Maneuverability code or his ﬂying/0-G skill determines his success.
+
 Rapid acceleration and deceleration also warrant rolls, enhanced by
 the vehicle's Maneuverability, to see if the operator maintains control.
 These maneuvers have an initial difficulty of 10, adjusted based on
@@ -7516,93 +7571,7 @@ character has lost control for one round. If some immovable force doesn't
 stop the vehicle or character during that round, he may attempt to regain
 control (with a base difficulty of 15) on the following round.
 
-> Stunt Difﬁculties/Modiﬁers
-Stunt
-Difficulty
-Docking (water), parking in a speciﬁc spot (land) 6
-Landing (air vehicles)
-10
-Moving on a straight way
-0
-Regaining control (in situations other than
-ramming or sideswiping)
-15
-Sideswiping
-10
-Easy turn (less than 45 degrees.
-from current direction)
-5
-Fast 45-degree turn
-9
-Fast 90-degree turn
-15
-Fast 180-degree turn
-21
-Condition
-Modiﬁer
-For All Vehicles
-Moving in reverse
-+6
-Ramming
-+10
-For Land and Water Vehicles
-Moved or moving over curb or debris
-+3
-Limited parking or docking area
-+3
-For Land Vehicles Not Designed for Off-Road Conditions
-Off-road
-+6
-For Air Vehicles and Aerial Characters
-Unlimited landing area
--3
-Limited landing area
-+3
-Almost no landing area
-+6
-Rough or unsteady landing area
-+3 or more
-Climb or dive of 45 degrees or more
-from current direction
-+6 or more
-
-Terrain Conditions
-For modiﬁers due to various terrain conditions, use the
-"Movement Difficulty Modiﬁers" table.
-
-Vehicle Familiarity
-Use the following table when a character is not familiar
-with the vehicle she needs to operate. If the character does
-not have the correct operating skill at all, these difficulties
-are in addition to the untrained modiﬁer.
-Vehicle Type
-Modiﬁer
-Very common or simple (car, pickup, bicycle)
-+3
-Common
-+6
-(farm tractor, motorcycle, motorboat,
-snowmobile)
-Moderately common (speedboat, bus)
-+8
-Uncommon
-+11
-(ultralight plane, tank, hang-glider, unicycle)
-Unusual (prop plane, glider)
-+14
-Rare (jet, submarine)
-+17
-Exotic (spaceship, powered armor)
-+20
-Has a manual for the vehicle in a language
-the character can understand
--3
-
-65
-
-Chapter 7
-
-If a character wishes to perform any other
+If a character wishes to perform any other 
 actions in addition to exoskeleton operation,
 piloting, vehicle operation, or ﬂying/0-G, he must
 make the appropriate skill rolls for all actions,
@@ -7611,44 +7580,93 @@ of the situation. The base difficulty for normal
 operation becomes 5. Stunts still have their
 established base difficulties.
 
-Ramming and Sideswiping
-Vehicles
 
-> Vehicle and Passenger Damage
-Damage Total >
-Vehicle
-Passengers
-Resistance Total By
-Damage
-Suffer...
-1-3
-Very Light
-No damage
-4-8
-Light
-1/4 Damage Total
-9-12
-Heavy
-1/2 Damage Total
-13-15
-Severe
-3/4 Damage Total
-16+
-Destroyed
-All Damage Total
-Note: All modiﬁers are cumulative. A vehicle may take an unlimited number of Very
-Light and Light levels of damage. At Heavy or above, any additional level of damage above
-Very Light bumps the damage to the next level.
-Gamemasters may include or substitute damage to other systems if the vehicle has them
-(ex., weapons, navigation, or sensors).
-Very Light: Vehicle loses 1D from Maneuverability for this round and the next.
-Light: Vehicle loses 1D from Maneuverability or, if at 0D in Maneuverability, top
-move speed is decreased by one level. The loss or modiﬁer remains until repaired.
-Heavy: Vehicle loses 2D from Maneuverability or, if at 0D in Maneuverability, top
-move speed is decreased by two levels. The loss or modiﬁer remains until repaired.
-Severe: Vehicle is out of control, decelerating by two levels each round until it comes
-to a stop or crashes into something.
-Destroyed: The vehicle will never operate again.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> ### Stunt Difﬁculties/Modiﬁers ###
+>
+> *Stunt: Difficulty*
+> 
+> Docking (water), parking in a speciﬁc spot (land): 6
+>
+> Landing (air vehicles): 10
+> 
+> Moving on a straight way: 0
+>
+> Regaining control (in situations other than ramming or 
+> sideswiping): 15
+>
+> Sideswiping: 10
+>
+> Easy turn (less than 45 degrees.from current direction): 5
+>
+> Fast 45-degree turn: 9
+>
+> Fast 90-degree turn: 15
+> 
+> Fast 180-degree turn: 21
+> 
+> *Condition: Modiﬁer* 
+> 
+> For All Vehicles Moving in reverse: +6
+>
+> Ramming: +10
+>
+> For Land and Water Vehicles -- Moved or moving over curb or debris: +3
+>
+> For Land and Water Vehicles -- Limited parking or docking area: +3
+> 
+> For Land Vehicles Not Designed for Off-Road Conditions Off-road: +6
+>
+> For Air Vehicles and Aerial Characters -- Unlimited landing area: -3
+> 
+> For Air Vehicles and Aerial Characters -- Limited landing area: +3
+>
+> For Air Vehicles and Aerial Characters -- Almost no landing area: +6
+> 
+> For Air Vehicles and Aerial Characters -- Rough or unsteady landing 
+> area: +3 or more
+> 
+> Climb or dive of 45 degrees or more from current direction: +6 or more
+>
+>
+> ### Terrain Conditions ###
+> 
+> For modiﬁers due to various terrain conditions, use the
+> "Movement Difficulty Modiﬁers" table.
+>
+>
+> ### Vehicle Familiarity ###
+> 
+> Use the following table when a character is not familiar
+> with the vehicle she needs to operate. If the character does
+> not have the correct operating skill at all, these difficulties
+> are in addition to the untrained modiﬁer.
+>
+> *Vehicle Type: Modiﬁer*
+>
+> Very common or simple (car, pickup, bicycle): +3
+>
+> Common (farm tractor, motorcycle, motorboat, snowmobile): +6
+> 
+> Moderately common (speedboat, bus): +8
+>
+> Uncommon (ultralight plane, tank, hang-glider, unicycle): +11
+>
+> Unusual (prop plane, glider): +14
+>
+> Rare (jet, submarine): +17
+>
+> Exotic (spaceship, powered armor): +20
+> 
+> Has a manual for the vehicle in a language the character 
+> can understand: -3
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+Ramming and Sideswiping Vehicles
+--------------------------------
 
 Ramming is done with the nose of a vehicle,
 while sideswiping is done with its side. The
@@ -7656,7 +7674,8 @@ character makes the appropriate vehicle roll,
 including the vehicle's Maneuverability. If the
 character fails the roll, the vehicle misses and
 spins. Land and vehicles turn up to 180 degrees
-and lose power, while space vehicles continuing spinning. The character must then spend
+and lose power, while space vehicles continuing spinning. 
+The character must then spend
 one round starting it or regaining control and
 another getting back in the right direction.
 Should the character instead succeed, she keeps
@@ -7665,20 +7684,71 @@ another sideswipe or ram on the next turn. The
 pilot of an air vehicle that rams or sideswipes
 another vehicle automatically loses control. About the best she can
 hope for is to make a successful, but rough, landing.
+
 Both vehicles take damage (the mechanics of this are explained
 later in this section) in a successful ram or sideswipe.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> ### Vehicle and Passenger Damage ###
+>
+> *Damage Total > Resistance Total By: Vehicle Damage (Passengers Suffer...)*
+>
+> 1-3: Very Light (No damage)
+>
+> 4-8: Light (1/4 Damage Total)
+>
+> 9-12: Heavy (1/2 Damage Total)
+> 
+> 13-15: Severe (3/4 Damage Total)
+>
+> 16+: Destroyed (All Damage Total)
+>
+> Note: All modiﬁers are cumulative. A vehicle may take an unlimited 
+> number of Very Light and Light levels of damage. At Heavy or above,
+> any additional level of damage above Very Light bumps the damage to 
+> the next level.
+>
+> Gamemasters may include or substitute damage to other systems if the 
+> vehicle has them (ex., weapons, navigation, or sensors).
+>
+> Very Light: Vehicle loses 1D from Maneuverability for this round 
+> and the next.
+>
+> Light: Vehicle loses 1D from Maneuverability or, if at 0D in 
+> Maneuverability, top move speed is decreased by one level. The loss 
+> or modiﬁer remains until repaired.
+> 
+> Heavy: Vehicle loses 2D from Maneuverability or, if at 0D in 
+Maneuverability, top move speed is decreased by two levels. The loss 
+> or modiﬁer remains until repaired.
+>
+> Severe: Vehicle is out of control, decelerating by two levels each 
+> round until it comes to a stop or crashes into something.
+>
+> Destroyed: The vehicle will never operate again.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 Vehicle Attacking and Dodging
+-----------------------------
+
 The base difficulty to hit a vehicle is 10, modiﬁed by distance and
 the sizes of the attacker and the defender (using the scale modiﬁer
-listed in the "Combat Options" chapter). That means a person shooting a car has a +6 to his attack total, while a car sideswiping another
+listed in the "Combat Options" chapter). That means a person shooting a 
+car has a +6 to his attack total, while a car sideswiping another
 car has no modiﬁer.
+
 If the driver wishes to ﬁre a small-arms weapon, he must make both
 an Easy exoskeleton operation, piloting, or vehicle operation roll (modiﬁed
 by the vehicle's Maneuverability code) and a ﬁrearms roll. Because he's
 doing two actions, he also incurs a multi-action penalty to both rolls.
-Drivers cannot generally ﬁre vehicle-mounted weapons while maneuvering the vehicle. Passengers may shoot with few or no penalties. (Note
+Drivers cannot generally ﬁre vehicle-mounted weapons while maneuvering 
+the vehicle. Passengers may shoot with few or no penalties. (Note
 that these actions would not be possible in some vehicles.)
+
 A character may also attempt to maneuver the vehicle out of the
 way of incoming projectiles or other vehicles. Instead of the dodge skill,
 the character uses his exoskeleton operation, piloting, or vehicle operation
@@ -7687,134 +7757,130 @@ full defense rules for characters to determine the new defense total.
 The defense total becomes the new combat difficulty and is in effect
 until the character's turn in the next round.
 
+
 Vehicle Damage
+--------------
+
 When a vehicle takes damage from a weapon or another vehicle,
 it's the level of destruction that matters. Use the following guidelines
-
-66
-
 and compare the result to the "Vehicle and Passenger Damage" chart.
 Modify the damage total of the attacker or the damage resistance total
 of the target by the scale modiﬁer, as appropriate for the situation.
+
 A vehicle's damage resistance total equals its Toughness plus the
 value of any armor. Character Points or Fate Points may not be spent
 on this roll.
 
-> Speed Damage Modiﬁer
-Level*
-Damage
-Stopped
-2D
-Cautious
-4D
-Cruise
-6D
-High
-8D
-All-out
-10D
-*Level at which the damaged vehicle is traveling.
-
-> Collision Damage Modiﬁer
-
-Situation
-Modiﬁer
-Head-on
-+3D
-Rear-end, sideswipe
--3D
-Nose to side
-0
-Into something very hard
-0
-Into something yielding
--1D or more
-Note: Modiﬁers are cumulative. Situation is the one in which
-the damaged vehicle is.
-
-Movement
-
 With weapons, compare the weapon's damage total to the target's
 damage resistance total, including the scale modiﬁer for the vehicle (if
 the gamemaster uses that option).
+
 When a vehicle collides with something else, decide how fast it was
-going when it made the collision and modify it based on the circumstances of the collision. Compare that to the damage resistance total.
+going when it made the collision and modify it based on the circumstances 
+of the collision. Compare that to the damage resistance total.
 Should two vehicles be involved, both take damage. See the sidebar
 for the speed and collision modiﬁers.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> ### Speed Damage Modiﬁer ###
+> 
+> *Speed at which the damaged vehicle is traveling: Damage*
+>
+> Stopped: 2D
+> 
+> Cautious: 4D
+> 
+> Cruise: 6D
+> 
+> High: 8D
+> 
+> All-out: 10D
+>
+>
+> ### Collision Damage Modiﬁer ###
+> 
+> *Situation: Modiﬁer*
+>
+> Head-on: +3D
+> 
+> Rear-end, sideswipe: -3D
+> 
+> Nose to side: 0
+> 
+> Into something very hard: 0
+> 
+> Into something yielding: -1D or more
+> 
+> Note: Modiﬁers are cumulative. Situation is the one in which
+> the damaged vehicle is.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 Crew and Passenger Injuries
+---------------------------
+
 Depending on how badly damaged the vehicle becomes, the crew
 and passengers may be harmed, too. Use the"Passengers Suffer" column
 of the "Vehicle and Passenger Damage" chart as a guideline. Adjust it
-based on how much the passengers are exposed (for example, motorcycles and canoes offer little protection to their cargo).
+based on how much the passengers are exposed (for example, motorcycles 
+and canoes offer little protection to their cargo).
+
 
 Leaping Out of a Vehicle
+------------------------
+
 Leaving a land or water vehicle moving at less than 10 kilometers
 per hour is a Very Easy acrobatics or Agility roll (or climb/jump if the
 character leaps from the vehicle). If the vehicle is moving faster than
 that, the base difficulty becomes 15, with +1 added to it for every 10
 
-kilometers per hour the vehicle is traveling (rounded down). Additionally, the character takes damage from the fall, at a rate of 1 for every
-15 kilometers per hour the vehicle is moving (rounded up) minus the
-result points from the roll.
+kilometers per hour the vehicle is traveling (rounded down). 
+Additionally, the character takes damage from the fall, at a rate of 1 
+for every 15 kilometers per hour the vehicle is moving (rounded up) 
+minus the result points from the roll.
+
 Example: *If the driver of a car traveling at 90 kilometers per hour
 decided to leave the vehicle before it hit the tree it was traveling toward,
 the difficulty would be 24 (90/10 = 9, plus the base difficulty of 15).
-She would also take 6 points of damage unless she sufficiently succeeded at her jump (90/15 = 6).
+She would also take 6 points of damage unless she sufficiently succeeded 
+at her jump (90/15 = 6).*
+
 
 Repairing a Vehicle
+-------------------
+
 The difficulty to repair a damaged vehicle depends on the amount
 of damage and availability of parts and tools. See the repair category
 description in the "Example Skill Difficulties" chapter for difficulty
 and modiﬁer suggestions.
 
+
 Sample Vehicles
+---------------
+
 See the "Equipment" chapter for sample planetary vehicles, their
 costs, and their game characteristics.
 
-67
 
-> Space Travel
-
-8
+Space Travel
+============
 
 What's in this Chapter
-
-Encounters in Space
-
-Getting around the Galaxy
-
-Local Space Patrols: Each planet with interstellar drive capability
-generally has its own space navy. In some campaigns, there might also
-be an interstellar police force. Some might turn out to be quite helpful,
-while some prefer to keep all travel under their control.
-Traders: From owner-operated light freighters to gigantic corporate
-and military bulk haulers, the space ways are ﬁlled with folks traveling around the galaxy, hawking their goods or taking things to where
-they're wanted. Traders, legal and illegal, can prove good -- perhaps
-even the only -- sources of information about their destinations, space
-routes, and new jobs.
-Pirates: Unwilling or unable to make it legitimately, pirates prefer
-to acquire their goods from other ships. They might prey on the edges
-of populated regions, or they could set up "road blocks" that cause an
-interstellar drive to drop its ship into normal space. Privateers are pirates
-legalized by one or more government to attack certain ships.
-Slavers: Similar to pirates, slavers look for sentient beings to steal
-and sell. Generally, these go into the service as gladiators or slaves to
-crime lords (some of whom might be legitimate heads of corporations
-or governments).
-Natural Hazards: Rogue planetoids, gas clouds, immense asteroid
-ﬁelds, energy storms, and other interstellar phenomena can interfere
-with interstellar travel, causing the ship to drop into normal space, take
-damage to systems, or throw the ship off course.
-Unexplored Systems: Alien civilizations, metal and mineral deposits, potentially habitable planets, lost caches of artifacts and technology,
-long-forgotten colonies, and so much more exist in this galaxy, awaiting
-discovery, whether on purpose or by accident.
+----------------------
 
 Some characters might ﬁnd sticking around one planet fun, while
 others get the yen to explore the galaxy. This chapter offers ideas on
 ﬁnding passage and operating a ship.
 
-Your Own Ship
+
+Getting around the Galaxy
+-------------------------
+
+### Your Own Ship ###
+
 By earning enough credits, borrowing a sufficient amount of funds
 (probably illegally and with plenty of strings attached), or getting an
 inheritance, a character can obtain her own starship. Generally, these ships
@@ -7822,14 +7888,18 @@ have plenty of problems, but at least it's something to call one's own!
 Patrons and employers might also provide a ship, while contacts
 might be able to help the character gain access to one temporarily.
 
-Charter a Ship
+
+### Charter a Ship ###
+
 Characters can hire an independent ship captain to take them to a
-planet. While more expensive than commercial liners -- some chartered ships charge tens of thousands of credits -- they generally offer
+planet. While more expensive than commercial liners -- some chartered 
+ships charge tens of thousands of credits -- they generally offer
 more privacy and more travel freedom. The characters can often pick
 the departure and arrival timetable, and they don't necessarily have to
 go to popular destinations.
 
-Booking Passage
+### Booking Passage ###
+
 Depending on the gamemaster's setting, it might be possible to
 book passage on a passenger liner or transport that has regular service
 to one of several major worlds. Accommodations range from spartan (a
@@ -7843,44 +7913,92 @@ a spare bunk or two -- and few other amenities. Some freighters may
 even take on working passengers, who pay for part or all of their passage
 by performing some of the less desirable duties on the ship.
 
+
 Sample Ships
+------------
+
 You can ﬁnd sample ships, including a light freighter suitable for
 most travel needs, and guidelines for creating new ones in the "Basic
 Ship Design" chapter near the end of this book.
 
-68
+
+
+Encounters in Space
+-------------------
 
 Unless the characters travel well-established routes, plenty of things
 exist in space that can make the trip rather exciting -- whether or not
 a mishap occurs in navigation or drive use.
 
-Starship Operation
-A Ship's Drives
+**Local Space Patrols:** Each planet with interstellar drive capability
+generally has its own space navy. In some campaigns, there might also
+be an interstellar police force. Some might turn out to be quite helpful,
+while some prefer to keep all travel under their control.
+
+**Traders:** From owner-operated light freighters to gigantic corporate
+and military bulk haulers, the space ways are ﬁlled with folks traveling 
+around the galaxy, hawking their goods or taking things to where
+they're wanted. Traders, legal and illegal, can prove good -- perhaps
+even the only -- sources of information about their destinations, space
+routes, and new jobs.
+
+**Pirates:** Unwilling or unable to make it legitimately, pirates prefer
+to acquire their goods from other ships. They might prey on the edges
+of populated regions, or they could set up "road blocks" that cause an
+interstellar drive to drop its ship into normal space. Privateers are pirates
+legalized by one or more government to attack certain ships.
+
+**Slavers:** Similar to pirates, slavers look for sentient beings to steal
+and sell. Generally, these go into the service as gladiators or slaves to
+crime lords (some of whom might be legitimate heads of corporations
+or governments).
+
+**Natural Hazards:** Rogue planetoids, gas clouds, immense asteroid
+ﬁelds, energy storms, and other interstellar phenomena can interfere
+with interstellar travel, causing the ship to drop into normal space, take
+damage to systems, or throw the ship off course.
+
+**Unexplored Systems:** Alien civilizations, metal and mineral deposits, 
+potentially habitable planets, lost caches of artifacts and technology,
+long-forgotten colonies, and so much more exist in this galaxy, awaiting
+discovery, whether on purpose or by accident.
+
+
+Starship Operation: A Ship's Drives
+----------------------------------
 
 Ships have two types of drives: in-system (or sublight) drives and
 interstellar drives.
 
-In-System Drives
+
+### In-System Drives ###
+
 In-system drives are used for getting off of a planet as well as traveling
 around a system. They could take a ship to another planet, but generally
 only generation or automated ships attempt such a journey.
 
-Space Travel
-In-System Benchmarks
+
+### In-System Benchmarks ###
+
 Here are some rough guidelines for in-system travel times.
-> Five minutes to ﬂy from orbit to a safe interstellar transition
-point.
-> Half an hour to ﬂy from a planet to one of its moons.
-> Two to six hours to ﬂy from one planet to the nearest planet in
+
+* Five minutes to ﬂy from orbit to a safe interstellar transition point.
+
+* Half an hour to ﬂy from a planet to one of its moons.
+
+* Two to six hours to ﬂy from one planet to the nearest planet in
 the system.
-> Anywhere from 10 to 48 hours to ﬂy from a star to the outer
+
+* Anywhere from 10 to 48 hours to ﬂy from a star to the outer
 limits of the system, depending upon distance and the presence of
 any hazards such as asteroid belts or gas clouds. As one example, a
 typical system of a single yellow star and less than a dozen signiﬁcant
 planetary bodies would take about 15 hours to reach the outer limit
 from a terrestrial world relatively near the star.
 
-Interstellar Drives
+
+### Interstellar Drives ###
+
 Assuming that the gamemaster allows interstellar travel in the setting,
 these types of drives can take a variety of forms, but for sake
 of game mechanics, they all work the same way. Essentially,
@@ -7888,171 +8006,206 @@ they accelerate the ship to near-light speeds and then fold time
 and space, create a temporary wormhole, or drop the ship into
 another parallel yet connected dimension. Gamemasters who
 want to add a little excitement to interstellar journeys can have
-space debris or even the nature of the wormhole or subdimension negatively effect space travel.
+space debris or even the nature of the wormhole or subdimension 
+negatively effect space travel.
 
-Navigation Computers
-To handle the overwhelming complexities of calculating interstellar trips, most ships are equipped with navigation computers. A ship's
+
+### Interstellar Drive Ratings ###
+
+An interstellar drive is ranked by a "rating." The higher the
+number, the faster the drive. Most civilian ships have a Rating 0.5 
+or lower drive, while military vessels typically have a Rating 1 or 
+higher engine.
+
+Each interstellar journey has a duration. Divide the duration by 
+the ship's rating to ﬁnd out how long it takes the ship to reach the 
+destination.
+
+
+### Interstellar Benchmarks ###
+
+Here are some guidelines for how long it generally takes
+to get from one planet to another with an interstellar drive.
+A die code is given in parentheses after the general time, for
+gamemasters who want a quick of coming up with distances
+between star systems. Once a time is rolled, unless the gamemaster 
+decides that there are many hazards that could alter
+the path, the gamemaster should write it down in his own
+gazetteer.
+
+* Systems are within the same sector: A few days (1D).
+
+* Systems are within the same region but different sectors: Several 
+days (2D).
+
+* Systems are in neighboring regions: Several weeks (2D).
+
+* Systems are in regions distant from each other: Several
+months (2D).
+
+* Route is well-traveled: Reduce the time by half.
+
+* Route is known to have many random hazards: Add 1D
+of the base time unit (days, weeks, or months) to the time it
+takes to travel it.
+
+
+### Navigation Computers ###
+
+To handle the overwhelming complexities of calculating interstellar 
+trips, most ships are equipped with navigation computers. A ship's
 astro-navigator uses the navigation computer to plot a safe trip through
 interstellar space. Navigation computers hold a tremendous amount
 of data, storing the coordinates for the locations of stars, planets,
 debris, gravity wells, asteroid ﬁelds, gas clouds, and other hazards.
 Navigators use this information to determine the best routes to avoid
 these obstacles.
-As a route becomes well-known and its hazards are better understood, interstellar journeys can be plotted with more precision at faster
+
+As a route becomes well-known and its hazards are better understood, 
+interstellar journeys can be plotted with more precision at faster
 speeds. In some cases, travel times between speciﬁc planets may decrease.
 In other cases, large enough obstacles may drift into the known route
 and cause the time to increase.
+
 In general, the greater the physical distance between planets, the
 longer the journey in hyperspace takes. However, even systems that
-
-Interstellar Drive Ratings
-An interstellar drive is ranked by a "rating." The higher the
-number, the faster the drive. Most civilian ships have a Rating 0.5 or lower drive, while military vessels typically have a
-Rating 1 or higher engine.
-Each interstellar journey has a duration. Divide the duration by the ship's rating to ﬁnd out how long it takes the ship
-to reach the destination.
-Interstellar Benchmarks
-Here are some guidelines for how long it generally takes
-to get from one planet to another with an interstellar drive.
-A die code is given in parentheses after the general time, for
-gamemasters who want a quick of coming up with distances
-between star systems. Once a time is rolled, unless the gamemaster decides that there are many hazards that could alter
-the path, the gamemaster should write it down in his own
-gazetteer.
-> Systems are within the same sector: A few days (1D).
-> Systems are within the same region but different sectors:
-Several days (2D).
-> Systems are in neighboring regions: Several weeks (2D).
-> Systems are in regions distant from each other: Several
-months (2D).
-> Route is well-traveled: Reduce the time by half.
-> Route is known to have many random hazards: Add 1D
-of the base time unit (days, weeks, or months) to the time it
-takes to travel it.
-
-69
-
-Chapter 8
-
-> Space Navigation Modiﬁers
-Situation
-No navigation computer
-Each extra hour added to trip*
-Each hour saved on trip*
-Obstacles (gas clouds, large space debris,
-black holes)
-
-Modiﬁer
-+30
--1
-+1
-+1
-or more
-
 are in close proximity to one another may require roundabout routes
 because of debris and other hazards.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> ### Space Navigation Modiﬁers ###
+>
+> *Situation: Modiﬁer*
+> 
+> No navigation computer: +30
+> 
+> Each extra hour added to trip: -1
+> 
+> Each hour saved on trip: +1
+> 
+> Obstacles (gas clouds, large space debris, black holes): +1 or more
+> 
+> 
+> ### Shield Deployment ###
+>
+> *Number of Areas: Difficulty*
+>
+> 1: 10
+>
+> 2: 15
+>
+> 3: 20
+>
+> 4: 25
+>
+>
+> ### Space Navigation Results ###
+> 
+> Result Points: Result
+>
+> **+5 or more:** Saved an hour on the trip per 5 points over the 
+> difficulty (round down).
+>
+> **0 to +4:** Trip occurred without mishap.
+>
+> **-1, -2:** A radiation surge or other mishap affects the drive's 
+> performance and damages another system on the ship (gamemaster
+> selects). The characters need to use the appropriate repair skill 
+> with a Moderate difficulty to ﬁx it. The trip is extended
+> by 2D hours.
+>
+> **-3, -4:** The calculations were good enough to get the characters 
+> to a destination, just the wrong one (perhaps from a computer 
+> malfunction or an unplotted obstacle).
+>
+> **-5, -6:** The interstellar drive cut-out to avoid a collision 
+> with an unplotted obstacle. A Moderate ﬂight systems repair roll is
+> necessary to get the engines back on line. The characters also need 
+> to plot a new course.
+>
+> **-7 or more:** The computer refuses the calculation and requires 
+> them to be reﬁgured.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 Using Interstellar Drives
+-------------------------
+
 When characters wish to travel to another system (and they didn't
 get someone else to do the driving), they follow four steps:
+
 1. Determine the trip's destination and duration.
+
 2. Make calculations for the interstellar journey.
+
 3. Figure out the navigation difficulty number.
+
 4. Find out the navigation results.
-Determine the Trip's Destination and Duration: The ﬁrst step
+
+**Determine the Trip's Destination and Duration:** The ﬁrst step
 a ship's captain needs to do is decide where she's going and how she
 wants to take to get there. Use the "Interstellar Benchmarks" sidebar to
 determine the time. Once the base duration is determined, the navigator may then divide that number by her drive's class to get the actual
 amount of time the ship will take (assuming perfect conditions).
-Make Calculations for the Trip: Figuring out the best route then
+
+**Make Calculations for the Trip:** Figuring out the best route then
 inputting it into the computer isn't easy, and even with the incredible
 advances in computers. How much time it takes to perform the calculations depends on where the ship's supposed to end up. A character can
 rush the calculations, taking the rushing penalty (see the"Game Basics"
 chapter for details). Many ship captains begin navigation calculations
 while they wait in space dock, so they can leave as soon as the local
 authorities clear them for departure.
+
 Use these guidelines to ﬁgure out how much time it takes to make
 the navigation calculation.
 
-> Well-plotted route or precalculated coordinates: 1 minute.
-> Known systems but best route has not been determined: 30
+* Well-plotted route or precalculated coordinates: 1 minute.
+
+* Known systems but best route has not been determined: 30
 minutes.
-> Never been to the system: Several hours.
-> Lost because of a miscalculation or unknown obstacle: 1 day.
-Figure Out the Navigation Difficulty Number: All trips have a
+
+*  Never been to the system: Several hours.
+
+* Lost because of a miscalculation or unknown obstacle: 1 day.
+
+**Figure Out the Navigation Difficulty Number:** All trips have a
 base difficulty of Moderate, with modiﬁers that adjust it for easy trips
 (such as one core world to another) or much higher for particularly
 perilous routes. Use the accompanying chart to determine the ﬁnal
 difficulty.
-Find the Space Navigation Results: Once the destination, duration,
+
+**Find the Space Navigation Results:** Once the destination, duration,
 and route have been decided --and the navigation difficulty is determined
 -- the player rolls her character's navigation skill to see how well she did.
 Find the result points (the difference between the difficulty and the skill
 total) and compare them to the accompany chart to decide what happens.
 In this case, result points can be positive or negative.
 
+
 In-System Travel and Combat
+---------------------------
 
 Starships move through space and battle other ships in much
 the same way as planetary vehicles. Players can use standard vehicle
 movement and character combat rules to determine the effectiveness
 of one vessel attacking another.
+
 Spaceships can have two additional systems worth mentioning:
 shields and tractor beams.
 
-Shields
-Ships can have
-two types of shields:
-passive and active.
-Number of Areas
-Difficulty
-Pa ssive shields
-1
-10
-including hull
-2
-15
-plating and some
-3
-20
-low-level energy
-4
-25
-shielding. They're
-good for warding
-off small asteroids and similar space debris, but they aren't effective
-against high-grade equipment. Active shields generally involve energy
 
-> Shield Deployment
+### Shields ###
 
-> Space Navigation Results
-Result Points
-+5 or more
-0 to +4
--1, -2
+Ships can have two types of shields: passive and active. Passive 
+shields including hull plating and some low-level energy shielding. 
+They're good for warding off small asteroids and similar space debris, 
+but they aren't effective against high-grade equipment. Active shields 
+generally involve energy of some kind, and they create ﬁeld around the 
+ship that absorbs or deﬂects harmful rays and objects.
 
--3, -4
--5, -6
--7 or more
-
-70
-
-Result
-Saved an hour on the trip per 5 points over the difficulty (round down).
-Trip occurred without mishap.
-A radiation surge or other mishap affects the drive's performance and damages another system on the ship (gamemaster
-selects). The characters need to use the appropriate repair skill with a Moderate difficulty to ﬁx it. The trip is extended
-by 2D hours.
-The calculations were good enough to get the characters to a destination, just the wrong one (perhaps from a computer
-malfunction or an unplotted obstacle).
-The interstellar drive cut-out to avoid a collision with an unplotted obstacle. A Moderate ﬂight systems repair roll is
-necessary to get the engines back on line. The characters also need to plot a new course.
-The computer refuses the calculation and requires them to be reﬁgured.
-
-Space Travel
-
-of some kind, and they create ﬁeld around the ship that absorbs or
-deﬂects harmful rays and objects.
 Each starship has a shield die code, which the pilot splits among
 four areas of an ellipsoid when he activates the shields. The four
 areas are forward quarter, aft quarter, starboard quarter, port quarter.
@@ -8062,40 +8215,31 @@ shield setting remains in effect until the pilot realigns them or they're
 overloaded. (When splitting dice among areas, remember that there
 are three pips in a die.)
 
-Overloading Shields
-Shields that let pass through more than 3 times their current setting die code (not including pips) in damage are overloaded. They shut
+
+### Overloading Shields ###
+
+Shields that let pass through more than 3 times their current setting 
+die code (not including pips) in damage are overloaded. They shut
 down, and the pilot must restart them, which takes a round.
 
-> Tractor Beam
-Tractor Beam Roll ≥
-Hull Roll By:
-0-3
-4-8
-9-12
-13-15
-16+
-
-Target's
-Max Move
---
-1 level less
-2 levels less
-3 levels less
-Drives blown
 
 Tractor Beams
+-------------
+
 Resolve attempts to sling a tractor beam on another ship just
 like any other attack. Then, roll the tractor beam's die code
 against the target ship's hull Toughness. Should the tractor
 beam's total be equal to or higher than the target's total, the
 attacking ship has captured the target. Otherwise, the beam
 was too weak to hold it.
+
 The attacker may automatically reel in the captured ship,
 assuming that the target doesn't attempt to resist on any round
 before being brought into the hanger bay. (That means that,
 if the attacking ship has no hanger bay to store the ship, the
 target can continue to attempt an escape -- or at least until
 the defender can move any more.)
+
 If the target ship resists, roll the tractor beam's damage
 against the target ship's hull Toughness. If the target ship's
 Toughness roll is higher, it breaks free of the tractor beam. If
@@ -8103,15 +8247,35 @@ the tractor beam rolls equal to or higher than the target ship,
 the target ship is reeled in and its drives may be damaged. Find
 the results on the accompanying chart.
 
-71
 
-9
+- - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-> Combat
+> ### Tractor Beam ###
+>
+> *Tractor Beam Roll ≥ Hull Roll By: Target's Max Move*
+>
+> 0-3: --
+> 
+> 4-8: 1 level less
+> 
+> 9-12: 2 levels less
+> 
+> 13-15: 3 levels less
+> 
+> 16+: Drives blown
+
+- - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - -
+
+
+Combat
+======
+
 What's in this Chapter
+----------------------
 
 This chapter provides an extended description of one of the most
 rules-intensive aspects of roleplaying: combat.
+
 When resolving a situation calls for force, time becomes broken into
 rounds, which were discussed in the "Rounds and Initiative" section
 of the "Game Basics" chapter. Within these rounds, three steps occur:
@@ -8119,29 +8283,64 @@ of the "Game Basics" chapter. Within these rounds, three steps occur:
 damage; (4) repeating the steps, if necessary. Discover herein what
 happens in each of those steps.
 
+
 Step 1: Generating Initiative
+-----------------------------
 
 As discussed in the "Game Basics" chapter, determine initiative
 based on the ﬁrst signiﬁcant action or on initiative rolls. Then go on
 to Step 2.
 
+
 Step 2: Attacking and Defending
+-------------------------------
 
 This is where the interesting stuff happens. The person whose turn
 it is gets to decide what type of action her character is going to do.
 Once she chooses, she makes a skill roll.
+
 Note that a character need not attempt to engage in combat, but
 this chapter only discusses what to do if the player decides to attack,
 defend, or do both (typically with a multi-action penalty).
 
+
+Base Combat Difﬁculty
+---------------------
+
+The base difficulty to attack someone is 10 (called the target's
+passive defense value) or the target's active defense total, modiﬁed by
+range and other factors.
+
+
+### Active Defense ###
+
+The target character can opt to use an "active defense," which
+affects all attacks that occur after the defender's turn in the current
+round but before the defender's turn the next round. Active defenses
+are defensive maneuvers that the target consciously exercises, such as
+dodging, blocking, or parrying. Each of these is represented by a skill
+and counts as an action.
+
+A character may make an active defense only when his turn comes up
+in the initiative line, but the total for the roll is effective for all 
+relevant attacks made against the character that occur after the 
+character's currentturn but before his turn in the next round.
+
+Remember: if a character acts later in a round than his attacker, he
+cannot take his turn sooner and use an active defense to replace the
+passive defense value -- his reactions just weren't fast enough.
+
 If the roll is lower than the passive defense value, the character has
 succeeded in making himself easier to hit -- by miscalculating where
 the attack would be placed and actually getting in its way.
+
 The active defense total is modiﬁed as the situation dictates.
-Dodge: The character attempts to anticipate the ﬁnal location of
+
+**Dodge:** The character attempts to anticipate the ﬁnal location of
 an attack from any source and be in another place when it comes. This
 is done by rolling the dodge skill.
-Block/Parry: The character attempts to stop his opponent's attack
+
+**Block/Parry:** The character attempts to stop his opponent's attack
 by intercepting it and either stopping it with a block or deﬂecting it
 with a parry. The character may roll his brawling or melee combat (if he
 has something in his hands) to block it. If the character uses a sharp or
@@ -8149,107 +8348,114 @@ energized weapon (sword or dagger, for example) to parry an unarmed
 blow and is successful at the block, the attacker takes damage from
 the weapon. However, do not add the defender's Strength to the listed
 weapon damage score when determining injuries inﬂicted this way.
+
 If the opponent strikes at the character with a bladed or energized
 hand weapon and the character uses any part of his body to intercept
 the attack, the defender always takes the weapon's damage total. If
 the block was successful, then the attacker's Strength Damage is not
 added to the listed score. If the block was unsuccessful, then the target
 character takes damage as normal. The character may avoid this aspect
-by having armor, a special ability, or a suitable close combat specialization in melee parry.
+by having armor, a special ability, or a suitable close combat 
+specialization in melee parry.
 
-Base Combat Difﬁculty
-The base difficulty to attack someone is 10 (called the target's
-passive defense value) or the target's active defense total, modiﬁed by
-range and other factors.
 
-Active Defense
-The target character can opt to use an "active defense," which
-affects all attacks that occur after the defender's turn in the current
-round but before the defender's turn the next round. Active defenses
-are defensive maneuvers that the target consciously exercises, such as
-dodging, blocking, or parrying. Each of these is represented by a skill
-and counts as an action.
-A character may make an active defense only when his turn comes up
-in the initiative line, but the total for the roll is effective for all relevant
-attacks made against the character that occur after the character's current
-turn but before his turn in the next round.
-Remember: if a character acts later in a round than his attacker, he
-cannot take his turn sooner and use an active defense to replace the
-passive defense value -- his reactions just weren't fast enough.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-72
+> ### Noncharacter Combat ###
+> 
+> When characters use exoskeletons or vehicles, the basic
+> combat rules are the same; the difference exists in which skill to
+> use. Vehicles, except exoskeletons, cannot block or parry. The
+> driver may only make defensive maneuvers appropriate for the
+> vehicle (generally "dodge"); he uses his exoskeleton operation,
+> piloting, or vehicle operation plus the vehicle's Maneuverability
+> rating to determine the new combat difficulty. Exoskeleton
+> (or mecha) operators may dodge, block, or parry, but these
+> all use the exoskeleton operation skill.
+> 
+> Similarly, when attacking with a vehicle- or exoskeletonmounted weapon, 
+> the character uses gunnery. Ramming or sideswiping with a vehicle 
+> requires the driver to make an appropriate vehicles roll. To punch, 
+> parry, or use a hand-held close combat weapon, an exoskeleton operator 
+> relies on his exoskeleton operation skill.
 
-> Noncharacter Combat
-When characters use exoskeletons or vehicles, the basic
-combat rules are the same; the difference exists in which skill to
-use. Vehicles, except exoskeletons, cannot block or parry. The
-driver may only make defensive maneuvers appropriate for the
-vehicle (generally "dodge"); he uses his exoskeleton operation,
-piloting, or vehicle operation plus the vehicle's Maneuverability
-rating to determine the new combat difficulty. Exoskeleton
-(or mecha) operators may dodge, block, or parry, but these
-all use the exoskeleton operation skill.
-Similarly, when attacking with a vehicle- or exoskeletonmounted weapon, the character uses gunnery. Ramming or
-sideswiping with a vehicle requires the driver to make an
-appropriate vehicles roll. To punch, parry, or use a hand-held
-close combat weapon, an exoskeleton operator relies on his
-exoskeleton operation skill.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Combat
-Full Defense
+
+### Full Defense ###
+
 A character who foregoes all of her actions for a round to completely
 protect herself from attacks makes a full defense. The total rolled by
 the skill plus 10 takes the place of the base combat difficulty from the
 time the character makes the full defense on her turn to her turn in
 the next round.
+
 Full active defense value = any active defense skill roll + 10
-Partial Defense
+
+
+### Partial Defense ###
+
 A character who chooses to do something else in addition to
 guarding against attacks may take a partial defense. In this case, the
 active defense roll replaces the base combat difficulty from the time the
 character takes his turn in one round to his turn in the next round.
+
 Partial active defense value = any active defense skill roll
 Since the character is taking multiple actions, the multi-action
 penalty applies.
+
 The gamemaster may call for a partial defense roll (as a free action)
 if he decides that the character might have a little awareness of an
 impending attack, yet not enough foresight to prepare for it.
-Optional Passive Defense Modiﬁer
+
+
+### Optional Passive Defense Modiﬁer ###
+
 For every 2D in Agility or dodge above 4D (round up), a character
 receives a +1 to her passive defense value. This modiﬁer does not affect
 the character's active defense total. Every six ranks in a Skill Bonus or
 Increased Attribute Special Ability that affects Agility or dodge provides
 a +1 bonus, as speciﬁed for the skill in question.
-Example: *A character with 4D in Agility gets no bonus, while a
-character with 7D in acrobatics has a +2 bonus.
 
-Combat Difﬁculty Modiﬁers
+Example: *A character with 4D in Agility gets no bonus, while a
+character with 7D in acrobatics has a +2 bonus.*
+
+
+### Combat Difﬁculty Modiﬁers ###
+
 Here are a few of the most frequently used modiﬁers to the combat
-difficulty. Others are discussed in "Combat Options" chapter. Regardless of the number of modiﬁers used, the total combat difficulty may
+difficulty. Others are discussed in "Combat Options" chapter. Regardless 
+of the number of modiﬁers used, the total combat difficulty may
 never go below 3.
+
 The gamemaster rolls the indicated modiﬁer and adds it to the
 combat situation. A standard modiﬁer is included in parentheses after
 the die modiﬁer, should the gamemaster prefer not to roll.
-Range: The effectiveness of a punch, weapon, Special Ability, or
+
+**Range:** The effectiveness of a punch, weapon, Special Ability, or
 any other attack made at a distance depends on its range. All range
 modiﬁers are added or subtracted from the combat difficulty.
+
 Note that, unless a special maneuver allows otherwise, characters
 may use unarmed close combat attacks at Point Blank range only. In
 most cases, this is true for using various melee weapons as well, though
 the distance can be increased to Short range if the weapon is longer
 than two meters. For instance, a character with a support beam can
 whack an opponent at Point Blank or Short range.
-Cover: When a target is protected by something -- poor lighting,
+
+**Cover:** When a target is protected by something -- poor lighting,
 smoke, fog, a table -- it makes her harder to hit. This is represented
 by a cover modiﬁer, which is added to the combat difficulty.
-Aiming: Aiming involves careful tracking of the target. Characters
+
+**Aiming:** Aiming involves careful tracking of the target. Characters
 may perform it against moving targets, but they cannot themselves do
 anything else in the round in which they aim. Each consecutive round
-
 of uninterrupted aiming add 1D to the character's ﬁrearms, gunnery,
 missile weapons, or throwing skill, up to a maximum bonus of +3D.
 
-Determining Success
+
+### Determining Success ###
+
 Once the combat difficulty has been determined, the attacker rolls
 the die code in his character's combat skill and compares the total to
 the combat difficulty. If it equals or exceeds the combat difficulty, the
@@ -8257,73 +8463,73 @@ attack hits, probably doing damage or having another effect that the
 attacker intended. If it was less than the combat difficulty, then the
 attack misses.
 
-> Common Combat
-Difﬁculty Modiﬁers
-Range
 
-Range
-Distance to Target
-Modiﬁer
-Point Blank
-0-3 meters
--5
-Short
-3 meters to ﬁrst value*
-0
-Medium
-First to second value*
-+5
-Long
-Second to third value*
-+10
-*Values refer to values given in the weapon's range listing.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Estimating Ranges
-Gamemasters who aren't interested in looking up weapon
-ranges and ﬁguring out the distance to the target can estimate
-what modiﬁers to use with these guidelines.
-> A target within a few steps of the attacker is a Point
-Blank range.
-> An attacker ﬁring a riﬂe at a target across a rather large
-chamber shoots at Short range, while an attacker with a
-handgun shoots the same target at Medium range.
-> Most projectile combat taking place outdoors is at
-Medium to Long range.
+> ### Common Combat Difﬁculty Modiﬁers ###
+>
+> *Range (Distance to Target): Modiﬁer*
+>
+> Point Blank (0-3 meters): -5
+>
+> Short (3 meters to ﬁrst value on range listing): 0
+>
+> Medium (First to second value on ragnge listing): +5
+>
+> Long (Second to third value on range listing): +10
+>
+>
+> ### Estimating Ranges ###
+>
+> Gamemasters who aren't interested in looking up weapon
+> ranges and ﬁguring out the distance to the target can estimate
+> what modiﬁers to use with these guidelines.
+>
+> * A target within a few steps of the attacker is a Point Blank range.
+>
+> * An attacker ﬁring a riﬂe at a target across a rather large
+> chamber shoots at Short range, while an attacker with a
+> handgun shoots the same target at Medium range.
+>
+> * Most projectile combat taking place outdoors is at
+> Medium to Long range.
+>
+>
+> ### Cover ###
+> 
+> *Situation: Modiﬁer*
+>
+> Light smoke/fog: +1D (+3)
+> 
+> Thick smoke/fog: +2D (+6)
+> 
+> Very thick smoke/fog: +4D (+12)
+> 
+> Poor light, twilight: +1D (+3)
+> 
+> Moonlit night: +2D (+6)
+> 
+> Complete darkness: +4D (+12)
+> 
+> Object hides 25% of target: +1D (+3)
+> 
+> Object hides 50% of target: +2D (+6)
+> 
+> Object hides 75% of target: +4D (+12)
+> 
+> Object hides 100% of target: --
+>
+> Note: If cover offers protection, the attacker cannot hit the target
+> directly, but damage done to the cover might exceed the Armor
+> Value it provides, and, indirectly, damage the target. Most of
+> the time, the attacker must eliminate the cover before having a
+> chance to hit the target.
 
-Cover
-Situation
-Modiﬁer
-Light smoke/fog
-+1D (+3)
-Thick smoke/fog
-+2D (+6)
-Very thick smoke/fog
-+4D (+12)
-Poor light, twilight
-+1D (+3)
-Moonlit night
-+2D (+6)
-Complete darkness
-+4D (+12)
-Object hides 25% of target
-+1D (+3)
-Object hides 50% of target
-+2D (+6)
-Object hides 75% of target
-+4D (+12)
-Object hides 100% of target
-*
-*If cover offers protection, the attacker cannot hit the target
-directly, but damage done to the cover might exceed the Armor
-Value it provides, and, indirectly, damage the target. Most of
-the time, the attacker must eliminate the cover before having a
-chance to hit the target.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-73
-
-Chapter 9
 
 Step 3: Determining Damage
+--------------------------
 
 If a character successfully hits his target, he may have done damage
 to it. To determine the amount of injury caused, roll the damage die
@@ -8333,44 +8539,52 @@ score as a die code with a plus sign ("+") in front of it; in this case,
 add the damage die code to the attacker's Strength Damage die code,
 add modiﬁers, and roll. If the gamemaster chooses to use the optional
 damage bonus, this is added to the total at this time.
-After the player or the gamemaster has ﬁgured out how much damage is done, go to the "Damage" chapter on pages 75-77 to determine
-how much of that damage the target sustained.
+
+After the player or the gamemaster has ﬁgured out how much damage is 
+done, go to the "Damage" chapter to determine how much of that damage 
+the target sustained.
+
 
 Determining Strength Damage
+---------------------------
+
 To ﬁgure the Strength Damage die code, drop the pips from the
-character's Strength or lift die code (but include any relevant Disadvantages or Special Abilities), divide the number by 2, and round up. The
-Increased Attribute: Strength Special Ability affects the total.
+character's Strength or lift die code (but include any relevant 
+Disadvantages or Special Abilities), divide the number by 2, and round 
+up. The Increased Attribute: Strength Special Ability affects the total.
+
 Example: *A character with 3D in Strength has a Strength Damage
-of 2D. A character with 6D+2 in lift has a Strength Damage of 3D.
+of 2D. A character with 6D+2 in lift has a Strength Damage of 3D.*
+
 
 Optional Damage Bonus
+---------------------
+
 The combat skill roll is supposed to reﬂect the accuracy of an attack.
 Therefore, gamemasters may reward high rolls for players' characters
 and signiﬁcant gamemaster characters with a bonus to damage. Subtract
 the difficulty of the successful attack from the skill total and divide
 this number by 5, rounding up. Add this damage bonus to the damage
 total before comparing it to the resistance total. If the gamemaster uses
-the damage bonus in combination with
-a called-shot hit location, the bonus is in
-addition to the damage modiﬁer except
-for attempts on an arm, leg, or hand. In
-those cases, ignore the damage bonus.
-For Special Abilities and Metaphysics
-skills that require a combat roll to target
-them, the gamemaster may allow the
-combat roll's damage bonus to apply to
-the ability's damage total.
+the damage bonus in combination with a called-shot hit location, the 
+bonus is in addition to the damage modiﬁer except for attempts on an 
+arm, leg, or hand. In those cases, ignore the damage bonus. 
+
+For Special Abilities and Metaphysics skills that require a combat 
+roll to target them, the gamemaster may allow the combat roll's damage 
+bonus to apply to the ability's damage total.
+
 
 Step 4: Repeat
+--------------
 
-If the ﬁght isn't ﬁnished after one
-round, then return to Step 1 in the
-"Combat" chapter and do it all over
-again. Repeat these steps until the ﬁght
-is resolved in favor of one side or the
-other.
+If the ﬁght isn't ﬁnished after one round, then return to Step 1 in the
+"Combat" chapter and do it all over again. Repeat these steps until the 
+ﬁght is resolved in favor of one side or the other.
+
 
 Combat Summary
+--------------
 
 You can find a summary of the
 information in this chapter on the
@@ -15251,16 +15465,16 @@ Character Points.
 
 * Accomplished the goal: one Fate Point.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Aliens and Human Offshoots
---------------------------
-
-You can ﬁnd generic aliens and sample characteristic sets
-in the Aliens and Human Offshoots section. You can also use the 
-character packages in those chapters and combine them with the
-generic people listed here to create alien versions of each
-profession.
+> ### Aliens and Human Offshoots ###
+> 
+> You can ﬁnd generic aliens and sample characteristic sets
+> in the Aliens and Human Offshoots section. You can also use the 
+> character packages in those chapters and combine them with the
+> generic people listed here to create alien versions of each
+> profession.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
