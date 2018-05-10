@@ -197,6 +197,7 @@ more Character Points at the end of a game for completing goals and
 playing well. You may get back Fate Points at the end of the game if
 they were used at a brave, heroic, or climactic moment.
 
+
 Try It Out!
 -----------
 
@@ -8591,144 +8592,122 @@ information in this chapter on the
 Reference Sheet included in the back
 of this book.
 
-74
 
 Combat Example
+--------------
 
 To give you an idea of how all this works, here's a typical exchange
 between a player's character and one of her opponents.
 Gamemaster: Okay, we're in combat rounds now. Everyone make a
 Perception roll. (All players and the gamemaster roll their dice.) Anyone
 roll higher than 20?
+
 Jesse: Yeah, I rolled a 23!
+
 Gamemaster: All right, what do you want to do?
+
 Jesse: Ah, that depends. What're the mercs doing?
+
 Gamemaster: As one runs across the repair bay toward you, the
 other two set up some kind of large, tripod-mounted weapon near the
 entrance, which is about 15 meters away from you.
+
 Jesse: I'm going to take two actions. First, I'll shoot at one of the mercs
 with my laser riﬂe, and them I'm going to dodge out of the way.
+
 Gamemaster: Okay, you lose 1D from each action and you don't
 get the full defense bonus, since you're taking two actions.
+
 Jesse: (Rolls his character's ﬁrearms dice.) I rolled a 6 on the Wild
 Die! (Rolls the Wild Die again.) All right, that's a total of 21!
+
 Gamemaster: Let's see... he's at Short range, so there's no modiﬁer
 to the base combat difficulty of 10. You nailed him! Roll damage.
+
 Jesse: (Rolls her riﬂe's damage dice.) I rolled an 18.
+
 Gamemaster: (Using the Wounds system, he rolls the merc's
 Strength to resist the damage.) Whoops! I rolled a 1 on the Wild Die.
-That leaves a total of 2. Well, that's 16 points over the resistance total,.
+That leaves a total of 2. Well, that's 16 points over the resistance total.
 The optional damage bonus adds +2 and brings the total to 18. This
 deﬁnitely puts him at the Dead level! Your riﬂe shot catches him right
 in the chest and he's thrown backward into the wall. Okay, now make
 your dodge roll. (Note that if the gamemaster had decided to use the Body
 Points system, the merc would not have made a resistance roll, instead taking
 the full 18 points of damage.)
-Jesse: (Rolls his character's
-dodge dice.) Well, I rolled a 13, but
-something tell's me that's not going
-to be high enough, so I'm going to
+
+Jesse: (Rolls his character's dodge dice.) Well, I rolled a 13, but
+something tell's me that's not going to be high enough, so I'm going to
 spend a Character Point.
-Gamemaster: Okay, roll
-another die and add it.
-Jesse: (Rolls one more die.) I
-rolled a 5, so that's a total of 18.
+
+Gamemaster: Okay, roll another die and add it.
+
+Jesse: (Rolls one more die.) I rolled a 5, so that's a total of 18.
 I'll stick with that.
-Gamemaster: Okay, the mercs
-get to go now. The one rushing
-toward you ﬁres his riﬂe. (Checks
-range and then rolls the merc's
+
+Gamemaster: Okay, the mercs get to go now. The one rushing
+toward you ﬁres his riﬂe. (Checks range and then rolls the merc's
 ﬁrearms dice.) That's a 17.
-Jesse: I rolled an 18 for my
-dodge this round. Good thing I
+
+Jesse: I rolled an 18 for my dodge this round. Good thing I
 spent that Character Point!
-Gamemaster: That's right,
-so the merc's blaster bolt lances
-straight toward you and you just
-barely manage to jump out of the
+
+Gamemaster: That's right, so the merc's blaster bolt lances
+straight toward you and you just barely manage to jump out of the
 way. On to the next one...
 
-10
 
-> Damage
+Damage
+======
+
 What's in this Chapter
+----------------------
 
 Injury can come from all sides. This chapter describes two methods
 of ﬁguring out how hurt a character is, plus a few sources of damage
 other than weapons.
 
+
 Body Points versus Wound Levels
+-------------------------------
 
 The Body Points system has the advantage of a gradual fall into death
 and a more rapid healing process. The Wound levels system brings it
 on faster and is slower to heal. Which the gamemaster chooses to use
 depends on how deadly he wants the game.
-Furthermore, gamemasters should feel free further adjust the deadliness of their games by giving characters more or less Body Points or
+
+Furthermore, gamemasters should feel free further adjust the deadliness 
+of their games by giving characters more or less Body Points or
 Wound levels, by adding a modiﬁer to the damage resistance total, or
 by adjusting the effects of each Wound level.
 
+
 Damage and Body Points
+----------------------
 
 Once the player or gamemaster has her character's resistance total,
 subtract the attacker's damage total from the target's damage resistance
-total and subtract that number from the total Body Points the character has remaining. If the gamemaster chooses, she may compare the
+total and subtract that number from the total Body Points the character 
+has remaining. If the gamemaster chooses, she may compare the
 number of Body Points the character has remaining to the "Wound
 Level" table to determine what level of injury the defender sustained
 and what its effects on the character are.
+
 If the damage resistance total is greater than or equal to the damage
 total, the defender incurs no injuries (beyond an annoying bruise, a
 shallow scrape, a light burn, or dinged protective gear).
 
+
 Damage Resistance Total
+-----------------------
+
 The damage resistance total equals a roll of the target character's
 die codes from armor or Special Abilities (such as Attack Resistance)
-
-> Damage and Gamemaster
-Characters
-To reﬂect the average gamemaster's character's relative
-unimportance to the universe, gamemasters may wish to
-lower their Body Points or Wounds. For pure cannon fodder
-any damage over a roll of their Strength might cause them
-to keel over, while the main villain and her most important
-lieutenants should get the full complement.
-
-> Miscellaneous Damage
-Here is a small selection of various other harmful things
-that players may encounter during their adventures. Generally, no attack roll is necessary for any of these to affect a
-character, though a such roll would be required if a person
-could somehow attack with it. The gamemaster determines
-what, if any, beneﬁt armor and similar protection provides.
-Some equipment may even increase the damage! Damage is
-otherwise determined as per the combat rules.
-Except falling, all damage is done per round of close contact. The gamemaster may decide that certain types in certain
-situations also affect characters at a distance.
-Type
-Botulism (severe case)
-Cold (extreme)
-Cyanide (fatal dose)
-Electricity (standard wall outlet)
-Electricity (major power line)
-Falling
-(for fall of 3 meters or more)
-Fire (torch-size)
-Hydrochloric acid (undiluted, any amount)
-Radiation (intense)
-
-Damage
-4D
-1D
-8D+2
-1D
-9D
-1D per
-1.5 meters
-1D
-2D+1
-3D
-
-minus any modiﬁers from disease, ingested poisons, or other debilitating circumstances (such as an appropriate Hindrance). A player may
-improve his character's resistance total by spending Character Points
+minus any modiﬁers from disease, ingested poisons, or other 
+debilitating circumstances (such as an appropriate Hindrance). A player 
+may improve his character's resistance total by spending Character Points
 or a Fate Point on this roll.
+
 If the character has no armor or Special Abilities, then the character
 has a damage resistance total of zero, and the player makes no roll.
 However, they can still spend Character Points, using them as a base
@@ -8737,25 +8716,85 @@ his character's Strength. Totals determined from spending points are
 adjusted as normal, including negative and positive damage resistance
 modiﬁers.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> ### Damage and Gamemaster Characters ###
+>
+> To reﬂect the average gamemaster's character's relative
+> unimportance to the universe, gamemasters may wish to
+> lower their Body Points or Wounds. For pure cannon fodder
+> any damage over a roll of their Strength might cause them
+> to keel over, while the main villain and her most important
+> lieutenants should get the full complement.
+> 
+> ### Miscellaneous Damage ###
+>
+> Here is a small selection of various other harmful things
+> that players may encounter during their adventures. Generally, 
+> no attack roll is necessary for any of these to affect a
+> character, though a such roll would be required if a person
+> could somehow attack with it. The gamemaster determines
+> what, if any, beneﬁt armor and similar protection provides.
+> Some equipment may even increase the damage! Damage is
+> otherwise determined as per the combat rules.
+> 
+> Except falling, all damage is done per round of close 
+> contact. The gamemaster may decide that certain types in 
+> certain situations also affect characters at a distance.
+> 
+> *Type: Damage*
+>
+> Botulism (severe case): 4D
+> 
+> Cold (extreme): 1D
+> 
+> Cyanide (fatal dose): 8D+2
+> 
+> Electricity (standard wall outlet): 1D
+> 
+> Electricity (major power line): 9D
+> 
+> Falling (for fall of 3 meters or more): 1D per 1.5 meters
+> 
+> Fire (torch-size): 1D
+> 
+> Hydrochloric acid (undiluted, any amount): 2D+1
+> 
+> Radiation (intense): 3D
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 Stun Damage
+-----------
+
 For weapons that do stun damage, after the damage total is determined
 but before applying it, subtract a roll of the target's Strength or stamina
 from the damage total. If the victim suffers at least one point of damage,
-
-75
-
-Chapter 10
-
 that character goes unconscious for a number of minutes equal to the
 difference between the resistance total and the original damage total.
-Equipment that does stun damage only has no effect on inanimate, nonelectrical objects, though it does tend to disrupt electrical
+
+Equipment that does stun damage only has no effect on inanimate, 
+nonelectrical objects, though it does tend to disrupt electrical
 components.
+
+
+Damage and Wound Levels
+-----------------------
+
+Once the player or gamemaster has her character's resistance total,
+compare the damage total to a resistance total on the "Wound Level"
+table to determine how much injury the defender sustained and what
+its effects on the character are.
 
 If the damage resistance total is greater than or equal to the damage
 total, the defender incurs no injuries (beyond an annoying bruise, a
 shallow scrape, a light burn, or dinged protective gear).
 
-Damage and Wound Levels
+
+Damage Resistance Total
+-----------------------
 
 The resistance total equals the target character's Strength plus any
 bonuses from armor or Special Abilities (such as Increased Attribute:
@@ -8765,82 +8804,82 @@ appropriate Hindrance). Do not include any Wound level modiﬁer
 when attempting to resist damage. A character also may improve her
 resistance by spending Character Points or a Fate Point on this roll.
 
-Once the player or gamemaster has her character's resistance total,
-compare the damage total to a resistance total on the "Wound Level"
-table to determine how much injury the defender sustained and what
-its effects on the character are.
 
-Damage Resistance Total
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> Wound Levels
-Wounds*
-Body Points†
-Damage Total ≥
-Effect
-Resistance Total By:
-Body Points Left
-Stunned
-1-3
-80% - 60%
-Wounded
-4-8
-59% - 40%
-Severely Wounded
-4-8**
-39% - 20%
-Incapacitated
-9-12
-19% - 10%
-Mortally Wounded
-13-15
-1% - 9%
-Dead
-16 or more
-0
-*Note: Any additional damage less than the character's current level moves
-the character up by one level.
-**A character is moved to the Severely Wounded level if the difference is
-between 4 and 8 and she already has the Wounded level.
-†Note: This is an optional chart for those using Body Points. The "Body
-Points Left" column is based on the character's maximum Body Points. Round
-so that there is no overlap between levels.
-Penalties imposed by each level are not cumulative and they are not
-included when determining the stun or damage resistance total or any total
-not involving a skill or attribute.
-Stunned: Either receives -1D for all remaining actions this round and
-next round or may only defend or retreat in the next round.
-Wounded: -1D to all actions until healed.
-Severely Wounded: -2D on all actions until healed.
-Incapacitated: The character is severely injured. As a free action
-before losing consciousness, he may try to stay up with a Moderate (15)
-stamina or willpower roll. If the character succeeds, he may continue to
-act, but all actions have a -3D penalty. If he fails, he is knocked out for
-10D minutes.
-Mortally Wounded: The character is near death and knocked
-unconscious with no chance to keep up. Roll the character's Strength
-each round, the character ﬁnally dies if the roll is less than the number
-of minutes he's been at this level.
-Dead: The character is toast. Sorry.
-Fast Combat Option: Gamemasters who wish to give the players'
-characters and their major opponents an edge in battles, make the
-game more realistic, or simply save themselves trouble should apply the
-modiﬁers in the ﬁrst round of combat and then reassess the levels after
-combat is complete.
+> ### Wound Levels ###
+> 
+> Effect (Wounds = Damage Total ≥ Resistance Total By): Body Points Left
+> 
+> Stunned (1-3): 80% - 60%
+>
+> Wounded (4-8): 59% - 40%
+> 
+> Severely Wounded (4-8 and already wounded): 39% - 20%
+>
+> Incapacitated (9-12): 19% - 10%
+>
+> Mortally Wounded (13-15): 1% - 9%
+>
+> Dead (16 or more): 0
+>
+> Note: Any additional damage less than the character's current 
+> level moves the character up by one level.
+> 
+> This is an optional chart for those using Body Points. The "Body
+> Points Left" column is based on the character's maximum Body Points. 
+> Round so that there is no overlap between levels.
+>
+> Penalties imposed by each level are not cumulative and they are not
+> included when determining the stun or damage resistance total or any 
+> total not involving a skill or attribute.
+>
+> **Stunned:** Either receives -1D for all remaining actions this round and
+> next round or may only defend or retreat in the next round.
+>
+> **Wounded:** -1D to all actions until healed.
+>
+> **Severely Wounded:** -2D on all actions until healed.
+>
+> **Incapacitated:** The character is severely injured. As a free action
+> before losing consciousness, he may try to stay up with a Moderate (15)
+> stamina or willpower roll. If the character succeeds, he may continue to
+> act, but all actions have a -3D penalty. If he fails, he is knocked out for
+> 10D minutes.
+>
+> **Mortally Wounded:** The character is near death and knocked
+> unconscious with no chance to keep up. Roll the character's Strength
+> each round, the character ﬁnally dies if the roll is less than the number
+> of minutes he's been at this level.
+>
+> **Dead:** The character is toast. Sorry.
+>
+> Fast Combat Option: Gamemasters who wish to give the players'
+> characters and their major opponents an edge in battles, make the
+> game more realistic, or simply save themselves trouble should apply the
+> modiﬁers in the ﬁrst round of combat and then reassess the levels after
+> combat is complete.
 
-76
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 
 Stun Damage
+-----------
+
 For weapons that do stun damage, after the number of
 Wounds have been determined but before applying the level
 modiﬁers, reduce the weapon's damage by two Wound levels,
 with a minimum level of Stunned. The character also goes
 unconscious for a number of minutes equal to the difference
 between the resistance total and the damage total.
+
 Equipment that does stun damage only has no effect on
 inanimate, nonelectrical objects, though it does tend to disrupt
 electrical components.
 
+
 Unconsciousness and Death
+-------------------------
 
 If the character's Body Points reach a few points or he has
 attained the Mortally Wounded level but the character wasn't
@@ -8849,6 +8888,7 @@ and falls unconscious. Every round that the character is at this
 level, his player makes a Strength roll against a difficulty equal
 to the number of minutes the character has been Mortally
 Wounded.
+
 Sufficient medical aid to bring the character to at least 10%
 of his maximum Body Points can possibly rescue the imperiled
 character. If suitable medical aid is administered within four
@@ -8864,17 +8904,19 @@ to the number of minutes he was Mortally Wounded. If the roll
 succeeds, the character revives but he loses 2D from all of his
 skills, though no skill can be reduced below the attribute's die
 code. In any case, should the roll fail, the character dies.
+
 Characters who receive their total Body Points in additional
 damage after reaching zero Body Points cannot be revived (by
 normal means, anyway).
+
 Gamemasters who prefer a more rapid exit out of the
 mortal coil may ignore these rules, instead declaring that once
 the character reaches the Dead level or zero Body Points, the
 character is history.
 
-Damage
 
 Descriptive Damage
+------------------
 
 So a character is down by a few Body Points or has a couple of
 Wound levels -- so what? What does that mean in descriptive terms?
@@ -8882,16 +8924,24 @@ It depends on what caused the harm. The following list supplies some
 general guidelines for describing what might have happened to the
 character's body when he was hurt. Use the "Wound Levels" chart to
 decide on the character's current Wound level.
-Stunned: Moderate bruise or minor sprain; laceration; muscle tear;
+
+**Stunned:** Moderate bruise or minor sprain; laceration; muscle tear;
 minor dislocation of joint.
-Wounded: Severe abrasion or sprain; deep laceration; torn ligaments; major dislocation or minor break.
-Severely Wounded: Broken bone; gaping wound; ripped cartilage
+
+**Wounded:** Severe abrasion or sprain; deep laceration; torn ligaments; 
+major dislocation or minor break.
+
+**Severely Wounded:** Broken bone; gaping wound; ripped cartilage
 and muscle; concussion.
-Incapacitated: Multiple fracture; laceration in vital area; heavy
+
+**Incapacitated:** Multiple fracture; laceration in vital area; heavy
 concussion.
-Mortally Wounded: Above options combined with multiple
+
+**Mortally Wounded:** Above options combined with multiple
 internal injuries.
-Dead: Broken neck; punctured lung; eviscerated.
+
+**Dead:** Broken neck; punctured lung; eviscerated.
+
 These are just a few examples. Really interested gamemasters can
 come up with charts, tables, or detailed descriptions of damage for
 those players who absolutely must know. The gamemaster may also
@@ -8899,8 +8949,9 @@ assign different modiﬁers than the general ones listed in the "Wound
 Levels" sidebar that more appropriately indicate the type of injury
 that was suffered.
 
-Negative Damage
-Resistance Total
+
+Negative Damage Resistance Total
+--------------------------------
 
 It is possible for the damage resistance total to be a negative number.
 Metaphysical feedback, Disadvantages, poisons, and sickness can all
@@ -8908,26 +8959,6 @@ contribute negative modiﬁers that might take the damage resistance
 total below zero. In this case, the character's body is working against
 him, compounding the additional damage done. Gamemasters have
 three options for handling this: (1) They may use the negative damage
-
-> Adjusting the Deadliness
-Changing the Body Points system is fairly obvious: More
-Body Points lead to longer character life spans, while fewer
-points bring about the end quicker. Altering the Wound level
-system is a little more involved and can be handled in a few
-different ways.
-Gamemasters who want to add Wound levels may include
-additional versions of the same level, similar to the way
-Wounded and Severely Wounded are handled currently.
-Alternatively, they may add additional levels between each
-one by spreading out the points currently needed to reach
-each level, or even add further point levels between Mortally
-Wounded and Dead.
-Gamemasters who wish to remove Wound levels may
-include the lower limit of a deleted level in the next level
-up or the upper limit in the next level down. Or they may
-simply take levels out of the bottom and shift all remaining
-levels down.
-
 resistance total as a positive bonus to all difficulties until the character
 is healed. (2) They may have the negative damage resistance total
 add positively to the amount of injury caused. This is a good method
@@ -8936,7 +8967,35 @@ gamemaster's characters out of the way. (3) Have the damage resistance
 total equal zero. This last way works best for adventures of the comic
 book or action ﬂick types.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> ### Adjusting the Deadliness ###
+> Changing the Body Points system is fairly obvious: More
+> Body Points lead to longer character life spans, while fewer
+> points bring about the end quicker. Altering the Wound level
+> system is a little more involved and can be handled in a few
+> different ways.
+> 
+> Gamemasters who want to add Wound levels may include
+> additional versions of the same level, similar to the way
+> Wounded and Severely Wounded are handled currently.
+> Alternatively, they may add additional levels between each
+> one by spreading out the points currently needed to reach
+> each level, or even add further point levels between Mortally
+> Wounded and Dead.
+> 
+> Gamemasters who wish to remove Wound levels may
+> include the lower limit of a deleted level in the next level
+> up or the upper limit in the next level down. Or they may
+> simply take levels out of the bottom and shift all remaining
+> levels down.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 Massive Damage Option
+---------------------
 
 If a character incurs two Wound levels within a single round, not
 only do the normal modiﬁers for the greatest level apply, the character
@@ -8948,9 +9007,13 @@ round, then the character takes the multi-action penalty. If not, and
 the stamina or willpower roll is successful, the character may act as
 normal in the next round.
 
+
 Killing Blow Option
+-------------------
+
 An attack or series of attacks can cause enough injury that the
-target may never recover from the harm except through metaphysical or other extraordinary or supernatural measures. Called a killing
+target may never recover from the harm except through metaphysical or 
+other extraordinary or supernatural measures. Called a killing
 blow, targets with Body Points must take a damage total equal to 91%
 of the character's maximum Body Points in one blow or 100% of the
 character's maximum Body Points in a single round. With Wound
@@ -8960,19 +9023,23 @@ damage total after subtracting the damage resistance total to determine
 whether the attack delivered a killing blow. When the target receives a
 killing blow, he immediately dies.
 
-77
 
-11
+Healing
+=======
 
-> Healing
 What's in this Chapter
+----------------------
 
 There are many different ways that characters can regain their health.
 Characters may never get back more than their maximum number of
 Body Points or Wounds.
 
+
 Body Points
-Natural Healing
+-----------
+
+### Natural Healing ###
+
 The body heals naturally during the course of the day. The more
 rest characters get, the faster their wounds heal. Using the"Body Points
 Healing" chart, the character rolls her Strength plus any appropriate
@@ -8983,6 +9050,7 @@ involved in light activity, such as walking or singing, the modiﬁer is
 zero. However, if most of the day is spent ﬁghting and running, the
 modiﬁer is -1D. The character receives the Body Points back at the
 beginning of the next day.
+
 Optionally, the gamemaster may require an injured character to
 complete a period of rest before making the natural healing roll. Use
 the "Rest Period" chart and the character's Wound level to determine
@@ -8990,171 +9058,178 @@ how long the character needs to wait before attempting the natural
 healing roll. The gamemaster then multiplies the result by 3 to ﬁgure
 out how many Body Points were healed.
 
-Skill
 
-> Body Points Healing
-Medicine or Strength
-Total
-0
-1-5
-6-10
-11-15
-16-20
-21-25
-26-30
-30+
-
-78
-
-Body Points
-Recovered
-0
-2
-1D
-2D
-3D
-4D
-5D
-6D
+### Skill ###
 
 Characters can heal others or themselves with some basic ﬁeld
 procedures for treating wounds. Such attempts don't require a medical kit. Simply roll medicine to help an injured comrade, and ﬁnd the
 results on the "Body Points Healing" chart. A successful roll heals the
 character the listed amount. A character using a medical kit may add
 its bonus to the roll.
+
 A character may only attempt to heal a patient once per day. Other
 characters may also try to help the patient, adding their expertise to
 the ﬁrst healer's.
 
-Healing
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> ### Body Points Healing ###
+> 
+> *Medicine or Strength Total: Body Points Recovered*
+> 
+> 0: 0
+> 
+> 1-5: 2
+> 
+> 6-10: 1D
+> 
+> 11-15: 2D
+> 
+> 16-20: 3D
+> 
+> 21-25: 4D
+> 
+> 26-30: 5D
+> 
+> 30+: 6D
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 
 Wounds
+------
 
-> Wounds Healing
+### Natural Healing ###
 
-Natural Healing
 A character can heal naturally, but this process is slow. The
 character must rest a speciﬁed amount of time and then can make
 a natural healing roll: roll the character's full Strength plus any
 appropriate Special Abilities or Disadvantages. Then ﬁnd the result
 on the chart related to the character's current Wound level to see
 if the character heals.
+
 Healing characters can do virtually nothing but rest. Characters
 who try to work, exercise, or adventure must subtract 1D from their
 Strength when they makes their natural healing roll. Any character
-who opts to take it easy and do virtually nothing for twice the necessary time may add 1D to the Strength roll to heal.
+who opts to take it easy and do virtually nothing for twice the 
+necessary time may add 1D to the Strength roll to heal.
 
-Skill
+
+### Skill ###
+
 Characters can heal others or themselves with some basic ﬁeld
-procedures for treating wounds. Such attempts don't require a medical kit. Simply roll medicine to treat wounds in the ﬁeld, and ﬁnd the
+procedures for treating wounds. Such attempts don't require a medical 
+kit. Simply roll medicine to treat wounds in the ﬁeld, and ﬁnd the
 results on the Assisted Healing chart.
+
 A successful roll heals the character up one level: for instance, a
 successful medicine roll on someone who's Wounded would bring
 him back to Stunned. A character using a medical kit may add its
 bonus to the roll.
+
 A character may only attempt to heal a patient once per day.
 Other characters may also try to help the patient, adding their
 expertise to the ﬁrst healer's.
 
-Natural
 
-Stunned
-A stunned wound is automatically recovered after one minute
-(12 rounds) of complete rest.
-Wounded
-Strength Roll
-Critical Failure
-2-5
-6+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Result
-Character worsens to Severely Wounded.
-Character remains Wounded.
-Character is fully healed.
+> ### Wounds Healing -- Natural ###
+> 
+> Stunned: A stunned wound is automatically recovered after one minute
+> (12 rounds) of complete rest.
+>
+> *Wounded Strength Roll: Result*
+>
+> * Critical Failure: Character worsens to Severely Wounded.
+> 
+> * 2-5: Character remains Wounded.
+>
+> * 6+: Character is fully healed.
+> 
+> *Severely Wounded Strength Roll: Result*
+> 
+> * Critical Failure: Character worsens to Incapacitated.
+>
+> * 2-5: Character remains Severely Wounded.
+>
+> * 6+: Character improves to Wounded.
+>
+> *Incapacitated Strength Roll: Result*
+>
+> * Critical Failure: Character worsens to Mortally Wounded.
+>
+> * 2-7: Character remains Incapacitated.
+>
+> * 8+: Character improves to Severely Wounded.
+>
+> *Mortally Wounded Strength Roll: Result*
+>
+> * Critical Failure: Character dies.
+>
+> * 2-7: Character remains Mortally Wounded.
+>
+> * 8+: Character improves to Incapacitated.
+>
+>
+> ### Wounds Healing -- Assisted ###
+>
+> *Injury Level: Difficulty*
+>
+> * Stunned, unconscious: Easy (10)
+>
+> * Wounded, Severely Wounded: Moderate (15)
+>
+> * Incapacitated: Difficult (20)
+>
+> * Mortally Wounded: Very Difficult (25)
+>
+>
+> ### Rest Period ###
+>
+> *Level of Wound: Rest Period*
+> 
+> * Stunned (Those using Body Points should use this level
+> for characters who have no Wound level.): 1 minute
+> 
+> * Wounded: 3 days
+> 
+> * Severely Wounded: 3 days
+> 
+> * Incapacitated: 2 weeks
+> 
+> * Mortally Wounded: 5 weeks
+> 
+>
+> ### Rest Period Example ###
+> 
+> A character at the Stunned Wound level may
+> make a natural healing roll for Body Points or heal
+> the Stunned level once she's rested for a minute.
+> After recovering, should the character get to the
+> Stunned level again, the character may make
+> another natural healing attempt after the minute
+> of rest. However, if the character moves to the
+> Wounded level, she may not make her natural
+> healing roll until she's rested for three days.
 
-Severely Wounded
-Strength Roll
-Result
-Critical Failure
-Character worsens to Incapacitated.
-2-5
-Character remains Severely Wounded.
-6+
-Character improves to Wounded.
-Incapacitated
-Strength Roll
-Critical Failure
-2-7
-8+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Result
-Character worsens to Mortally Wounded.
-Character remains Incapacitated.
-Character improves to Severely Wounded.
 
-Mortally Wounded
-Strength Roll
-Result
-Critical Failure
-Character dies.
-2-7
-Character remains Mortally Wounded.
-8+
-Character improves to Incapacitated.
+Combat Options
+==============
 
-Assisted
-
-> Rest Period
-Level of Wound
-Stunned*
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-
-Rest Period
-1 minute
-3 days
-3 days
-2 weeks
-5 weeks
-
-Injury Level
-Stunned, unconscious
-Wounded, Severely Wounded
-Incapacitated
-Mortally Wounded
-
-Difficulty
-Easy (10)
-Moderate (15)
-Difficult (20)
-Very Difficult (25)
-
-*Those using Body Points should use this level
-for characters who have no Wound level.
-
-Rest Period Example
-A character at the Stunned Wound level may
-make a natural healing roll for Body Points or heal
-the Stunned level once she's rested for a minute.
-After recovering, should the character get to the
-Stunned level again, the character may make
-another natural healing attempt after the minute
-of rest. However, if the character moves to the
-Wounded level, she may not make her natural
-healing roll until she's rested for three days.
-
-79
-
-> Combat Options
 What's in this Chapter
+----------------------
 
 Players sometimes want their characters to do some pretty fancy
 maneuvers during combat. This chapter offer guidance with several
 common ones.
 
+
 Using the Modiﬁers
+------------------
 
 All modiﬁers listed in this chapter and in the "Combat" chapter are
 cumulative, though the gamemaster doesn't need to include all of them.
@@ -9163,45 +9238,21 @@ The gamemaster rolls the indicated modiﬁer and adds it to the
 combat situation. A standard modiﬁer is included in parentheses after
 the die modiﬁer, should the gamemaster prefer not to roll.
 
+
 Firearms Options
+----------------
 
 Burst Fire as Single: A character may perform this attack only with
 a weapon capable of burst ﬁre (like an assault riﬂe) and switching to
 single ﬁre. The ﬁrer ﬁres only one shot instead of a burst; it is primarily
 used to conserve ammunition.
+
 Full Auto: This attack is only possible with weapons that can ﬁre
 at fully automatic settings (such as assault riﬂes, submachine guns, and
 machine guns). Since the character takes time to"hold down the trigger"
 and pump ammo into the air, the extra"to hit" and"damage" bonuses are
 somewhat compensated for by the modiﬁer to the character's defensive
 value during the round he is performing a full auto attack.
-
-12
-
-Brawling/Melee Combat Options
-
-Acrobatic Tricks: Acrobatics can also enhance brawling and melee
-combat attacks. The character must perform the acrobatics trick and
-the attack on the same turn. The gamemaster determines the exact
-difficulty of the acrobatics attempt. The player may add one-half of
-the difference (rounded up) between the difficulty and the successful
-acrobatics roll to the amount of damage done (not to the combat skill
-roll). One acrobatics trick roll can affect one attack only.
-All-out: The character attacks with no thought to the consequences.
-This maneuver increases the chance of the character striking the target,
-but, in that round, the attacker cannot perform any other action at all
--- not even to actively defend.
-Lunge: The character takes a step forward to jab at an opponent,
-usually with an edged weapon. This adds about a half-meter (more or
-less depending on the stride) to the range of the attack, but it lowers
-the effectiveness of the attack.
-Knockdown/Push/Trip: Using brawling or a blunt melee weapon
-in the usual way, the attacker causes his target to stumble and, instead
-of taking damage, the opponent loses 2D from her next Agility or Agility-based skill roll. If this is a knockdown or trip attempt, she must also
-spend one action to stand up again. Generally, unless the character has
-special training, he may only knockdown or push a character whose
-Strength (including Special Abilities or Disadvantage modiﬁers) is
-equal to or less than his own.
 
 Single Fire as Multi: The character ﬁres a weapon several times in a
 round at the same target. The most common example is when someone
@@ -9214,10 +9265,6 @@ hit a target, as well as the damage. It does not count as a multi-action
 as long as the shot is taken at the same target. One target, one die roll,
 one damage total.
 
-Sweep: These attacks, usually foot sweeps or roundhouses, are used
-when the character wants to make certain she hits the target, regardless
-of how much injury is caused.
-
 Sweep (Ranged): The character wants to"spray an area" with ammo.
 Only characters with weapons that go full auto, burst, or single ﬁre
 as multi (in general, just about any automatic weapon) can perform
@@ -9226,15 +9273,40 @@ whichever setting is used. They gain a positive modiﬁer to hit (because
 of the sheer volume of shots), but this "non-targeted" attack results in
 a lower damage total.
 
-Grab: The attacker physically grasps a target. Few melee weapons
-allow this option, so it is used generally only in brawling attacks. What
-effect this has on the target depends on the type of grab. (The ones
-listed here are choke, ﬂip, hold, slam/throw, and arm pin.) See the escape
-rules in this chapter for details on getting out of grabs. On subsequent
-rounds of a grab, the attacker may do his Strength Damage only (no
-modiﬁers except those from Special Abilities or equipment) if he
 
-80
+Brawling/Melee Combat Options
+-----------------------------
+
+Acrobatic Tricks: Acrobatics can also enhance brawling and melee
+combat attacks. The character must perform the acrobatics trick and
+the attack on the same turn. The gamemaster determines the exact
+difficulty of the acrobatics attempt. The player may add one-half of
+the difference (rounded up) between the difficulty and the successful
+acrobatics roll to the amount of damage done (not to the combat skill
+roll). One acrobatics trick roll can affect one attack only.
+
+All-out: The character attacks with no thought to the consequences.
+This maneuver increases the chance of the character striking the target,
+but, in that round, the attacker cannot perform any other action at all
+-- not even to actively defend.
+
+Lunge: The character takes a step forward to jab at an opponent,
+usually with an edged weapon. This adds about a half-meter (more or
+less depending on the stride) to the range of the attack, but it lowers
+the effectiveness of the attack.
+
+Knockdown/Push/Trip: Using brawling or a blunt melee weapon
+in the usual way, the attacker causes his target to stumble and, instead
+of taking damage, the opponent loses 2D from her next Agility or 
+Agility-based skill roll. If this is a knockdown or trip attempt, she 
+must also spend one action to stand up again. Generally, unless the 
+character has special training, he may only knockdown or push a character 
+whose Strength (including Special Abilities or Disadvantage modiﬁers) is
+equal to or less than his own.
+
+Sweep: These attacks, usually foot sweeps or roundhouses, are used
+when the character wants to make certain she hits the target, regardless
+of how much injury is caused.
 
 Tackle: Tackling is much like grabbing, except that the attacker
 seeks to overcome the target entirely. Characters may perform this with
@@ -9244,19 +9316,28 @@ The target, meanwhile, may make no actions other than attempt to
 escape (see the escape rules herein). On subsequent rounds, the attacker
 may choose to do her Strength Damage only (no modiﬁers).
 
-Combat Options
-
+Grab: The attacker physically grasps a target. Few melee weapons
+allow this option, so it is used generally only in brawling attacks. What
+effect this has on the target depends on the type of grab. (The ones
+listed here are choke, ﬂip, hold, slam/throw, and arm pin.) See the escape
+rules in this chapter for details on getting out of grabs. On subsequent
+rounds of a grab, the attacker may do his Strength Damage only (no
+modiﬁers except those from Special Abilities or equipment) if he
 defeats the victim's escape attempt or if the defender chooses not to
 resist. Some grab variations may offer other options.
+
 Choke: Ropes and hands can cut off the target's source of air. Damage
 on the ﬁrst round equals the character's Strength Damage plus any modiﬁers. See the general grab rules for damage on subsequent rounds.
+
 Flip: The character reaches out, grabs his opponent's wrist, arm, leg,
 or similar body part, and jerks violently, causing the opponent to fall to
 the ground. The opponent takes 3D in damage from slamming into the
 ground and must spend the next round getting to her feet (if she can).
+
 Hold: The character does less damage (-3D or more, at the player's
 option, to the damage total), but she has hold of the target with a
 successful attack.
+
 Slam/Throw: The character grabs or picks up his opponent and
 hurls him into the ground, a wall, a bus, or another obstacle. Lifting the
 opponent counts as an action (using the lift skill), as does slamming or
@@ -9266,39 +9347,49 @@ Once slammed into an object, the target takes the damage score of
 the object (usually determined by its Toughness, but the gamemaster
 may adjust this) plus the attacker's Strength Damage. The object being
 slammed into takes the Strength Damage of the opponent.
+
 Arm Pin: The hero grabs his target's arm and forces it around
 behind her, pinning it there. After the ﬁrst round, the player has
 three choices as to what his character can do. Each option counts as
 a separate action.
-> Option 1: The character does his Strength Damage only for each
+
+* Option 1: The character does his Strength Damage only for each
 round he has the arm pinned.
-> Option 2: The character tries to break the opponent's arm. The
+
+* Option 2: The character tries to break the opponent's arm. The
 attacker must make a successful Strength or lift roll versus a breaking
 difficulty.
+
 Against an opponent who does not resist, the difficulty equals 2
 times the target's Strength or lift die code plus the pips plus any relevant
 protection. Failing to beat the breaking difficulty in this case means
 the target takes damage as in option 1.
+
 Should the target chooses to resist, she may make no other action
 in the round, but she may move her turn up. Instead, the player rolls
 her character's Strength or lift and adds 5 and any relevant protection
 to the total to generate the breaking difficulty. Failure by the attacker
 to beat the breaking difficulty in this case means that the target escapes
 and may freely take action on the next round.
-> Option 3: The character may attempt to force the target to the
+
+* Option 3: The character may attempt to force the target to the
 ground while maintaining his hold on the arm. The attacker rolls his
 brawling against a submission difficulty.
+
 If the opponent does not resist, the submission difficulty equals 2
 times her Agility die code, dropping the pips. Failing to beat the breaking
 difficulty in this case means the target takes damage as in option 1.
+
 If the target chooses to resist, the opponent may make no other
 action in the round, though she may move her turn up. Instead, the
 player rolls her character's Agility and adds 5 and any relevant modiﬁers to the total to generate the submission difficulty. Failure by the
 attacker to beat the difficulty in this case means that the target escapes
 and may freely take action on the next round.
 
-Additional Combat Options
-Called Shot
+
+Additional Combat Options -- Called Shot
+----------------------------------------
+
 The character chooses a speciﬁc target, like a laster pistol in a bounty
 hunter's hand, and aims for that. A called-shot modiﬁer represents
 the difficulty of this (see the table on page 82), which is added to the
@@ -9306,6 +9397,7 @@ combat difficulty. On a successful attack, he knocks the item out of the
 target's hand, grabs the limb, pins the target to a wall, or does +1D (or
 more, at the gamemaster's discretion) to the damage. The exact result
 depends on the situation and the player's intent.
+
 
 > Combat Difﬁculty Modiﬁers
 Option
