@@ -9398,35 +9398,27 @@ target's hand, grabs the limb, pins the target to a wall, or does +1D (or
 more, at the gamemaster's discretion) to the damage. The exact result
 depends on the situation and the player's intent.
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> Combat Difﬁculty Modiﬁers
-Option
-
-Firearms
-
-Difficulty
-Modiﬁer
-
-Damage
-Modiﬁer
-
-Burst ﬁre as single
-0
--2D
-Full auto
--2D (-6)
-+2D
-Single ﬁre as multi
--1D (-3)*
-+1D*
-Sweep
--2D (-6)
--3D
-* Modiﬁers are per additional round of ammunition, up to
-maximum that the weapon holds.
-
-Brawling, Melee Combat
-All-out
+> ### Combat Difﬁculty Modiﬁers ###
+> 
+> *Option: Difficulty Modiﬁer: Damage Modiﬁer*
+> 
+> **Firearms**
+> 
+> Burst ﬁre as single: 0: -2D
+>
+> Full auto: -2D (-6): +2D
+>
+> Single ﬁre as multi: -1D (-3): +1D (Note: Modiﬁers are per additional 
+> round of ammunition, up to maximum that the weapon holds.)
+> 
+> Sweep: -2D (-6): -3D
+>
+>
+> **Brawling, Melee Combat**
+>
+> All-out
 Grab
 Lunge
 Knockdown, trip
@@ -9483,15 +9475,19 @@ combat difficulty.
 > The target is blind or blinded or attacked from behind:
 -4D (-12) to the combat difficulty.
 
-81
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Chapter 12
 
 Breaking Things
+---------------
+
 Use the demolitions skill guidelines in the"Example Skill Difficulties"
 chapter for determining the effect of damage on items.
 
+
 Disarm
+------
+
 If the disarm attempt is successful and the target character has not
 made an action yet, she may move up her action to try and keep a grip
 on the item she's holding. The defending character makes a Strength
@@ -9499,8 +9495,12 @@ or lift roll against the amount of damage done. If the defender's roll is
 greater than the damage, the target character retains the item. If it is
 less than or equal to the damage, she drops it.
 
+
 Entangle
-A hero throws an entangling weapon at her opponent. On a successful ﬁrearms, missile weapons, or throwing roll (as appropriate), the
+--------
+
+A hero throws an entangling weapon at her opponent. On a successful 
+ﬁrearms, missile weapons, or throwing roll (as appropriate), the
 end of the weapon wraps itself around the target. Unless the weapon is
 spiked, electriﬁed, or enhanced in some other way, it does no damage,
 but it prevents the target from doing any action except for trying to
@@ -9510,232 +9510,173 @@ make a Strength or lift roll that meets or beats the damage total of the
 weapon. To slip free, he needs to roll an Agility or acrobatics
 total equal to or higher than the weapon's damage total.
 
+
 Escape
+------
+
 To break free from any hold, the character must make
 a successful opposed Strength or lift roll versus the holder's
 Strength or lift. This counts as an action.
 
+
 Group Attack
+------------
+
 This is a coordinated action. See the description of the
 command skill in the next chapter for details.
 
+
 Hit Locations
+-------------
+
 Hit locations are a special kind of called shot that allows
 a character to shoot or strike a speciﬁc point on his target's
-body. The table is used to determine the modiﬁers for hitting a target of Human proportions in different areas of
+body. The table is used to determine the modiﬁers for hitting a 
+target of Human proportions in different areas of
 his body. Note that aiming at an arm or leg actually causes
 less damage -- this is because the character took extra care
 to shoot an area that is "less vital."
 
+
 Knockout
+--------
+
 This option does only half of the normal damage, but
 it can render the target immediately unconscious with a
 successful attack. It requires a successful called shot to the
 head. If, after the resistance total has been subtracted, the
 target sustains at least two Wound levels or 50% of his
-maximum Body Points in damage, then he falls unconscious for a number of hours equal to difference between
+maximum Body Points in damage, then he falls unconscious for a 
+number of hours equal to difference between
 the combat skill total and the combat difficulty or until
 he's awoken by some external force, whichever comes ﬁrst.
+The target receives only half the Wound levels or Body Point 
+damage inﬂicted (round down).
 
-82
-
-The target receives only half the Wound levels or Body Point damage
-inﬂicted (round down).
 
 Multiple Weapons
+----------------
+
 Weapons that characters can use with one hand and in either hand,
 such as knives or most guns, may be employed at the same time in the
 same round. The character incurs a multi-action penalty.
 
+
 Prone and Crouching
+-------------------
+
 Attacking a target that is crouched on the ground adds 1D (3) to
 the combat difficulty. If the target is moving while crouching, then the
 combat difficulty increases by +2D (+6), but the defending character's
 normal Move, free Move, or running roll is halved.
+
 For prone targets, subtract 2D (6) from the combat difficulty when
 attacking at Point Blank or Short range, but add 2D (6) to combat
 difficulty when attacking at Medium or Long range.
+
 Characters who willingly get low to the ground or make themselves
 small may get into and out of the position as a free action. However,
 character forced into that position, such as a result of being thrown,
 need to make an effort to stand, which counts as an action.
 
-> Hit Locations
-Modiﬁers
 
-Option
-Head
-Heart
-Chest, abdomen
-Left or right arm
-Left or right leg
-Left or right hand
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Difficulty
-Modiﬁer
-+1D (+5)
-+4D (+15)
-0
-+1D (+5)
-+1D (+5)
-+4D (+15)
+> ### Hit Locations Modiﬁers ###
+> 
+> *Option: Difficulty Modiﬁer: Damage Modiﬁer*
+> 
+> **Head:** +1D (+5): +12
+> 
+> **Heart:** +4D (+15): +12
+> 
+> **Chest, abdomen:** 0:** 0
+> 
+> **Left or right arm:**  +1D (+5): -2
+> 
+> **Left or right leg:**  +1D (+5): -1
+> 
+> **Left or right hand:** +4D (+15): -2
+> 
+> 
+> ### Hit Locations Effects ###
+>
+> At the gamemaster's discretion, sufficient damage to a particular hit 
+> location can affect the target's ability to use that part. Except for 
+> blows to the chest, the modiﬁer lasts until the character heals that 
+> portion (which typically takes a few days, as Body Points or Wounds 
+> are recovered for the body as a whole, not just a speciﬁc part). 
+> When the medicine skill or a healing effect is applied, it can be 
+> speciﬁed to repair one particular location.
+> 
+> Hit location modiﬁers are in addition to Wound level modiﬁers. If 
+> you are using them instead of the Wound level modiﬁers, then 
+> all -1 modiﬁers increase to -1D modiﬁers.
+> 
+> **Chest:** The character can do no more than passively defend in the next
+> round.
+> 
+> **Foot or leg:** -1 to all acrobatics, sneak, movement, and initiative 
+> totals.
+> 
+> **Hand or arm:** -1 to all acrobatics, brawling, climb/jump, melee combat,
+> missile weapons, sleight of hand, throwing, lift, and any other rolls 
+> involving the hand or arm.
+> 
+> **Head:** -1 to all Knowledge, Perception, and initiative totals.
 
-Damage
-Modiﬁer
-+12
-+12
-0
--2
--1
--2
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Effects
-At the gamemaster's discretion, sufficient damage to a particular hit location can affect the target's ability to use that part. Except for blows to the
-chest, the modiﬁer lasts until the character heals that portion (which typically
-takes a few days, as Body Points or Wounds are recovered for the body as a
-whole, not just a speciﬁc part). When the medicine skill or a healing effect
-is applied, it can be speciﬁed to repair one particular location.
-Hit location modiﬁers are in addition to Wound level modiﬁers. If you
-are using them instead of the Wound level modiﬁers, then all -1 modiﬁers
-increase to -1D modiﬁers.
-Chest: The character can do no more than passively defend in the next
-round.
-Foot or leg: -1 to all acrobatics, sneak, movement, and initiative totals.
-Hand or arm: -1 to all acrobatics, brawling, climb/jump, melee combat,
-missile weapons, sleight of hand, throwing, lift, and any other rolls involving
-the hand or arm.
-Head: -1 to all Knowledge, Perception, and initiative totals.
-
-Combat Options
 
 Quick Draw
+----------
 
-accompanying chart as a guide for determining
-the appropriate value for the two combat participants. Gamemasters may further subdivide
-between levels.
-If both opponents are either larger than
-or equal to a Human or smaller than or equal
-to a Human, subtract the larger number from
-the smaller one to calculate the scale modiﬁer.
-If one opponent is smaller than a Human
-while the other is larger, then add together
-the two values.
-For most cases, use these rules: If the
-attacker is larger than the defender, then the
-scale modiﬁer is added to the combat difficulty
-and the damage total. If the attacker is smaller
-than the defender, then the scale modiﬁer is
-added to the attacker's combat skill total and
-the defender's damage resistance total.
 
-> Scale
+
+ 
 
 This option allows the character to act
 rapidly or draw and ﬁre a weapon in the same
-Participant Size
-Value
 round as one action. The character may use any
-Small moon
-96
 combat skill or appropriate specialization. If
-Star freighter
-50
 she is also using a weapon, it must be suitable
-Space yacht
-46
 for quick drawing (a bow and arrow, a loaded
-Eight-story building
-24
 pistol, a dagger, a shuriken).
-Four-story building
-20
-Before initiative is rolled, the player must
-Two-story house
-14
-announce that she intends for her character to
-Tank
-10
-draw her weapon quickly. The player may then
-Average personal transport
-6
-take some of the skill dice and add them to the
-Motorcycle
-3
-Perception die code for purposes of increasing
-Average Human
-0
-initiative for that round only. The player must
-Small Human child
-3
-Briefcase
-6
-leave at least 1D in her skill. If the character
-Laser pistol
-9
-wants to make multiple attacks, she subtracts
-Palm computer
-12
-1D for each attack beyond the ﬁrst from the
-Cred-key
-15
-number of dice in the skill she's using before
-Example: *A smuggler has snuck into a
-Computer
-chip
-21
-the player moves dice around. She does not
-warehouse
-guarded by miniature robots.
-take a penalty for the draw.
-The
-robots
-have
-a scale value of 6. With the
-All attacks by the hero in the same round
-smuggler'
-s
-scale
-value
-of the zero, the scale
-must be made with the same skill, though the
-modiﬁer
-is 6 (6 - 0).
-Because the robot is smaller than the smuggler, results are determined 
-differently and they all occur at the same die the robot gets a +6
-to its ﬁrearms roll, while the  smuggler gets a +6 code because the 
-multi-action penalty was already ﬁgured in.
 
-to her damage resistance total. When the smuggler attacks the robot,
+Before initiative is rolled, the player must
+announce that she intends for her character to
+draw her weapon quickly. The player may then
+take some of the skill dice and add them to the
+Perception die code for purposes of increasing
+initiative for that round only. The player must
+leave at least 1D in her skill. If the character
+wants to make multiple attacks, she subtracts
+1D for each attack beyond the ﬁrst from the
+number of dice in the skill she's using before
+the player moves dice around. She does not
+take a penalty for the draw.
+
+All attacks by the hero in the same round
+must be made with the same skill, though the
+results are determined differently and they all occur at the same die
+code because the multi-action penalty was already ﬁgured in.
+
 Example: *Two mercenaries face each other in a stand-off. One of
-the scale modiﬁer is added to the smuggler's combat difficulty and to
 the mercenaries has 4D in Perception and 8D in ﬁrearms. He may take
-her damage total, if she manages to shoot it.
 up to 7D and add it to his Perception die code to determine initiative.
-In some cases, the object may be large but lightly constructed (such
 The mercenary, however, wants to ﬁre twice. After subtracting 1D for
-as
-a
-parade balloon). At these times, the gamemaster should not add
 the extra attack, he now has 7D in the skill, which allows him to add
-the
-scale
-modiﬁer to the damage resistance total.
 up to 6D to the initiative roll. He decides to move only 3D. This gives
-Typically,
-a weapon's scale when determining how much damage it
 him 7D in Perception to determine initiative and 4D in ﬁrearms. Now
-does
-is
-the
-same
-as the person holding it or the thing it's mounted on.
-both mercenaries make their initiative rolls.
-So, a riﬂe has a scale value of 0, while a full-size tank's gun has a scale
+both mercenaries make their initiative rolls.*
+
 Once initiative is determined, at the character's turn in the round,
-of 10. These would differ if someone targeted just the weapon.
 he uses the remaining dice in the skill to determine his accuracy.
 
+
 Ready a Weapon
+--------------
+
 It takes one action per item to draw a gun, unsheathe a knife, reload
 a riﬂe, or something similar. Although this generally does not require
 a skill roll, the gamemaster may require one related to the weapon in
@@ -9744,19 +9685,101 @@ using the weapon in the same round incurs a multi-action penalty. The
 gamemaster may add further modiﬁers for attempting to get out an
 item from a restrictive location or ready an unwieldy weapon.
 
+
 Scale
+-----
+
 Occasionally, objects of vastly different sizes get involved in ﬁghts.
 The scale modiﬁer accounts for the fact that bigger items are easier
 to hit, and usually can take more damage, than smaller ones. Use the
+accompanying chart as a guide for determining
+the appropriate value for the two combat participants. Gamemasters 
+may further subdivide between levels. 
+
+If both opponents are either larger than or equal to a Human or 
+smaller than or equal to a Human, subtract the larger number from 
+the smaller one to calculate the scale modiﬁer. If one opponent is 
+smaller than a Human while the other is larger, then add together 
+the two values.
+
+For most cases, use these rules: If the attacker is larger than the 
+defender, then the scale modiﬁer is added to the combat difficulty
+and the damage total. If the attacker is smaller than the defender, 
+then the scale modiﬁer is added to the attacker's combat skill total 
+and the defender's damage resistance total.
+
+Example: *A smuggler has snuck into a warehouse guarded by miniature 
+robots. The robots have a scale value of 6. With the smuggler's scale 
+value of zero, the scale modiﬁer is 6 (6 - 0). Because the robot is 
+smaller than the smuggler, the robot gets a +6 to its ﬁrearms roll, 
+while the smuggler gets a +6 to her damage resistance total. When the 
+smuggler attacks the robot, the scale modiﬁer is added to the 
+smuggler's combat difficulty and to her damage total, if she 
+manages to shoot it.
+
+In some cases, the object may be large but lightly constructed (such
+as a parade balloon). At these times, the gamemaster should not add
+the scale modiﬁer to the damage resistance total.
+
+Typically, a weapon's scale when determining how much damage it
+does is the same as the person holding it or the thing it's mounted on.
+So, a riﬂe has a scale value of 0, while a full-size tank's gun has a scale
+of 10. These would differ if someone targeted just the weapon.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> ### Scale Chart ###
+> 
+> *Participant Size: Value*
+> 
+> Small moon: 96
+> 
+> Star freighter: 50
+> 
+> Space yacht: 46
+> 
+> Eight-story building: 24
+> 
+> Four-story building: 20
+> 
+> Two-story house: 14
+> 
+> Tank: 10
+> 
+> Average personal transport: 6
+> 
+> Motorcycle: 3
+> 
+> Average Human: 0
+> 
+> Small Human child: 3
+> 
+> Briefcase: 6
+> 
+> Laser pistol: 9
+> 
+> Palm computer: 12
+> 
+> Cred-key: 15
+> 
+> Computer chip: 21
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 
 Surprise
+--------
 
 A hero who surprises her opponent may either act ﬁrst in the round
 (if initiative hasn't already been determined) or gain a +1D to her
 action. Attacks from behind, an ambush, or unexpected sources (such
 as a companion) make up the most common sources of surprise.
 
+
 Unwieldy Weapon
+---------------
+
 Melee weapons longer than 60 centimeters, objects that are hard
 to throw or grasp, ones relying on technology with which the user is
 unfamiliar, or any weapons otherwise difficult to wield may incur a +5
@@ -9764,11 +9787,12 @@ or more modiﬁer to the combat difficulty. The gamemaster may decide
 that such factors as experience, strength, and features of the weapon
 (such as a well-balanced sword) lower this modiﬁer.
 
-83
 
-> Example Skill
-Difﬁculties
+Example Skill Difﬁculties
+=========================
+
 What's in this Chapter
+----------------------
 
 The "Character Basics" chapter provided brief descriptions of each
 skill (and you will need to return to that chapter if you need a refresher).
@@ -9777,132 +9801,101 @@ this chapter to get even more ideas on the challenge level for using
 those skills in common situations. Of course, not every possibility has
 been covered, but this provides a terriﬁc foundation.
 
-Using the Difﬁculties and
-Modiﬁers
+
+Using the Difﬁculties and Modiﬁers
+----------------------------------
 
 Unless otherwise stated, all listed modiﬁers are to the difficulty.
 Modiﬁers may be cumulative, depending on the situation -- the tenser
 they are, the more important the minutia become. The associated
 attributed is listed after the skill name.
 
+
 Metaphysics Skills
+------------------
 
 Descriptions and difficulties for Metaphysics skills are found in its
 own chapter.
 
 Combat Skills (Agility, Mechanical)
+-----------------------------------
+
 Skills covered: brawling, dodge, ﬁrearms, melee combat, missile
 weapons, gunnery, throwing
+
 See the "Combat" chapter for the difficulty to use combat
 skills. For throwing, see also that skill's entry in this chapter.
 
+
 Information Skills (Knowledge)
+------------------------------
 
 Skills covered: aliens, astrography, bureaucracy, business,
 cultures, scholar, security regulations
+
 The Knowledge attribute assists characters in ﬁnding out how
 much they know about a certain ﬁeld, modiﬁed depending on the
 situation. For this reason, one chart of general difficulties can serve
 most uses of Knowledge, several Knowledge-based skills (see the
 list), and investigation attempts involving researching a topic.
+
 Gamemasters can employ the "Information Difficulties"
 chart in one of two ways: by picking a difficulty based on what
 the character seeks or wants to recall, or by comparing the skill
-
-84
-
-13
-
 total rolled to the difficulties (whichever level the character meets or
 beats is the amount and type of information collected or recollected).
 Realize that the less well-deﬁned the skill is, the less information the
 character knows or ﬁnds.
+
 One high roll in any of these skills does not necessarily make the
 character an expert in that ﬁeld. The roll represents only what the
 character recalls at the time. A high roll could reveal a speciﬁc detail
 of the information sought, as well as some hints for discovering more
 of what the character seeks.
+
 Characters may be assumed to have a general knowledge of their
 home country, culture, and era, including basic geography, famous
 people, and common etiquette.
 
-Interaction Skills (Perception,
-Knowledge)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+> ### Information Difﬁculties ###
+> 
+> *Amount of Information: Difficulty*
+> 
+> Basic or common information; unconﬁrmed rumors: 5
+> 
+> Theories; generalities: 10
+> 
+> Complex concepts; moderately detailed information: 15
+> 
+> Professional level; extensive (though not complete)
+> information: 20
+> 
+> Cutting-edge topics; extensive information, including 
+> peripheral details and extrapolations: 30
+> 
+> 
+> *Condition: Modiﬁer*
+> 
+> Age of information (per century in the past): +5
+> 
+> Closely guarded secret: +15
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Interaction Skills (Perception, Knowledge)
+------------------------------------------
 
 Skills covered: con, intimidation, persuasion
+
 Characters use con, intimidation, or persuasion skills to inﬂuence other
 people that they meet. The typical difficulty is 10, modiﬁed based on the
 dispositions of the characters involved, but a gamemaster may base it on
 a skill roll. See the "Mental Defenses" sidebar for more information on
 this; suggested difficulty modiﬁers are listed in their own sidebar.
-
-> Information Difﬁculties
-Amount of Information
-Basic or common information; unconﬁrmed rumors
-Theories; generalities
-Complex concepts; moderately detailed information
-Professional level; extensive (though not complete)
-information
-Cutting-edge topics; extensive information,
-including peripheral details and extrapolations
-Condition
-Age of information (per century in the past)
-Closely guarded secret
-
-Difficulty
-5
-10
-15
-20
-30
-Modiﬁer
-+5
-+15
-
-Example Skill Difﬁculties
-
-> Mental Defenses
-
-> Interaction Modiﬁers
-
-In general, the resistance difficulty for many Metaphysics
-or any interaction skill equals 10. The target cannot actively
-resist unless he knows that a psychic or interaction skill is
-being used on him by another character. If the gamemaster
-decides that the target suspects but does not know for certain
-that someone is attempting to inﬂuence him, the gamemaster
-may allow the character to take an action earlier than his turn
-in the round and roll his willpower or Knowledge to generate
-a new resistance difficulty. Should the character decide to
-actively defend against mental intrusion or personal interaction, he may devote all of his actions for the round to that task
-and roll his willpower or Knowledge, adding +10 to the score
-to get the new resistance difficulty. However the interaction
-resistance difficulty is determined, gamemasters may further
-modify the number as the situation warrants (such as stress,
-surprise, or character relationship).
-
-Situation
-Modiﬁer
-Target is friendly or trusting
--5
-Target is neutral toward character
-or of equal standing
-0
-Target is hostile or has superior standing
-+5
-Target is an enemy
-+10
-Target is in weakened position
--10
-Request is something target would do
-anyway or target feels is of minor importance
-0
-Request is illegal or highly dangerous
-+10
-Target is on guard or actively resisting*
-+10
-*Do not include this modiﬁer if you are using the active mental
-defense described in the "Mental Defenses" sidebar.
 
 Die rolls alone should not determine interactions between players'
 and gamemaster's characters. Gamemasters should have their players
@@ -9910,9 +9903,13 @@ detail what their characters say and do to before rolling the dice. The
 better the player acts the role of his character, the greater his chance
 of success should be, which gamemasters can reﬂect by allowing up to
 a +1D modiﬁer to the skill roll.
+
 See also the individual entry in this chapter for con.
 
+
 Using in Combat
+---------------
+
 Con, persuasion, and intimidation can enhance a character's attacks
 and defenses. The player adds one-half of the difference (positive or
 negative) between the difficulty and the con, intimidation, or persuasion
@@ -9920,14 +9917,19 @@ roll to any one attack or defense attempt (not both) made at Point
 Blank or Short range. The character must use the beneﬁt from scaring
 (intimidation), tricking (con), or seducing (persuasion) the target on the
 same turn as or on the round after the interaction endeavor.
+
 The user's appearance and demeanor can also affect persuasion, con,
 or intimidation attempts. The more threatening the character looks or
-seems, the less effective con and persuasion actions are, while intimidation attempts are more effective. Use the "Generic Modiﬁers" table in
-the "Game Basics" chapter to decide how much the appearance and
+seems, the less effective con and persuasion actions are, while 
+intimidation attempts are more effective. Use the "Generic Modiﬁers" table 
+in the "Game Basics" chapter to decide how much the appearance and
 demeanor affect the target, if a Disadvantage or Special Ability doesn't
 already provide one.
 
+
 Interrogation Attempts
+----------------------
+
 Characters may use intimidation or persuasion to
 get information out of someone. Use the rules for
 mental defenses to determine the difficulty and base
@@ -9937,60 +9939,112 @@ the accompanying chart for suggestions.) A separate
 intimidation roll to scare the target can complement
 an interrogation session.
 
-> Interrogation Modiﬁers
-Target...
-Feels information is unimportant
-Feels information is of minor importance
-Feels information is important
-Feels information is very important
-Would rather die than reveal information
 
-Modiﬁer
--10
-0
-+5
-+10
-+10 or more
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Observation Skills (Perception,
-Mechanical)
+> ### Mental Defenses ###
+> 
+> In general, the resistance difficulty for many Metaphysics
+> or any interaction skill equals 10. The target cannot actively
+> resist unless he knows that a psychic or interaction skill is
+> being used on him by another character. If the gamemaster
+> decides that the target suspects but does not know for certain
+> that someone is attempting to inﬂuence him, the gamemaster
+> may allow the character to take an action earlier than his turn
+> in the round and roll his willpower or Knowledge to generate
+> a new resistance difficulty. Should the character decide to
+> actively defend against mental intrusion or personal interaction, 
+> he may devote all of his actions for the round to that task
+> and roll his willpower or Knowledge, adding +10 to the score
+> to get the new resistance difficulty. However the interaction
+> resistance difficulty is determined, gamemasters may further
+> modify the number as the situation warrants (such as stress,
+> surprise, or character relationship).
+> 
+> 
+> ### Interaction Modiﬁers ###
+> 
+> *Situation: Modiﬁer*
+> 
+> Target is friendly or trusting: -5
+> 
+> Target is neutral toward character or of equal standing: 0
+> 
+> Target is hostile or has superior standing: +5
+> 
+> Target is an enemy: +10
+> 
+> Target is in weakened position: -10
+> 
+> Request is something target would do anyway or target feels is 
+> of minor importance: 0
+> 
+> Request is illegal or highly dangerous: +10
+> 
+> Target is on guard or actively resisting (Do not include this 
+> modiﬁer if you are using the active mental defense described 
+> in the "Mental Defenses" sidebar.): +10
+> 
+> 
+> ### Interrogation Modiﬁers ###
+> 
+> *Target: Modiﬁer*
+> 
+> Feels information is unimportant: -10
+> 
+> Feels information is of minor importance: 0 
+> 
+> Feels information is important: +5
+> 
+> Feels information is very important: +10
+> 
+> Would rather die than reveal information: +10 or more
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Observation Skills (Perception, Mechanical)
+-------------------------------------------
 
 Skills covered: search, comm, sensors
+
 Gamemasters can rely on the "Observation Difficulties" chart on
 the next page for situations involving the gathering of information.
 They can be used as difficulties to beat or as a means of reading the
 results of a dice toss.
+
 To see if a character notices details of a scene or situation, the
 gamemaster may have the player make a Perception roll. Unless the
 characters are actively eavesdropping, searching, tracking, or performing
-a similar activity (and thus using the search skill), this passive observance of a scene does not count as an action. Use the "Observation
+a similar activity (and thus using the search skill), this passive 
+observance of a scene does not count as an action. Use the "Observation
 Difficulties" chart as a guideline for how much the character notices.
 If the skill total meets or beats the difficulty, the character gains that
 much information.
 
-> Observation Difﬁculties
-Situation
-Noticing obvious, generic facts; casual glance
-Noticing obvious details (ex. number of people)
-Noticing a few less obvious details (ex. gist of conversation)
-Spotting a few speciﬁc details (ex. identities of individuals)
-Spotting a few obscure details (ex. speciﬁcs of conversation)
-Noticing many obscure details
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Difficulty
-5
-10
-15
-20
-25
-30 or more
+> ### Observation Difﬁculties ###
+> 
+> *Situation: Difficulty*
+> 
+> Noticing obvious, generic facts; casual glance: 5
+> 
+> Noticing obvious details (ex. number of people): 10
+> 
+> Noticing a few less obvious details (ex. gist of conversation): 15
+> 
+> Spotting a few speciﬁc details (ex. identities of individuals): 20
+> 
+> Spotting a few obscure details (ex. speciﬁcs of conversation): 25
+> 
+> Noticing many obscure details: 30 or more
 
-85
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Chapter 13
 
-Repair Skills
-(Technical)
+Repair Skills (Technical)
+-------------------------
 
 Skills covered: armor repair,
 computer interface/repair, exoskeleton repair, ﬁrearms repair, ﬂight
