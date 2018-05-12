@@ -10046,122 +10046,111 @@ much information.
 Repair Skills (Technical)
 -------------------------
 
-Skills covered: armor repair,
-computer interface/repair, exoskeleton repair, ﬁrearms repair, ﬂight
-systems repair, gunnery repair,
-personal equipment repair, robot
-interface/repair, vehicle repair
+Skills covered: armor repair, computer interface/repair, exoskeleton 
+repair, ﬁrearms repair, ﬂight systems repair, gunnery repair,
+personal equipment repair, robot interface/repair, vehicle repair
+
 Though there are many different kinds of repair skills, they all
-follow the same principles. The
-base difficulty to ﬁx or modify
-anything is 10. The amount of
-damage sustained, the character's
+follow the same principles. The base difficulty to ﬁx or modify
+anything is 10. The amount of damage sustained, the character's
 familiarity with the item, availability of parts, and complexity of the
-task can modify the difficulty. The
-gamemaster may require a separate
+task can modify the difficulty. The gamemaster may require a separate
 roll to determine whether the character can ﬁgure out how to repair
-an unknown item. Destroyed parts
-must be replaced, which raises the
-difficulty. Additionally, if a hero
-rushes the job, not only is there an
+an unknown item. Destroyed parts must be replaced, which raises the
+difficulty. Additionally, if a hero rushes the job, not only is there an
 increased chance of failure, but the item could also break again soon
 after its next use.
+
 See also the computer interface/repair and robot interface/repair
 entries in this chapter and the "Cybernetics" chapter for details on
 installing cybernetics with personal equipment repair.
-Situation
-Light repairs or modiﬁcations
-Heavy repairs or modiﬁcations
-Extensive repairs or modiﬁcations
-Previously built or modiﬁed the item;
-intimately familiar with item
-Has item's designs
-Common item
-Has seen but not used item
-Has never seen item
-All parts available
-Some parts available
-No parts available
-Correct tools*
-Makeshift tools
 
-Modiﬁer
-0
-+5
-+10 or more
--10
--5
-0
-+5
-+10
-0
-+10
-+20
-0
-+15
 
-*Tool kits might provide their own bonuses.
+*Situation: Modiﬁer*
+                                          
+* Light repairs or modiﬁcations: 0
 
-Aliens, Astrography, Bureaucracy,
-Business, Cultures, Scholar,
-Security Regulations (Knowledge)
+* Heavy repairs or modiﬁcations: +5
+
+* Extensive repairs or modiﬁcations: +10 or more
+
+* Previously built or modified the item; intimately familiar 
+with item: -10
+
+* Has item's designs: -5
+
+* Common item: 0
+
+* Has seen but not used item: +5
+
+* Has never seen item: +10
+
+* All parts available: 0
+
+* Some parts available: +10
+
+* No parts available: +20
+
+* Correct tools (Tool kits might provide their own bonuses): 0
+
+* Makeshift tools: +15
+
+
+Aliens, Astrography, Bureaucracy, Business, Cultures, Scholar, Security Regulations (Knowledge)
+-----------------------------------------------------------------------------------------------
 
 See"Information Skills" in this chapter for difficulties and modiﬁers
 related to using these skills.
 
-86
 
-Exoskeleton
-Operation,
-Vehicle Operation
-(Mechanical)
+Exoskeleton Operation, Vehicle Operation (Mechanical)
+-----------------------------------------------------
 
 See the"Vehicles and Aerial Characters" section in the "Movement" chapter
 for details on using these skills.
 
-Flying/0-G,
-Running (Agility),
-Swim (Strength)
 
-Difficulties for these skills are
-i ncl u d e d i n the " Move me nt "
-chapter.
+Flying/0-G, Running (Agility), Swim (Strength)
+----------------------------------------------
 
-Hide, Sneak
-(Perception)
+Difficulties for these skills are included in the Movement chapter.
 
-The difficulty for a hide or sneak
-attempt is usually the opponent's
-Perception or search, either as a die roll
-(if the opponent is actively trying to ﬁnd the object or person) or as a
-derived value equal to the number in front of the "D" in the opponent's
-attribute or skill times 2 and add the pips.
-Condition
-Heavy rain or snow
-Dawn, dusk, fog, many trees, large crowd, etc.
-Night
-Inattentive observer
-Dense concealment (thick jungle,
-crowd of people in costume)
-Many distractions (party, parade, combat)
-Attentive observer
-Open terrain
-Good lighting
-Several observers
+
+Hide, Sneak (Perception)
+------------------------
+
+The difficulty for a hide or sneak attempt is usually the opponent's
+Perception or search, either as a die roll (if the opponent is actively 
+trying to ﬁnd the object or person) or as a derived value equal to 
+the number in front of the "D" in the opponent's attribute or skill 
+times 2 and add the pips.
+
+
+*Condition: Modiﬁer*
+
+* Heavy rain or snow: -3
+
+* Dawn, dusk, fog, many trees, large crowd, etc.: -2
+
+* Night: -5
+
+* Inattentive observer: -5
+
+* Dense concealment (thick jungle, crowd of people in costume): -5
+
+* Many distractions (party, parade, combat): -5
+
+* Attentive observer: +6
+
+* Open terrain: +6
+
+* Good lighting: +6
+
+* Several observers +9
+
 
 Acrobatics (Agility)
-
-Modiﬁer
--3
--2
--5
--5
--5
--5
-+6
-+6
-+6
-+9
+--------------------
 
 Using acrobatics can also improve many of a character's climb/jump
 and running attempts. The gamemaster determines the difficulty of the
@@ -10169,16 +10158,17 @@ acrobatics stunt. One-half of the difference (rounded up) between the
 difficulty and the acrobatics roll is added to the complementary skill.
 The acrobatics attempt and the climb/jump or running try must be
 done on the same turn, incurring a multi-action penalty.
+
 Instead of adding a modiﬁer to the running or swim difficulty for
 particularly challenging obstacle courses, the gamemaster may have the
 hero make an acrobatics roll in addition to a running or swim roll.
+
 Acrobatics can make a character appear more intimidating. The
 player may add one-half of the difference (rounded up) between the
-
-Example Skill Difﬁculties
-
 difficulty and the successful acrobatics roll to her intimidation attempt.
-The intimidating attempt may be made on the same turn as the acrobatics roll or on the next round.
+The intimidating attempt may be made on the same turn as the acrobatics 
+roll or on the next round.
+
 During a fall, acrobatics may be used to reduce bodily harm. If the
 character has not already used his turn for the round, he may rely on
 acrobatics in an attempt to land properly. The character generates an
@@ -10186,63 +10176,61 @@ acrobatics total. For every ﬁve points over the base difficulty number
 of 10, the hero reduces the damage total by one point, in addition to
 a base reduction of one point. The damage total, however, cannot be
 lower than zero.
-Maneuver
-Somersault; pirouette
-Handspring; cartwheel; handstand
-Swing over a obstacle
-Round-off; backﬂip
-Vaulting over an obstacle
-Bouncing off a surface to reach a speciﬁc destination
-Walking up a wall*
 
-Difficulty
-5
-10
-10
-15
-15
-20
-30
 
-*The character may "walk" a maximum of her Move in one round; she
-must have a ﬂat surface to stop on at the end of her turn or she falls and
-takes damage from the fall.
-Condition
-Flat surface to ﬂat surface
-Unlimited landing area
-Limited landing area
-Almost no landing area
-Rough or unsteady landing area
-High surface to low surface
-Low surface to high surface
-Slippery surface
-Strong wind
-Add a twist of the body (per twist)
-Performing the maneuver underwater
-or backwards
-Performing the maneuver in the air
-(such as on a trapeze or bars)
-Performing the maneuver on a narrow surface
+*Maneuver: Difficulty*
 
-Modiﬁer
-0
--3
-+3
-+6
-+3 or more
-+3
-+6
-+3
-+3
-+3
-+3
-+9
-+6
+* Somersault; pirouette: 5
+
+* Handspring; cartwheel; handstand 10
+
+* Swing over a obstacle: 10
+
+* Round-off; backﬂip: 15
+
+* Vaulting over an obstacle: 15
+
+* Bouncing off a surface to reach a speciﬁc destination: 20
+
+* Walking up a wall (*The character may "walk" a maximum of 
+her Move in one round; she must have a ﬂat surface to stop 
+on at the end of her turn or she falls and takes damage from 
+the fall.): 30
+
+
+*Condition: Modiﬁer*
+
+* Flat surface to ﬂat surface: 0
+
+* Unlimited landing area: -3
+
+* Limited landing area: +3
+
+* Almost no landing area: +6
+
+* Rough or unsteady landing area: +3 or more
+
+* High surface to low surface: +3
+
+* Low surface to high surface: +6
+
+* Slippery surface: +3
+
+* Strong wind: +3
+
+* Add a twist of the body (per twist): +3
+
+* Performing the maneuver underwater or backwards: +3
+
+* Performing the maneuver in the air (such as on a trapeze or bars): +9
+
+* Performing the maneuver on a narrow surface: +6
 
 Note: Characters may combine one or more maneuvers in the same
 action. In this case, use the difficulty of the most challenging maneuver,
 add 3 for each additional maneuver (up to ﬁve additional maneuvers),
 and include modiﬁers as if the complex stunt was one maneuver.
+
 Acrobatics can also aid a character in escaping from bonds. The chart
 below contains sample difficulty numbers for escaping from various
 kinds of restraints. Modify the difficulty based on the circumstances of
@@ -10251,24 +10239,26 @@ designed restraints. The character may not use this skill if completely
 immobilized. If in multiple restraints, the character must make a separate
 roll for each one. A Critical Failure indicates that the character has pulled
 a muscle (and he does his Strength Damage to himself ).
+
 Note that this skill does not substitute for the sleight of hand skill.
 The character may be able to pull his arms over his head to use his
 hands, but he may not be able to slip out of the handcuffs unless they
 are improperly secured.
 
-Sample Restraints
-Ropes
-Wires, chain
-Handcuffs
-Straitjacket
 
-Difficulty
-13
-15
-16
-18
+*Sample Restraints: Difficulty
+
+* Ropes: 13
+
+* Wires, chain: 15
+
+* Handcuffs: 16
+
+* Straitjacket: 18
+
 
 Artist (Perception)
+-------------------
 
 The time needed to perform the artist skill varies, depending on the
 quality and complexity of a piece. A simple amateur piece may only
@@ -10278,37 +10268,39 @@ works of art created by others and possibly as a complementary skill
 to forgery to detect fake artistic pieces. The higher the total is above
 the creation total for the piece, the more information the judge knows
 about it (such as ﬂaws, alterations, its creator, and the like).
-Quality of Piece
-Amateur
-Professional
-Emotionally moving
-Prize-winning
 
-Difficulty
-9
-15
-18
-24
 
-Complexity of Piece
-Simple; has one or two parts
-Moderate; has a few parts
-Complex; has many parts
+*Quality of Piece: Difficulty*
 
-Modiﬁer
--5
-0
-+10
+* Amateur: 9
+
+* Professional: 15
+
+* Emotionally moving: 18
+
+* Prize-winning: 24
+
+*Complexity of Piece: Modiﬁer*
+
+* Simple; has one or two parts: -5
+
+* Moderate; has a few parts: 0
+
+* Complex; has many parts: +10
+
 
 Bargain (Perception)
+--------------------
 
 Characters use this skill to haggle over prices. The gamemaster
 should use a mixture of roleplaying and die rolls to determine how the
 character is doing at acquiring selling the desired goods or services.
+
 The player always has the choice to refuse a deal. Similarly, if the
 gamemaster feels that the character's roll represents an unfair deal,
 without the player embellishing by roleplaying the situation, he should
 allow the gamemaster's character to refuse the deal as well.
+
 To resolve the haggling, either make an opposed skill roll using
 any modiﬁers appropriate or select an appropriate standard difficulty
 number. Subtract the seller's total from the buyer's total and look up the
@@ -10317,35 +10309,31 @@ or a number) by the percentage given to get its ﬁnal cost. Be certain to
 include any price modiﬁers (as suggested in the "Equipment" chapter)
 before making the adjustment. If using Funds, this becomes the new
 number the Funds roll must meet or exceed.
-Difference
--21 or more
--16-20
--11-15
--6-10
--3-5
--2 to +2
-+3-5
-+6-10
-+11-15
-+16-20
-+21 or more
 
-Price Adjustment
-300% of local market value
-200% of local market value
-150% of local market value
-125% of local market value
-110% of local market value
-At local market value
-90% of local market value
-85% of local market value
-75% of local market value
-65% of local market value
-50% of local market value
 
-87
+*Difference : Price Adjustment*
 
-Chapter 13
+* -21 or more: 300% of local market value
+
+* -16-20: 200% of local market value
+
+* -11-15: 150% of local market value
+
+* -6-10: 125% of local market value
+
+* -3-5: 110% of local market value
+
+* -2 to +2: At local market value
+
+* +3-5: 90% of local market value
+
+* +6-10: 85% of local market value
+
+* +11-15: 75% of local market value
+
+* +16-20: 65% of local market value
+
+* +21 or more: 50% of local market value
 
 Characters can also employ bargain to"pay" another person to behave
 dishonorably, such as through ignoring duty, looking the other way, or
@@ -10355,70 +10343,75 @@ accept bribes. Use the difficulties listed under "Interaction Skills" and
 further modiﬁed by such factors as the value of the money, goods, or
 information offered, the extent of favors given and received, and the
 target's attitude toward the bribe.
-Value of Bribe
-Less than 50% of what is reasonable
-50% to 90% of what is reasonable
-Larger than expected
-Signiﬁcantly larger than expected
 
-Modiﬁer
-+10
-+5
--5
--10
+
+*Value of Bribe: Modiﬁer*
+
+* Less than 50% of what is reasonable: +10
+
+* 50% to 90% of what is reasonable: +5
+
+* Larger than expected: -5
+
+* Signiﬁcantly larger than expected:  -10
+
 
 Climb/Jump (Strength)
+---------------------
 
 Base difficulties for uses of this skill are included in the"Movement"
 chapter. Note that taking care in climbing and carrying 50% or more
 of the character's body weight slows the character down by two meters
 or more per round.
-Climb Condition
-Taking care in climbing
-Less than a 90-degree angle
-Less than a 60-degree angle
-Less than a 45-degree angle
-Prepared for climbing
-Carrying 25% of body weight
-Carrying 50% of body weight
-Carrying 100% of body weight
-Many handholds
-Jump Condition
-Flat surface to ﬂat surface
-Unlimited landing area
-Limited landing area
-Almost no landing area
-Rough, slick, or unsteady landing area
-Uphill (more than 30 degrees)
-Carrying 50% of own weight
-Carrying 75% of own weight
-Carrying 100% of own weight
+
+
+*Climb Condition: Modiﬁer*
+
+* Taking care in climbing: -5
+
+* Less than a 90-degree angle: -3
+
+* Less than a 60-degree angle: -6
+
+* Less than a 45-degree angle: -9
+
+* Prepared for climbing: -6
+
+* Carrying 25% of body weight: +3
+
+* Carrying 50% of body weight: +6
+
+* Carrying 100% of body weight: +15
+
+* Many handholds: -10
+
+*Jump Condition: Modiﬁer*
+
+* Flat surface to ﬂat surface: 0
+
+* Unlimited landing area:-5
+
+* Limited landing area:+5
+
+* Almost no landing area:+10
+
+* Rough, slick, or unsteady landing area:+3 or more
+
+* Uphill (more than 30 degrees): +6
+
+* Carrying 50% of own weight:+6
+
+* Carrying 75% of own weight:+9
+
+* Carrying 100% of own weight: +12
+
 
 Command (Perception)
+--------------------
 
-Modiﬁer
--5
--3
--6
--9
--6
-+3
-+6
-+15
--10
-Modiﬁer
-0
--5
-+5
-+10
-+3 or more
-+6
-+6
-+9
-+12
-
-Command governs the act of convincing individuals to comply with
-speciﬁc directions, as well as maintaining morale during group undertakings (such as combat or building large pieces of equipment). This skill is
+Command governs the act of convincing individuals to comply with speciﬁc 
+directions, as well as maintaining morale during group undertakings 
+(such as combat or building large pieces of equipment). This skill is
 typically used only with the gamemaster's characters, though sometimes
 it may be attempted with players' characters (such situations should be
 roleplayed ﬁrst, with a bonus or penalty to the command roll based on
@@ -10426,118 +10419,115 @@ how well the group participated in the activity together). A high command
 roll can complement individual participants' rolls in a group activity, while
 a low command roll can impose negative modiﬁers. It generally requires
 at least one round of planning to perform effectively.
+
 Characters can use this skill to combine their attacks. One person is
 designated the leader and makes the command roll. If successful, everyone
-
-88
-
 goes on the leader's initiative. Participants make their attacks with the hit
 location modiﬁer (to reﬂect that they're aiming for a designated location),
 but the target resists the combined total of all damage done it. If the
 command roll fails, determine initiative and actions individually.
-Complexity
-Difficulty
-Uncomplicated; imprecise
-3
-Easy; minimal precision required
-7
-Requires effort or precision
-12
-Difficult; requires high degree of precision
-17
-Requires much effort or extreme precision
-22
-Requires care and thoughtfulness, or exacting precision
-28
-Team
-All members willing to follow leader's orders
-no matter what
-All members willing to sacriﬁce life for others
-Trained together frequently to work as unit
-Trained together brieﬂy to work as unit
-Work together regularly, or willing to work together
-Worked together on a few occasions
-Seldom work together
-Never worked together before, or more than
-half of the members hate each other
-No interest in working together, all members
-despise each other, or members can't communicate
-with each other
 
-Modiﬁer
--20
--15
--10
--5
-0
-+5
-+10
-+15
 
-+20
+*Complexity: Difficulty*
 
-Computer Interface/Repair
-(Technical)
+* Uncomplicated; imprecise: 3
+
+* Easy; minimal precision required: 7
+
+* Requires effort or precision: 12
+
+* Difficult; requires high degree of precision: 17
+
+* Requires much effort or extreme precision: 22
+
+* Requires care and thoughtfulness, or exacting precision: 28
+
+
+*Team: Modiﬁer*
+
+* All members willing to follow leader's orders no matter what: -20
+
+* All members willing to sacriﬁce life for others: -15
+
+* Trained together frequently to work as unit: -10
+
+* Trained together brieﬂy to work as unit: -5
+
+* Work together regularly, or willing to work together: 0
+
+* Worked together on a few occasions: +5
+
+* Seldom work together: +10
+
+* Never worked together before, or more than half of the members hate 
+each other: +15
+
+* No interest in working together, all members despise each other, or 
+members can't communicate with each other: +20
+
+
+Computer Interface/Repair (Technical)
+-------------------------------------
+
 The base difficulty is 10.
 
-Computer Use Situation
-Open-access personal computer or mainframe
-Networked computer
-Isolated computer
-Accessible by a few people
-Accessible by owner only
-Password protected
-Firewall protection
-Files encrypted
+*Computer Use Situation: Modiﬁer*
 
-Modiﬁer
-0
-0
-+3
-+3
-+6
-+3
-+6
-+3 or more
+* Open-access personal computer or mainframe: 0
 
-Programming Situation
-Modiﬁer
-Simple programming language
-0
-Complex programming language
-+3
-Encrypting program
-+6
-Program designed to accomplish multiple tasks (per task) +3
-Designed to work on multiple
-operating systems (per additional system)
-+6
-Condition
-Character unfamiliar with the program's language
-Character experienced with the program's language
+* Networked computer: 0
+
+* Isolated computer: +3
+
+* Accessible by a few people: +3
+
+* Accessible by owner only: +6
+
+* Password protected: +3
+
+* Firewall protection: +6
+
+* Files encrypted: +3 or more
+
+*Programming Situation: Modiﬁer*
+
+* Simple programming language: 0
+
+* Complex programming language: +3
+
+* Encrypting program: +6
+
+* Program designed to accomplish multiple tasks (per task): +3
+
+* Designed to work on multiple operating systems (per additional 
+system): +6
+
+*Condition: Modiﬁer*
+
+* Character unfamiliar with the program's language: +3
+
+* Character experienced with the program's language: -3
+
 
 Con (Perception)
-
-Modiﬁer
-+3
--3
+----------------
 
 In addition to tricking people verbally, a character can use con to
 change his appearance. The character's skill total in creating the disguise
-
-Example Skill Difﬁculties
-
 serves two related purposes. First, the higher the roll, the less likely
 an observer will question the disguise. Second, the total becomes the
 difficulty number for Perception or investigation efforts to see through
 it. If the investigation check is higher than the con total, the disguise
 has been penetrated.
+
 If at any time while the character is disguised he performs an
 action inconsistent with the disguise, any observer has a chance to
 see through it.
+
 Although one character may use con to alter the features of another
 character, the disguised character must actively work at keeping up the
 disguise using her own con skill or Perception.
+
 Condition
 Speciﬁc person
 Other sex
@@ -10549,8 +10539,6 @@ Resembles the disguise already
 Using skill on another character
 Using skill unaided
 
-Demolitions (Technical)
-
 Modiﬁer
 +15
 +6
@@ -10562,6 +10550,10 @@ Modiﬁer
 +6
 +3
 
+
+Demolitions (Technical)
+-----------------------
+
 The base difficulty is 5. For extra damage and special effects, the
 character must spend one round per difficulty number setting up the
 explosives. The character also needs to indicate how much explosive
@@ -10570,14 +10562,15 @@ the object's damage resistance total (its Toughness modiﬁed by size,
 thickness, ﬂaws, supports, etc.). Items that take at least 10 points above
 their damage resistance total are severely damaged, if not destroyed.
 Items taking less than that are weakened, and another attempt may be
-
 made (with the object having a reduced damage resistance total and
 possibly other problems).
+
 Remember that, while a character may think an object is constructed
 of one type of material, it may not be. Though this does not alter the
 difficulty of setting the explosive, it may change the results of special
 effects. For instance, an explosive set for thin wood won't do much
 good if that's only veneer for reinforced steel.
+
 Example Result
 Rigging a bomb so a car explodes
 the next time it starts
