@@ -36,7 +36,7 @@ What Do I Need to Play?
 To play this game, you need this book, some paper, something to
 write with, some six-sided dice, a lot of imagination, and a group of
 people, one of whom is willing to act as the guiding force in the game.
-This person is called many things, but"gamemaster" serves well as 
+This person is called many things, but "gamemaster" serves well as 
 shorthand for someone who presents information about the game setting,
 creates obstacles for the other players to overcome, takes the part of
 the people the players encounter, and adjudicates the rules. The rest of
@@ -4922,7 +4922,8 @@ Disadvantages: Hindrance: Slow (R2), +4 to climb/jump and
 running difficulties; Achilles' Heel: Vulnerability (R3), damage from
 ﬁre increased by +3D
 
-Special Abilities: Extra Body Part: Vine (R1, cost 0) with Enhancement Additional Effect (R3, cost 3), can grasp with vine; Natural
+Special Abilities: Extra Body Part: Vine (R1, cost 0) with Enhancement 
+Additional Effect (R3, cost 3), can grasp with vine; Natural
 Armor: Bark (R1, cost 3), +1D to damage resistance total against
 physical damage
 
@@ -5159,7 +5160,8 @@ Gamemasters may even reduce the number of upgrade slots available
 in each implant to reﬂect a (relatively) lower-tech setting.
 
 There is no additional cost to include a Special Ability in cybernetic
-implants, beyond the normal charge for gaining that Special Ability. Special Abilities in cybernetic implants can have Enhancements
+implants, beyond the normal charge for gaining that Special Ability. 
+Special Abilities in cybernetic implants can have Enhancements
 and Limitations as per the rules in the "Character Options" chapter.
 Gamemasters may require Special Abilities such as Skill Bonus to
 be restricted to specializations of the boosted skill that reﬂect what a
@@ -6981,7 +6983,8 @@ To save time, gamemasters may chose to roll one action for a group
 of characters he controls. Any number can belong to the group. Each
 member of the group does not have to perform exactly the same
 maneuver, but they do need to take similar actions. A gamemaster
-could make one roll for a pack of wolves who attack different characters, but he would have to separate the pack into those attacking and
+could make one roll for a pack of wolves who attack different characters, 
+but he would have to separate the pack into those attacking and
 those circling if the gamemaster wanted to have them perform those
 distinctly different activities.
 
@@ -7027,8 +7030,8 @@ are crucial to the scenario.
 this task, an untrained character may ﬁnd it challenging.
 
 * Moderate (11-15): There is a fair chance that the average character
-will fail at this type of task. Tasks of this type require skill, effort, and
-concentration.
+will fail at this type of task. Tasks of this type require skill, effort, 
+and concentration.
 
 * Difficult (16-20): Those with little experience in the task must
 have a lot of luck to accomplish this type of action.
@@ -7340,7 +7343,8 @@ times his swimming speed is 10 (5 for the base difficulty plus 5 for
 the additional movement).
 
 Without preparation, a character may hold his breath for a number
-of seconds equal to 5 times a roll of his Strength or stamina. Pre-oxygenating his lungs gives a character a bonus. The maximum any character
+of seconds equal to 5 times a roll of his Strength or stamina. 
+Pre-oxygenating his lungs gives a character a bonus. The maximum any character
 can hold his breath with preparation is 10 times a roll of his stamina
 in seconds, though this requires having the stamina skill. The bonus
 should be much less for the average person.
@@ -8149,12 +8153,14 @@ get someone else to do the driving), they follow four steps:
 **Determine the Trip's Destination and Duration:** The ﬁrst step
 a ship's captain needs to do is decide where she's going and how she
 wants to take to get there. Use the "Interstellar Benchmarks" sidebar to
-determine the time. Once the base duration is determined, the navigator may then divide that number by her drive's class to get the actual
+determine the time. Once the base duration is determined, the navigator 
+may then divide that number by her drive's class to get the actual
 amount of time the ship will take (assuming perfect conditions).
 
 **Make Calculations for the Trip:** Figuring out the best route then
 inputting it into the computer isn't easy, and even with the incredible
-advances in computers. How much time it takes to perform the calculations depends on where the ship's supposed to end up. A character can
+advances in computers. How much time it takes to perform the calculations 
+depends on where the ship's supposed to end up. A character can
 rush the calculations, taking the rushing penalty (see the"Game Basics"
 chapter for details). Many ship captains begin navigation calculations
 while they wait in space dock, so they can leave as soon as the local
@@ -9062,7 +9068,8 @@ out how many Body Points were healed.
 ### Skill ###
 
 Characters can heal others or themselves with some basic ﬁeld
-procedures for treating wounds. Such attempts don't require a medical kit. Simply roll medicine to help an injured comrade, and ﬁnd the
+procedures for treating wounds. Such attempts don't require a medical kit. 
+Simply roll medicine to help an injured comrade, and ﬁnd the
 results on the "Body Points Healing" chart. A successful roll heals the
 character the listed amount. A character using a medical kit may add
 its bonus to the roll.
@@ -9327,7 +9334,8 @@ defeats the victim's escape attempt or if the defender chooses not to
 resist. Some grab variations may offer other options.
 
 Choke: Ropes and hands can cut off the target's source of air. Damage
-on the ﬁrst round equals the character's Strength Damage plus any modiﬁers. See the general grab rules for damage on subsequent rounds.
+on the ﬁrst round equals the character's Strength Damage plus any 
+modiﬁers. See the general grab rules for damage on subsequent rounds.
 
 Flip: The character reaches out, grabs his opponent's wrist, arm, leg,
 or similar body part, and jerks violently, causing the opponent to fall to
@@ -9382,7 +9390,8 @@ difficulty in this case means the target takes damage as in option 1.
 
 If the target chooses to resist, the opponent may make no other
 action in the round, though she may move her turn up. Instead, the
-player rolls her character's Agility and adds 5 and any relevant modiﬁers to the total to generate the submission difficulty. Failure by the
+player rolls her character's Agility and adds 5 and any relevant modiﬁers 
+to the total to generate the submission difficulty. Failure by the
 attacker to beat the difficulty in this case means that the target escapes
 and may freely take action on the next round.
 
@@ -9400,80 +9409,70 @@ depends on the situation and the player's intent.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Combat Difﬁculty Modiﬁers ###
+> ## Combat Difﬁculty Modiﬁers ##
 > 
+> ### Firearms ###
+>
 > *Option: Difficulty Modiﬁer: Damage Modiﬁer*
 > 
-> **Firearms**
-> 
-> Burst ﬁre as single: 0: -2D
+> * Burst ﬁre as single: 0: -2D
 >
-> Full auto: -2D (-6): +2D
+> * Full auto: -2D (-6): +2D
 >
-> Single ﬁre as multi: -1D (-3): +1D (Note: Modiﬁers are per additional 
+> * Single ﬁre as multi: -1D (-3): +1D (Note: Modiﬁers are per additional 
 > round of ammunition, up to maximum that the weapon holds.)
 > 
-> Sweep: -2D (-6): -3D
+> * Sweep: -2D (-6): -3D
 >
 >
-> **Brawling, Melee Combat**
+> ### Brawling, Melee Combat ###
 >
-> All-out
-Grab
-Lunge
-Knockdown, trip
-Push
-Sweep
-Tackle
-
--2D (-6)
-+2D (+6)
-+1D (+3)
-+2D (+6)
-+1D (+3)
--2D (-6)
-+1D (+3)
-
-+1D
-*
--1D
-*
-*
--3D
-*
-
--1D (-3)
--2D (-6)
-+3D (+10)
-
-0
-0
-0
-
-Target is...
-10 to 50 centimeters long
-+1D (+3)
-1 to 10 centimeters long
-+4D (+12)
-Less than a centimeter long +8D (+24)
-* See text for options.
-
-*
-*
-*
-
-All Attacks
-Low gravity
-No gravity
-Heavy gravity
-
-Called Shot
-
-Other Modiﬁers
-> The attacker is blind or blinded: +4D (+12) to the
-combat difficulty.
-> The target is blind or blinded or attacked from behind:
--4D (-12) to the combat difficulty.
+> *Option: Difficulty Modiﬁer: Damage Modiﬁer*
+>
+> * All-out: -2D (-6): +1D
+> 
+> * Grab: +2D (+6): See text for options.
+> 
+> * Lunge: +1D (+3): -1D
+> 
+> * Knockdown, trip: +2D (+6): See text for options.
+> 
+> * Push: +1D (+3): See text for options.
+> 
+> * Sweep: -2D (-6): -3D
+> 
+> * Tackle: +1D (+3): See text for options.
+> 
+> 
+> ### All Attacks ###
+> 
+> *Option: Difficulty Modiﬁer: Damage Modiﬁer*
+>
+> * Low gravity: -1D (-3): 0
+> 
+> * No gravity: -2D (-6): 0
+> 
+> * Heavy gravity: +3D (+10): 0
+> 
+> 
+> ### Called Shot ###
+>
+> *Target is... : Difficulty Modiﬁer: Damage Modiﬁer*
+>
+> * 10 to 50 centimeters long: +1D (+3): See text for options.
+> 
+> * 1 to 10 centimeters long: +4D (+12): See text for options.
+>
+> * Less than a centimeter long: +8D (+24): See text for options.
+>
+>
+> ### Other Modiﬁers ###
+>
+> * The attacker is blind or blinded: +4D (+12) to the
+> combat difficulty.
+> 
+> * The target is blind or blinded or attacked from behind:
+> -4D (-12) to the combat difficulty.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -9631,35 +9630,24 @@ need to make an effort to stand, which counts as an action.
 Quick Draw
 ----------
 
+This option allows the character to act rapidly or draw and ﬁre a weapon 
+in the same round as one action. The character may use any combat skill 
+or appropriate specialization. If she is also using a weapon, it must be 
+suitable for quick drawing (a bow and arrow, a loaded pistol, a dagger, 
+a shuriken).
 
+Before initiative is rolled, the player must announce that she intends 
+for her character to draw her weapon quickly. The player may then
+take some of the skill dice and add them to the Perception die code for 
+purposes of increasing initiative for that round only. The player must
+leave at least 1D in her skill. If the character wants to make multiple 
+attacks, she subtracts 1D for each attack beyond the ﬁrst from the
+number of dice in the skill she's using before the player moves dice 
+around. She does not take a penalty for the draw.
 
- 
-
-This option allows the character to act
-rapidly or draw and ﬁre a weapon in the same
-round as one action. The character may use any
-combat skill or appropriate specialization. If
-she is also using a weapon, it must be suitable
-for quick drawing (a bow and arrow, a loaded
-pistol, a dagger, a shuriken).
-
-Before initiative is rolled, the player must
-announce that she intends for her character to
-draw her weapon quickly. The player may then
-take some of the skill dice and add them to the
-Perception die code for purposes of increasing
-initiative for that round only. The player must
-leave at least 1D in her skill. If the character
-wants to make multiple attacks, she subtracts
-1D for each attack beyond the ﬁrst from the
-number of dice in the skill she's using before
-the player moves dice around. She does not
-take a penalty for the draw.
-
-All attacks by the hero in the same round
-must be made with the same skill, though the
-results are determined differently and they all occur at the same die
-code because the multi-action penalty was already ﬁgured in.
+All attacks by the hero in the same round must be made with the same 
+skill, though the results are determined differently and they all occur 
+at the same die code because the multi-action penalty was already ﬁgured in.
 
 Example: *Two mercenaries face each other in a stand-off. One of
 the mercenaries has 4D in Perception and 8D in ﬁrearms. He may take
@@ -10528,27 +10516,25 @@ Although one character may use con to alter the features of another
 character, the disguised character must actively work at keeping up the
 disguise using her own con skill or Perception.
 
-Condition
-Speciﬁc person
-Other sex
-Different race or species
-Great age difference
-Much larger build
-Much smaller build
-Resembles the disguise already
-Using skill on another character
-Using skill unaided
+*Condition: Modiﬁer*
 
-Modiﬁer
-+15
-+6
-+3
-+3
-+5
-+10
--5
-+6
-+3
+* Speciﬁc person: +15
+
+* Other sex: +6
+
+* Different race or species: +3
+
+* Great age difference: +3
+
+* Much larger build: +5
+
+* Much smaller build: +10
+
+* Resembles the disguise already: -5
+
+* Using skill on another character: +6
+
+* Using skill unaided: +3
 
 
 Demolitions (Technical)
@@ -10571,243 +10557,202 @@ difficulty of setting the explosive, it may change the results of special
 effects. For instance, an explosive set for thin wood won't do much
 good if that's only veneer for reinforced steel.
 
-Example Result
-Rigging a bomb so a car explodes
-the next time it starts
-Blowing something open without
-leaving permanent marks or burns
-Rigging an explosion so its force
-goes in a speciﬁc direction
-Rigging an explosion so that only a certain, small
-piece of a much larger object is damaged
-Extra damage
+*Example Result: Modiﬁer*
 
-Modiﬁer
+* Rigging a bomb so a car explodes the next time it starts: 0
 
-+15
-+5 per +1D
+* Blowing something open without leaving permanent marks or burns: +5
 
-Familiarity with Target
-Very familiar or common (tree, wall)
-Familiar (bulkhead, bridge support)
-Unfamiliar (building of unknown construction)
-Completely unknown item or construction
+* Rigging an explosion so its force goes in a speciﬁc direction: +10
 
-Modiﬁer
-0
-+5
-+10
-+20 or more
+* Rigging an explosion so that only a certain, small piece of a much 
+larger object is damaged: +15
 
-Object Construction
-Flimsy (plywood door)
-Tough (hard wooden door, most guns)
-Sturdy (bolted steel door, personal safe)
-Very sturdy (a few layers of steel)
-Reinforced (numerous layers of steel)
+* Extra damage: +5 per +1D
 
-Toughness
-1D
-2D
-3D
-4D
-6D
 
-0
-+5
-+10
+*Familiarity with Target: Modiﬁer*
+
+* Very familiar or common (tree, wall): 0
+
+* Familiar (bulkhead, bridge support): +5
+
+* Unfamiliar (building of unknown construction): +10
+
+* Completely unknown item or construction: +20 or more
+
+
+*Object Construction : Toughness*
+
+* Flimsy (plywood door): 1D
+
+* Tough (hard wooden door, most guns): 2D
+
+* Sturdy (bolted steel door, personal safe): 3D
+
+* Very sturdy (a few layers of steel): 4D
+
+* Reinforced (numerous layers of steel): 6D
+
 
 Forgery (Perception)
+--------------------
 
 The artist skill may complement this skill, or the gamemaster may
 require it to be used instead, with the appropriate forgery modiﬁers applied.
 Reduce the amount of time spent on creating a forgery if the character
 has repeatedly succeeded at making similar items in the past.
-Forger
-Item Forged
-Unofficial note or correspondence
-Time required: 10 minutes or more
-Signature
-Time required: 5 minutes
-Official document (pilot's license, legal tender)
-Time required: 20 minutes or more
 
-Difficulty
-6
-12
-18
 
-Familiarity with Item
-Intimately familiar or has sample
-Somewhat familiar; has seen it quite often
-Passingly familiar
-Have only had it described
-Guessing blindly
+*Item Forged: Difficulty*
 
-Modiﬁer
--10
--5
-0
-+5
-+15
+* Unofficial note or correspondence (Time required: 10 minutes or 
+more): 6
 
-Tools
-Have necessary tools and some special ones
-Have necessary tools
-Have some tools
-Missing important tools
+* Signature (Time required: 5 minutes): 12
 
-Modiﬁer
--5
-0
-+5
-+10 or more
+* Official document (pilot's license, legal tender) (Time 
+required: 20 minutes or more): 18
 
-89
 
-Chapter 13
+*Familiarity with Item: Modiﬁer*
 
-Forgery Inspector
-Familiarity with Item Forged
-Intimately familiar
-Moderately familiar
-Unfamiliar
-Completely unfamiliar
+* Intimately familiar or has sample: -10
 
-Difficulty
-6
-12
-18
-24
+* Somewhat familiar; has seen it quite often: -5
 
-Situation
-Have sample
-Have special tools for detecting forgeries
-Item poorly forged*
-Item well forged*
-Item superiorly forged*
+* Passingly familiar: 0
 
-Modiﬁer
--5
--5
-0
-+5
-+10
+* Have only had it described: +5
 
-*The gamemaster may add the number of points above the forging difﬁculty to the inspector's difficulty instead of using
-one of these modiﬁers.
+* Guessing blindly: +15
+
+
+*Tools: Modiﬁer*
+
+* Have necessary tools and some special ones: -5
+
+* Have necessary tools:  0
+
+* Have some tools: +5
+
+* Missing important tools: +10 or more
+
+
+*Forgery Inspector -- Familiarity with Item Forged: Difficulty*
+
+* Intimately familiar: 6
+
+* Moderately familiar: 12
+
+* Unfamiliar: 18
+
+* Completely unfamiliar: 24
+
+
+*Forgery Inspector -- Situation: Modiﬁer
+
+* Have sample: -5
+
+* Have special tools for detecting forgeries: -5
+
+* Item poorly forged: 0
+
+* Item well forged: +5
+
+* Item superiorly forged: +10
+
+* Note: The gamemaster may add the number of points above the forging 
+difﬁculty to the inspector's difficulty instead of using one of these 
+modiﬁers.
+
 
 Gambling (Perception)
+---------------------
 
-3-6
+Gambling doesn't affect games that are purely random, but does 
+inﬂuence games with an element of strategy, like poker. All characters
+make opposed gambling rolls, without spending Character or Fate Points, 
+and the highest roll wins. A character may cheat by using Character
+or Fate Points on the roll, and the gamemaster may give bonuses to 
+rolls for people looking for a cheater or helping the cheater. The 
+gamemaster should consider as many "angles" as possible when using the 
+gambling skill, and add these as modiﬁers to one or more participants' 
+rolls.
 
-7-11
 
-12+
+Investigation (Perception)
+--------------------------
 
-Investigation
-(Perception)
 
-Difficulty
-7
-12
+When used to research a topic, a separate roll must be made for each 
+source checked.
 
-18
-24
-Modiﬁer
-+5
-+5
--5
+*Research Situation: Difficulty*
 
-When used to ﬁgure out clues from a scene, the base difficulty is
-10. The character must use search ﬁrst to ﬁnd the clues or evidence
+* Common knowledge: 7
+
+* Requires searching through several sources; introductory theories: 12
+
+* Sources are of varying reliability; cutting-edge information; speciﬁc 
+information about harmless individual or event: 18
+
+* Esoteric information; speciﬁc information about dangerous individual 
+or event: 24
+
+
+*Condition: Modifier*
+
+* Information closely guarded: +5
+
+* Character unsure of information sought: +5
+
+* Character knows exactly what information is sought: -5
+
+When used to ﬁgure out clues from a scene, the base difficulty 
+is 10. The character must use search ﬁrst to ﬁnd the clues or evidence
 (or have them pointed out); investigation helps the character ﬁgure
 out what they mean.
 
-90
+*Situation: Modiﬁer*
 
--6 or more
+* Information about subject/event is sketchy: +15
 
-0
-+3
-+6
--3
-+3
-+3
+* Information about subject/event is extensive: -15
 
-Result
-Basic information about the
-situation (a rope was used,
-type of weapon).
-Precise information about situation (probable manufacturing
-origin of evidence, small details
-about items in room).
-Previous results plus how all
-items in an area were put to
-use.
-Reconstruction of events from
-the evidence.
+* Evidence is fairly clear; many clues; familiar objects with 
+expected use:-6 or more
 
-Know-how
-(Perception)
+* Evidence is only partly clear; several clues; familiar objects 
+with uncommon use, or unfamiliar objects with common use: 0
 
-When used to research a topic, a separate
-roll must be made for each source checked.
+* Evidence is obscure; few clues: +3
 
-Condition
-Information closely guarded
-Character unsure of information sought
-Character knows exactly what information is sought
+* Evidence is unusual or with no apparent signiﬁcance; uncommon 
+objects with uncommon use: +6
 
-Modiﬁer
-+15
--15
+* Repeatedly commits similar crimes (per crime): -3
 
-*While the crimes may have been committed
-over a greater time interval, the maximum value
-for this modiﬁer is +30.
-Roll >
-Difficulty
-0-2
+* Distance between crimes (per 80 kilometers): +3
 
-Gambling doesn't affect games that are purely
-random, but does inﬂuence games with an
-element of strategy, like poker. All characters
-make opposed gambling rolls, without spending
-Character or Fate Points, and the highest roll
-wins. A character may cheat by using Character
-or Fate Points on the roll, and the gamemaster
-may give bonuses to rolls for people looking for a
-cheater or helping the cheater. The gamemaster
-should consider as many "angles" as possible
-when using the gambling skill, and add these as
-modiﬁers to one or more participants' rolls.
+* Time between crimes (per 6 months): +3 (up to a maximum of +30)
 
-Research
-Situation
-Common knowledge
-Requires searching through several sources;
-introductory theories
-Sources are of varying reliability; cutting-edge
-information; speciﬁc information about
-harmless individual or event
-Esoteric information; speciﬁc information
-about dangerous individual or event
 
-Situation
-Information about subject/event is sketchy
-Information about subject/event is extensive
-Evidence is fairly clear; many clues;
-familiar objects with expected use
-Evidence is only partly clear; several clues;
-familiar objects with uncommon use,
-or unfamiliar objects with common use
-Evidence is obscure; few clues
-Evidence is unusual or with no apparent signiﬁcance;
-uncommon objects with uncommon use
-Repeatedly commits similar crimes (per crime)
-Distance between crimes (per 80 kilometers)
-Time between crimes (per 6 months*)
+*Roll > Difficulty: Result*
+
+* 0-2: Basic information about the situation (a rope was used, type 
+of weapon).
+
+* 3-6: Precise information about situation (probable manufacturing 
+origin of evidence, small details about items in room).
+
+* 7-11: Previous results plus how all items in an area were put to use. 
+
+* 12+: Reconstruction of events from the evidence.
+
+
+Know-how (Perception)
+---------------------
 
 To use this skill to help with an activity
 covered by another skill (which the character does not have), the
@@ -10821,70 +10766,67 @@ skill required. The character may not use this skill in place of a skill
 she already has. The gamemaster may limit the number of times per
 hour this skill may be used on the same action.
 
+
 Languages (Knowledge)
+---------------------
 
 First, determine what the character wants to express or understand
 and how closely the language in which she wants to express it is to her
 native tongue. Then, compare the difference between the skill roll and
-the difficulty to decide how close she came. Characters with a specialization in the language they are using who succeed at the skill roll receive
-a +3 bonus to determining the comprehension level.
+the difficulty to decide how close she came. Characters with a 
+specialization in the language they are using who succeed at the skill 
+roll receive a +3 bonus to determining the comprehension level.
 
-Example Skill Difﬁculties
+*Situation: Difficulty*
 
-Situation
-Idea is very simple, consisting of a short phrase
-Idea is simple; no slang; children's book
-Idea is of average complexity; most adult nonﬁction
-Idea is complex; slang involved; most adult ﬁction
-Idea is very complex; technical jargon involved;
-academic writing
+* Idea is very simple, consisting of a short phrase: 3
 
-Difficulty
-3
-7
-12
-18
-24
+* Idea is simple; no slang; children's book: 7
 
-Situation
-Modiﬁer
-One or two common, basic words
--5
-Has a translating aid (book, computer program,
-electronic pocket device, hand signals)*
--5
-Different dialect of own language
-0
-Language is derived from common root language
-(ex., understanding Spanish if you understand French)
-+5
-Completely foreign language (ex., Chinese
-has nothing in common with English)
-+10
-Obscure language; reading lips
-+15
-Language is unique to an uncontacted culture,
-from a dead culture, or unpronounceable
-by the character trying to understand
-+20
-Language includes many concepts nearly beyond
-the character's understanding or experience
-+25
-*Translation aids might provide their own bonuses, which are used
-instead of this.
-Roll >
-Difficulty
-0-2
-3-6
-7+
+* Idea is of average complexity; most adult nonﬁction: 12
 
-Comprehension Level
-Gist of idea; most words understood or conveyed
-properly; word usage seems stilted
-Literal translation; slang expressed/translated incorrectly
-Subtle connotations
+* Idea is complex; slang involved; most adult ﬁction:18
+
+* Idea is very complex; technical jargon involved; academic writing: 24
+
+
+*Situation: Modiﬁer*
+
+* One or two common, basic words: -5
+
+* Has a translating aid (book, computer program, electronic pocket 
+device, hand signals -- Note that translation aids might provide 
+their own bonuses, which are used instead of this.): -5
+
+* Different dialect of own language: 0
+
+* Language is derived from common root language (ex., understanding 
+Spanish if you understand French): +5
+
+* Completely foreign language (ex., Chinese has nothing in common 
+with English): +10
+
+* Obscure language; reading lips: +15
+
+* Language is unique to an uncontacted culture, from a dead culture, 
+or unpronounceable by the character trying to understand: +20
+
+* Language includes many concepts nearly beyond the character's 
+understanding or experience: +25
+
+
+*Roll > Difficulty: Comprehension Level*
+
+* 0-2: Gist of idea; most words understood or conveyed properly; word 
+usage seems stilted
+
+* 3-6: Literal translation; slang expressed/translated incorrectly
+
+* 7+: Subtle connotations
+
 
 Lift (Strength)
+---------------
 
 At the gamemaster's discretion, a player may make a lift check
 when his character ﬁrst picks up an object. (Generally, if the object's
@@ -10896,42 +10838,35 @@ check to see if she can continue to carry the object. If the player fails the
 roll, her character is too exhausted and must put the object down. If the
 character is doing anything else at the time (other than walking slowly
 or talking), continuing to carry the object counts as a multi- action.
-Abridged Lift Table
-Weight
-1 kg
-10 kg
-50 kg
-100 kg
-120 kg
-200 kg
-250 kg
-500 kg
 
-Difficulty
-1
-3
-7
-12
-13
-17
-18
-23
+**Abridged Lift Table**
 
-750 kg
-28
-1000 kg (1 ton)
-33
-1100-2000 kg
-34-43
-(+1 to base of 33 per 100 kg over 1000 kg)
-2500-10,000 kg
-44-59
-(+1 to base of 43 per 500 kg over 2000 kg)
-15,000-100,000 kg
-60-77
-(+1 per to base of 59 per 5000 kg over 10,000 kg)
+*Weight: Difficulty
+
+* 1 kg: 1
+
+* 10 kg:3
+
+* 50 kg:7
+
+* 100 kg: 12
+
+* 120 kg: 13
+
+* 200 kg: 17
+
+* 250 kg: 18
+
+* 500 kg: 23
+
+750 kg: 28
+1000 kg (1 ton): 33
+1100-2000 kg: 34-43 (+1 to base of 33 per 100 kg over 1000 kg)
+2500-10,000 kg: 44-59 (+1 to base of 43 per 500 kg over 2000 kg)
+15,000-100,000 kg: 60-77 (+1 per to base of 59 per 5000 kg over 10,000 kg)
 The gamemaster may further subdivide the lift chart if desired to
 include the weights for the difficulties not listed here.
+
 Lift Fatigue Modiﬁer
 Time
 1-6 rounds
@@ -17518,7 +17453,9 @@ a hurricane)
 
 SPACE
 
-> Combat Summary
+Combat Summary
+--------------
+
 See pages 72-74 and 80-83 for additional information and modiﬁers.
 Determining the Difficulty
 Base combat difficulty = defense total
@@ -17549,50 +17486,46 @@ damage resistance total, the target was not injured.
 the damage total. Then either subtract this from the target's current Body
 Total or compare the value on the "Wound Level" chart.
 
-Common Combat Difﬁculty Modiﬁers
-Cover Situation
 
-Modiﬁer
-Light smoke/fog
-+1D (+3)
-Thick smoke/fog
-+2D (+6)
-Very thick smoke/fog
-+4D (+12)
-Poor light, twilight
-+1D (+3)
-Moonlit night
-+2D (+6)
-Complete darkness
-+4D (+12)
-Object hides 25% of target
-+1D (+3)
-Object hides 50% of target
-+2D (+6)
-Object hides 75% of target
-+4D (+12)
-Object hides 100% of target
-*
-*If cover offers protection, the attacker cannot hit the target directly, but
-damage done to the cover might exceed the Armor Value it provides, and,
-indirectly, damage the target. Most of the time, the attacker must eliminate
+### Common Combat Difﬁculty Modiﬁers ###
+
+*Cover Situation: Modiﬁer*
+
+* Light smoke/fog: +1D (+3)
+
+* Thick smoke/fog: +2D (+6)
+
+* Very thick smoke/fog: +4D (+12)
+
+* Poor light, twilight: +1D (+3)
+
+* Moonlit night: +2D (+6)
+
+* Complete darkness: +4D (+12)
+
+* Object hides 25% of target: +1D (+3)
+
+* Object hides 50% of target: +2D (+6)
+
+* Object hides 75% of target: +4D (+12)
+
+* Object hides 100% of target: If cover offers protection, the 
+attacker cannot hit the target directly, but damage done to the 
+cover might exceed the Armor Value it provides, and, indirectly, 
+damage the target. Most of the time, the attacker must eliminate
 the cover before having a chance to hit the target.
-Range
-Distance to Target
-Modiﬁer
-Point Blank
-0-3 meters
--5
-Short
-3 meters to ﬁrst value*
-0
-Medium
-First to second value*
-+5
-Long
-Second to third value*
-+10
-* Values refer to values given in the weapon's range listing.
+
+
+*Range: Distance to Target: Modiﬁer*
+
+* Point Blank: 0-3 meters: -5
+
+* Short: 3 meters to ﬁrst value in the weapon's range listing: 0
+
+* Medium: First to second value in the weapon's range listing: +5
+
+* Long: Second to third value in the weapon's range listing: +10
+
 
 Weapon is difficult to use (character unfamiliar with technology,
 object is hard to throw or grasp, melee or thrown weapon is more than
@@ -17614,21 +17547,23 @@ Wound Levels
 
 See Damage sectuib for additional information and modiﬁers.
 
-Wounds
-Body Points†
-
-
 Wounds = Damage Total ≥ Resistance Total By
 
-Effect -- Wounds -- Body Points Left
 
+*Effect: Wounds: Body Points Left*
 
-Stunned -- 1 to 3 -- 80% - 60%
-Wounded -- 4 to 8 -- 59% - 40%
-Severely Wounded -- 4 to 8 (see note) -- 39% - 20%
-Incapacitated -- 9 to 12 -- 19% - 10%
-Mortally Wounded -- 13 to 15 -- 1% - 9%
-Dead -- 16 or more -- 0
+* Stunned: 1 to 3: 80% - 60%
+
+* Wounded: 4 to 8: 59% - 40%
+
+* Severely Wounded: 4 to 8 (see note): 39% - 20%
+
+* Incapacitated: 9 to 12: 19% - 10%
+
+* Mortally Wounded: 13 to 15: 1% - 9%
+
+* Dead: 16 or more: 0
+
 
 Note: Penalties imposed by each level are not cumulative and they are
 not included when determining the resistance total or damage done by 
@@ -17668,13 +17603,19 @@ Abbreviated Healing Chart
 
 See Damage sectuib for additional information and modiﬁers.
 
-Medicine Total -- Body Points Recovered -- Current Wound Level    
-1 to 5 -- 2 -- None    
-6 to 10 -- 1D -- Stunned, Unconscious    
-11 to 15 -- 2D -- Wounded, Severely Wounded    
-16 to 20 -- 3D -- Incapacitated    
-21 to 25 -- 4D -- Mortally Wounded    
-26 to 30 -- 5D -- Dead    
+*Medicine Total: Body Points Recovered: Current Wound Level*
+
+* 1 to 5: 2: None    
+
+* 6 to 10: 1D: Stunned, Unconscious    
+
+* 11 to 15: 2D: Wounded, Severely Wounded    
+
+* 16 to 20: 3D: Incapacitated    
+
+* 21 to 25: 4D: Mortally Wounded    
+
+* 26 to 30: 5D: Dead    
 
 
 Die Code Simpliﬁcation
@@ -17718,60 +17659,114 @@ column, subtract 1 from the die code and multiply the number by
 3.5. Round up.
 
 
-    **Die Code Simpliﬁcation**
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    
+> ### Die Code Simpliﬁcation ###
+> 
+> *Die Code: 5D: Wild Dice*
+> 
+> 1D: 0: 0
+> 
+> 2D: 0: +4
+> 
+> 3D: 0: +7
+> 
+> 4D: 0: +11
+> 
+> 5D: 0: +14
+> 
+> 6D: +4: +18
+> 
+> 7D: +7: +21
+> 
+> 8D: +11: +25
+> 
+> 9D: +14: +28
+> 
+> 10D: +18: +32
+> 
+> 11D: +21: +35
+> 
+> 12D: +25: +39
+> 
+> 13D: +28: +42
+> 
+> 14D: +32: +46
+> 
+> 15D: +35: +49
+> 
+> 16D: +39: +53
+> 
+> 17D: +42: +56
+> 
+> 18D: +46: +60
+> 
+> 19D: +49: +63
+> 
+> 20D: +53: +67
+> 
+> 21D: +56: +70
+> 
+> 22D: +60: +74
+> 
+> 23D: +63: +77
+> 
+> 24D: +67: +81
+> 
+> 25D: +70: +84
+> 
+> 26D: +74: +88
+> 
+> 27D: +77: +91
+> 
+> 28D: +81: +95
+> 
+> 29D: +84: +98
+> 
+> 30D: +88: +102
+> 
+> 31D: +91: +105
+> 
+> 32D: +95: +109
+> 
+> 33D: +98: +112
+> 
+> 34D: +102: +116
+> 
+> 35D: +105: +119
+> 
+> 36D: +109: +123
+> 
+> 37D: +112: +126
+> 
+> 38D: +116: +130
+> 
+> 39D: +119: +133
+> 
+> 40D: +123: +137
+> 
+> 41D: +126: +140
+> 
+> 42D: +130: +144
+> 
+> 43D: +133: +147
+> 
+> 44D: +137: +151
+> 
+> 45D: +140: +154
+> 
+> 46D: +144: +158
+> 
+> 47D: +147: +161
+> 
+> 48D: +151: +165
+> 
+> 49D: +154: +168
+> 
+> 50D: +158: +172
 
-    Die Code     5D            Wild Dice
-    1D           0             0
-    2D           0             +4
-    3D           0             +7
-    4D           0             +11
-    5D           0             +14
-    6D           +4            +18
-    7D           +7            +21
-    8D           +11           +25
-    9D           +14           +28
-    10D          +18           +32
-    11D          +21           +35
-    12D          +25           +39
-    13D          +28           +42
-    14D          +32           +46
-    15D          +35           +49
-    16D          +39           +53
-    17D          +42           +56
-    18D          +46           +60
-    19D          +49           +63
-    20D          +53           +67
-    21D          +56           +70
-    22D          +60           +74
-    23D          +63           +77
-    24D          +67           +81
-    25D          +70           +84
-    26D          +74           +88  
-    27D          +77           +91
-    28D          +81           +95
-    29D          +84           +98
-    30D          +88           +102
-    31D          +91           +105
-    32D          +95           +109
-    33D          +98           +112
-    34D          +102          +116
-    35D          +105          +119
-    36D          +109          +123
-    37D          +112          +126
-    38D          +116          +130
-    39D          +119          +133
-    40D          +123          +137
-    41D          +126          +140
-    42D          +130          +144
-    43D          +133          +147
-    44D          +137          +151
-    45D          +140          +154
-    46D          +144          +158
-    47D          +147          +161
-    48D          +151          +165
-    49D          +154          +168
-    50D          +158          +172
-                        
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 OPEN GAME LICENSE Version 1.0a
 ==============================
@@ -17886,17 +17881,23 @@ necessary to make it enforceable.
 
 15. COPYRIGHT NOTICE
 
-    * Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
+* Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
     
-    * D6 Space (WEG 51012), Copyright 2004, Purgatory Publishing Inc
+* D6 Space (WEG 51012), Copyright 2004, Purgatory Publishing Inc
     
-    * West End Games, WEG, and D6 System are trademarks and properties of Purgatory Publishing Inc.
+* West End Games, WEG, and D6 System are trademarks and properties of 
+Purgatory Publishing Inc.
 
 ### PRODUCT IDENTIFICATION ###
 
-Product Identity: The D6 System; the D6 trademark, the D6 and related logos; OpenD6 and any derivative trademarks; and all cover and interior art and trade
-dress are designated as Product Identity (PI) and are properties of Purgatory Publishing Inc. Use of this PI will be subject to the terms set forth in the D6
+Product Identity: The D6 System; the D6 trademark, the D6 and related 
+logos; OpenD6 and any derivative trademarks; and all cover and interior 
+art and trade dress are designated as Product Identity (PI) and are 
+properties of Purgatory Publishing Inc. Use of this PI will be subject 
+to the terms set forth in the D6
+
 System/OpenD6 System Trademark License (D6STL).  
 
-Open Game Content: All game mechanics and materials not covered under Product Identity (PI) above.
+Open Game Content: All game mechanics and materials not covered under 
+Product Identity (PI) above.
 
