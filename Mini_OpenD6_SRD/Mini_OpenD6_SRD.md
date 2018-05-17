@@ -1,8 +1,42 @@
 Mini OpenD6 SRD
 ===============
 
+An SRD based on Mini Six, by Antipaladin Games.
 
-An SRD based on Antipaladin Games' Mini Six.
+
+About this Book
+---------------
+
+Mini Six is a member of the OpenD6 family of games.
+
+It's cinematic and flexible like its parent, but its goal is to be
+lighter and faster, keeping the heart of the system's mechanics
+but streamling the rules.
+
+Pages four and five detail character creation while pages
+six and seven provide all the needed mechanics to play a
+complete game. Beyond these four pages are additional rules
+and options to expand your game.
+
+On pages 8 through 13 are rules that will only come up in
+some games, vehicles and magic. While 14 through 17 provide
+GM's with a ready list of NPC's and monsters to populate the
+game. Pages 18 and 19 provide rule variants to help change
+up the game to better fit the style of the campaign desired. On
+pages 20 and 21 the GM will find a little advice on creating the
+campaign and adapting other OpenD6 materials to their Mini
+Six games. Sarting on page 22 you will find five sample settings
+that are nearly ready to go as is. Pages 34 and 35 contain a
+character sheet and the Mini Six cheat sheet containing several
+useful charts to serve as a handy reference.
+
+What you won't find in ths book are a lot of detailed
+examples, exhaustive rules to cover every possible scenario, or
+a large list of modifiers. Instead, we are trusting GM's, with the
+help of their players, to apply common sense to make the game
+fun for everyone. Don't slow the game down by wasting time
+digging for rules that aren't there. And most imporantly, when
+the rules conflict with fun, fun wins.
 
 
 Definitions of Common Game Terms
@@ -25,24 +59,30 @@ common factor are the recurring characters.
 Game Master (GM): The person in charge. Their sometimes
 called narrators. They run the adventure and act as impartial
 judge helping to keep the game moving.
+
 Non-Player Character (NPC): All of the characters controlled by
 the Game Master. They are the heroes' allies, enemies, extras in
 the background, and everyone in between. If it's a character not
 controlled by a player, it's an NPC. These characters do not follow
 normal creation guidelines. They are built on the needs of the
 story and for the purpose the GM has in mind for them.
+
 Player Character (PC): The protagonists, be they hero or antihero. 
 These are the characters controlled by the players.
+
 Round (rd or /r): Approximately ten seconds of time in the game
 world. How to track the speed of simple actions and combat.
+
 Scene: An intense fight, a thrilling car chase, a meeting with
 NPC's, each extended moment of interaction with each other or
 others is a scene. Just like in a play or a story, when the action
 winds down it's the end of a scene.
+
 Session: A single gathering of gamers. When you are done for
 the night and everyone is going home, it is the end of the session.
 Please respect your host by cleaning your area before you leave;
 it's just the nice thing to do.
+
 Target Number (TN): This is the number you need to roll or higher
 to succeed at whatever you are attempting. General challenges
 are broken down into six levels of difficulty (see page 6). Combat
@@ -53,34 +93,84 @@ which can be resisted by the target's skill. In this case you must
 beat the defender's roll to succeed. The TN of a given action might
 be modified by the GM depending on circumstances.
 
-About this Book
-Mini Six is a member of the OpenD6 family of games.
-It's cinematic and flexible like its parent, but its goal is to be
-lighter and faster, keeping the heart of the system's mechanics
-but streamling the rules.
-Pages four and five detail character creation while pages
-six and seven provide all the needed mechanics to play a
-complete game. Beyond these four pages are additional rules
-and options to expand your game.
-On pages 8 through 13 are rules that will only come up in
-some games, vehicles and magic. While 14 through 17 provide
-GM's with a ready list of NPC's and monsters to populate the
-game. Pages 18 and 19 provide rule variants to help change
-up the game to better fit the style of the campaign desired. On
 
-pages 20 and 21 the GM will find a little advice on creating the
-campaign and adapting other OpenD6 materials to their Mini
-Six games. Sarting on page 22 you will find five sample settings
-that are nearly ready to go as is. Pages 34 and 35 contain a
-character sheet and the Mini Six cheat sheet containing several
-useful charts to serve as a handy reference.
-What you won't find in ths book are a lot of detailed
-examples, exhaustive rules to cover every possible scenario, or
-a large list of modifiers. Instead, we are trusting GM's, with the
-help of their players, to apply common sense to make the game
-fun for everyone. Don't slow the game down by wasting time
-digging for rules that aren't there. And most imporantly, when
-the rules conflict with fun, fun wins.
+Dice Basics
+-----------
+
+This game uses regular six sided dice. The number before the
+“D” is how many to roll, and any number after a + is how much
+to add to the roll. For instance 2D+2 means roll two dice and add
+two to the resulting total.
+
+One die rolled is always the Wild Die. Use a different color
+die to represent this or roll the dice one at a time making the last
+die rolled the wild die. If the wild die results in a six, then roll
+again adding the six and the new result together. If a six comes up
+on the reroll, then you add six and reroll again! Keep doing it until
+the wild die lands on something other than a 6.
+
+
+How to Make a Character
+-----------------------
+
+1. Distribute 12 dice between the four attributes. No attribute
+may have less than one nor more than four dice assigned to it.
+
+2. Distribute 7 dice to skills and perks. No skill may have more
+than two dice assigned to it at character creation.
+
+3. Select Complications.
+
+4. Choose gear.
+
+
+Splitting Dice
+--------------
+
+Skill and attribute dice may be split into “pips.” Each die is equal 
+to three pips. An attribute must always have at least 1D. An attribute 
+may have dice only (no bonus pips), +1 or +2. Going to “+3” advances 
+the die code to the next largest die. Example progression is 1D, 1D+1, 
+1D+2, 2D, 2D+1, etc.
+
+
+Attributes
+----------
+
+Each character has four attributes which measure basic physical
+and mental abilities that are common to every creature. Characters
+distribute 12D among the four attributes. These are normally
+rated on a scale of 1D to 4D, although perks may change these
+limits. When putting dice into each attribute you can put whole
+dice in each or use a mixture of whole dice and pips.
+
+* **Might** represents physical strength, toughness, and amount
+of damage dealt when striking unarmed.
+
+* **Agility** represents aim and coordination.
+
+* **Wit** represents mental creativity and intelligence.
+
+* **Charm** represents charisma, resolve, and leadership.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+
+Skills
+------
+
+Characters are further defined by skills. Players may allocate
+up 7D on skills to best represent the unique talents of their
+character. Unspent skill dice can be used to purchase Perks.
+
+Skills are areas of expertise that represent focus and training.
+When putting dice into each skill you can put whole dice in each
+or use a mixture of whole dice and pips. No more than 2D may be
+spent in each skill during character creation. Each skill defaults to
+the level of the related attribute. For example, a character who has
+a Might of 3D has 3D in all skills under Might before allocating
+any dice. If two dice are added to Brawling it is recorded as 5D.
+
 
 The following is an incomplete skill list designed to serve as
 an inspiration for what may be used in a game. Each game should
@@ -90,110 +180,44 @@ and sworcery game might use an expanded list of melee skills to
 further define its warriors while a science fiction game may lump
 them all into a unified skill named “Melee Combat.”
 
-Dice Basics
-This game uses regular six sided dice. The number before the
-“D” is how many to roll, and any number after a + is how much
-to add to the roll. For instance 2D+2 means roll two dice and add
-two to the resulting total.
-One die rolled is always the Wild Die. Use a different color
-die to represent this or roll the dice one at a time making the last
-die rolled the wild die. If the wild die results in a six, then roll
-again adding the six and the new result together. If a six comes up
-on the reroll, then you add six and reroll again! Keep doing it until
-the wild die lands on something other than a 6.
+### All Genres ###
 
-Might
-Skills
-All Genres Brawling*
-Knife*
-Lift
-Mace*
-Stamina
+* Might Skills: Brawling, Knife, Lift, Mace, Stamina
 
-How to Make a Character
-1: Distribute 12 dice between the four attributes. No attribute
-may have less than one nor more than four dice assigned to it.
-2: Distribute 7 dice to skills and perks. No skill may have more
-than two dice assigned to it at character creation.
-3: Select Complications.
-4: Choose gear.
+* Agility Skills: Athletics, Dodge, Pickpocket, Stealth, Throwing
 
-Modern
-or Sci-fi
+* Wit Skills: History, Language, Medicine, Pick Locks, Search, Tracking
 
-Splitting Dice: skill and attribute dice may be split into “pips.”
-Each die is equal to three pips. An attribute must always have at
-least 1D. An attribute may have dice only (no bonus pips), +1 or
-+2. Going to “+3” advances the die code to the next largest die.
-Example progression is 1D, 1D+1, 1D+2, 2D, 2D+1, etc.
+* Charm Skills: Command, Courage, Diplomacy, Persuasion, Seduce
 
-Fantasy
 
-Axe*
-Pole Arm*
-Smithing
-Sword*
+### Modern or Sci-fi ###
 
-Agility
-Skills
+* Agility Skills: BFG, Drive, Pilot, Pistol, Rifle
 
-Wit
-Skills
+* Wit Skills: Computer, Navigation, Repair, Science
 
-Charm
-Skills
+* Charm Skills: Streetwise
 
-Athletics
-Dodge*
-Pickpocket
-Stealth
-Throwing*
 
-History
-Language
-Medicine
-Pick Locks
-Search
-Tracking
+### Fantasy ###
 
-Command
-Courage
-Diplomacy
-Persuasion
-Seduce
+* Might Skills: Axe, Pole Arm, Smithing, Sword
 
-BFG*
-Drive
-Pilot
-Pistol*
-Rifle*
+* Agility Skills: Bow, Crossbow
 
-Computer
-Navigation
-Repair
-Science
+* Wit Skills: Magic
 
-Streetwise
+* Charm Skills: Ride
 
-Bow*
-Crossbow*
 
-Magic
+*Note: Combat skills are not allowed specializations.*
 
-Ride
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-* = Combat skills are not allowed specializations.
-
-Attributes
 
 Skill Specializations
-
-Each character has four attributes which measure basic physical
-and mental abilities that are common to every creature. Characters
-distribute 12D among the four attributes. These are normally
-rated on a scale of 1D to 4D, although perks may change these
-limits. When putting dice into each attribute you can put whole
-dice in each or use a mixture of whole dice and pips.
+---------------------
 
 Specializations are focused aspects of a skill. For example,
 Drive specializations might include Car and Motorcycle. One skill
@@ -204,166 +228,115 @@ skill die in it, but records it as Running 6D on his character sheet.
 He has an Athletics of only 3D. This is the only time the 2D skill
 limit can be exceeded during character creation.
 
-Might represents physical strength, toughness, and amount
-of damage dealt when striking unarmed.
-Agility represents aim and coordination.
-Wit represents mental creativity and intelligence.
-Charm represents charisma, resolve, and leadership.
 
 Perks
+-----
+
 During character creation, unspent skill dice may be spent to
 acquire Perks. The following perks are meant to serve as examples
 and inspiration. The cost listed next to each is in whole skill dice.
 
-Skills
-Characters are further defined by skills. Players may allocate
-up 7D on skills to best represent the unique talents of their
-character. Unspent skill dice can be used to purchase Perks.
-Skills are areas of expertise that represent focus and training.
-When putting dice into each skill you can put whole dice in each
-or use a mixture of whole dice and pips. No more than 2D may be
-spent in each skill during character creation. Each skill defaults to
-the level of the related attribute. For example, a character who has
-a Might of 3D has 3D in all skills under Might before allocating
-any dice. If two dice are added to Brawling it is recorded as 5D.
 
-Racial Perks
+### Racial Perks ###
+
 Dwarf (1): You're long lived, you can see in the dark, you receive
 +2 to smithing or any other craft skill, Your maximum Might is
 5D but your maximum Agility is 3D.
+
 Elf (2): You're long lived, you can see in the dark, you receive a
 +1 on all ranged attacks, Your maximum Agility is 5D but your
 maximum Might is only 3D.
+
 Reptoid (2): You're green and scaly, this gives a +1 Armor Value.
 You also have claw-tipped fingers which grant you +1 damage on
 unarmed attacks. You might also be asexual. Sorry.
+
 Robot (4): You don't eat, breathe, or sleep. You can have your
 memory wiped. You don't heal but you can be repaired. As long as
 your memory core survives you may be rebuilt if destroyed.
 
-General Perks
+
+### General Perks ###
+
 Attractive (1): Others find the character pleasing to look at. This
 can help reduce suspicions or distract others depending on the
 given situation. Once per session the character can double one
 roll for any action related to their appearance. Examples include
 seduction, a subtle bluff or simply distracting guards.
 
-4
-
-Enemies: Someone doesn't like you a at all. And they are a credible
-threat. Maybe they have more friends than you, maybe they're just
-bigger and meaner; either way you have your own personal bully.
-You earn the bonus CP when they complicate your life.
-Gremlins: You have a special touch. Specifically the kind that
-breaks machines. You're no good with engines, electronics,
-magical gizmos, or any other trinket. If it's a device, you can't trust
-it. Earn one CP whenever the GM takes his one free shot on you
-this way.
-Personal Code: You live by a creed and you will not cross that
-line. Maybe you won't fight an unarmed opponent and always
-make sure they know its coming or maybe you never tell a lie. No
-matter how you define it, your code has to mean something. Some
-caped crusaders won't kill, paladins won't resort to deception,
-and sometimes there is even honor among thieves. Earn one CP
-whenever your code complicates you or friends' success.
-Skeletons in the Closet: You've been a naughty boy. Maybe
-you're a closet smoker. Maybe those hookers buried themselves.
-Maybe that enemy uniform in the closet really isn't yours. Maybe
-the bank really meant to let you take all that money out that day.
-Whatever, the universe doesn't judge. You earn the bonus CP
-whenever your past comes back to haunt you.
-Unlucky in Love: Things just don't work out for some guys. Your
-love interest is always dying, being kidnapped, betraying you, or
-even worse dumping you. You earn bonus CP when your love life
-falls apart in a meaningful way.
-Unlucky in Money: You have a hard time holding onto money.
-You earn the bonus CP when you lose a significant amount of
-cash through your own foolishness or bad luck and have nothing
-to show for it.
-
 Daredevil (2): Once per session you may throw caution to the
 wind taking extremely reckless action that may result in your own
 death. Your dodge, block, and parry are reduced by half however
 all Might rolls are doubled when resisting damage for one round.
+
 Destiny (2): Characters with Destiny feel they are fated to some
 grand purpose. Once per game session a character may declare a
 failed roll is not part of their Destiny and immediately reroll to get
 a different result.
+
 Favors (1): People owe you. Once per session you can call in one
 of those debts. This can take the form of information, a temporary
 use of equipment (borrowing a truck, plow, pump action shotgun,
 etc.), a place to hide someone or something for a brief time, or any
 similar event.
+
 Lucky (2): Once per session you can declare you are feeling lucky.
 Double the result of your next roll.
+
 Perceptive (2): The GM may reveal small clues to you that others
 would miss. Once per session a character may announce they are
 studying an object or situation and the GM may reveal something
 that would be impossible for a normal character to determine. If
 nothing is revealed this perk may be used again. “Elementary, my
 dear Watson.”
+
 Recall (1): Any time the character chooses to recall anything he
 has experienced, the GM must tell him the truth in as much detail
 as the character would have been aware.
+
 Sidekick (3): You have a boon companion willing to join in your
 adventures. This character only gets 10D to spend on attributes
 and 4D to spend on starting skills. They normally only receive 1 to
 3 CP per session, but never as many as their fearless leader.
 
-Esoteric Perks
+
+### Esoteric Perks ###
+
 Energy Blast (5): You can throw bolts of pure energy. These do
 4D damage and use your Throwing skill.
+
 ESP (3): You can read minds. Targets resist using their Charm
 vs. your Wits.
+
 Flying (4): You can fly (at twice your move).
+
 Regeneration (3): You heal 1 wound level/hour.
+
 Sorcerer (3): You're magically sensitive. Magic spells actually
 work for you. See the Simple Magic System, page 10.
+
 Telekinesis (3): You can move stuff with your mind. Make a Wits
 roll and treat it like the Lift skill. People resist using their Might.
+
 X-Ray Vision (3): you can see through 1 foot of material.
 
-Gear
-Some games may assume the character has the
-trappings of a middle class lifestyle, while others may
-take place in a world of fantasy where only those items in
-your pack mean the difference between life and death.
-Characters might start with one piece of related gear
-for each skill they allocated dice to during character
-creation. For example a pistol for the Pistols skill, a medic
-bag for Medicine, etc. For anything else, beg the GM.
-Axe
-Club
-Hatchet
-Halberd
-Knife
-Mace
-Rapier
-Staff
-Spear
-Sword
-Sword, 2h
-Warhammer
-Bow
-Crossbow
-Armor Value
-Leather
-Chainmail
-Platemail
-Shield
 
 Complications
+-------------
+
 During character creation only, players may select up to
 two complications. These grant no additional skill dice during
 character creation; however, if one comes up in play the character
 earns one CP. Characters may not earn more than one CP per
 complication per session regardless of how often it comes up.
+
 Age: You're either really old or really young. In addition to all the
 social issues caused by your age, the GM might choose to impose
 a penalty to an action based on your character's age. Grandpa
 throws a hip, a weird dude offers you candy on the street, and
 it's hard for either of you to seduce the supermodel at the bar.
 Whenever your age causes you great difficulty receive one CP.
+
 Crazy: You have issues that are guaranteed to put the therapists'
 kids through college. Could be you're just really paranoid, or
 maybe just a touch too OCD. That fear of most everything could
@@ -372,163 +345,222 @@ everyone else is wrong, good luck convincing anyone else since
 you're a lunatic. Hastur, Hastur, Hastur! Take your pills and earn
 one CP any time your psychosis really gets in the way.
 
-5
+Enemies: Someone doesn't like you a at all. And they are a credible
+threat. Maybe they have more friends than you, maybe they're just
+bigger and meaner; either way you have your own personal bully.
+You earn the bonus CP when they complicate your life.
 
-Damage
-+3D
-+1D+1
-+1D+1
-+3D
-+1D
-+1D+1
-+2D
-+1D+2
-+2D
-+2D+2
-+3D+1
-+3D
-+2D+2
-4D+1
-+2
-+6
-+9
-+4
+Gremlins: You have a special touch. Specifically the kind that
+breaks machines. You're no good with engines, electronics,
+magical gizmos, or any other trinket. If it's a device, you can't trust
+it. Earn one CP whenever the GM takes his one free shot on you
+this way.
 
-Damage
-Modern Tech
-Light Pistol
-3D+2
-Heavy Pistol
-4D
-Rifle
-5D
-Shotgun
-4D+2
-BFG
-6D
-Sci-Fi Tech
-Plasma Pistol
-5D
-Plasma Rifle
-6D
-Plasma BFG
-7D
-Plasma Sword
-+4D
-Ranges in Feet (S/M/L)
-Bow
-30/100/300
-Crossbow
-50/150/400
-All Pistols
-30/100/350
-All Rifles
-100/350/500
-Shotguns
-50/150/400
-BFG
-100/400/700
-Grenades
-10/20/30
+Personal Code: You live by a creed and you will not cross that
+line. Maybe you won't fight an unarmed opponent and always
+make sure they know its coming or maybe you never tell a lie. No
+matter how you define it, your code has to mean something. Some
+caped crusaders won't kill, paladins won't resort to deception,
+and sometimes there is even honor among thieves. Earn one CP
+whenever your code complicates you or friends' success.
 
-Movement
+Skeletons in the Closet: You've been a naughty boy. Maybe
+you're a closet smoker. Maybe those hookers buried themselves.
+Maybe that enemy uniform in the closet really isn't yours. Maybe
+the bank really meant to let you take all that money out that day.
+Whatever, the universe doesn't judge. You earn the bonus CP
+whenever your past comes back to haunt you.
+
+Unlucky in Love: Things just don't work out for some guys. Your
+love interest is always dying, being kidnapped, betraying you, or
+even worse dumping you. You earn bonus CP when your love life
+falls apart in a meaningful way.
+
+Unlucky in Money: You have a hard time holding onto money.
+You earn the bonus CP when you lose a significant amount of
+cash through your own foolishness or bad luck and have nothing
+to show for it.
+
+
+Gear
+----
+
+Some games may assume the character has the trappings of a middle 
+class lifestyle, while others may take place in a world of fantasy 
+where only those items in your pack mean the difference between 
+life and death. 
+
+Characters might start with one piece of related gear for each skill 
+they allocated dice to during character creation. For example a 
+pistol for the Pistols skill, a medic bag for Medicine, etc. 
+For anything else, beg the GM.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Weapons and Damage ###
+
+* Axe: +3D
+* Club: +1D+1
+* Hatchet: +1D+1
+* Halberd: +3D
+* Knife: +1D
+* Mace: +1D+1
+* Rapier: +2D
+* Staff: +1D+2
+* Spear: +2D
+* Sword: +2D+2
+* Sword, 2h: +3D+1
+* Warhammer: +3D
+* Bow: +2D+2
+* Crossbow: 4D+1
+
+
+### Armor Value ###
+
+* Leather: +2
+* Chainmail: +6
+* Platemail: +9
+* Shield: +4
+
+
+### Modern Tech and Damage ###
+
+Light Pistol: 3D+2
+Heavy Pistol: 4D
+Rifle: 5D
+Shotgun: 4D+2
+BFG: 6D
+
+
+### Sci-Fi Tech ###
+
+Plasma Pistol: 5D
+Plasma Rifle: 6D
+Plasma BFG: 7D
+Plasma Sword: +4D
+
+
+### Ranges in Feet (S/M/L) ###
+
+* Bow: 30/100/300
+* Crossbow: 50/150/400
+* All Pistols: 30/100/350
+* All Rifles: 100/350/500
+* Shotguns: 50/150/400
+* BFG: 100/400/700
+* Grenades: 10/20/30
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 The Game Mechanics
+==================
+
+
+Movement
+--------
 
 A character may move up to 15 feet as a free action or move
 30 feet at the cost of one action. If a character wishes to run faster
 he rolls his Athletics skill and adds it to his movement. If the only
 action taken in a round is running, his total move is doubled.
 
+
 General (non-combat) Challenges
+-------------------------------
+
 Characters roll the appropriate attribute plus skill against a
 set target number based on the task attempted.
 
-Very Easy
-Easy
-Moderate
-Difficult
-Very Difficult
-Heroic
+* Very Easy: 2 to5
+* Easy: 6 to 10
+* Moderate: 11 to 15
+* Difficult: 16 to 20
+* Very Difficult: 21 to 30
+* Heroic: 31+
+
+Very Easy: Nearly everyone can do it. These checks should only
+be made if a success is critical to the scenario at hand.
+
+Easy: Characters will seldom have trouble with these tasks, but
+an untrained individual may find them challenging.
+
+Moderate: Average character have a reasonable chance of failing
+at this level. Consistent success often requires training in the skill
+or a high level of natural ability.
+
+Difficult: Tasks at this level are truly challenging. To succeed a
+character needs to be well skilled or very lucky.
+
+Very Difficult: Challenges of this level fall into the domain of
+masters in the skill being used; few others will succeed at them.
+
+Heroic: These challenges are almost impossible. Only the very
+lucky or true masters can consistently succeed at them.
+
+
+Order of Actions in a Round
+---------------------------
+
+(a round is considered to be approximately 10 seconds)
+
+1. Declare all actions planned for the round.
+2. Determine order of Initiative by rolling Agility for each 
+   character. Highest goes first.
+3. Characters make rolls for all actions they are attempting. The
+   target may get an opportunity to resist or avoid the action.
+
+
+Multiple Actions
+----------------
+
+Characters may attempt to do more than one thing on a turn
+by withholding one die from every action they attempt for each
+action beyond the first. For instance, if a character tries to shoot
+twice, he will subtract one die from each attempt.
+
 
 Experience
-
-2--5
-6 -- 10
-11 -- 15
-16 -- 20
-21 -- 30
-31+
+----------
 
 At the end of each session the GM awards each character
 a number of character points. The number of points given per
 session typically varies from 3 to 7 depending on drama, danger,
 success, and fun!
 
+
 Spending Character Points (CP)
+------------------------------
+
 Any skill may be increased one pip by spending a number of
 CPs equal to its current number of dice. No skill may be increased
 more than one pip per session. Skill specializations cost only half
 as much to raise, rounding up.
+
 Character points are also used to improve attributes. This
 costs 10 times the number of dice a character has in the attribute
 to raise it one pip. All skills under this attribute also improve by
 one pip. For example, if a character had a Wit of 3D+1 and wanted
 to improve it to 3D+2 it would cost 30 CP.
 
-Very Easy: Nearly everyone can do it. These checks should only
-be made if a success is critical to the scenario at hand.
-Easy: Characters will seldom have trouble with these tasks, but
-an untrained individual may find them challenging.
-Moderate: Average character have a reasonable chance of failing
-at this level. Consistent success often requires training in the skill
-or a high level of natural ability.
-Difficult: Tasks at this level are truly challenging. To succeed a
-character needs to be well skilled or very lucky.
-Very Difficult: Challenges of this level fall into the domain of
-masters in the skill being used; few others will succeed at them.
-Heroic: These challenges are almost impossible. Only the very
-lucky or true masters can consistently succeed at them.
 
 Hero Points
+-----------
+
 Characters start with 1 hero point and may spend it before
 any roll. Hero Points provide a variety of options, but once spent
 the point is lost:
-•
-•
 
-Order of Actions in a Round
-
-•
-
-(a round is considered to be approximately 10 seconds)
-
-1.
-2.
-3.
-
-Declare all actions planned for the round.
-Determine order of Initiative by rolling Agility for each
-character. Highest goes first.
-Characters make rolls for all actions they are attempting. The
-target may get an opportunity to resist or avoid the action.
-
-•
-
-Gaining a +6 to any single roll (up to 3 points may be used at
-one time when using this effect).
-Just a flesh wound. Once per combat a hero point can be used
-to reduce the severity of a character's wounds one level.
-Make a small change to their location (locating an unlocked
-window, finding a can of WD40 and a roll of duct tape, etc.)
-“Buy” a clue. Sometimes players are at a lost or think they
-might have missed something. This gives them the option to
-find that detail that they would have otherwise missed.
-
-Characters may attempt to do more than one thing on a turn
-by withholding one die from every action they attempt for each
-action beyond the first. For instance, if a character tries to shoot
-twice, he will subtract one die from each attempt.
+* Gaining a +6 to any single roll (up to 3 points may be used at
+  one time when using this effect).
+* Just a flesh wound. Once per combat a hero point can be used
+  to reduce the severity of a character's wounds one level.
+* Make a small change to their location (locating an unlocked
+  window, finding a can of WD40 and a roll of duct tape, etc.)
+* “Buy” a clue. Sometimes players are at a lost or think they
+  might have missed something. This gives them the option to
+  find that detail that they would have otherwise missed.
 
 Hero Points are earned through superior play and given as an
 incentive by the GM to help encourage the style of action desired
@@ -538,9 +570,9 @@ without disrupting play that may be worth a Hero Point. Unless
 completely against the nature of the game played, extremely clever
 ideas and grand heroic deeds should always be rewarded.
 
-Scaling
 
-Healing
+Scaling
+-------
 
 Not all objects are on the same scale. Humans and horses
 may be close enough to be equals, but humans and dragons aren't.
@@ -550,139 +582,82 @@ die rolls or static defenses. Smaller scaled targets attempting to
 dodge attacks from or actually attempting to attack a larger scaled
 opponent add the difference to their dodge and attack rolls.
 
+* Character, Animals: None
+
+* Air Cycle, Car, Little Dragon, Wagon: +2D /+6 to Dodge & Soak
+
+* Big Dragon, Galley, Mecha, Tank: +4D/+12 to Dodge & Soak
+
+* Fighter, Lt. Transport, Heavy Mecha: +6D/+18 to Dodge & Soak
+
+* Capital Ship, Elder God, Space Station: +12D/+36 to Dodge & Soak
+
+* Mega Space Station, Planets: +24D/+72 to Dodge & Soak
+
+
+Healing
+-------
+
 Natural Healing: If a wounded character rests he is allowed a
 Might check and if successful heals a wound level. The frequency
 of the check depends on the severity of the character's wounds.
+
 Assisted Healing: Characters with the Medicine skill can attempt
 to help others heal more quickly. A skill check may be made once
 per day for each patient treated. On a successful roll, the patient
 heals one wound level.
 
-Multiple Actions
+*Wound Level: Frequency (N. Healing): Might Difficulty: Assisted Healing Difficulty*
 
-Scale
-Character, Animals
+* Stunned: 1 minute: automatic: Easy
 
-Modifier
+* Wounded: 3 days: 6: Moderate
 
-(N.Healing)
+* Severely Wounded: 3 days: 6: Moderate
 
-Might
-Difficulty
+* Incapacitated: 2 weeks: 8: Difficult
 
-Assisted Healing
-Difficulty
+* Mortally Wounded: 5 weeks: 9: Very Difficult
 
-Frequency
-Wound Level
 
-None
+Two Types of Combat
+===================
 
-Air Cycle, Car, Little Dragon, Wagon
+Why two rules?
 
-+2D /+6 to Dodge & Soak
+Fast Static Combat is the preferred method of combat resolution. While 
+players familiar with OpenD6 may be more comfortable with Traditional 
+OpenD6 Combat.
 
-Stunned/
+Fast Static Combat reduces the number of die rolls without significantly 
+altering the results compared to Traditional OpenD6 Combat.
 
-1 minute
+Mini Six supports both flavors so you can easily use whichever method 
+you prefer.
 
-automatic
-
-Easy
-
-Big Dragon, Galley, Mecha, Tank
-
-+4D/+12 to Dodge & Soak
-
-Wounded
-
-3 days
-
-6
-
-Moderate
-
-Fighter, Lt. Transport, Heavy Mecha
-
-+6D/+18 to Dodge & Soak
-
-Severely Wounded
-
-3 days
-
-6
-
-Moderate
-
-Capital Ship, Elder God, Space Station
-
-+12D/+36 to Dodge & Soak
-
-Incapacitated
-
-2 weeks
-
-8
-
-Difficult
-
-Mega Space Station, Planets
-
-+24D/+72 to Dodge & Soak
-
-Mortally Wounded
-
-5 weeks
-
-9
-
-Very Difficult
-
-6
 
 Fast Static Combat
+------------------
 
-Traditional OpenD6 Combat
-
-Attacking a Target
-
-Attacking a Target
+### Attacking a Target ###
 
 The Target Number, or TN, is the number needed to
-The Target Number, or TN, is the number needed to
-successfully hit the target. The base target number on an
 successfully hit the target. The base target number on an
 attack is based on the target's static defense score.
-attack is 10. This is modified by range, by cover, by block, by
-Range: Add the range modifier to the Dodge score in all
-parry, or by dodging (see below.)
-cases (Point Blank/ Hand-to-Hand -5, Medium +5,
-Range: The ranged attack modifier applies to the
-Long +10). See the sample gear list for ranges.
-base TN or defender's Dodge roll (Point Blank/
-Why two rules?
-Fast Static Combat is Hand-to-Hand -5, Medium +5, Long +10). See the
-Cover: If the target is behind at least 50% cover,
-the preferred method
-sample gear list for ranges.
-add +5 to the Target Number. Add +10 for 75%
-of combat resolution.
-cover. It's impossible to hit a target behind 100%
-Cover: If the target is behind at least 50% cover,
-While players familiar
-cover. Darkness can also be considered as cover at
-add +5 to the TN. Add +10 for 75% cover. It's
-with OpenD6 may be
-the GM's whim.
-impossible to hit a target behind 100% cover.
-more comfortable with
-Darkness can also be considered as cover at the
-Static Defenses
-Traditional OpenD6
-GM's whim.
-In the simplified combat system characters
-Combat.
 
+Range: Add the range modifier to the Dodge score in all
+cases (Point Blank/ Hand-to-Hand -5, Medium +5,
+Long +10). See the sample gear list for ranges.
+
+Cover: If the target is behind at least 50% cover,
+add +5 to the Target Number. Add +10 for 75%
+cover. It's impossible to hit a target behind 100%
+cover. Darkness can also be considered as cover at the GM's whim.
+
+
+### Static Defenses ###
+
+In the simplified combat system characters
 precalculate their Dodge, Block, and Parry
 prior to the game. This static number become's
 the attacker's TN modified as noted above. To
@@ -693,148 +668,173 @@ the character sheet. For example, Sir Baelen has a
 Sword skill of 5D+1. His static Parry score would
 become 16 ((5 x 3)+1).
 
-Fast Static Combat
-reduces the number
-of die rolls without
-significantly altering
-the results compared
-to Traditional OpenD6
-Combat.
+* Block = (Brawling skill dice x 3) + pips.
+* Dodge = (Dodge skill dice x 3) + pips.
+* Parry = (Weapon skill dice x 3) + pips.
+* Soak = (Might attribute dice x 3) + pips plus armor value +
+  any magical, super-tech, or other AV bonus.
 
-Defensive Options
+Full Dodge: If the character does nothing except dodge until
+his next turn they will add 10 to their Dodge score, and apply 
+range and cover as usual. This result is useful against any
+number of attacks.
+
+
+### Resisting Damage ###
+
+When a target has been hit, the attacker rolls damage and
+the target's Soak score is subtracted from the damage. The
+player or GM then checks the Wound Level chart below to
+see how badly the target was wounded.
+
+
+Traditional OpenD6 Combat
+-------------------------
+
+### Attacking a Target ###
+
+The Target Number, or TN, is the number needed to
+successfully hit the target. The base target number on an
+attack is 10. This is modified by range, by cover, by block, by
+parry, or by dodging (see below.)
+
+Range: The ranged attack modifier applies to the
+base TN or defender's Dodge roll (Point Blank/
+Hand-to-Hand -5, Medium +5, Long +10). See the
+sample gear list for ranges.
+
+Cover: If the target is behind at least 50% cover,
+add +5 to the TN. Add +10 for 75% cover. It's
+impossible to hit a target behind 100% cover.
+Darkness can also be considered as cover at the GM's whim.
+
+
+### Defensive Options ###
 
 The defender may optionally choose to Dodge,
 Block, or Parry when attacked, however if the
 defense was not stated when the character first
 declared their actions for the turn they suffer an
 additional -1D penalty until their next turn.
+
 Block/Parry: When attacked by a brawling or
-melee weapon, the defender may choose to Block
-Mini Six supports
-both flavors so you can or Parry, both incur a reflex penalty (see below).
+melee weapon, the defender may choose to Block or Parry, 
+both incur a reflex penalty (see below).
 The defender rolls his brawling skill, or weapon
-easily use whichever
-Block = (Brawling skill dice x 3) + pips.
-method you prefer.
 skill if armed, and this becomes the TN the attacker
-Dodge = (Dodge skill dice x 3) + pips.
 must score to hit the character. The result of this roll
-Parry = (Weapon skill dice x 3) + pips.
 is used even if it is less than what the TN would have been
-Soak = (Might attribute dice x 3) + pips plus armor value +
 had the defender not blocked! If a weapon parry's a brawling
-any magical, super-tech, or other AV bonus.
 attack the attacker takes the damage of the weapon!
-Full Dodge: If the character does nothing except dodge until
+
 Reflexive Dodge: The character tries to get out of the way of
-his next turn they will add 10 to their Dodge score, and apthe attack. Roll the defender's dodge skill and use that instead
-ply range and cover as usual. This result is useful against any
+the attack. Roll the defender's dodge skill and use that instead
 of any other TN, (Range and Cover still apply.) The defender
-number of attacks.
 suffers a penalty of -1D to all actions until their next turn.
-Resisting Damage
+
+
 Full Dodge: The character does nothing except dodge until
-When a target has been hit, the attacker rolls damage and
 his next turn. Roll dodge, add 10, and apply range and cover
-the target's Soak score is subtracted from the damage. The
 as usual. This result is useful against any number of attacks.
-player or GM then checks the Wound Level chart below to
-Resisting Damage
-see how badly the target was wounded.
+
+
+### Resisting Damage ###
+
 When a target has been hit, the attacker rolls damage
 while the target rolls their Might adding any armor value
 bonuses. The total of the target's Might roll is subtracted from
-Dmg Total* ≥ Res Total by:
-Wound Level
-the attacker's damage total. The player or GM then checks the
-Unharmed
-0 or less
+the attacker’s damage total. The player or GM then checks the
 Wound Level chart to see how badly the target was wounded.
-Stunned
-1--3
-Wounded
 
-4--8
 
-Severely Wounded**
+Wound Levels
+------------
 
-4--8
+*Wound Level: Dmg Total ≥ Res Total by:*
 
-Incapacitated
+* Unharmed: 0 or less
 
-9 --12
+* Stunned: 1--3
 
-Mortally Wounded
-Dead
+* Wounded: 4--8
 
-13 -- 15
-16+
+* Severely Wounded: 4--8 (Note: A character is Severely Wounded if 
+the result is between 4 and 8 and he already has the Wounded level.
 
-*Note: Any additional damage less than or equal to the
-character's current level moves him up by one level.
+* Incapacitated: 9 --12
 
-**Note: A character is Severely Wounded if the result is
-between 4 and 8 and he already has the Wounded level.
+* Mortally Wounded: 13 -- 15
+
+* Dead: 16+
+
+* Note: Any additional damage less than or equal to the
+  character's current level moves him up by one level.
+
 
 Wound Level Effects
-Stunned: -1D for all remaining actions this round and next round.
-Wounded: -1D to all actions until healed.
-Severely Wounded: -2D on all actions until healed.
-Incapacitated: As a free action before losing consciousness, the character may try
-to stay up with a Moderate (15) stamina roll. If successful, he may continue to act,
-but with a -3D penalty. If he fails, he is knocked out for 10D minutes.
-Mortally Wounded: The character is near death and knocked unconscious with
-no chance to keep up. Roll the character's Might each round, the character finally
-dies if the roll is less than the number of minutes he's been at this level.
-Dead: The character has perished.
+-------------------
 
-7
+* Stunned: -1D for all remaining actions this round and next round.
+
+* Wounded: -1D to all actions until healed.
+
+* Severely Wounded: -2D on all actions until healed.
+Incapacitated: As a free action before losing consciousness,
+the character may try to stay up with a Moderate (15)
+stamina roll. If successful, he may continue to act, but with a
+-3D penalty. If he fails, he is knocked out for 10D minutes.
+
+* Mortally Wounded: The character is near death and knocked
+unconscious with no chance to keep up. Roll the character's
+Might each round, the character finally dies if the roll is less
+than the number of minutes he's been at this level.
+
+* Dead: The character has perished.
+
+
+Wound Level Effects
+-------------------
+
+* Stunned: -1D for all remaining actions this round and next round.
+
+* Wounded: -1D to all actions until healed.
+
+* Severely Wounded: -2D on all actions until healed.
+Incapacitated: As a free action before losing consciousness,
+the character may try to stay up with a Moderate (15)
+stamina roll. If successful, he may continue to act, but with a
+-3D penalty. If he fails, he is knocked out for 10D minutes.
+
+* Mortally Wounded: The character is near death and knocked
+unconscious with no chance to keep up. Roll the character's
+Might each round, the character finally dies if the roll is less
+than the number of minutes he's been at this level.
+
+* Dead: The character has perished.
+
 
 Vehicles
-
-Ramming
+========
 
 All vehicles from ancient chariots to futuristic starships are
 defined by a common set of statistics. The following stats help the
 GM and players quickly resolve all actions related to vehicles.
 
-When vehicles are at short range, a pursuer may try to ram.
-To successfully ram the pilot needs to roll higher than the target's
-Pilot skill check. If successful both vehicles take damage equal to
-to the body of attacking plus relative move dice.
+* Skill: What skill is used to drive/pilot it.
+* Scale: The size of the vehicle.
+* Body: Used to resist damage.
+* Maneuverability (MNV): How easy it is to handle. This gives a
+  bonus on drive and pilot skill rolls.
+* Move: How fast it can travel.
+* Crew: The number needed to successfully operate the vehicle.
+* Passengers (Psg): Non-crew capacity.
+* Weapons: Any armaments mounted on the vehicle.
+* Cargo: How much stuff it can carry.
 
-Skill: What skill is used to drive/pilot it.
-Scale: The size of the vehicle.
-Body: Used to resist damage.
-Maneuverability (MNV): How easy it is to handle. This gives a
-bonus on drive and pilot skill rolls.
-Move: How fast it can travel.
-Crew: The number needed to successfully operate the vehicle.
-Passengers (Psg): Non-crew capacity.
-Weapons: Any armaments mounted on the vehicle.
-Cargo: How much stuff it can carry.
-
-Multiple Weapons on Vehicles
-When vehicles have more than one weapon of a single type,
-they can be fired as a single salvo. This requires a successful
-Command skill roll with the difficulty based on the number of
-guns being combined. Each doubling of the number of weapons
-combined increases the damage by one pip.
-
-Chases
-When attempting to overtake or outrun an opponent the GM
-determines what range you are at (Short/Medium/Long). Each
-turn each vehicle makes a drive/pilot check, with the vehicle's
-Move dice granting a bonus. The higher roll either closes or
-increases the distance 1 range as desired. If reduced below Short
-you catch up, if increased beyond long you escape.
-
-Repairing Vehicles
-Characters may repair vehicles using their skills. The difficulty
-and cost is determined on the following chart. The cost is based
-on the price of a new vehicle.
 
 Vehicle Combat
+--------------
+
 Some vehicles have weapons. Unless specified in their
 descriptions they are considered to be the same scale as the
 vehicle. Attacks are resolved in the same manner as character vs.
@@ -844,39 +844,81 @@ the hit was successful the character would roll the vehicle's Body
 to resist the damage and consult the following chart to determine
 how severe the damage is:
 
-Damage Rolled
+*Damage Rolled: Effect*
 
-Effect
+* Damage Roll ≥ Body Roll: Temporary Effect (one round)
+* Damage Roll ≥ 2 x Body Roll Permanent Effect (repair required)
+* Damage Roll ≥ 3 x Body Roll: Permanent Effect (part destroyed)
 
-Damage Roll ≥ Body Roll
+Once the severity of the damage is determined the GM may
+roll randomly on the the following chart or use common sense to
+determine which part is damaged.
 
-Temporary Effect (one round)
+*Roll 1D: Effect*
 
-Cost
+* 1: Lose 1D from Maneuverability
+* 2 to 3: Random System Damaged
+* 4 to 6: Structural Damage
 
-Time Needed
+### Effects of Damage ###
 
-Easy
+Maneuverability: Each time this is affected the vehicle loses 1D.
+This can go negative becoming a penalty to the driver's skill roll.
 
-10%
+System Damaged: Randomly select a vehicle's system and it
+either becomes broken or loses 1D from its rating (if applicable).
+Examples include communications/radio, sensors, shielding, sail,
+rigging, armor, etc.
 
-1 hour
+Structural Damage: The vehicle receives one wound level. Treat
+these like character wound levels. Mortally wounded vehicles stop
+running and Dead vehicles are considered destroyed.
 
-2D
 
-Moderate
+### Ramming ###
 
-15%
+When vehicles are at short range, a pursuer may try to ram.
+To successfully ram the pilot needs to roll higher than the target's
+Pilot skill check. If successful both vehicles take damage equal to
+to the body of attacking plus relative move dice.
 
-4 hours
 
-3D+
+### Multiple Weapons on Vehicles ###
 
-Difficult
+When vehicles have more than one weapon of a single type,
+they can be fired as a single salvo. This requires a successful
+Command skill roll with the difficulty based on the number of
+guns being combined. Each doubling of the number of weapons
+combined increases the damage by one pip.
 
-20%
 
-1 day
+Chases
+------
+
+When attempting to overtake or outrun an opponent the GM
+determines what range you are at (Short/Medium/Long). Each
+turn each vehicle makes a drive/pilot check, with the vehicle's
+Move dice granting a bonus. The higher roll either closes or
+increases the distance 1 range as desired. If reduced below Short
+you catch up, if increased beyond long you escape.
+
+
+Repairing Vehicles
+------------------
+
+Characters may repair vehicles using their skills. The difficulty
+and cost is determined on the following chart. The cost is based
+on the price of a new vehicle.
+
+*Dice Lost: Difficulty: Cost: Time Needed*
+
+* 1D: Easy: 10%: 1 hour
+* 2D: Moderate: 15%: 4 hours
+* 3D+: Difficult: 20%: 1 day
+
+
+Vehicle Movement
+----------------
 
 Move dice represent relative speed between vehicles of similar
 types. Vehicles are divided into four broad categeries including
@@ -886,83 +928,32 @@ must compare speeds, such as a fighter chasing a tank, the faster
 vehicle is granted bonus move dice based on the difference in
 speed factors in the following chart:
 
-Damage Roll ≥ 3 x Body Roll Permanent Effect (part destroyed)
+*Speed Factor: Modifier*
 
-Once the severity of the damage is determined the GM may
-roll randomly on the the following chart or use common sense to
-determine which part is damaged.
+* Primitive Craft / Muscle Powered: 0D
+* Motorized Ground / Water Craft: 2D
+* Aircraft: 5D
+* Spacecraft: 10D
 
-1
-
-Difficulty
-
-1D
-
-Vehicle Movement
-
-Damage Roll ≥ 2 x Body Roll Permanent Effect (repair required)
-
-Roll 1D
-
-Dice Lost
-
-Speed Factor
-
-Modifier
-
-Primitive Craft / Muscle Powered
-
-0D
-
-Motorized Ground / Water Craft
-
-2D
-
-Effect
-
-Aircraft
-
-5D
-
-Lose 1D from Maneuverability
-
-Spacecraft
-
-10D
-
-2--3
-
-Random System Damaged
-
-4--6
-
-Structural Damage
 
 Weapon Ranges in Space
+----------------------
+
 Space is big and empty. Guns shoot great distances and ships
 are extremely fast. The ranges given are abstract units that are
 defined by the needs of the individual game.
 
-Effects of Damage
-Maneuverability: Each time this is affected the vehicle loses 1D.
-This can go negative becoming a penalty to the driver's skill roll.
-System Damaged: Randomly select a vehicle's system and it
-either becomes broken or loses 1D from its rating (if applicable).
-Examples include communications/radio, sensors, shielding, sail,
-rigging, armor, etc.
-Structural Damage: The vehicle receives one wound level. Treat
-these like character wound levels. Mortally wounded vehicles stop
-running and Dead vehicles are considered destroyed.
 
 Vehicle Costs
-$ Trivial cost.
-$$ Affordable to most.
-$$$ Affordable to the very wealthy, governments, and corps.
-$$$$ Only the richest individuals, most governments.
-$$$$$ Only large governments and megacorps can purchase.
-$$$$$$ World governments and star empires only.
+-------------
 
-8
+* $ Trivial cost.
+* $$ Affordable to most.
+* $$$ Affordable to the very wealthy, governments, and corps.
+* $$$$ Only the richest individuals, most governments.
+* $$$$$ Only large governments and megacorps can purchase.
+* $$$$$$ World governments and star empires only.
+
 
 Sample Fantasy Vehicles
 
@@ -4599,88 +4590,20 @@ Perks: Regeneration, Scale any Surface
 Static: Dodge 10, Block 19, Parry 16, Soak 16
 Gear: None
 
+
 Imperium in Revolt
-------------------
+==================
 
-It is a dark time across the galaxy. Forces of the Grand Imperium have crushed the
-last vestiges of the once great Galactic Commonwealth. As tyranny spreads a few brave
-and desperate souls have dared to stand against the Sovereign's power. Rebels attempting
-to show the galaxy that freedom can be claimed if people are willing to stand up for what
-they believe in. The future is uncertain, but it will be forged by the spirit of heroes.
-Player characters take the
-role of rebels, smugglers, knights,
-and others who stand against the
-Imperium. They are fighting for
-freedom; even if only their own.
+It is a dark time across the galaxy. Forces of the Grand Imperium have 
+crushed the last vestiges of the once great Galactic Commonwealth. As 
+tyranny spreads a few brave and desperate souls have dared to stand 
+against the Sovereign's power. Rebels attempting to show the galaxy 
+that freedom can be claimed if people are willing to stand up for what 
+they believe in. The future is uncertain, but it will be forged by the 
+spirit of heroes.
 
-Minor Paladin
-Focus, honor, humility.
-Might: 3D
-
-Agility: 3D
-
-Plasma Sword 4D
-
-Dodge 4D
-Charm: 2D
-
-Wit: 4D
-Magic 6D
-
-Static: Dodge 12, Block 9,
-Parry 12, Soak 9
-Perks & Comps: Sorcerer, Hunted
-Spells: Charm, ESP, Sense Danger
-Gear: Plasma Sword
-
-Scruffy Smuggler
-I can get ya there, no questions asked.
-Might: 3D
-
-Agility: 3D+2
-
-Brawling 4D
-
-Dodge 5D
-Pilot 4D+2
-Pistol 5D
-Charm: 3D
-
-Wit: 2D+1
-Navigation 3D+1
-
-Streetwise 4D+1
-
-Static: Dodge 15, Block 12
-Parry 9, Soak 9
-Perks & Comp: Large Debt
-Gear: Hvy Blaster, Lt. Transport
-
-Exiled Royal
-Do you KNOW who I am?
-Might: 2D+1
-
-Agility: 3D+2
-
-Melee 3D
-
-Dodge 5D
-Pistol 3D
-Charm: 3D+1
-
-Wit: 3D+1
-History 4D
-
-Command 5D+1
-Diplomacy 4D+2
-
-Static: Dodge 15, Block 7
-Parry 9, Soak 7
-Perks: Favors
-Gear: hold-out pistol, wardrobe.
-
-For 5,000 years the Galactic Commonwealth
-grew, stretching across the galaxy. Starting from
+For 5,000 years the Galactic Commonwealth  grew, 
+stretching across the galaxy. Starting from
 the Founding Systems who mastered the secrets
 of hyperspace travel, they explored and expanded
 bringing thousands races together under a
@@ -4688,6 +4611,7 @@ common banner of prosperity. What felt like an
 eternity of good fortune bred its own peculiar
 evil. At first none noticed the corruption taking
 seed in the honored halls of galactic power.
+
 Factions formed in the Senate, each coveting
 what others had amassed. Many senators viewed
 the systems they represented more as personal
@@ -4696,6 +4620,7 @@ Bickering replaced diplomacy. Trade blockades
 and strikes were common threats. The Senate
 was paralyzed. Systems starved as trade stagnated
 denying them goods they needed for survival.
+
 The Galactic Navy, reduced in strength
 after so long a peace, was ordered to act as a
 barrier between individual system Militia Fleets
@@ -4704,6 +4629,7 @@ Skirmishes erupted between factions. The final
 blow came when the President of the Senate was
 murdered in the Grand Hall by rivals who feared
 his measured words.
+
 It was the Taurani senator who took center
 stage in the ensuing madness. Gathering the
 still loyal factions of the Commonwealth
@@ -4714,39 +4640,52 @@ government to save dying worlds. Blockades
 were shattered and trade forcefully reestablished.
 Media was silenced to protect galactic security as
 order was restored.
+
 In only a dozen years the senator concentrated
 enough power to declare himself Sovereign. At his
 fiery self-coronation the new dictator promised a
 new golden age in a Grand Imperium. Yet not all
 hope was lost.
 
+
 Character Creation Guidelines
+-----------------------------
 Characters may purchase the Sorcerer
 perk. The Star Paladins section explains how
 magic is treated in the game universe and the
 complications related to selecting it.
 
+
 Skill List
-Might: Athletics, Brawling, Lift, Melee, Plasma
+----------
+
+* Might: Athletics, Brawling, Lift, Melee, Plasma
 Sword, Stamina, Swimming
-Agility: BFG, Dodge, Drive, Pilot, Pistol, Rifle,
+
+* Agility: BFG, Dodge, Drive, Pilot, Pistol, Rifle,
 Stealth, Throwing
-Wit: Computers/Androids, Cultures,
+
+* Wit: Computers/Androids, Cultures,
 Demolitions, Gunnery, Languages, History,
 Magic, Medicine, Navigation, Repair, Science,
 Search, Security, Star Systems, Tracking
-Charm: Command, Courage, Diplomacy,
+
+* Charm: Command, Courage, Diplomacy,
 Gambling, Seduce, Streetwise
 
+
 New Perks
-Alien Races (varies): Sample aliens provided
+---------
+
+* Alien Races (varies): Sample aliens provided
 include Avari, Kaishee, and Telmek but GM's
 are encouraged to create additional alien races
 to further flesh out the many races found within
 the Imperium. Just be reasonable and cautious
 when determining how much a race should cost
 (if any) as a perk.
-Avari (1): Natives of Varos, the Avari stand
+
+* Avari (1): Natives of Varos, the Avari stand
 only 5 to 5½ feet and have an oddly uniform
 appearance. Their hair is always white and their
 complexion is a dusk-toned pale gray. Avari have
@@ -4754,7 +4693,8 @@ the ability to compartmentalize their mind. If
 using only Wit skills, they can take two actions
 with no multi-action penalty; but their Might is
 limited to 3D.
-Cyborg (2): A significant portion of your body
+
+* Cyborg (2): A significant portion of your body
 has been replaced with artificial components.
 You require half the sustenance others need
 and can override electronic pain receptors. You
@@ -4762,92 +4702,7 @@ suffer1D less wound penalties than others when
 injured to Wounded or worse. However the TN
 of all healing rolls is increased by +5.
 
-Kaishee Pilot
-
-Android Companion
-
-Failed Apprentice
-
-Ex-Imperium Officer
-
-You don't want to make me mad.
-
-As you command.
-
-Honor? It ‘n 2 creds buys a drink.
-
-I swore to defend. Not enslave.
-
-Might: 4D+2
-
-Agility: 3D+1
-
-Might: 2D
-
-Agility: 3D
-
-Might: 2D+2
-
-Agility: 3D+1 Might: 3D
-
-Dodge 4D
-Charm: 2D
-
-Plasma Sword 4D
-
-Wit: 2D
-
-Dodge 4D+1
-Pilot 5D+1
-Charm: 2D
-
-Dodge 4D
-Stealth 3D+2
-Charm: 2D+1
-
-Navigation 3D+2 Streetwise 4D
-
-Wit: 5D
-Languages 6D
-Repair 6D
-
-Static: Dodge 13, Block 14
-Parry 14, Soak 14
-Perks: Kaishee (1)
-Gear: Plasma bolter, bandoliers.
-
-Static: Dodge 12, Block 6
-Parry 6, Soak 6
-Perks & Comps: Robot, Total Pacifist
-Gear: Systems link, toolkit.
-
-Wit: 3D+2
-Magic 4D+2
-
-Courage 3D
-
-Static: Dodge 12, Block 8
-Parry 12, Soak 8
-Perks & Comps: Sorcerer, Hunted
-Gear: Plasma sword, whiskey.
-
-30
-
-Athletics 3D+2
-
-Agility: 3D
-Dodge 4D
-Pistol 4D
-Charm: 3D
-
-Wit: 3D
-Computer 4D Command 5D
-Navigation 4D Courage 3D+1
-Static: Dodge 12, Block 9
-Parry 9, Soak 9
-Gear: Laser Pistol. Naval Uniform.
-
-Kaishee (1): Indigenous to the Kalavel system.
+* Kaishee (1): Indigenous to the Kalavel system.
 Kaishee are a large hairless people. They stand a
 full foot taller than the average human. Kaishee
 skin tones range from a deep golden bronze
@@ -4861,7 +4716,8 @@ natural light amplification and filtering reducing
 all penalties for darkness by half. Kaishee have a
 maximum Might of 5D but their maximum Wit
 is 3D and their maximum Agility is 3D+1.
-Telmek(2): Natives of Telmera, they have a build
+
+* Telmek(2): Natives of Telmera, they have a build
 similar to humans but with decidedly reptilian
 features. Their skin is a tough serpent hide and
 their hair is both thick and slick. Primarily
@@ -4872,8 +4728,11 @@ cycles allow them to function with only four to
 five hours sleep per night. Because of their tough
 skin Telmek receive a +2 armor bonus.
 
+
 New Complications
-Hunted: All rebels are sought by the Imperium,
+-----------------
+
+* Hunted: All rebels are sought by the Imperium,
 but some are more sought after than others. This
 is most often found among the Star Paladins and
 those who studied their ways. The Imperium
@@ -4883,7 +4742,8 @@ Paladin. Some paladins have additional bounties
 attached to them. Hunted characters receive an
 additional CP when this becomes an active issue
 in the adventure.
-Large Debt: You owe someone a lot. Maybe one
+
+* Large Debt: You owe someone a lot. Maybe one
 of your deals went bad, maybe you borrowed
 to buy that ship you always wanted. No matter
 how it came about you are in debt. Most of your
@@ -4893,49 +4753,47 @@ time to time to perform extra favors for them
 as a “friendly” form of interest. Gain 1 CP for
 any adventure where your debtor gets involved
 in your business.
-Total Pacifist: This complication is frequently
+
+* Total Pacifist: This complication is frequently
 hard programmed into civilian androids to keep
 them from turning on their masters.
 
+
 Order of the Star Paladins
-Since the first days of the Commonwealth
-the Star Paladins acted as defenders of the
-peace; traveling across the galaxy offering
-aid to any in need. Possessing mystical
-powers that seemingly defy science, They
-were viewed with both reverence and a small
-amount of fear. With the power at their
-command temptation to wickedness was
-always a danger. To combat this, the masters
-who founded the order developed a code
-all paladins must abide by. Over time it was
+--------------------------
+
+Since the first days of the Commonwealth the Star Paladins acted as 
+defenders of the peace; traveling across the galaxy offering
+aid to any in need. Possessing mystical powers that seemingly defy 
+science, They were viewed with both reverence and a small amount of 
+fear. With the power at their command temptation to wickedness was
+always a danger. To combat this, the masters who founded the order 
+developed a code all paladins must abide by. Over time it was
 distilled down to four simple statements:
-Justice tempered by mercy.
-Passion tempered by virtue.
-Honor tempered by humility.
-Knowledge tempered by Wisdom.
 
-Because Rogue Paladins were always a
-danger, the order formed a special faction
-called the Shadow Guard. They were charged
-with watching for signs of paladins that
-might fall to evil and either counsel them
-back to the path of honor or bring them to
-the High Council for judgment.
-A young master was given leadership
-of the Shadow Guard when the Sovereign
-was rising to power. Unknown to the High
-Council, this master had sworn allegiance to
-the Sovereign. His position let him keep the
-Star Paladins blind to the Sovereign's ultimate
-goal until it was too late. On Coronation Day,
-the ancient order was outlawed. The Shadow
-Guard became the Inquisition and now hunt
-for their former brothers in arms.
+* Justice tempered by mercy.
+* Passion tempered by virtue.
+* Honor tempered by humility.
+* Knowledge tempered by Wisdom.
 
-High Inquisitor
+Because Rogue Paladins were always a danger, the order formed a special 
+faction called the Shadow Guard. They were charged with watching for 
+signs of paladins that might fall to evil and either counsel them
+back to the path of honor or bring them to the High Council for judgment.
+
+A young master was given leadership of the Shadow Guard when the Sovereign
+was rising to power. Unknown to the High Council, this master had sworn 
+allegiance to the Sovereign. His position let him keep the Star Paladins 
+blind to the Sovereign's ultimate goal until it was too late. On 
+Coronation Day, the ancient order was outlawed. The Shadow Guard became 
+the Inquisition and now hunt for their former brothers in arms.
+
+
+### High Inquisitor ###
+
 You will submit.
-Might: 3D
+
+* Might: 3D
 
 Agility: 2D+2
 
@@ -5015,85 +4873,233 @@ Parry 12, Soak 10 (13)
 Gear: Body armor (+6), rifle, taser
 manacles, tracking beacons
 
-Telmek Gangster
+
 
 Using Magic in the Imperium
-In the universe of the Imperium there
-Additional powers can also be created to
-is a supernatural force at work. Characters help showcase the unique powers of the Star
-with the perk Sorcerer can access this power. Paladins. For Example:
+---------------------------
+
+In the universe of the Imperium there 
+is a supernatural force at work. Characters
+with the perk Sorcerer can access this power.
 Not all spells listed in the magic section are
-TN: 19
-appropriate though. By selecting the spells Sense Danger
-Duration: Concentration
+appropriate though. By selecting the spells 
 allowed the GM's helps reinforce the way
 magic works in their universe. It is suggested
-Range: Self
 that Star Paladins select from the following:
-Resisted: None
 Beast Tongue, Bless, Charm, Curse, Dark Vision,
 Death Spell, Dispel Magic, Divination, ESP,
 Levitate (see Fly), Hasten, Illusions, Paralysis,
 Resist Elements, See Magic Aura, Slumber, Still
 Mind, and Telekinesis.
 
-The caster attunes himself to any threats within 60 feet. This gives a +2D bonus to dodge,
-parry and block. The Paladin may also use his
-plasma sword to parry ranged attacks.
+Additional powers can also be created to
+help showcase the unique powers of the Star
+Paladins. For Example:
 
-31
+> Sense Danger (TN: 19)
+> 
+> Duration: Concentration
+> 
+> Range: Self
+> 
+> Resisted: None
+> 
+> The caster attunes himself to any threats within 60 feet. This gives 
+> a +2D bonus to dodge, parry and block. The Paladin may also use his
+> plasma sword to parry ranged attacks.
 
-Of course I can help you out.
-Might: 3D
 
-Agility: 2D+1
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Brawling 4D+1
-Melee 4D
+Example Characters
+------------------
 
-Dodge 4D+2
-Pilot 3D+2
-Pistol 5D
+Player characters take the role of rebels, smugglers, knights,
+and others who stand against the Imperium. They are fighting for
+freedom; even if only their own.
 
-Wit: 3D
 
-Charm: 3D+2
+### Minor Paladin ###
 
-Computer 5D
-Languages 5D
-Star Systems 6D
-Search 4D
+Focus, honor, humility.
 
-Command 5D+1
-Courage 5D
-Diplomacy 6D
-Seduce 4D+1
-Streetwise 7D
+* Might: 3D
+    * Plasma Sword 4D
+* Agility: 3D
+    * Dodge 4D
+* Wit: 4D
+    * Magic 6D
+* Charm: 2D
 
-Static: Dodge 14, Block 13
-Parry 12, Soak 9
+Static: Dodge 12, Block 9, Parry 12, Soak 9
+
+Perks & Comps: Sorcerer, Hunted
+
+Spells: Charm, ESP, Sense Danger
+
+Gear: Plasma Sword
+
+
+### Scruffy Smuggler ###
+
+I can get ya there, no questions asked.
+
+* Might: 3D
+   * Brawling 4D
+* Agility: 3D+2
+   * Dodge 5D
+   * Pilot 4D+2
+   * Pistol 5D
+* Wit: 2D+1
+   * Navigation 3D+1
+* Charm: 3D
+    * Streetwise 4D+1
+
+Static: Dodge 15, Block 12, Parry 9, Soak 9
+
+Perks & Comp: Large Debt
+
+Gear: Hvy Blaster, Lt. Transport
+
+
+### Exiled Royal ###
+
+Do you KNOW who I am?
+
+* Might: 2D+1
+    * Melee 3D
+* Agility: 3D+2
+    * Dodge 5D
+    * Pistol 3D
+* Wit: 3D+1
+    * History 4D
+* Charm: 3D+1
+    * Command 5D+1
+    * Diplomacy 4D+2
+
+Static: Dodge 15, Block 7, Parry 9, Soak 7
+
+Perks: Favors
+
+Gear: hold-out pistol, wardrobe.
+
+### Telmek Gangster ###
+
+*Of course I can help you out.*
+
+* Might: 3D
+    * Brawling 4D+1
+    * Melee 4D
+
+* Agility: 2D+1
+    * Dodge 4D+2
+    * Pilot 3D+2
+    * Pistol 5D
+
+* Wit: 3D
+    * Computer 5D
+    * Languages 5D
+    * Star Systems 6D
+    * Search 4D
+
+* Charm: 3D+2
+    * Command 5D+1
+    * Courage 5D
+    * Diplomacy 6D
+    * Seduce 4D+1
+    * Streetwise 7D
+
+Static: Dodge 14, Block 13, Parry 12, Soak 9
+
 Perks: Favors, Telmek
+
 Gear: Pistol, pocket computer.
 
-The Galaxy
+### Kaishee Pilot ###
 
-Navy hail from Ajada. Its system is also the location of the largest
-Imperium shipyards.
-Kalavel: Homeworld of the Kaishee, it was a system full of
-great natural resources, it was also the first to rebel against the
-Imperium. The Navy struck at them hard and fast. Many of the
-natives were forced into slavery as punishment for rebellion and
-the once lush world is now a blasted shell of its former self.
-Petrion: This system holds the seat of galactic power. Once
-home to the Grand Hall of the Senate, it now acts as host to the
-Sovereign's throne. A planet of bureaucrats and royal sycophants,
-it's extremely dangerous to be a rebel sympathizer here.
-Tauran: For millennia the noble houses of this Founding
-System were little more than figureheads. How the Sovereign
-converted an ancient honorific into a powerbase is unknown, but
-many Taurani hold their heads in shame at the terror they let loose
-from their world in a moment of weakness. Many in the Rebel
-Command claim Taurani heritage.
+You don't want to make me mad.
+
+* Might: 4D+2
+* Agility: 3D+1
+    * Dodge 4D+1
+    * Pilot 5D+1
+* Wit: 2D
+    * Navigation 3D+2 
+* Charm: 2D
+    * Streetwise 4D
+
+Static: Dodge 13, Block 14, Parry 14, Soak 14
+
+Perks: Kaishee (1)
+
+Gear: Plasma bolter, bandoliers.
+
+
+### Android Companion ###
+
+As you command.
+
+* Might: 2D
+* Agility: 3D
+    * Dodge 4D
+* Wit: 5D
+    * Languages 6D
+    * Repair 6D
+* Charm: 2D
+
+Static: Dodge 12, Block 6, Parry 6, Soak 6
+
+Perks & Comps: Robot, Total Pacifist
+
+Gear: Systems link, toolkit.
+
+
+### Failed Apprentice ###
+
+Honor? It ‘n 2 creds buys a drink.
+
+* Might: 2D+2
+    * Plasma Sword 4D
+* Agility: 3D+1 
+    * Dodge 4D
+    * Stealth 3D+2
+* Wit: 3D+2
+    * Magic 4D+2
+* Charm: 2D+1
+    * Courage 3D
+
+Static: Dodge 12, Block 8, Parry 12, Soak 8
+
+Perks & Comps: Sorcerer, Hunted
+
+Gear: Plasma sword, whiskey.
+
+
+### Ex-Imperium Officer ###
+
+I swore to defend. Not enslave.
+
+* Might: 3D
+    * Athletics 3D+2
+* Agility: 3D
+    * Dodge 4D
+    * Pistol 4D
+* Wit: 3D
+    * Computer 4D
+    * Navigation 4D
+* Charm: 3D
+    * Command 5D
+    * Courage 3D+1
+
+Static: Dodge 12, Block 9, Parry 9, Soak 9
+
+Gear: Laser Pistol. Naval Uniform.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+The Galaxy
+----------
 
 The Imperium stretches from the Founding Systems to the
 most distant arms of the galaxy. Thousands of inhabited worlds and
@@ -5103,18 +5109,40 @@ endless. New worlds in remote locations are still found. Sometimes
 Rebel Command is able to work out treaties and use them as secret
 bases. Other times Imperium scouts discover the world and log it
 in detail for later inclusion and harvesting.
+
 Because of the Imperium's strength, few systems dare openly
 fly the Rebel banner. Still, some planets have chosen to take that
 desperate stand even in the face of harsh marshal law. What follows
 are a few of the systems that have taken a stand in the civil war.
+
 Ajada: One of the old Commonwealth's Founding Systems.
 They suffered greatly during the collapse of the old government
 and greatly benefited from the Sovereign's ascension. This makes
 them extremely loyal. Many of the finest officers in the Galactic
+Navy hail from Ajada. Its system is also the location of the largest
+Imperium shipyards.
+
+Kalavel: Homeworld of the Kaishee, it was a system full of
+great natural resources, it was also the first to rebel against the
+Imperium. The Navy struck at them hard and fast. Many of the
+natives were forced into slavery as punishment for rebellion and
+the once lush world is now a blasted shell of its former self.
+
+Petrion: This system holds the seat of galactic power. Once
+home to the Grand Hall of the Senate, it now acts as host to the
+Sovereign's throne. A planet of bureaucrats and royal sycophants,
+it's extremely dangerous to be a rebel sympathizer here.
+
+Tauran: For millennia the noble houses of this Founding
+System were little more than figureheads. How the Sovereign
+converted an ancient honorific into a powerbase is unknown, but
+many Taurani hold their heads in shame at the terror they let loose
+from their world in a moment of weakness. Many in the Rebel
+Command claim Taurani heritage.
+
 
 Hyperdrive Technology
-
-Sub-Light Travel Times
+---------------------
 
 Uniting the Founding Systems and creating
 galactic trade, the hyperdrive (HD) works by
@@ -5128,427 +5156,270 @@ acts as a multiplier applied to their travel time. It
 is against Imperium Law for any civilian craft to
 be equipped with a drive rated better than x2.
 
+
+Sub-Light Travel Times
+----------------------
+
 Travel within a solar system is normally a fairly simple affair. Ships
 lock their sensors onto a series of planetary beacons and follow them to the
 desired destination. Travel time between inner worlds is only 1d6 hours,
 but when attempting to cross the outer planets it takes 2d6 hours.
+
 Ships can choose to hide their approach by not using the beacons,
 network but this requires a Moderate Navigation roll. On a failure the ship
 goes off course doubling the travel time. Pilots can also attempt to speed up
-the travel time by rolling their Pilot skill adding the Move dice of the ship. If
-the pilot rolls a Moderate level of success the travel time is reduced 10%. A
-Difficult roll reduces travel time by 20%, a Very Difficult roll reduces travel
-time by 30% and a Heroic roll reduces the time by 50%.
+the travel time by rolling their Pilot skill adding the Move dice of the 
+ship. If the pilot rolls a Moderate level of success the travel time is 
+reduced 10%. A Difficult roll reduces travel time by 20%, a Very Difficult 
+roll reduces travel time by 30% and a Heroic roll reduces the time by 50%.
+
 
 Travel Time Between Systems
-The times listed below are the average amount of time needed to travel directly between two systems. To make the trip
-successfully a Moderate Navigation roll is required. Because of possible obstacles between two systems it is often faster to travel
-indirectly. By flying to an intermediary spaceport ships can save time.
-If the pilot plots their own coordinates they can attempt to reduce the time needed and avoid Imperium entanglements
-often found on the more common trade routes. If the pilot makes a Difficult Navigation roll the time needed is reduced 10%, a
-Very Difficult roll reduces the time by 25%, and a Heroic roll reduces the time by 50%. These “shortcuts” take advantage of the
-celestial movement and cannot be reused. If the roll is a failure the jump fails causing one wound level of damage to the ship,
-and increases the travel time required by 1d6 days if the normal time needed is over one day or 1d6 hours if less than a day.
-Ajada
-
-Chahnae
-
-Drougayn Helmar
-
-Kalavel
-
-Lesdin
-
-Peles
-
-Petrion
-
-Seljan
-
-Tauran
-
-Telmera
-
-Varos
-
-11h
-
-19d 11h
-
-6d 3h
-
-5d 16h
-
-2d 1h
-
-4d 23h
-
-3h
-
-12d 16h
-
-9h
-
-1d 3h
-
-14h
-
-12d 16h
-
-8d 12h
-
-4d 19h
-
-2d 17h
-
-6d 20h
-
-22h
-
-7d 22h
-
-12h
-
-8h
-
-16h
-
-4d 6h
-
-12d 6h
-
-2d 19h
-
-11d 2h
-
-6d 21h
-
-9d 10h
-
-11d 11h
-
-7d 13h
-
-9d 20h
-
-3d 18h
-
-5d 6h
-
-9d 3h
-
-3d 22h
-
-7d 2h
-
-5d 21h
-
-10d 15h
-
-7d 4h
-
-9d 6h
-
-10d 7h
-
-3d 5h
-
-12d 15h
-
-7d 14h
-
-10d 19h
-
-9d 11h
-
-11d 16h
-
-1d 23h
-
-10d 2h
-
-6d 8h
-
-7d 11h
-
-9d 19h
-
-2d 14h
-
-3d 6h
-
-10d 20h
-
-4d 6h
-
-4d 11h
-
-7d 18h
-
-3d 9h
-
-7h
-
-6d 1h
-
-9d 5h
-
-13h
-
-20h
-
-5h
-
-Chahnae
-Drougayn
-Helmar
-Kalavel
-Lesdin
-
-5d 17h
-
-Peles
-Petrion
-Seljan
-Tauran
-Telmera
-
-9h
-
-d = Days, h = Hours
-
-32
+---------------------------
+
+The times listed below are the average amount of time needed to travel 
+directly between two systems. To make the trip successfully a Moderate 
+Navigation roll is required. Because of possible obstacles between two 
+systems it is often faster to travel indirectly. By flying to an 
+intermediary spaceport ships can save time.
+
+If the pilot plots their own coordinates they can attempt to reduce the 
+time needed and avoid Imperium entanglements often found on the more 
+common trade routes. If the pilot makes a Difficult Navigation roll 
+the time needed is reduced 10%, a Very Difficult roll reduces the 
+time by 25%, and a Heroic roll reduces the time by 50%. These “shortcuts” 
+take advantage of the celestial movement and cannot be reused. If the 
+roll is a failure the jump fails causing one wound level of damage to 
+the ship, and increases the travel time required by 1d6 days if the 
+normal time needed is over one day or 1d6 hours if less than a day.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    Ajada and . . .         Chahnae and . . .        Drougayn and . . .   
+      Chahnae: 11h            Drougayn: 12d 16h        Helmar: 5d 17h     
+      Drougayn: 19d 11h       Helmar: 8d 12h           Kalavel: 4d 6h     
+      Helmar: 6d 3h           Kalavel: 4d 19h          Lesdin: 12d 6h     
+      Kalavel: 5d 16h         Lesdin: 2d 17h           Peles: 2d 19h      
+      Lesdin:  2d 1h          Peles: 6d 20h            Petrion: 11d 2h    
+      Peles: 4d 23h           Petrion: 22h             Seljan: 6d 21h     
+      Petrion: 3h             Seljan: 7d 22h           Tauran: 9d 10h     
+      Seljan: 12d 16h         Tauran: 12h              Telmera: 11d 11h   
+      Tauran: 9h              Telmera: 8h              Varos: 7d 13h
+      Telmera1d: 3h           Varos: 16h
+      Varos: 14h
+    
+    Helmar and . . .        Kalavel and . . .        Lesdin and . . .
+      Kalavel: 9d 20h         Lesdin: 7d 4h            Peles: 9d 11h 
+      Lesdin: 3d 18h          Peles: 9d 6h             Petrion: 11d 16h 
+      Peles: 5d 6h            Petrion: 10d 7h          Seljan: 1d 23h 
+      Petrion: 9d 3h          Seljan: 3d 5h            Tauran: 10d 2h 
+      Seljan: 3d 22h          Tauran: 12d 15h          Telmera: 6d 8h 
+      Tauran: 7d 2h           Telmera: 7d 14h          Varos: 7d 11h
+      Telmera: 5d 21h         Varos: 10d 19h
+      Varos: 10d 15h
+    
+    Peles and . . .        Petrion and . . .        Seljan and . . .
+      Petrion: 9d 19h        Seljan: 4d 11h           Tauran: 6d 1h
+      Seljan: 2d 14h         Tauran: 7d 18h           Telmera: 9d 5h
+      Tauran: 3d 6h          Telmera: 3d 9h           Varos: 13h
+      Telmera: 10d 20h       Varos:  7h
+      Varos: 4d 6h
+          
+    Tauran and . . .       Telmera and . . . 
+      Telmera: 20h           Varos: 9h
+      Varos: 5h
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Money and Gear
-The coin of the galaxy is called the
-Imperial Credit. Several local systems
-and small independent worlds also
-issue their own currency, but they are
-seldom worth anything beyond the
-issuing region's border.
-The Imperium tracks large (in
-excess of 20,000) credit transfers
-between individuals, but while the
-law dictates strict enforcement many
-bankers and civil servants have a streak
-of laziness and corruption. This works
-to the advantage of both organized
-crime, independent grifters, smugglers,
-and stalwart rebels.
-Imperium law also forbids civilians
-from owning unregistered weapons,
-assault rifles, and body armor. Papers
-are issued locally. Fortunately forgeries
-are easy to come by and the data cores
-holding the information easily hacked.
-The following are examples of the
-ships used in the galactic struggle. There
-are many more used by the various
-factions, both aligned and unaligned.
-
-Imperium
-Dreadnaught
-
-Scale +12D
-
-It is recommended that the GM
-let the players have a spaceship to use
-in their travels. This ship could be
-borrowed from the Rebel Command
-or one of the players might be in debt
-to a loan shark for the hefty cost of a
-heavily customized vessel. Civilian
-ships are not allowed armaments, so
-any weapons placed on a ship will
-need either forged documents granting
-permission or be somehow concealable
-from casual scanning. GM's should
-use the plot device that best serves the
-needs of their individual games.
-Personal weapons include a variety
-of energy weapons ranging from holdout lasers to heavy disrupter pistols.
-Those going into heavy combat also
-try to get their hands on laser rifles and
-blaster carbines. Body armor ranges
-from reinforced clothing to bulky fully
-body armor favored by mercenaries.
-Avari Frigate
+--------------
+
+The coin of the galaxy is called the Imperial Credit. Several local 
+systems and small independent worlds also issue their own currency, but 
+they are seldom worth anything beyond the issuing region's border.
+
+The Imperium tracks large (in excess of 20,000) credit transfers
+between individuals, but while the law dictates strict enforcement many
+bankers and civil servants have a streak of laziness and corruption. 
+This works to the advantage of both organized crime, independent 
+grifters, smugglers, and stalwart rebels.
+
+Imperium law also forbids civilians from owning unregistered weapons,
+assault rifles, and body armor. Papers are issued locally. Fortunately 
+forgeries are easy to come by and the data cores holding the information 
+easily hacked. 
+
+It is recommended that the GM let the players have a spaceship to use
+in their travels. This ship could be borrowed from the Rebel Command
+or one of the players might be in debt to a loan shark for the hefty 
+cost of a heavily customized vessel. Civilian ships are not allowed 
+armaments, so any weapons placed on a ship will need either forged 
+documents granting permission or be somehow concealable from casual 
+scanning. GM's should use the plot device that best serves the needs of 
+their individual games.
+
+Personal weapons include a variety of energy weapons ranging from 
+holdout lasers to heavy disrupter pistols. Those going into heavy combat 
+also try to get their hands on laser rifles and blaster carbines. Body 
+armor ranges from reinforced clothing to bulky fully body armor favored 
+by mercenaries. 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Ships
+-----
+
+The following are examples of the ships used in the galactic struggle. 
+There are many more used by the various factions, both aligned and 
+unaligned.
+
+
+### Imperium Dreadnaught ###
+
+* Galaxy Class Dreadnaught: $$$$$
+* Scale +12D
+* Skill: Command 
+* MNV: 1D
+* Move: 4D
+* Crew: 29,000 
+* Body: 6D
+* HD: x2
+* Psg: 2,500
+* Shields: 3D 
+* Cargo: 50ktn
+* Troops: 
+    * 6,000 Centurions w/ landing craft
+* Fighters: 
+    * 64 Talon-ImPC
+    * Assault Bombers: 16 Razor-ImAC
+* Weapons: 
+    * 60 Quad-Laser Batteries (6D),
+    * 40 Ion Pulse Cannon Batteries (4D+1),
+    * 8 Tractor Beam Projectors (capture target),
+    * 24 Heavy Nova Torpedoes (8D),
+    * 120 AA Gun Batteries (4D, Fighter scale)
+
+
+### Avari Frigate ###
+
+* Retrofitted Rebel Ship of the Line: $$$$$
+* Scale +12D
+* Skill: Command 
+* MNV: 1D
+* Move: 3D+2
+* Crew: 4,750
+* Body: 4D
+* HD: x1
+* Psg: 400
+* Shields: 2D 
+* Cargo: 20ktn
+* Troops: 
+    * 1,000 marines w/ landing craft
+* Weapons: 
+    * 24 Quad Laser Batteries (6D)
+    * 10 Ion Pulse Cannon Batteries (3D+2)
+    * 12 Heavy Nova Torpedo Tubes (8D)
+    * 60 AA Gun Batteries (4D, Fighter scale)
+
+    
+### The Starhawk ###
+
+* Customized Taurani Lt. Freighter: $$$$
+* Scale +6D
+* Skill: Pilot 
+* MNV: 1D
+* Move: 4D
+* Crew: 2
+* Body: 5D
+* HD: x1/2
+* Psg: 6
+* Shields: 2D
+* Cargo: 100tn
+* Weapons: 
+    * 1 Nova Torpedo Tube (9D)
+    * 2 Twin Barrel Laser Cannons (5D+1/ea)
+    * Ion Pulse Cannon (4D)
+
+
+### Talon-ImPC ###
+
+* Space Superiority Fighter: $$
+* Scale +6D
+* Skill: Pilot 
+* MNV: 2D
+* Move: 5D
+* Crew: 1
+* Body: 2D
+* HD: none
+* Psg: 0
+* Shields: none
+* Cargo: none
+* Weapons: 
+    * Laser Cannon (5D)
+
+
+### Enigma Mk II ###
+
+* Rebel Attack Fighter: $$$
+* Scale +6D
+* Skill: Pilot 
+* MNV: 3D
+* Move: 4D
+* Crew: 1
+* Body: 4D
+* HD: x2
+* Psg: 0
+* Shields: 1D
+* Cargo: none
+* Weapons: 
+    * Quad Laser Cannon (6D)
+    * 4 Micro-Pulse Missiles (8D+1)
+
+
+### Razor-IMAC ###
+
+* Heavy Bomber: $$
+* Scale +6D
+* Skill: Pilot 
+* MNV: 1D
+* Move: 3D+1
+* Crew: 2
+* Body: 3D
+* HD: none
+* Psg: 2
+* Shields: 1D
+* Cargo: none
+* Weapons: 
+    * Laser Cannon (5D)
+    * 2 Nova Torpedo Tubes (9D)
+    * 2 EM Pulse Bombs (8D, if targets in area are
+      Wound all energized systems are disabled)
+
+
+### K-90 ###
+
+* In-System Interceptor: $$
+* Scale +6D
+* Skill: Pilot 
+* MNV: 3D
+* Move: 5D
+* Crew: 1
+* Body: 2D+1
+* HD: none
+* Psg: 0
+* Shields: 1D
+* Cargo: none
+* Weapons: 
+    * Twin Barrel Ion Cannon (4D+1),
+    * Laser Cannon (5D)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Scale +12D
-
-Retrofitted Rebel Ship of the Line
-
-$$$$$
-
-Skill: Command MNV: 1D
-
-Move: 3D+2
-
-Crew: 4,750
-
-Body: 4D
-
-HD: x1
-
-Psg: 400
-
-Shields: 2D Cargo: 20ktn
-
-Troops: 1,000 marines w/ landing craft
-$$$$$ Weapons: 24 Quad Laser Batteries (6D),
-Galaxy Class Dreadnaught
-10 Ion Pulse Cannon Batteries (3D+2),
-Skill: Command MNV: 1D
-Move: 4D
-12 Heavy Nova Torpedo Tubes (8D),
-Crew: 29,000 Body: 6D
-HD: x2
-60 AA Gun Batteries (4D, Fighter scale)
-Psg: 2,500
-Shields: 3D Cargo: 50ktn
-
-Scale +6D
-
-The Starhawk
-
-Troops: 6,000 Centurions w/ landing craft
-Fighters: 64 Talon-ImPC
-Assault Bombers: 16 Razor-ImAC
-Weapons: 60 Quad-Laser Batteries (6D),
-40 Ion Pulse Cannon Batteries (4D+1),
-8 Tractor Beam Projectors (capture target),
-24 Heavy Nova Torpedoes (8D),
-120 AA Gun Batteries (4D, Fighter scale)
-
-Customized Taurani Lt. Freighter
-
-$$$$
-
-Skill: Pilot MNV: 1D
-
-Move: 4D
-
-Crew: 2
-
-Body: 5D
-
-HD: x1/2
-
-Psg: 6
-
-Shields: 2D
-
-Cargo: 100tn
-
-Weapons: 1 Nova Torpedo Tube (9D), 2
-Twin Barrel Laser Cannons (5D+1/ea),
-Scale +6D Ion Pulse Cannon (4D)
-
-Talon-ImPC
-
-$$
-
-Space Superiority Fighter
-
-Scale +6D
-
-Enigma Mk II
-
-$$$
-
-Skill: Pilot MNV: 2D
-
-Move: 5D
-
-Rebel Attack Fighter
-
-Crew: 1
-
-Body: 2D
-
-HD: none
-
-Skill: Pilot MNV: 3D
-
-Psg: 0
-
-Shields: none
-
-Cargo: none
-
-Crew: 1
-
-Body: 4D
-
-HD: x2
-
-Psg: 0
-
-Shields: 1D
-
-Cargo: none
-
-Weapons: Laser Cannon (5D)
-
-Razor-ImAC
-Heavy Bomber
-
-Move: 4D
-
-Scale +6D Weapons: Quad Laser Cannon (6D),
-4 Micro-Pulse Missiles (8D+1)
-$$$$
-
-Skill: Pilot MNV: 1D
-
-Move: 3D+1
-
-Crew: 2
-
-Body: 3D
-
-HD: none
-
-Psg: 2
-
-Shields: 1D
-
-Cargo: none
-
-Weapons: Laser Cannon (5D),
-2 Nova Torpedo Tubes (9D),
-2 EM Pulse Bombs (8D, if targets in area are
-Wound all energized systems are disabled)
-
-Scale +6D
-
-K-90
-
-$$
-
-In-System Interceptor
-Skill: Pilot MNV: 3D
-
-Move: 5D
-
-Crew: 1
-
-Body: 2D+1
-
-HD: none
-
-Psg: 0
-
-Shields: 1D
-
-Cargo: none
-
-Weapons: Twin Barrel Ion Cannon (4D+1),
-Laser Cannon (5D)
-
-33
 
 Advice for the GM
+-----------------
+
 Imperium in Revolt is classic space opera.
 Laser weapons, energy shields, thousands of alien
 races, and a universe where a few brave souls can
@@ -5559,6 +5430,7 @@ in mega-cities while remote worlds are home to
 ancient trees standing a half mile tall. Desert worlds
 and ocean planets can be found along with alien
 landscapes of liquid metal seas and fiery vistas.
+
 Adventures often take place on a single world
 but they need not stay confined to only one. By
 incorporating world spanning adventures you can
@@ -5570,6 +5442,7 @@ necessities. Playing on both the careful deceptions
 of imperial propaganda and the discovering ruins of
 dead worlds can heighten the desperation felt across
 the galaxy as it struggles for freedom.
+
 As for the Imperium itself, it works hard to
 put on a friendly protective face for the public but
 in truth its officers are frequently cruel, ambitious
@@ -5584,174 +5457,141 @@ recurring villains can add depth to your game, but if
 the players are clever enough to take one down you
 should let them succeed.
 
+
 Adventure Seeds
-The Salvage Yard: A damaged rebel frigate took
+---------------
+
+### The Salvage Yard ###
+
+A damaged rebel frigate took
 refuge in an abandoned asteroid mining operation.
 The ship's life support failed leaving only a drifting
 hulk. Imperium forces are now looking for the ship
 and the secret transmissions it holds. The players
 need to locate and retrieve the ship's computer core
 before the Imperium does.
+
 Unknown to both sides, hidden among the
 drifting ships and abandoned equipment are the
 aliens that destroyed the mining operation and they
 are getting hungry again.
-Our New Hope: Rebel Command has discovered
+
+### Our New Hope ###
+
+Rebel Command has discovered
 that a master from the Order of Star Paladins has
 been living in seclusion on a remote world, hidden
 from the Inquisition. The rebels also realize that if
 they have learned of his whereabouts, the Inquisition
 might have too. Someone needs to try and get word
 to the once great knight about the danger he is in.
+
 The GM may have the paladin be alive, fallen
 into wickedness, or already dead leaving only a few
 scraps of cryptic knowledge and a journal or maybe
 someone claiming to be his apprentice.
 
-Character Name: ______________________________
-Quote: ____________________________________________
-Appearance: _______________________________________
-__________________________________________________
-Personality:
-___________________________________________
-_____________________________________________________________
-Age: ______ Sex: ___________ Height: _______ Weight: ______
+Character Sheet
+===============
 
-Might ______________________ Agility _____________________
-___________________________________ __________________________________
-___________________________________ __________________________________
-___________________________________ __________________________________
+Character Name:
 
-Player: ________________
-Campaign: ____________
 
-___________________________________ __________________________________
+### Description ###
 
-______________________
+* Quote:
+* Appearance:
+* Personality:
+* Age:
+* Sex:
+* Height:
+* Weight:
+* Player:
+* Campaign:
+* Character Points:
+* Hero Points: 
 
-___________________________________ __________________________________
-___________________________________ __________________________________
-___________________________________ __________________________________
-___________________________________ __________________________________
-___________________________________ __________________________________
 
-Wit __________________________ Charm ______________________
-___________________________________ __________________________________
+### Attributes and Skills ###
 
-Perks
-______________________
-______________________
-______________________
-______________________
-______________________
-______________________
+* Might:
+    1. 
+    2. 
+    3. 
+    
+* Agility:
+    1. 
+    2. 
+    3. 
 
-___________________________________ __________________________________
-___________________________________ __________________________________
+* Wit: 
+    1. 
+    2. 
+    3. 
 
-Complications
+* Charm:
+    1. 
+    2. 
+    3. 
 
-___________________________________ __________________________________
 
-______________________
-______________________
-______________________
-______________________
-______________________
-______________________
+### Perks ###
+1. 
+2. 
+3. 
 
-___________________________________ __________________________________
-___________________________________ __________________________________
-___________________________________ __________________________________
-___________________________________ __________________________________
-___________________________________ __________________________________
+### Complications ###
+1. 
+2. 
+3. 
 
-Dodge
-Weapon
 
-Block
-Damage
+### Combat ###
 
-Range
+* Dodge:
+* Block:
+* Parry:
+* Soak:
 
-_______________ _________ __________
+*Weapon: Damage: Range*
 
-Parry
+1. 
+2. 
+3. 
 
-Soak
+### Difficulty ###
 
-Very Easy
+* Very Easy: 2--5
+* Easy: 6 -- 10
+* Moderate: 11 -- 15
+* Difficult: 16 -- 20
+* Very Difficult: 21 -- 30
+* Heroic: 31+
 
-2--5
 
-Easy
+### Wound Levels ###
 
-6 -- 10
+* Stunned, 0-3 (-1D for 1 round) [  ]
+* Wounded, 4-8 (-1D) [  ]
+* Severely Wounded, 4-8 (if 4-8 is rolled twice the 2nd 
+  becomes a severe wound): (-2D) [  ]
+* Incapacitated, 9-12 (-3D Note: The penalty applies if 
+  the character is conscious) [  ]
+* Mortally Wounded, 13-15 [  ]
 
-Moderate
 
-11 -- 15
+### Gear ###
 
-Difficult
+1. 
+2. 
+3. 
 
-16 -- 20
 
-Very Difficult
+### Notes ###
 
-21 -- 30
-
-Char
-Points
-
-Hero
-Points
-
-_______________ _________ __________
-_______________ _________ __________
-_______________ _________ __________
-Heroic
-
-Wound Levels
-Stunned, 0-3 (-1D for 1 round) . . . . . . .
-
-31+
-
-Wounded, 4-8 (-1D) . . . . . . . . . . . . . .
-
-Gear
-
-Notes
-
-Severely Wounded, 4-8* (-2D) . . .
-
-______________________________
-______________________________
-______________________________
-______________________________
-______________________________
-______________________________
-______________________________
-
-______________________________
-______________________________
-______________________________
-______________________________
-______________________________
-______________________________
-______________________________
-
-Incapacitated, 9-12 (-3D**) . . . . . . .
-Mortally Wounded, 13-15 . . . . .
-* = if 4-8 is rolled twice the 2nd becomes S.W.
-** = The penalty applies if the character is conscious
-
-Mini Six Character Sheet
-AntiPaladin Games
-
-©2010 by
-
-How to Calculate Static Defenses
-
+1. 
+2. 
+3. 
 
 
 Useful Reference Charts
@@ -5803,52 +5643,51 @@ Skills
 
 ### All Genres ###
 
-Might Skills: Brawling, Knife, Lift, Mace, Stamina
+* Might Skills: Brawling, Knife, Lift, Mace, Stamina
 
-Agility Skills: Athletics, Dodge, Pickpocket, Stealth, Throwing
+* Agility Skills: Athletics, Dodge, Pickpocket, Stealth, Throwing
 
-Wit Skills: History, Language, Medicine, Pick Locks, Search, Tracking
+* Wit Skills: History, Language, Medicine, Pick Locks, Search, Tracking
 
-Charm Skills: Command, Courage, Diplomacy, Persuasion, Seduce
+* Charm Skills: Command, Courage, Diplomacy, Persuasion, Seduce
 
 
 ### Modern or Sci-fi ###
 
-Agility Skills: BFG, Drive, Pilot, Pistol, Rifle
+* Agility Skills: BFG, Drive, Pilot, Pistol, Rifle
 
-Wit Skills: Computer, Navigation, Repair, Science
+* Wit Skills: Computer, Navigation, Repair, Science
 
-Charm Skills: Streetwise
+* Charm Skills: Streetwise
 
 
 ### Fantasy ###
 
-Might Skills: Axe, Pole Arm, Smithing, Sword
+* Might Skills: Axe, Pole Arm, Smithing, Sword
 
-Agility Skills: Bow, Crossbow
+* Agility Skills: Bow, Crossbow
 
-Wit Skills: Magic
+* Wit Skills: Magic
 
-Charm Skills: Ride
-
-
+* Charm Skills: Ride
 
 
+*Note: Combat skills are not allowed specializations.*
 
 
+How to Calculate Static Defenses
+--------------------------------
 
+* Block = (Brawling skill dice x 3) + pips.
 
+* Dodge = (Dodge skill dice x 3) + pips.
 
+* Parry = (Weapon skill dice x 3) + pips.
 
-
-
-
-Block = (Brawling skill dice x 3) + pips.
-Dodge = (Dodge skill dice x 3) + pips.
-Parry = (Weapon skill dice x 3) + pips.
-Soak = (Might attribute dice x 3) + pips plus armor value +
+* Soak = (Might attribute dice x 3) + pips plus armor value +
 any magical, super-tech, or other AV bonus.
-Full Dodge: +10 to Dodge score (no other actions allowed).
+
+* Full Dodge: +10 to Dodge score (no other actions allowed).
 
 
 ### Weapons and Damage ###
@@ -5905,84 +5744,58 @@ Plasma Sword: +4D
 * Grenades: 10/20/30
 
 
-Dmg Total* ≥ Res Total by:
-Wound Level
-Unharmed
-0 or less
-Stunned
-1--3
-Wounded
-4--8
-Severely Wounded**
-4--8
-Incapacitated
-9 --12
-Mortally Wounded
-13 -- 15
-Dead
-16+
+Wounds
+------
 
-*Note: Any additional damage less than or equal to the
+*Wound Level: Dmg Total ≥ Res Total by:*
+
+* Unharmed: 0 or less
+
+* Stunned: 1--3
+
+* Wounded: 4--8
+
+* Severely Wounded: 4--8 (Note: A character is Severely Wounded if 
+the result is between 4 and 8 and he already has the Wounded level.
+
+* Incapacitated: 9 --12
+
+* Mortally Wounded: 13 -- 15
+
+* Dead: 16+
+
+* Note: Any additional damage less than or equal to the
 character's current level moves him up by one level.
 
+
 Healing
+-------
 
-**Note: A character is Severely Wounded if the result is
+### Natural Healing ###
 
-Natural Healing: If a wounded character rests he is allowed a Might
+If a wounded character rests he is allowed a Might
 check and if successful heals a wound level. The frequency of the
 check depends on the severity of the character's wounds.
-Assisted Healing: Characters with the Medicine skill can attempt to
+
+
+### Assisted Healing ###
+
+Characters with the Medicine skill can attempt to
 help others heal more quickly. A skill check may be made once per
 day for each patient treated. On a successful roll, the patient heals
 one wound level.
-Might
-Assisted Healing
-Frequency
-Wound Level
-(N.Healing) Difficulty
-Difficulty
-Stunned/
 
-1 minute
+*Wound Level: Frequency (N. Healing): Might Difficulty: Assisted Healing Difficulty*
 
-automatic
+* Stunned: 1 minute: automatic: Easy
 
-Easy
+* Wounded: 3 days: 6: Moderate
 
-Wounded
+* Severely Wounded: 3 days: 6: Moderate
 
-3 days
+* Incapacitated: 2 weeks: 8: Difficult
 
-6
-
-Moderate
-
-Severely Wounded
-
-3 days
-
-6
-
-Moderate
-
-Incapacitated
-
-2 weeks
-
-8
-
-Difficult
-
-Mortally Wounded
-
-5 weeks
-
-9
-
-Very Difficult
-
-between 4 and 8 and he already has the Wounded level.
+* Mortally Wounded: 5 weeks: 9: Very Difficult
 
 
 ### Wound Level Effects ###
@@ -6001,6 +5814,7 @@ stamina roll. If successful, he may continue to act, but with a
 unconscious with no chance to keep up. Roll the character's
 Might each round, the character finally dies if the roll is less
 than the number of minutes he's been at this level.
+
 * Dead: The character has perished.
 
 
