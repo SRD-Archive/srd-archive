@@ -956,263 +956,248 @@ Vehicle Costs
 
 
 Sample Fantasy Vehicles
+-----------------------
 
-f
-Air Ship
+### Air Ship ###
 
-Crew: 4
-
-Sports Car
-
-T
-
-$$$$
-Scale +4D
 A magic flying ship.
-Skill: Pilot
-MNV: 0D
-Body: 2D
-Move: 1D
-Psg: 12
-Cargo: 2 tons
 
-Crew: 1
+* Cost: $$$$
+* Scale +4D
+* Skill: Pilot
+* MNV: 0D
+* Body: 2D
+* Move: 1D
+* Crew: 4
+* Psg: 12
+* Cargo: 2 tons
 
-$$$
-Scale +4D
+
+### Automaton ###
+
+A steam powered golem.
+
+* Cost: $$$$
+* Scale +2D
+* Skill: Command
+* MNV: 0D
+* Body: 5D
+* Move: 1D
+* Crew: 1
+* Psg: 0
+* Cargo: None
+* Weapon: Mace (3D), Range: melee.
+
+
+### Galleon ###
+
 A pirate ship yoho.
-Skill: Sailing
-MNV: 0D
-Body: 4D
-Move: 2D
-Crew: 70
-Psg: 30
-Cargo: 15 tons
-Weapons: 16 cannons (4D/ea), 8 cannons (2D+2/ea)
-Range: 10 / 30 / 50. May only fire 50% of guns at one target
-once every three turns.
 
-L
+* Cost: $$$
+* Scale +4D
+* Skill: Sailing
+* MNV: 0D
+* Body: 4D
+* Move: 2D
+* Crew: 70
+* Psg: 30
+* Cargo: 15 tons
+* Weapons: 16 cannons (4D/ea), 8 cannons (2D+2/ea)
+* Range: 10 / 30 / 50. May only fire 50% of guns at one target
+  once every three turns.
 
-Air Cycle
 
-|
-Crew: 1
+### Small Ship ###
 
-Cargo: 200 lbs
+A sloop or pinnace.
 
-$
-Scale +2D
-The Elsner Skywing.
-Skill: Pilot
-MNV: 2D
-Body: 1D+2
-Move: 3D
-Psg: 1
-Cargo: None.
+* Cost: $$
+* Scale +4D
+* Skill: Sailing
+* MNV: 1D
+* Body: 2D+2
+* Move: 2D+2
+* Crew: 12
+* Psg: 8
+* Cargo: 5 tons
+* Weapons: 6 cannons (2d+2/ea)
+* Range: 10 / 30 / 50. May only fire 50% of guns at one target
+  once every three turns.
 
-a
-
-R
 
 Sample Modern Vehicles
+----------------------
 
-Mecha
-
-$$
-
-$$$$
-Scale +4D
-The Spartan 300.
-Skill: Mecha
-MNV: 1D
-Body: 5D+1
-Move: 2D
-Crew: 1
-Psg: 0
-Cargo: None
-Weapons: Punch (5D, melee);
-Arm Gun (4D), Range: 400 yards / 1/2 mile / 1 mile.
-
-V
-
-Scale +2D
-
-Skill: Driving
-
-MNV: 1D
-
-Body: 2D
-
-Move: 2D+1
-
-Psg: 4
-
-Cargo: 500 lbs
-
-Fighter Jet
-
-$$$$$
-Scale +6D
-State of the art killing machine.
-Skill: Pilot
-MNV: 3D
-Body: 2D
-Move: 3D
-Crew: 1 or 2
-Psg: 0
-Cargo: None
-Weapons: Guns (2D), range: 30 / 50 /100; 4 missiles (4D/ea),
-range: 1/2 mile / 2 miles / 5 miles.
-
-Star Fighter
-
-$$$
-Scale +6D
-The Adder Mk II.
-Skill: Pilot
-MNV: 3D+2
-Body: 2D+1
-Move: 4D
-Crew: 1 + 1 robot
-Psg: 0
-Cargo: None
-Weapons: Twin Guns (4D), Range: 1 / 3 / 5
-
-m
-
-Crew: 1
-
-Psg: 1
-
-$$$$$$
-Scale +12D
-Galaxy Class Destroyer.
-Skill: Command
-MNV: 0D
-Body: 6D
-Move: 1D
-Crew: 5,000
-Psg: 500
-Cargo: 100 kilotons
-+ 30 star fighters
-Weapons: 100 AA Guns (3D, Fighter scale), Range 1 / 3 / 5;
-32 Plasma Cannons (4D+1), Range 5 / 10 / 15;
-6 100 Megaton Warheads (8D), Range 15. Only 50% of guns
-or cannons can be on one target at any time.
-
-$$
-Scale +4D
-A sloop or pinnace.
-Skill: Sailing
-MNV: 1D
-Body: 2D+2
-Move: 2D+2
-Crew: 12
-Psg: 8
-Cargo: 5 tons
-Weapons: 6 cannons (2d+2/ea)
-Range: 10 / 30 / 50. May only fire 50% of guns at one target
-once every three turns.
-
-1
-
-Move: 3D
-
-Capital Ship
-
-Small Ship
-
-Motorcycle
-
-Body: 2D
-
-Sample Sci-Fi Vehicles
-
-Galleon
-
-Crew: 1
-
-MNV: 2D
-
-c
-
-;
-
-C
-
-Skill: Driving
-
-$$$$
-Scale +4D
-Adams Main Battle Tank
-Skill: Driving
-MNV: 1D
-Body: 6D
-Move: 2D
-Crew: 3
-Psg: 1
-Cargo: 500 lbs
-Weapons: BFG (character scale, see gear); Main Gun (6D),
-Range: 1/2 mile / 1 mile / 2 miles.
-
-$$$$
-Scale +2D
-A steam powered golem.
-Skill: Command
-MNV: 0D
-Body: 5D
-Move: 1D
-Crew: 1
-Psg: 0
-Cargo: None
-Weapon: Mace (3D), Range: melee.
+### Car ###
 
 Vroom, vroom.
 
-Scale +2D
+* Cost: $$
+* Scale +2D
+* Skill: Driving
+* MNV: 1D
+* Body: 2D
+* Move: 2D+1
+* Crew: 1
+* Psg: 4
+* Cargo: 500 lbs
 
-Tank
 
-Automaton
+### Fighter Jet ###
 
-Car
+State of the art killing machine.
 
-$$$
+* Cost: $$$$$
+* Scale +6D
+* Skill: Pilot
+* MNV: 3D
+* Body: 2D
+* Move: 3D
+* Crew: 1 or 2
+* Psg: 0
+* Cargo: None
+* Weapons: Guns (2D), range: 30 / 50 /100; 4 missiles (4D/ea),
+  range: 1/2 mile / 2 miles / 5 miles.
+
+
+### Motorcycle ###
+
+Darling Heavyson Fatboy.
+
+* Cost: $
+* Scale +2D
+* Skill: Motorcycle
+* MNV: 2D
+* Body: 1D+2
+* Move: 2D+2
+* Crew: 1
+* Psg: 1
+* Cargo: None
+
+
+### Sports Car ###
+
 The Lilith Novum.
 
-M
+* Cost: $$$
+* Scale +2D
+* Skill: Driving
+* MNV: 2D
+* Body: 2D
+* Move: 3D
+* Crew: 1
+* Psg: 1
+* Cargo: 200 lbs
 
-$
-Scale +2D
-Darling Heavyson Fatboy.
-Skill: Motorcycle
+
+### Tank ###
+
+Adams Main Battle Tank
+
+* Cost: $$$$
+* Scale +4D
+* Skill: Driving
+* MNV: 1D
+* Body: 6D
+* Move: 2D
+* Crew: 3
+* Psg: 1
+* Cargo: 500 lbs
+* Weapons: BFG (character scale, see gear); Main Gun (6D),
+* Range: 1/2 mile / 1 mile / 2 miles.
+
+
+Sample Sci-Fi Vehicles
+----------------------
+
+### Air Cycle ###
+
+The Elsner Skywing.
+
+Cost: $
+Scale: +2D
+Skill: Pilot
 MNV: 2D
 Body: 1D+2
-Move: 2D+2
-Psg: 1
-Cargo: None
-
-Star Yacht
-
-~
-Crew: 2
-
-9
-
-$$$$
-Scale +6D
-The choice of beginner smugglers.
-Skill: Pilot
-MNV: 1D
-Body: 3D+1
 Move: 3D
-Psg: 8
-Cargo: 50 tons
+Crew: 1
+Psg: 1
+Cargo: None.
+
+
+### Capital Ship ###
+
+Galaxy Class Destroyer.
+
+* Cost: $$$$$$
+* Scale +12D
+* Skill: Command
+* MNV: 0D
+* Body: 6D
+* Move: 1D
+* Crew: 5,000
+* Psg: 500
+* Cargo: 100 kilotons + 30 star fighters
+* Weapons: 100 AA Guns (3D, Fighter scale), Range 1 / 3 / 5;
+  32 Plasma Cannons (4D+1), Range 5 / 10 / 15;
+  6 100 Megaton Warheads (8D), Range 15. Only 50% of guns
+  or cannons can be on one target at any time.
+
+
+### Mecha ###
+
+The Spartan 300.
+
+* Cost: $$$$
+* Scale +4D
+* Skill: Mecha
+* MNV: 1D
+* Body: 5D+1
+* Move: 2D
+* Crew: 1
+* Psg: 0
+* Cargo: None
+* Weapons: Punch (5D, melee);
+  Arm Gun (4D), Range: 400 yards / 1/2 mile / 1 mile.
+
+
+### Star Fighter ###
+
+The Adder Mk II.
+
+* Cost: $$$
+* Scale +6D
+* Skill: Pilot
+* MNV: 3D+2
+* Body: 2D+1
+* Move: 4D
+* Crew: 1 + 1 robot
+* Psg: 0
+* Cargo: None
+* Weapons: Twin Guns (4D), Range: 1 / 3 / 5
+
+
+### Star Yacht ###
+
+The choice of beginner smugglers.
+
+* Cost: $$$$
+* Scale +6D
+* Skill: Pilot
+* MNV: 1D
+* Body: 3D+1
+* Move: 3D
+* Crew: 2
+* Psg: 8
+* Cargo: 50 tons
+
 
 The Simple Magic System
+=======================
+
 
 Magic Perks
+-----------
 
 Call it Ki, Chi, Sorcery, Latent Psi, etc; it's all just different
 flavors of magic. Magic let's you break the rules of the universe in
