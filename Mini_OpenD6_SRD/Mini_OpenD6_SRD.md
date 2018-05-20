@@ -18,18 +18,6 @@ six and seven provide all the needed mechanics to play a
 complete game. Beyond these four pages are additional rules
 and options to expand your game.
 
-On pages 8 through 13 are rules that will only come up in
-some games, vehicles and magic. While 14 through 17 provide
-GM's with a ready list of NPC's and monsters to populate the
-game. Pages 18 and 19 provide rule variants to help change
-up the game to better fit the style of the campaign desired. On
-pages 20 and 21 the GM will find a little advice on creating the
-campaign and adapting other OpenD6 materials to their Mini
-Six games. Sarting on page 22 you will find five sample settings
-that are nearly ready to go as is. Pages 34 and 35 contain a
-character sheet and the Mini Six cheat sheet containing several
-useful charts to serve as a handy reference.
-
 What you won't find in ths book are a lot of detailed
 examples, exhaustive rules to cover every possible scenario, or
 a large list of modifiers. Instead, we are trusting GM's, with the
@@ -98,7 +86,7 @@ Dice Basics
 -----------
 
 This game uses regular six sided dice. The number before the
-“D” is how many to roll, and any number after a + is how much
+"D" is how many to roll, and any number after a + is how much
 to add to the roll. For instance 2D+2 means roll two dice and add
 two to the resulting total.
 
@@ -127,9 +115,9 @@ than two dice assigned to it at character creation.
 Splitting Dice
 --------------
 
-Skill and attribute dice may be split into “pips.” Each die is equal 
+Skill and attribute dice may be split into "pips." Each die is equal 
 to three pips. An attribute must always have at least 1D. An attribute 
-may have dice only (no bonus pips), +1 or +2. Going to “+3” advances 
+may have dice only (no bonus pips), +1 or +2. Going to "+3" advances 
 the die code to the next largest die. Example progression is 1D, 1D+1, 
 1D+2, 2D, 2D+1, etc.
 
@@ -178,7 +166,7 @@ have a tailored list of appropriate skills which might include new
 skills or modify examples given. For example a typical sword
 and sworcery game might use an expanded list of melee skills to
 further define its warriors while a science fiction game may lump
-them all into a unified skill named “Melee Combat.”
+them all into a unified skill named "Melee Combat."
 
 ### All Genres ###
 
@@ -287,8 +275,8 @@ Perceptive (2): The GM may reveal small clues to you that others
 would miss. Once per session a character may announce they are
 studying an object or situation and the GM may reveal something
 that would be impossible for a normal character to determine. If
-nothing is revealed this perk may be used again. “Elementary, my
-dear Watson.”
+nothing is revealed this perk may be used again. "Elementary, my
+dear Watson."
 
 Recall (1): Any time the character chooses to recall anything he
 has experienced, the GM must tell him the truth in as much detail
@@ -558,14 +546,14 @@ the point is lost:
   to reduce the severity of a character's wounds one level.
 * Make a small change to their location (locating an unlocked
   window, finding a can of WD40 and a roll of duct tape, etc.)
-* “Buy” a clue. Sometimes players are at a lost or think they
+* "Buy" a clue. Sometimes players are at a lost or think they
   might have missed something. This gives them the option to
   find that detail that they would have otherwise missed.
 
 Hero Points are earned through superior play and given as an
 incentive by the GM to help encourage the style of action desired
 in a game. If playing a gritty western and the character makes a
-clever quip using the “in-game” jargon that makes everyone laugh
+clever quip using the "in-game" jargon that makes everyone laugh
 without disrupting play that may be worth a Hero Point. Unless
 completely against the nature of the game played, extremely clever
 ideas and grand heroic deeds should always be rewarded.
@@ -1195,36 +1183,24 @@ The choice of beginner smugglers.
 The Simple Magic System
 =======================
 
-
-Magic Perks
------------
-
 Call it Ki, Chi, Sorcery, Latent Psi, etc; it's all just different
 flavors of magic. Magic let's you break the rules of the universe in
 creative ways. Some games let you use flashy spells; others require
 you to use more subtle effects. Speak with your GM about the
 limits of magic in his game.
 
-Characters that are able to learn the Magic skill may also
-purchase the following Perks.
-Familiar (1): The character has an imp for a companion. The
-familiar can fly at a rate of 60 ft each turn, can talk, and has 1D in
-each attribute. He also has 3D in skills. He can't cast spells, but he
-can turn into a black cat or other small animal at will.
-Totem Spirit (1): The character has a spiritual advisor that
-speaks to him in his dreams or visions. This spirit will likely have
-a somewhat alien perspective on matters, and certainly won't
-always just tell the character everything he knows. Totem Spirits
-employ riddles, puzzles, and enjoy sending the character off on
-ridiculous quests; but they also have insight and know things man
-was never meant to know.
 
 Access to Magic
+---------------
+
 In some games, none may use magic, in others everyone can.
 The most common option is a middle ground that requires the
 character to start the game with the Sorcerer esoteric perk.
 
+
 Casting Spells
+--------------
+
 All spells have a target number (TN) listed in their
 description. Sorcerers roll Magic to determine success. Only one
 spell may be cast per turn. Success on the roll mean the spell is
@@ -1233,16 +1209,10 @@ failed roll, the Sorcerer suffers a -1D penalty to their Magic skill.
 Further failures increase the penalty. One hour of rest with no
 interruption removes all penalties.
 
-Magic Complications
-The GM may also allow special complications for magic
-capable characters.
-Demonic Pact: The character has allied himself with a demon.
-It tends to impress all the wrong people. You earn bonus CP any
-time this complicates your life.
-White Wizard: You can't harm anyone with your magic. Ever.
-Earn 1 bonus CP every session.
 
 Spells Requiring Multiple Actions
+---------------------------------
+
 Some spells require additional actions to be taken after
 casting. For example, thrown spells require the Sorcerer to cast
 the spell and then hit the target by making a Throw skill check.
@@ -1250,87 +1220,97 @@ The Sorcerer may wait until the next turn to throw the spell or
 they may opt to suffer the penalty for multiple actions and do
 them all in one turn.
 
-Sorcerer's Tools
-Some special enchanted items are of use only to those capable
-of using spells. Activating the bonus granted by an item does not
-count as an action. When found a sorcerer must attune the item
-before he can use it. This requires the passing of three days while
-keeping the item close.
-The Cloak grants +2D to the Magic skill test required to use the
-Fly and Teleport spells.
-The Crystal Ball grants +3D to the Magic skill test required to
-use the Clairvoyance and Divination spells.
-The Magic Wand grants +1D to any Magic skill test when used
-for the spell the wand was designed for.
-The Spell Staff grants +1D to Magic once each day.
 
 Concentration (CONC)
+--------------------
+
 Some spells require the Sorcerer to maintain concentration
 for the spell to remain in effect. Each spell maintained counts as
 one action.
 
 Beginning Spells & Learning More
+--------------------------------
+
 The character knows two spells for each die allocated to
 Magic at character creation. Learning a new spell costs 2 CP.
 
+
+Magic Perks
+-----------
+
+Characters that are able to learn the Magic skill may also
+purchase the following Perks.
+
+Familiar (1): The character has an imp for a companion. The
+familiar can fly at a rate of 60 ft each turn, can talk, and has 1D in
+each attribute. He also has 3D in skills. He can't cast spells, but he
+can turn into a black cat or other small animal at will.
+
+Totem Spirit (1): The character has a spiritual advisor that
+speaks to him in his dreams or visions. This spirit will likely have
+a somewhat alien perspective on matters, and certainly won't
+always just tell the character everything he knows. Totem Spirits
+employ riddles, puzzles, and enjoy sending the character off on
+ridiculous quests; but they also have insight and know things man
+was never meant to know.
+
+
+Magic Complications
+-------------------
+
+The GM may also allow special complications for magic
+capable characters.
+
+Demonic Pact: The character has allied himself with a demon.
+It tends to impress all the wrong people. You earn bonus CP any
+time this complicates your life.
+
+White Wizard: You can't harm anyone with your magic. Ever.
+Earn 1 bonus CP every session.
+
+
+Sorcerer's Tools
+----------------
+
+Some special enchanted items are of use only to those capable
+of using spells. Activating the bonus granted by an item does not
+count as an action. When found a sorcerer must attune the item
+before he can use it. This requires the passing of three days while
+keeping the item close.
+
+The Cloak grants +2D to the Magic skill test required to use the
+Fly and Teleport spells.
+
+The Crystal Ball grants +3D to the Magic skill test required to
+use the Clairvoyance and Divination spells.
+
+The Magic Wand grants +1D to any Magic skill test when used
+for the spell the wand was designed for.
+
+The Spell Staff grants +1D to Magic once each day.
+
+
 Making Sorcerer's Tools
+-----------------------
+
 Sorcerers may construct their own tools; this requires time,
 money, and CP. During the construction of the item the sorcerer
 must work for twelve hours each day. If any days are skipped all
 effort is lost. At the end of the process he rolls a Magic check vs.
 the TN listed below. If he fails all effort and money is wasted but
 no CP were spent.
-Item
 
-Cost
+*Item: Cost: Time: CP: TN*
 
-Time
+* Cloak: $$$: 4 weeks: 20: 30
+* Crystal Ball: $$$$: 8 weeks: 30: 35
+* Magic Wand: $$: 2 weeks: 10: 25
+* Spell Staff: $$$: 4 weeks: 15: 30
 
-CP
-
-TN
-
-Cloak
-
-$$$
-
-4 weeks
-
-20
-
-30
-
-Crystal Ball
-
-$$$$
-
-8 weeks
-
-30
-
-35
-
-Magic Wand
-
-$$
-
-2 weeks
-
-10
-
-25
-
-Spell Staff
-
-$$$
-
-4 weeks
-
-15
-
-30
 
 Spell Books
+-----------
+
 When learning new spells accessing another sorcerer's spell
 book reduces the cost to 1 CP for any spell it contains. A spell
 can contain up to six spells. Sorcerers normally create when they
@@ -1339,86 +1319,88 @@ book. Some keep them for apprentices, sentimental value, or fear
 of somehow forgetting the spells they have mastered. Others keep
 their books in case then need to sell them for money.
 
-10
 
 The Grimoire
-Animal Growth
+------------
 
-TN: 23
-Duration: 1 hour
-Range: 120 feet
-Resisted: None
+### Animal Growth ###
 
 Increase the scale of a normal animal by one level.
 
-Animate Dead
+* TN: 23
+* Duration: 1 hour
+* Range: 120 feet
+* Resisted: None
 
-TN: 31
-Duration: Permanent
-Range: Touch
-Resisted: None
+
+### Animate Dead ###
 
 The caster touches a dead humanoid giving it unlife as a zombie
 or skeleton depending the corpse's condition. Undead created
 this way can be controlled by the caster's Command skill. When
 destroyed they crumble to dust.
 
-Beast Tongue
+* TN: 31
+* Duration: Permanent
+* Range: Touch
+* Resisted: None
 
-TN: 19
-Duration: Concentration
-Range: Self
-Resisted: None
+
+### Beast Tongue ###
 
 The caster can talk to animals.
 
-Bless
+* TN: 19
+* Duration: Concentration
+* Range: Self
+* Resisted: None
 
-Control Weather
 
-TN: 19
-Duration: 1 hour
-
-Duration: Concentration
-
-Range: 30 foot radius
-
-Range: 1/2 mile radius
-
-Resisted: None
-
-Resisted: None
-The caster dictates the weather in the area affected. He can make
-it hot, cold, snowy, rainy, foggy, or calm as desired.
+### Bless ###
 
 All allies within the area of effect receive a +2 bonus to all rolls.
 
-Charm
+* TN: 19
+* Duration: 1 hour
+* Range: 30 foot radius
+* Resisted: None
 
-TN: 15
 
-Curse
+### Control Weather ###
 
-Duration: Concentration
+The caster dictates the weather in the area affected. He can make
+it hot, cold, snowy, rainy, foggy, or calm as desired.
 
-Duration: Permanent
+* TN: 35
+* Duration: Concentration
+* Range: 1/2 mile radius
+* Resisted: None
 
-Resisted: None
 
-Range: Touch
-Resisted: Charm
+### Charm ###
+
+This spell grants a +4D bonus to all Charm skills.
+
+* TN: 15
+* Range: Self
+* Duration: Concentration
+* Resisted: None
+
+### Curse ###
+
 The target of this spell suffers some negative effect determined
 by the caster. Examples include being struck mute until hearing
 a certain word, deafness or blindness, inability to run or cross
 running water. This spell is open ended but the GM has final say
 on all effects. Dispel Magic will remove any curse.
 
-TN: 23
-Duration: Concentration
-Range: 300 feet
-Resisted: None
+* TN: 15 + Resist Roll
+* Duration: Permanent
+* Range: Touch
+* Resisted: Charm
 
-Dark Vision
+
+### Clairvoyance ###
 
 The caster's senses leave his own body and project outward
 to any point within 300 feet. The caster may move the area he
@@ -1426,40 +1408,13 @@ perceives at the rate of 10 feet per turn. While in this state, he
 cannot take any physical action and any damage done to him
 will end the spell.
 
-Conjure Elemental
+* TN: 23
+* Duration: Concentration
+* Range: 300 feet
+* Resisted: None
 
-TN: 15 + Resist Roll
 
-Range: Self
-This spell grants a +4D bonus to all Charm skills.
-
-Clairvoyance
-
-TN: 35
-
-TN: 23
-Duration: 1 hour
-Range: Touch
-Resisted: None
-
-The target can see 60 feet in the dark.
-
-TN: 31
-
-Death Spell
-
-Duration: Permanent
-
-TN: 35
-
-Range: Zero
-
-Duration: Instant
-
-Resisted: None
-
-Range: 30 feet
-Resisted: Special
+### Conjure Elemental ###
 
 Sorcerers may summon only one elemental per day by using
 this spell. The caster also needs a large quantity of the type of
@@ -1468,46 +1423,116 @@ for a fire elemental or a well for a water elemental. Controlling
 the elemental requires use of the Command skill. Uncontrolled
 elementals will attack everyone, including the conjurer.
 
+* TN: 31
+* Duration: Permanent
+* Range: Zero
+* Resisted: None
+
+
+### Dark Vision ###
+
+The target can see 60 feet in the dark.
+
+* TN: 23
+* Duration: 1 hour
+* Range: Touch
+* Resisted: None
+
+
+### Death Spell ###
+
 If successfully cast, the Sorcerer rolls his Magic skill without his
 Wit attribute for damage. The target resists using only Might.
 For example, Melkot casts Death Spell on Tamore. Melkot has a
 Wit of 4D and 10D in Magic. Melkot would roll 6D for damage
 (10D -- 4D) and Tamore would resist with his Might.
 
-11
+* TN: 35
+* Duration: Instant
+* Range: 30 feet
+* Resisted: Special
 
-Dispel Magic
 
-TN: Special
-
-Hasten
-
-Duration: 5 rounds
-
-Range: 30 feet
-
-Range: Touch
-
-Resisted: None
-
-Resisted: None
+### Dispel Magic ###
 
 The caster undoes any single spell or permanent magical effect.
 The target number is five higher than the spell or effect being
 targeted. Some things cannot be dispelled, such as healing and
 resurrection
 
-Divination
+* TN: Special
+* Duration: Permanent
+* Range: 30 feet
+* Resisted: None
+
+
+### Divination ###
+
+The Sorcerer can attempt to see the future or the past. The immediate 
+future or past normally has a TN of 25 while more distant events have 
+a higher TN. For instance, seeing a year into the future may have 
+a TN of 45 while a year into the past is only 35. If attempting to 
+divine about specific objects or people that are not present, the 
+difficulty goes up by 10 or more depending on closeness of 
+relationship to the Sorcerer.
+
+* TN: Special
+* Duration: Concentration
+* Range: Self
+* Resisted: None
+
+
+### Earthquake ###
+
+An intense tremor rips the ground in a 50 foot radius from the
+chosen epicenter. This collapses structures, opens cracks in the
+ground, and more. While the effect lasts creatures on the ground
+cannot move, attack, or cast spells. Any creature caught inside a
+collapsing structure must resist 6D damage.
+
+* TN: 39
+* Duration: 1 round
+* Range: 200 feet
+* Resisted: None
+
+
+### ESP ###
+
+When cast you can hear the thoughts of any one person;
+language is no barrier.
+
+* TN: 15 + Resist Roll
+* Duration: Concentration
+* Range: 50 feet
+* Resisted: Charm
+
+
+### Fly ###
+
+While maintained the Sorcerer can fly at a rate of 90 feet per
+round. If the spell ends before landing the character will float to
+the ground. The character may hover and carry up to his own
+weight aloft. If the character only wishes to levitate vertically the
+TN of the spell is 15.
+
+* TN: 23 (or 15)
+* Duration: Concentration
+* Range: 100 feet
+* Range: Self
+
+
+### Hasten ###
 
 Targets have their multiple action penalty reduced by 1D. The
 effects of multiple Hasten spells don't stack.
 
-Heal
+* TN: 23
+* Duration: 5 rounds
+* Range: Touch
+* Resisted: None
 
-Range: Touch
-Resisted: None
 
-Range: Self
+### Heal ###
 
 The Sorcerer must concentrate for 6 turns before casting this
 spell. The TN is 15 when attempting to heal anyone wounded or
@@ -1516,22 +1541,14 @@ the mortally wounded. Success reduces the wound level by one.
 If heal is used more than once per day on a target, the target
 number of additional castings increases by +10.
 
-Resisted: None
-The Sorcerer can attempt to see the future or the past. The
-immediate future or past normally has a TN of 25 while more
-distant events have a higher TN. For instance, seeing a year into
-the future may have a TN of 45 while a year into the past is only
-35. If attempting to divine about specific objects or people that
-are not present, the difficulty goes up by 10 or more depending
-on closeness of relationship to the Sorcerer.
+* Range: Self
+* Duration: Instant
+* Range: Touch
+* Resisted: None
 
-Illusions
 
-Range: 50 foot radius
+### Illusions ###
 
-TN: 39
-
-Resisted: Wit
 Illusions create false perceptions in the minds of the effected.
 The target number is 15 plus 2 per person after the first targeted
 plus their individual Resist Roll. Compare results for each
@@ -1539,68 +1556,70 @@ person individually to see if they are affected. GMs may wish
 to roll for the highest Resist first and if they fail consider all to
 have failed.
 
-Range: 200 feet
-Resisted: None
-An intense tremor rips the ground in a 50 foot radius from the
-chosen epicenter. This collapses structures, opens cracks in the
-ground, and more. While the effect lasts creatures on the ground
-cannot move, attack, or cast spells. Any creature caught inside a
-collapsing structure must resist 6D damage.
+* TN: Special + Resist Roll
+* Duration: Concentration
+* Range: 50 foot radius
+* Resisted: Wit
 
-Invisibility
 
-Range: Touch
-Resisted: None
-
-Range: 50 feet
+### Invisibility ###
 
 This spell renders the target almost unseen granting a +5D
 bonus to Stealth.
 
-Resisted: Charm
-When cast you can hear the thoughts of any one person;
-language is no barrier.
+* TN: 27
+* Duration: 1 hour
+* Range: Touch
+* Resisted: None
 
-Light
 
-TN: 15
+### Light ###
 
-TN: 23 (or 15)
-
-Duration: 1 hour
-
-Duration: Concentration
-
-Range: 100 feet
-
-Range: Self
-
-Resisted: None
 The targeted location or object glows as brightly as a torch.
 
+* TN: 15
+* Duration: 1 hour
+* Range: 100 feet
+* Resisted: None
+
+
+### Lightning Bolt ###
+
+The caster throws lightning. This requires the use of the Throw
+skill. If the caster attempts to throw it the same round it is cast the
+multiple action penalty applies to both the casting and throwing
+of the spell. The caster may also choose to throw the lightning
+the round after casting to avoid the penalty. However if he waits
+any longer the effect dissipates. Targets may make a Dodge roll
+to avoid being hit. A successful hit inflicts 5D damage. Armor
+does not protect against Lightning.
+
+* TN: 23
+* Duration: Instant
+* Range: 150 feet
+* Resisted: None
+
+
+
+
+
+
+
+
+
 Resisted: None
-While maintained the Sorcerer can fly at a rate of 90 feet per
-round. If the spell ends before landing the character will float to
-the ground. The character may hover and carry up to his own
-weight aloft. If the character only wishes to levitate vertically the
-TN of the spell is 15.
 
 Growth
 
-TN: 27
-Duration: 1 hour
 
 TN: 15 + Resist Roll
 Duration: Concentration
 
-Fly
 
-TN: Special + Resist Roll
-Duration: Concentration
 
-Duration: 1 round
 
-ESP
+
+
 
 TN: Special
 Duration: Instant
@@ -1614,21 +1633,7 @@ TN: 23
 
 Duration: Permanent
 
-Lightning Bolt
 
-TN: 23
-Duration: Instant
-Range: 150 feet
-Resisted: None
-
-The caster throws lightning. This requires the use of the Throw
-skill. If the caster attempts to throw it the same round it is cast the
-multiple action penalty applies to both the casting and throwing
-of the spell. The caster may also choose to throw the lightning
-the round after casting to avoid the penalty. However if he waits
-any longer the effect dissipates. Targets may make a Dodge roll
-to avoid being hit. A successful hit inflicts 5D damage. Armor
-does not protect against Lightning.
 
 TN: 23 + Special
 Duration: 10 Rounds
@@ -1714,7 +1719,9 @@ or electricity, and the target is granted a +1D bonus to resist
 damage from that source.
 TN: 60
 
+
 Enchanted Items
+---------------
 
 Duration: Permanent
 
@@ -1805,43 +1812,51 @@ Cloak of Stealth (Stealth +1D)
 Flying Carpet (moves 90 feet per round)
 Ring of Slyness (Fast Talk +1D)
 
-13
 
 Sample Characters by Genre
+==========================
+
 The characters presented below are sometimes less powerful
-than starting player characters, sometimes more. Here is a scale to
-help determine potency:
-* Not a threat usually.
-** Minor threat only in a group.
-*** Credible threat.
-**** Watch out, Heroes!
-***** Bold or foolish to even try.
+than starting player characters, sometimes more. Here is a scale 
+to help determine potency:
+
+! Not a threat usually.
+!! Minor threat only in a group.
+!!! Credible threat.
+!!!! Watch out, Heroes!
+!!!!! Bold or foolish to even try.
+
 Skills listed in each entry include the base attribute, but
 effects of character scale haven't been prefigured. All attributes,
 skills, and gear are just for typical or average characters. Superior
 and inferior individuals exist of every type.
+
 Static defenses are precalculated with any skills listed. Soak is
 listed as X(Y) where X is the base soak value and Y includes any
 armor or other bonus listed. If a bonus die is granted to Brawling,
 Dodge, or melee skills simply add 3 per die to the static score.
 While listed by genre type, these are only rough guidelines.
+
 If you need a bloodthirsty alien race for a space opera campaign,
 take the orc template, change its name to Xargon, arm them with
 laser rifles and a 4D skill with them. Likewise, if you need a few
 brooding emo vampires, take the vampire template as written,
 give him hair product, eye make-up, a trendy wardrobe, a tattoo,
-an attitude, and go team Edgar.
+and an attitude.
+
 
 All Genres
+----------
+
 Average Human
 
 e
 
 Scale: 0D
 
-*
+!
 
-“Everyman.”
+"Everyman."
 Might: 2D
 
 Wit: 2D
@@ -1874,7 +1889,7 @@ b
 
 Scale: 0D
 
-***
+!!!
 
 Black, brown, or grizzly.
 Might: 5D+1
@@ -1894,7 +1909,7 @@ Dog
 
 Scale: 0D
 
-**
+!!
 Man's best friend.
 Might: 2D
 
@@ -1922,14 +1937,14 @@ Bear
 
 Scale: 0D
 
-**
+!!
 Any large herbivore.
 
 e
 
 Scale: +2D
 
-**
+!!
 They never forget.
 Might: 4D+1
 
@@ -1945,7 +1960,7 @@ z
 
 Horse
 
-**
+!!
 
 Scale: 0D
 
@@ -1958,7 +1973,7 @@ Wit: 0D
 
 Monkey
 
-*
+!
 
 Scale: 0D
 
@@ -1976,7 +1991,7 @@ Static: Dodge 20, Soak 3
 
 Scale: 0D
 
-*
+!
 
 An archeologist's nightmare.
 Might: 1D+2
@@ -2012,7 +2027,7 @@ Static: Dodge 5, Soak 14
 
 Scale: 0D
 
-***
+!!!
 
 v
 
@@ -2020,7 +2035,7 @@ Elk
 
 Scale: 0D
 
-**
+!!
 Jungle cats, ho!
 Might: 3D+1
 
@@ -2035,7 +2050,7 @@ Wolf
 
 Scale: 0D
 
-**
+!!
 They hunt in packs.
 Might: 3D+2
 
@@ -2050,11 +2065,11 @@ Confidence Man
 
 f
 
-***
+!!!
 
 Scale: 0D
 
-“Have I got a deal for you.”
+"Have I got a deal for you."
 Might: 2D
 
 Wit: 3D+1
@@ -2063,7 +2078,7 @@ Agility: 2D+1 Charm: 3D+1
 
 Ninja
 
-****
+!!!!
 
 n
 
@@ -2094,7 +2109,7 @@ Policeman
 
 j
 
-**
+!!
 
 Scale: 0D
 
@@ -2111,7 +2126,7 @@ Static: Dodge 7, Block 9, Soak 8
 
 ?
 
-**
+!!
 
 Scale: 0D
 
@@ -2130,7 +2145,7 @@ Soldier
 
 Z
 
-***
+!!!
 
 Scale: 0D
 
@@ -2149,7 +2164,7 @@ Spy
 
 r
 
-****
+!!!!
 
 Scale: 0D
 
@@ -2170,7 +2185,7 @@ Apprentice-Mystic
 
 8
 
-***
+!!!
 
 Scale: 0D
 
@@ -2191,7 +2206,7 @@ Cybercop
 
 r
 
-***
+!!!
 
 Scale: 0D
 
@@ -2213,7 +2228,7 @@ Kid Genius
 
 #
 
-**
+!!
 
 Scale: 0D
 
@@ -2232,7 +2247,7 @@ Static: Dodge 15, Block 4, Parry 4, Soak 4
 
 3
 
-***
+!!!
 
 Scale: 0D
 
@@ -2262,7 +2277,7 @@ Knight-Mystic
 
 Reptoid Pilot
 
-****
+!!!!
 
 Scale: 0D
 
@@ -2281,7 +2296,7 @@ Static: Dodge 19, Block 9, Parry 20, Soak 9
 
 ]
 
-*
+!
 
 Scale: 0D
 
@@ -2303,7 +2318,7 @@ Cultist
 
 9
 
-**
+!!
 
 Scale: 0D
 
@@ -2324,7 +2339,7 @@ Dame in Distress
 
 Y
 
-**
+!!
 
 Scale: 0D
 
@@ -2345,7 +2360,7 @@ Elder God
 
 !
 
-******* Scale: +12D
+!!!!!!! Scale: +12D
 Klatu Barada Nikto.
 Might: 5D
 
@@ -2371,7 +2386,7 @@ Static: Dodge 11, Block 15, Soak 15
 Mad Scientist
 @
 
-**
+!!
 
 Scale: 0D
 
@@ -2390,7 +2405,7 @@ Static: Dodge 12, Block 6, Parry 6, Soak 6
 
 Scaly Kin
 
-***
+!!!
 
 Scale: 0D
 
@@ -2412,7 +2427,7 @@ Barbarian
 
 b
 
-**
+!!
 
 Scale: 0D
 
@@ -2420,13 +2435,13 @@ Guard
 
 Scale: 0D
 
-**
+!!
 
 Pirate
 
 Scale: 0D
 
-***
+!!!
 
 Savage from the north hills.
 
@@ -2483,13 +2498,13 @@ Thief
 
 K
 
-***
+!!!
 
 Scale: 0D
 
 Scale: 0D
 
-***
+!!!
 
 Clansman of the Great Hall.
 
@@ -2525,7 +2540,7 @@ Elf Bowman
 
 Priest
 
-***
+!!!
 
 Scale: 0D
 
@@ -2548,7 +2563,7 @@ Static: Dodge 15, Block 6, Parry 9, Soak 6(8)
 
 Scale: 0D
 
-***
+!!!
 
 9
 
@@ -2570,7 +2585,7 @@ Static: Dodge 9, Block 7, Parry 7, Soak 7(13)
 
 Scale: 0D
 
-**
+!!
 
 What's yours is mine.
 Might: 2D
@@ -2589,7 +2604,7 @@ Wizard
 
 Scale: 0D
 
-****
+!!!!
 
 Sorcerer or necromancer.
 Might: 1D+2
@@ -2609,7 +2624,7 @@ Centaur
 
 c
 
-**
+!!
 
 Scale: 0D
 
@@ -2647,7 +2662,7 @@ Agility: 2D+2 Charm: 5D
 
 ~
 
-*
+!
 
 Scale: 0D
 
@@ -2677,7 +2692,7 @@ Charm: 3D
 
 Dragon
 
-*****
+!!!!!
 
 Scale: +4D
 
@@ -2693,7 +2708,7 @@ O
 
 Scale: 0D
 
-****
+!!!!
 Doomed spirit.
 
 Might: 3D
@@ -2706,7 +2721,7 @@ Body of living flame.
 
 I'm the best there's ever been.
 
-****
+!!!!
 
 Skills: Brawling 5D, Dodge 4D+2,
 Persuasion 7D, Seduce 6D
@@ -2717,7 +2732,7 @@ D
 
 }
 
-***
+!!!
 
 Skills: Brawling 5D+1, Dodge 5D+2
 Perks: Ignite by Touch, Targets hit by brawling
@@ -2732,7 +2747,7 @@ s
 
 Elemental (Fire)
 
-***
+!!!
 
 Scale: 0D
 
@@ -2761,7 +2776,7 @@ Giant
 
 @
 
-*****
+!!!!!
 
 Scale: +4D
 
@@ -2783,7 +2798,7 @@ Goblin
 
 l
 
-**
+!!
 
 Scale: 0D
 
@@ -2801,7 +2816,7 @@ Golem
 
 !
 
-****
+!!!!
 
 Scale: +2D
 
@@ -2824,7 +2839,7 @@ Gorgon
 
 Scale: 0D
 
-***
+!!!
 With baited breath.
 Might: 5D+1
 
@@ -2845,7 +2860,7 @@ Griffon
 
 Scale: 0D
 
-***
+!!!
 Hunters of the sky.
 Might: 3D+2
 
@@ -2863,7 +2878,7 @@ F
 
 Scale: 0D
 
-***
+!!!
 She's a maneater.
 Might: 2D+2
 
@@ -2881,7 +2896,7 @@ W
 
 Scale: 0D
 
-***
+!!!
 The devil's lapdog.
 Might: 3D+2
 
@@ -2897,7 +2912,7 @@ Hydra
 
 a
 
-*****
+!!!!!
 
 Scale: +4D
 
@@ -2907,7 +2922,7 @@ Medusa
 
 Scale: 0D
 
-*****
+!!!!!
 Might: 2D+2
 
 Wit: 2D+2
@@ -2945,7 +2960,7 @@ m
 
 Scale: 0D
 
-***
+!!!
 Master of the maze.
 Might: 5D+2
 
@@ -2960,7 +2975,7 @@ Ogre
 
 y
 
-****
+!!!!
 
 Scale: +2D
 
@@ -2981,7 +2996,7 @@ P
 
 Scale: 0D
 
-***
+!!!
 Scourge of civilation.
 Might: 3D+1
 
@@ -3001,7 +3016,7 @@ Pegasus
 
 Scale: 0D
 
-***
+!!!
 
 Sky mounts of the elves.
 Might: 4D+1
@@ -3024,7 +3039,7 @@ Skeleton
 
 ,
 
-****
+!!!!
 
 Scale: +2D
 
@@ -3045,7 +3060,7 @@ Static: Dodge 20, Block 18, Soak 7
 
 17
 
-**
+!!
 
 Scale: 0D
 
@@ -3078,7 +3093,7 @@ Extra Attacks (make one unpenaliized attack
 for each head.)
 Static: Dodge 6, Block 15, Soak 9
 
-**
+!!
 
 Most dispute they exist.
 
@@ -3092,7 +3107,7 @@ Rat of Unusual Size
 
 Stone cold killer.
 
-****
+!!!!
 
 Scale: 0D
 
@@ -3114,7 +3129,7 @@ Vampire
 
 ,
 
-*****
+!!!!!
 
 Scale: 0D
 
@@ -3143,7 +3158,7 @@ Werewolf
 
 -
 
-***
+!!!
 
 Scale: 0D
 
@@ -3168,7 +3183,7 @@ Zombie
 
 a
 
-**
+!!
 
 Scale: 0D
 
@@ -3475,6 +3490,14 @@ and take the higher number.
 What are the Rules?
 
 Making the Game Your Own
+========================
+
+Its possible to sit down and play a game with Mini Six on the
+fly using just what has been provided. However, the game is much
+more enjoyable when some advance thought is put into the world
+the characters will adventure in. For repeated campaign style play
+this is practically a requirement.
+
 
 We think we have a pretty good set here with Mini Six, but
 some might call us biased. You might be happy with the default
@@ -3492,13 +3515,10 @@ own. But whatever you do, be sure to write it down for consistency
 later and tell your players before they make characters. It is only
 the nice thing to do.
 
-Its possible to sit down and play a game with Mini Six on the
-fly using just what has been provided. However, the game is much
-more enjoyable when some advance thought is put into the world
-the characters will adventure in. For repeated campaign style play
-this is practically a requirement.
 
-Developing Your Own Setting
+Developing Your Own Setting 
+---------------------------
+
 (or stealing from the Great Ones)
 
 The first thing you need is an idea. If you don't already have
@@ -3509,44 +3529,34 @@ other source of mass media. Or it might be invented whole cloth
 from your imagination. Before we get all touchy feely and start
 sharing emotions let's crawl out of your head and get on to the
 next step.
-Now that you have a golden
-gem of an idea, you need to
-write down a short description.
-Imagine that your audience has
-never heard of anything similar
-before while also limiting yourself
-to just a couple of paragraphs at
-most. Don't worry about being
-Shakespeare, just write down
-the way you would explain it
-to the players. Think of it as the
-movie trailer for your setting.
-If fail to hit the high points no
-one will be interested or possibly
-even understand it. At this point
-though, do not bog yourself down
+
+Now that you have a golden gem of an idea, you need to
+write down a short description. Imagine that your audience has
+never heard of anything similar before while also limiting yourself
+to just a couple of paragraphs at most. Don't worry about being
+Shakespeare, just write down the way you would explain it
+to the players. Think of it as the movie trailer for your setting.
+If fail to hit the high points no one will be interested or possibly
+even understand it. At this point though, do not bog yourself down
 in detail.
 
+
 What are the Skills?
-Start by writing down the
-attributes in separate columns. Then
-place the skills under them that you
-think will be useful in the game
-you plan to run. Some skills may be
-broader than others depending on
-how useful they are in your opinion.
-For example, in many games there
-is just a skill called Science which
-covers Biology, Chemistry, Math,
-and many more boring subjects
-except for Medicine. But, if you are
-playing a game where the characters
-are scientists exploring the galaxy
-through stargates, you might need
-several different, more specific,
+--------------------
+
+Start by writing down the attributes in separate columns. Then
+place the skills under them that you think will be useful in the game
+you plan to run. Some skills may be broader than others depending on
+how useful they are in your opinion. For example, in many games there
+is just a skill called Science which covers Biology, Chemistry, Math,
+and many more boring subjects except for Medicine. But, if you are
+playing a game where the characters are scientists exploring the galaxy
+through stargates, you might need several different, more specific,
 Science skills.
 
+
 New Perks or Complications?
+---------------------------
 
 Who are the Characters?
 
@@ -3574,7 +3584,7 @@ archetypes
 you
 dreamed
 up.
-playing in your game? You will “For the last time a one on the Wild Die is nothing special!”
+playing in your game? You will "For the last time a one on the Wild Die is nothing special!"
 need to be able to explain to them
 How are Money and Gear Handled?
 what kind of characters they can make and how they fit into the
@@ -3619,6 +3629,7 @@ try
 and
 be
 consistent and fair.
+
 You might be casting a supers team made up of mutants that all
 work together and one person who declares himself to be the feral
 What are You Going to do When You Run Out of Ideas?
@@ -3635,24 +3646,23 @@ these morsels will be sitting there on your plate. A handy formula
 fails gently remind them this is a group oriented game.
 is a basic scenario plus one complication. Now have at it!
 
-20
+
 
 Campaigning the TV Way
+----------------------
 
-Converting Between Mini Six
-& Traditional OpenD6
-
-Think of the campaign as a television series. You can “cast” the
+Think of the campaign as a television series. You can "cast" the
 characters and NPCs from celebrities instead of describing what
 your character looks like just name the actor that plays him. Keep
 in mind how dramatic and action oriented shows are structured.
-They have plot arcs that stretch many “episodes” and there is always
+They have plot arcs that stretch many "episodes" and there is always
 a season finale. After the season is over take a break from that game
 and play something else. Even if everyone wants to dive back into
 it immediately take at least a short break. Run a game in a different
 setting, break out that $100 board game you bought, whatever. Think
 of this time off as a palette cleanser. And when the game is started
 again that's a new season and everyone will be looking forward to it.
+
 One of the fun things about this style of play is the ability to use
 cinematic techniques like a director does. If your players enjoy this
 style there are some tricks to further spice things up. Research is easy,
@@ -3660,22 +3670,9 @@ plop down in front of your favorite show and start watching, making
 mental notes about the things you like. With practice you could run
 a game like a Tarantino flick.
 
-Even though Mini Six is part of the OpenD6 family, it has
-been tweaked in several ways. By making the following changes
-and applying the noted optional rules you can make Mni Six
-resemble its more recognized parent.
 
-Character Creation
-Player characters start with six attributes and distribute
-18D among them. There are three common sets of attributes
-depending on the genre played. The following chart may help
-convert characters between the systems. Once dice have been
-distributed check your math. If you have more than 18D in
-traditional OpenD6, or 12D in Mini Six, adjust for balance using
-common sense. If you have too few dice spent, then spend the
-remaining dice as best fits the character concept.
+### Flash Forwards ###
 
-Flash Forwards
 Write down a few vague lines of dialogue on index cards and
 number them. Then hand them out but don't let your players look
 at them until their number comes up. The player with card number
@@ -3685,6 +3682,7 @@ is more to tease them. Keep in mind that at some point they should
 catch up to the flash forward and will hopefully cooperate with what
 has already been established. This might be in the same session, or
 several later depending on how you plan the campaign.
+
 A second flash forward technique would start the adventure at
 some dramatic point between the middle and end of the episode. By
 describing what the characters are doing, how they look, and where
@@ -3692,106 +3690,22 @@ they are, you can surprise them. Keep in mind though not to give too
 much away or nail down so many details they have no say in the path
 that brought them to this point. The characters should still have free
 will. For example, at the beginning of the session the GM narrates,
-“The three of you are standing before a pillar made of human skulls.
+"The three of you are standing before a pillar made of human skulls.
 Baelendor seems to have lost his lost his old armor; all the troupe's
-provisions are also missing. You are hot, tired, and bloody...” at some
+provisions are also missing. You are hot, tired, and bloody..." at some
 point one of the players will challenge how they got there. Then the
-GM says, “Two days previously...” and then start the adventure from
+GM says, "Two days previously..." and then start the adventure from
 the beginning. With luck they will eventually stand in that moment
 and the players will enjoy returning to that point in the story.
+
 When using flash forwards don't take away the players' free will.
 If they don't end up where the flash forward happened, that must
 have been some alternative future. If the players won't let go of their
 metagame knowledge of the flash forward don't use them again.
 
-Mini Six
-Equivalent
 
-OpenD6
-Fantasy
+### Flash Backs ###
 
-OpenD6
-Adventure
-
-OpenD6
-Sci-Fi
-
-Might
-
-Physique
-
-Physique
-
-Strength
-
-Agility
-
-Agility
-
-Reflexes
-
-Dexterity
-
-Agility
-
-Coordination
-
-Coordination
-
-Wit
-
-Intellect
-
-Knowledge
-
-Charm
-
-Charm
-
-Presence
-
-(Wit+Charm)/2
-
-Acumen
-
-Perception
-
-Knowledge
-Perception
-
-(Agility+Wit)/2
-
-Mechanical
-
-Wit
-
-Technical
-
-Skills may move to new attributes. Simply review the skill list
-provided by the GM and note accordingly.
-
-Extranormal Skills
-OpenD6 Fantasy has Miracles and Magic. OpenD6 Adventure
-has Magic and Psionics. OpenD6 Science Fiction has Channel,
-Sense, and Transform. All of these are considered Paranormal
-Abilities that use the Quasi Skills optional rule.
-
-The Wild Die
-When a 1 is rolled on the Wild Die in traditional OpenD6 it
-can have three possible effects based on GM fiat;
-1. It can be treated normally and added to the roll.
-2. It is ignored along with the highest normal die rolled.
-3. It causes a complication to the action taken.
-
-Options Used by Traditional OpenD6
-•
-•
-•
-•
-•
-•
-
-Flash Backs
 Another popular TV device is looking into the past. During the
 game it's possible to run an adventure from before the first episode.
 You will have to give some thought to how powerful the characters
@@ -3804,29 +3718,85 @@ couldn't use. Of course if your players don't enjoy these occasional
 forays then don't use them. Because even if you enjoy them, you will
 not enjoy five people whining for three hours.
 
-Traditional OpenD6 Combat (page 7)
-Traditional OpenD6 Hero Points (page 19)
-Traditional OpenD6 Character Points (page 19)
-Traditional OpenD6 Might Damage (page 19)
-Perks are called Advantages
-Complications are called Disadvantages
 
-Need more help converting between Mini Six and
-another flavor of OpenD6? You can always ask for help
-from the friendly folks at the WEG Fan Forums.
+Converting Between Mini Six & Traditional OpenD6
+------------------------------------------------
 
-http:// www.wegfansite.com/forum/
+Even though Mini Six is part of the OpenD6 family, it has
+been tweaked in several ways. By making the following changes
+and applying the noted optional rules you can make Mni Six
+resemble its more recognized parent.
 
-21
 
-“Your great-grandpa's great-grandpa came here in a big ship. It was so big
-that whole cities of people were inside. Here was so far away from Earth that
-everyone slept the whole way. They turned the ships into factories on the nicest
-worlds, and but nobody else ever came from Earth. Maybe they went to another
-system. Strange that we never heard anything. The first worlds filled up and they changed the ones that weren't so nice, the frontier
-worlds like ours, into better ones so that we could live here too. Folk being as they are, they fell to squabblin' soon enough. The First
-Worlds have it easy compared to us frontiersmen, but we've got something they'll never understand. You can't put it in a box, or put
-it in a book, or put a price on it even if they did win the war. It's still ours.” -- Old man to his grandson
+### Character Creation ###
+
+Player characters start with six attributes and distribute
+18D among them. There are three common sets of attributes
+depending on the genre played. The following chart may help
+convert characters between the systems. Once dice have been
+distributed check your math. If you have more than 18D in
+traditional OpenD6, or 12D in Mini Six, adjust for balance using
+common sense. If you have too few dice spent, then spend the
+remaining dice as best fits the character concept.
+
+*Mini Six Equivalent: OpenD6 Fantasy: OpenD6 Adventure: OpenD6 Sci-Fi*
+
+* Might: Physique: Physique: Strength
+* Agility: Agility: Reflexes: Dexterity
+* Agility: Coordination: Coordination: n/a
+* Wit: Intellect: Knowledge: Knowledge
+* Charm: Charm: Presence: n/a
+* (Wit+Charm)/2: Acumen: Perception: Perception
+* (Agility+Wit)/2: n/a: n/a: Mechanical
+* Wit: n/a: n/a: Technical
+
+Skills may move to new attributes. Simply review the skill list
+provided by the GM and note accordingly.
+
+
+### Extranormal Skills ###
+
+OpenD6 Fantasy has Miracles and Magic. OpenD6 Adventure
+has Magic and Psionics. OpenD6 Science Fiction has Channel,
+Sense, and Transform. All of these are considered Paranormal
+Abilities that use the Quasi Skills optional rule.
+
+
+### The Wild Die ###
+
+When a 1 is rolled on the Wild Die in traditional OpenD6 it
+can have three possible effects based on GM fiat;
+
+1. It can be treated normally and added to the roll.
+2. It is ignored along with the highest normal die rolled.
+3. It causes a complication to the action taken.
+
+Options Used by Traditional OpenD6
+
+* Traditional OpenD6 Combat (page 7)
+* Traditional OpenD6 Hero Points (page 19)
+* Traditional OpenD6 Character Points (page 19)
+* Traditional OpenD6 Might Damage (page 19)
+* Perks are called Advantages
+* Complications are called Disadvantages
+
+
+Predition
+=========
+
+"Your great-grandpa's great-grandpa came here in a big ship. It was so big
+that whole cities of people were inside. Here was so far away from Earth 
+that everyone slept the whole way. They turned the ships into factories 
+on the nicest worlds, and but nobody else ever came from Earth. Maybe they 
+went to another system. Strange that we never heard anything. The first 
+worlds filled up  and they changed the ones that weren't so nice, the 
+frontier worlds like ours, into better ones so that we could live here 
+too. Folk being as they are, they fell to squabblin' soon enough. The First 
+Worlds have it easy compared to us frontiersmen, but we've got something 
+they'll never understand. You can't put it in a box, or put it in a book, 
+or put a price on it even if they did win the war. It's still 
+ours." -- Old man to his grandson
+
 Humanity came to Vega because of war, pollution, limited
 resources, and overpopulation. The pioneers travelled the 25 light
 years in cryonic sleep on a voyage that took over 300 years. When
@@ -3912,8 +3882,8 @@ Gear: Pistol
 
 First Mate
 
-“I call 'er Betty. She's the
-only lady I trust.” - Brute
+"I call 'er Betty. She's the
+only lady I trust." - Brute
 City Slicker Doc
 
 Captain your plan is, well, not good. Could you be any cruder? I doubt it.
@@ -4268,10 +4238,13 @@ Parry 6, Soak 6
 Perks & Comps: ESP, Crazy
 Gear:
 
-hey say the moon turned red when the Radiant Queen was born. Sages across the
 
-Tland studied the portent's meaning, but the skalds of Kauleshan knew that destiny
 
+Rust Moon of Castia
+===================
+
+They say the moon turned red when the Radiant Queen was born. Sages across the
+land studied the portent's meaning, but the skalds of Kauleshan knew that destiny
 was on their side. As she grew she united the northern tribes into a mighty force. Still
 this did not sate her thirst for power. She turned her covetous eye to the ancient throne
 of Castia. The war was harsh and swift. In the end only the four Elons stood against
@@ -4279,6 +4252,7 @@ her horde but even they could not hold out in the face of her magic. In plunderi
 libraries she uncovered the Prophecy of the Marks of Radiance. Now she is obsessed with hunting our daughters. Her ambition is now twisted
 with her lust for eternal life. Now that we have learned to hide the vessel children things have gotten worse for the people. Rumors claim she
 has begun to grow old, she has grown desperate. — Mardegant the Wise, Secret Sage of Etain.
+
 Castia was once a proud kingdom, its boundaries stretching
 from the Northern Forest south to the farmlands surrounding
 Lake Tarsis and east to the Teerna Sea. Legends claim that for
@@ -4304,7 +4278,7 @@ Realms, it is their common city ruled by a council of elders and a
 High Judge chosen from among the council to barter treaties with
 the larger lands of humans. The larger folk seldom take the smaller
 ones seriously, and even in their own towns and villages the phrase
-“Out of the way Speck!” can easily be heard. Few humans give
+"Out of the way Speck!" can easily be heard. Few humans give
 the smaller race's great city much thought, but within its stunted
 rooms and narrow alleys many secrets still linger.
 Tarsis Elon: The last of the four fortresses to fall, it suffered the
@@ -4319,12 +4293,12 @@ Some claim a great vault filled with gold, others speak of lost
 magics. Even if only a cache of ancient weapons, it would be a
 great fortune to those foolhardy enough to try and claim them.
 
-“Into each generation there will be born 13 daughters,
+"Into each generation there will be born 13 daughters,
 one for each moon that passes over the sky. They share a
 common mark, a common spirit. From each the Radiant
 Light may burn, into each the Radiant Light may flow. May
 this Immortal Dynast guide us wisely, for guide us she will
-as long her line remains unbroken.”
+as long her line remains unbroken."
 
 Devmora: once a prosperous trade city, the Scarlet
 Horde seized it for their dark mistress. The Radiant
@@ -4576,6 +4550,65 @@ Static: Dodge 10, Block 19, Parry 16, Soak 16
 Gear: None
 
 
+Victorean Fantasy / Gotich Horror
+================================
+
+"My friends,we are going into a terrible danger, and we need arms of 
+many kinds. Our enemy is not merely spiritual. Remember that he has 
+the strength of twenty men, and that, though our necks or our 
+windpipes are of the common kind,and therefore breakable or 
+crushable, his are not amenable to mere strength. A stronger man, or 
+a body of men more strong in all than him, can at certain times hold 
+him, but they cannot hurt him as we can be hurt by him. We must, 
+therefore, guard ourselves from his touch. Keep this near your 
+heart." As he spoke he lifted a little silver crucifix and held it 
+out to me, I being nearest to him, "put these flowers round your 
+neck," here he handed to me a wreath of withered garlic blossoms, 
+"for other enemies more mundane, this revolver and this knife,and for 
+aid in all, these so small electric lamps, which you can fasten to your 
+breast, and for all, and above all at the last, this, which we must not 
+desecrate needless." 
+
+
+Character Creation Guidelines
+-----------------------------
+
+Skills
+
+Might: Brawling, Cane/Club, Knife, Lift , Stamina, Sword
+Agility: Athletics, Bow, Dodge, Drive, Electro-Tether,
+Pickpocket, Pilot, Pistol, Rifl e, Stealth, Th rowing
+Wit: Cultures, History, Language, Occult, Medicine, Pick Locks,
+Repair, Science, Search, Tracking
+Charm: Command, Contacts, Courage, Diplomacy, Persuasion,
+Ride, Seduce, Streetwise
+New Perks
+Aristocrat (1): Your name has some weight on occasion. When
+attempting to gain access to a noble’s residence, avoiding arrest, or
+any other occasion where status is a factor you can try and draw
+on your family. Once per session you can double the result of any
+one Charm based roll when attempting to exploit your name.
+Medium (2): You see dead people. Th e invisible ones no one else
+can see. You hear them too but that doesn’t sound as impressive. If
+they are close enough, you can even compel answers from them,
+but this is much harder. Th ey have to be incorporeal and within
+20 feet for this aspect to work. To compel or bind them requires
+at least two rounds of concentration and an Occult roll opposed
+by the target’s Courage. Th e fi rst success holds the target fast. Each
+successful contest aft er the fi rst compels one honest answer.
+Wealthy (1): Old money, industrialist, or benefactor of ill-gotten
+gains, however you did it, you have money. Far more than most.
+Each month the character receives a stipend of £80 (10 times the
+average income).
+
+
+
+Modern
+======
+
+
+
+
 Imperium in Revolt
 ==================
 
@@ -4735,7 +4768,7 @@ how it came about you are in debt. Most of your
 spare money is going to go to pay this off and
 whoever you owe will likely call on you from
 time to time to perform extra favors for them
-as a “friendly” form of interest. Gain 1 CP for
+as a "friendly" form of interest. Gain 1 CP for
 any adventure where your debtor gets involved
 in your business.
 
@@ -5172,7 +5205,7 @@ If the pilot plots their own coordinates they can attempt to reduce the
 time needed and avoid Imperium entanglements often found on the more 
 common trade routes. If the pilot makes a Difficult Navigation roll 
 the time needed is reduced 10%, a Very Difficult roll reduces the 
-time by 25%, and a Heroic roll reduces the time by 50%. These “shortcuts” 
+time by 25%, and a Heroic roll reduces the time by 50%. These "shortcuts" 
 take advantage of the celestial movement and cannot be reused. If the 
 roll is a failure the jump fails causing one wound level of damage to 
 the ship, and increases the travel time required by 1d6 days if the 
@@ -5476,11 +5509,11 @@ into wickedness, or already dead leaving only a few
 scraps of cryptic knowledge and a journal or maybe
 someone claiming to be his apprentice.
 
+
 Character Sheet
 ===============
 
 Character Name:
-
 
 ### Description ###
 
