@@ -1521,6 +1521,18 @@ TN of the spell is 15.
 * Range: Self
 
 
+### Growth ###
+
+The caster grows. Each scale increase adds +10 to the TN. For
+example, for a human sorcerer to grow to the size of a dragon
+would require 2 scale increases making the TN 43.
+
+* TN: 23 + Special
+* Duration: 10 Rounds
+* Range: Self
+* Resisted: None
+
+
 ### Hasten ###
 
 Targets have their multiple action penalty reduced by 1D. The
@@ -1541,7 +1553,7 @@ the mortally wounded. Success reduces the wound level by one.
 If heal is used more than once per day on a target, the target
 number of additional castings increases by +10.
 
-* Range: Self
+* TN: Special
 * Duration: Instant
 * Range: Touch
 * Resisted: None
@@ -1600,217 +1612,173 @@ does not protect against Lightning.
 * Resisted: None
 
 
-
-
-
-
-
-
-
-Resisted: None
-
-Growth
-
-
-TN: 15 + Resist Roll
-Duration: Concentration
-
-
-
-
-
-
-
-TN: Special
-Duration: Instant
-
-TN: Special
-Duration: Concentration
-
-Earthquake
-
-TN: 23
-
-Duration: Permanent
-
-
-
-TN: 23 + Special
-Duration: 10 Rounds
-Range: Self
-Resisted: None
-
-The caster grows. Each scale increase adds +10 to the TN. For
-example, for a human sorcerer to grow to the size of a dragon
-would require 2 scale increases making the TN 43.
-
-12
-
-Paralysis
-
-TN: 15 + Resist Roll
-
-Slumber
-
-Duration: 1 hour
-
-Range: 150 feet
-
-Range: 30 foot radius
-
-Resisted: Might
-
-Resisted: Wit
+### Paralysis ###
 
 The target becomes paralyzed, freezing in place.
 
-Petrify
+* TN: 15 + Resist Roll
+* Duration: 1 hour
+* Range: 150 feet
+* Resisted: Might
+
+
+### Petrify ###
+
+Turns one creature into a statue include all gear and any items
+held. Dispel Magic will return the target to their normal state.
+
+* TN: 25 + Resist Roll
+* Duration: Permanent
+* Range: 100 feet
+* Resisted: Might
+
+
+### Possession ###
+
+Th e sorcerer takes control of the physical body of a single
+character or creature. Th e sorcerer may make the possessed
+being take any physical action it is capable of, but can’t make it
+use Magic or any Perk. Th e possessed being uses its own Might
+and Agility, but skills depend on those of the sorcerer. Th e
+possessed may contest the sorcerer for control each round.
+
+* TN: 25 + Resist Roll
+* Duration: Concentration (special)
+* Range: 500 feet
+* Resisted: Charm
+
+
+### Resist Elements ###
+
+When cast, the Sorcerer selects one element such as fi re, cold,
+or electricity, and the target is granted a +1D bonus to resist
+damage from that source.
+
+* TN: 19
+* Duration: 1 hour
+* Range: 50 feet
+* Resisted: None
+
+
+### Resurrection ###
+
+A body which has been dead for less than one month may be
+restored to life; but no one who has died from old age can be
+raised. Whether or not the casting of this spell is successful the
+Sorcerer’s Magic skill is reduced by 3D for one day.
+
+* TN: 60
+* Duration: Permanent
+* Range: Touch
+* Resisted: None
+
+
+### See Magic Aura ###
+
+Th e caster can see a magical glow on anything enchanted.
+
+* TN: 15
+* Duration: Concentration
+* Range: 30 feet
+* Resisted: None
+
+
+### Shape Change ###
+
+The caster transforms into any creature (not specifi c individuals)
+gaining its physical attributes. Spells may not be cast while
+changed. Th e TN is increased by +10 per increase in scale.
+
+* TN: 15
+* Duration: Concentration
+* Range: 30 feet
+* Resisted: None
+
+
+### Slumber ###
 
 The Sorcerer can affect as many targets as he has dice in Magic.
 Targets resist individually, falling into a deep sleep on failure.
 
-TN: 25 + Resist Roll
+* TN: 25 + Resist Roll
+* Duration: Concentration (special)
+* Range: 500 feet
+* Resisted: Charm
 
-Still Mind
 
-Duration: Permanent
+### Still Mind ###
 
-Duration: Concentration
-
-Resisted: Might
-
-Range: Self
-Resisted: None
 The Sorcerer is protected from all spells that influence, detect,
 or read emotions and thoughts.
 
-TN: 25 + Resist Roll
+* TN: 43
+* Duration: Concentration
+* Range: Self
+* Resisted: None
 
-Telekinesis
 
-Duration: Concentration (special)
+### Telekinesis ###
 
-Duration: Concentration
-
-Resisted: Charm
-
-Range: 150 feet
-Resisted: None / Might
 The caster moves up to 50 lbs per die in Magic up to 30 feet per
 round. Living beings may resist using Might.
 
-Teleport
+* TN: 31 + Special
+* Duration: Concentration
+* Range: 150 feet
+* Resisted: None / Might
 
-Range: 10 foot radius
 
-TN: 19
+### Teleport ###
 
-Resisted: None
 Sorcerers instantly transport themselves or other beings to
 a designated destination at any distance. Unwilling subjects
 cannot be teleported. The base TN is 30 for one target, plus 5
 more for each additional target. A caster may not teleport to any
 place he has not seen before.
 
-Range: 30 feet
-Resisted: None
-When cast, the Sorcerer selects one element such as fire, cold,
-or electricity, and the target is granted a +1D bonus to resist
-damage from that source.
-TN: 60
+* TN: Special
+* Duration: Instant
+* Range: 10 feet radius
+* Resisted: None
 
 
 Enchanted Items
 ---------------
 
-Duration: Permanent
+### Scrolls ###
 
-Scrolls
 These are written spells nearly ready to cast. They allow a caster
 who doesn't know a spell to use it once before it burns to ash. The
 character must be able to use spells to read a scroll.
 
-Range: touch
-Resisted: None
-A body which has been dead for less than one month may be
-restored to life; but no one who has died from old age can be
-raised. Whether or not the casting of this spell is successful the
-Sorcerer's Magic skill is reduced by 3D for one day.
 
-See Magic Aura
+### Potions ###
 
-Potions
 Distilled arcane power. The magic is released when consumed.
-A Potion of Healing automatically heals a single wound level.
-A Potion of Skill grant's +2D to a selected skill for ten minutes.
-A different variant of the potion exists for each skill.
-A Potion of Changing will Shape Change the character into any
-one predetermined form. The effect lasts one hour.
 
-TN: 15
-Duration: Concentration
-Range: 30 feet
+* A Potion of Healing automatically heals a single wound level.
+* A Potion of Skill grant's +2D to a selected skill for ten minutes.
+* A different variant of the potion exists for each skill.
+* A Potion of Changing will Shape Change the character into any
+  one predetermined form. The effect lasts one hour.
 
-Enchanted Arms and Armor
 
-Resisted: None
+### Enchanted Arms and Armor ###
 
 These grant a bonus or have a unique effect when wielded.
-The Axe of Dwarf Mercy deals an additional +1D damage when
-striking Goblins or Orcs.
-The Valiant Sword grants it's wielder an additional +1D to
-Command allied troops.
-The Shield of Faith grants its wielder +1D to resist any magic.
 
-The caster can see a magical glow on anything enchanted.
+* The Axe of Dwarf Mercy deals an additional +1D damage when
+  striking Goblins or Orcs.
+* The Valiant Sword grants it's wielder an additional +1D to
+  Command allied troops.
+* The Shield of Faith grants its wielder +1D to resist any magic.
 
-Shape Change
 
-TN: Special
-Duration: Instant
+### Other Items ###
 
-Duration: 1 hour
-
-Resurrection
-
-TN: 31 + Special
-
-Range: 500 feet
-The sorcerer takes control of the physical body of a single
-character or creature. The sorcerer may make the possessed
-being take any physical action it is capable of, but can't make it
-use Magic or any Perk. The possessed being uses its own Might
-and Agility, but skills depend on those of the sorcerer. The
-possessed may contest the sorcerer for control each round.
-
-Resist Elements
-
-TN: 43
-
-Range: 100 feet
-Turns one creature into a statue include all gear and any items
-held. Dispel Magic will return the target to their normal state.
-
-Possession
-
-TN: 10 + Resist Roll
-
-Duration: 1 hour
-
-TN: 15
-Duration: Concentration
-Range: 30 feet
-Resisted: None
-
-Other Items
-
-The caster transforms into any creature (not specific individuals)
-gaining its physical attributes. Spells may not be cast while
-changed. The TN is increased by +10 per increase in scale.
-
-Cloak of Stealth (Stealth +1D)
-Flying Carpet (moves 90 feet per round)
-Ring of Slyness (Fast Talk +1D)
+* Cloak of Stealth (Stealth +1D)
+* Flying Carpet (moves 90 feet per round)
+* Ring of Slyness (Fast Talk +1D)
 
 
 Sample Characters by Genre
@@ -1848,235 +1816,184 @@ and an attitude.
 All Genres
 ----------
 
-Average Human
-
-e
-
-Scale: 0D
-
-!
+### Average Human ###
 
 "Everyman."
-Might: 2D
 
-Wit: 2D
+* Threat: !
+* Scale: 0D
+* Might: 2D
+* Wit: 2D
+* Agility: 2D
+* Charm: 2D
+* Skills: Any three at +1D each.
+* Gear: As needed by profession.
+* Static: Dodge 6, Soak 6
 
-Agility: 2D
 
-Charm: 2D
+### Ape ###
 
-Skills: Any three at +1D each.
-Gear: As needed by profession.
-Static: Dodge 6, Soak 6
+Th e Great Ape or Yeti.
 
-m
+* Threat: !!!
+* Scale: 0D
+* Might: 4D+2
+* Wit: 0D
+* Agility: 2D+1
+* Charm: 1D
+* Skills: Acrobatics 3D+1, Brawling 6D+2,
+  Stealth 4D+1
+* Static: Dodge 7, Block 20, Soak 14
 
-Ape
 
-Might: 4D+2
-
-Wit: 0D
-
-Agility: 2D+1
-
-Charm: 1D
-
-Skills: Acrobatics 3D+1, Brawling 6D+2,
-Stealth 4D+1
-Static: Dodge 7, Block 20, Soak 14
-
-b
-
-Scale: 0D
-
-!!!
+### Bear ###
 
 Black, brown, or grizzly.
-Might: 5D+1
 
-Wit: 0D
+* Threat: !!!
+* Scale: 0D
+* Might: 5D+1
+* Wit: 0D
+* Agility: 2D
+* Charm: 1D
+* Skills: Brawling 6D (claws: 6D+1 damage)
+* Static: Dodge 6, Block 18, Soak 16
 
-Agility: 2D
 
-Charm: 1D
+### Dog ###
 
-Skills: Brawling 6D (claws: 6D+1 damage)
-Static: Dodge 6, Block 18, Soak 16
-
-5
-
-Dog
-
-Scale: 0D
-
-!!
 Man's best friend.
-Might: 2D
 
-Wit: 0D
+* Threat: !!
+* Scale: 0D
+* Might: 2D
+* Wit: 0D
+* Agility: 2D+1
+* Charm: 1D
+* Static: Dodge 7, Soak 6
 
-Agility: 2D+1
 
-Charm: 1D
+## Elk ###
 
-Static: Dodge 7, Soak 6
-
-Might: 4D+2
-
-Wit: 0D
-
-Agility: 1D+2
-
-Charm: 1D
-
-Elephant
-
-The Great Ape or Yeti.
-
-Bear
-
-Scale: 0D
-
-!!
 Any large herbivore.
 
-e
+* Threat: !!
+* Scale: 0D
+* Might: 4D+2
+* Wit: 0D
+* Agility: 1D+2
+* Charm: 1D
+* Static: Dodge 5, Soak 14
 
-Scale: +2D
 
-!!
+### Elephant ###
+
 They never forget.
-Might: 4D+1
 
-Wit: 0D
+* Threat: !!
+* Scale: +2D
+* Might: 4D+1
+* Wit: 0D
+* Agility: 1D
+* Charm: 1D
+* Static: Dodge 3, Soak 13
 
-Agility: 1D
 
-Charm: 1D
-
-Static: Dodge 3, Soak 13
-
-z
-
-Horse
-
-!!
-
-Scale: 0D
+### Horse ###
 
 Saddle up.
-Might: 4D+2
 
-Wit: 0D
+* Threat: !!
+* Scale: 0D
+* Might: 4D+2
+* Wit: 0D
+* Charm: 1D
+* Static: Dodge 8, Soak 14
 
-(
 
-Monkey
-
-!
-
-Scale: 0D
+### Monkey ###
 
 A pirate's best friend.
-Might: 1D
 
-Wit: 0D
+* Threat: !
+* Scale: 0D
+* Might: 1D
+* Wit: 0D
+* Agility: 4D+2 
+* Charm: 2D+1
+* Skills: Acrobatics 6D+2, Dodge 6D+2
+  Learns simple tricks more easily.
+* Static: Dodge 20, Soak 3
 
-Agility: 4D+2 Charm: 2D+1
-Skills: Acrobatics 6D+2, Dodge 6D+2
-Learns simple tricks more easily.
-Static: Dodge 20, Soak 3
 
-14
-
-Scale: 0D
-
-!
+### Snake ###
 
 An archeologist's nightmare.
-Might: 1D+2
 
-Wit: 0D
+* Threat: !
+* Scale: 0D
+* Might: 1D+2
+* Wit: 0D
+* Agility: 3D+1 
+* Charm: 1D
+* Skills: Brawling 3D, Stealth 4D
+* Special: Target's bitten by a snake must roll
+  pass a Moderate Might roll or be poisoned.
+  Poisoned victims suffer 2D to 4D damage
+  on the species of snake.
+* Static: Dodge 10, Soak 5
 
-Agility: 3D+1 Charm: 1D
 
-Skills: Brawling 3D, Stealth 4D
-Special: Target's bitten by a snake must roll
-pass a Moderate Might roll or be poisoned.
-Poisoned victims suffer 2D to 4D damage
-on the species of snake.
-Static: Dodge 10, Soak 5
+### Tiger ###
 
-n
-
-Tiger
-
-Agility: 2D+2 Charm: 1D
-
-Static: Dodge 8, Soak 14
-
-6
-
-Animals have a Wit score of 0D due
-to their limited intelligence. Even very
-clever animals have this restriction.
-
-Snake
-
-Static: Dodge 5, Soak 14
-
-Scale: 0D
-
-!!!
-
-v
-
-Elk
-
-Scale: 0D
-
-!!
 Jungle cats, ho!
-Might: 3D+1
 
-Wit: 0D
+* Threat: !!
+* Scale: 0D
+* Might: 3D+1
+* Wit: 0D
+* Agility: 3D+2 
+* Charm: 1D
+* Skills: Brawling 5D+1, Stealth 4D+2
+* Static: Dodge 11, Block 16, Soak 10
 
-Agility: 3D+2 Charm: 1D
 
-Skills: Brawling 5D+1, Stealth 4D+2
-Static: Dodge 11, Block 16, Soak 10
+### Wolf ###
 
-Wolf
-
-Scale: 0D
-
-!!
 They hunt in packs.
-Might: 3D+2
 
-Wit: 0D
+* Threat: !!
+* Scale: 0D
+* Might: 3D+2
+* Wit: 0D
+* Agility: 2D+1 
+* Charm: 1D
+* Skills: Brawling 4D+2, Dodge: 4D+1
+* Static: Dodge 13, Block 14, Soak 11
 
-Agility: 2D+1 Charm: 1D
-Skills: Brawling 4D+2, Dodge: 4D+1
-Static: Dodge 13, Block 14, Soak 11
+Note: Animals have a Wit score of 0D due to their limited 
+intelligence. Even very clever animals have this restriction.
+
 
 Modern Stock Characters
-Confidence Man
+-----------------------
 
-f
-
-!!!
-
-Scale: 0D
+### Confidence Man ###
 
 "Have I got a deal for you."
-Might: 2D
 
-Wit: 3D+1
+* Threat: !!!
+* Scale: 0D
+* Might: 2D
+* Wit: 3D+1
+* Agility: 2D+1 
+* Charm: 3D+1
+* Skills: Dodge 3D+1, Fast Talk 5D+2, Seduce 5D
+* Gear: Counterfeit money, fake ID, stolen credit card.
+* Static: Dodge 10, Block 6, Parry 6, Soak 6
 
-Agility: 2D+1 Charm: 3D+1
 
-Ninja
+### Ninja ###
 
 !!!!
 
@@ -2092,16 +2009,12 @@ Wit: 2D+2
 Agility: 4D
 
 Charm: 2D
-
-Skills: Dodge 3D+1, Fast Talk 5D+2, Seduce 5D
-Gear: Counterfeit money, fake ID, stolen
-credit card.
-Static: Dodge 10, Block 6, Parry 6, Soak 6
-
 Skills: Brawling 5D, Dodge 5D, Stealth 5D,
 Sword 5D+1
 Gear: Sword (6D).
 Static: Dodge 15, Block 15, Parry 16, Soak 7
+
+
 
 Criminal (Thug)
 
