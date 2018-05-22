@@ -1995,292 +1995,229 @@ Modern Stock Characters
 
 ### Ninja ###
 
-!!!!
-
-n
-
-Scale: 0D
-
 Agents of the shadows.
-Might: 3D+1
 
-Wit: 2D+2
-
-Agility: 4D
-
-Charm: 2D
-Skills: Brawling 5D, Dodge 5D, Stealth 5D,
-Sword 5D+1
-Gear: Sword (6D).
-Static: Dodge 15, Block 15, Parry 16, Soak 7
-
+* Threat: !!!!
+* Scale: 0D
+* Might: 3D+1
+* Wit: 2D+2
+* Agility: 4D
+* Charm: 2D
+* Skills: Brawling 5D, Dodge 5D, Stealth 5D, Sword 5D+1
+* Gear: Sword (6D).
+* Static: Dodge 15, Block 15, Parry 16, Soak 7
 
 
-Criminal (Thug)
-
-Policeman
-
-j
-
-!!
-
-Scale: 0D
+### Criminal (Thug) ###
 
 Mooks!
-Might: 2D+2
 
-Wit: 1D+2
+* Threat: !!
+* Scale: 0D
+* Might: 2D+2
+* Wit: 1D+2
+* Agility: 2D+1 
+* Charm: 1D+1
+* Skills: Brawling 3D, Pistol 3D
+* Gear: Crowbar, heavy pistol, ski mask.
+* Static: Dodge 7, Block 9, Soak 8
 
-Agility: 2D+1 Charm: 1D+1
 
-Skills: Brawling 3D, Pistol 3D
-Gear: Crowbar, heavy pistol, ski mask.
-Static: Dodge 7, Block 9, Soak 8
-
-?
-
-!!
-
-Scale: 0D
+### Policeman ###
 
 To serve and protect.
-Might: 2D+2
 
-Wit: 2D
+* Threat: !!
+* Scale: 0D
+* Might: 2D+2
+* Wit: 2D
+* Agility: 2D+1 
+* Charm: 2D
+* Skills: Brawling 3D, Pistol 3D, Search 3D
+* Gear: Armor vest, pistol, handcuffs.
+* Static: Dodge 7, Block 9, Soak 8(11)
 
-Agility: 2D+1 Charm: 2D
 
-Skills: Brawling 3D, Pistol 3D, Search 3D
-Gear: Armor vest, pistol, handcuffs.
-Static: Dodge 7, Block 9, Soak 8(11)
-
-Soldier
-
-Z
-
-!!!
-
-Scale: 0D
+### Soldier ###
 
 The few, the proud.
-Might: 3D+1
 
-Wit: 2D
+* Threat: !!!
+* Scale: 0D
+* Might: 3D+1
+* Wit: 2D
+* Agility: 2D+1 
+* Charm: 2D
+* Skills: Dodge 3D+1, Rifle 4D+1
+* Gear: Armor jack (+6), rifle.
+* Static: Dodge 10, Block 10, Soak 10(16)
 
-Agility: 2D+1 Charm: 2D
 
-Skills: Dodge 3D+1, Rifle 4D+1
-Gear: Armor jack (+6), rifle.
-Static: Dodge 10, Block 10, Soak 10(16)
-
-Spy
-
-r
-
-!!!!
-
-Scale: 0D
+### Spy ###
 
 Licensed to kill.
-Might: 2D+2
 
-Wit: 3D
+* Threat: !!!!
+* Scale: 0D
+* Might: 2D+2
+* Wit: 3D
+* Agility: 3D+1 
+* Charm: 3D
+* Skills: Dodge 5D+1, Pistols 5D+1, Stealth 4D
+* Gear: Camera, passport, pistol, secret phone,
+  sports car, suicide pill.
+* Static: Dodge 16, Block 9, Soak 8
 
-Agility: 3D+1 Charm: 3D
-
-Skills: Dodge 5D+1, Pistols 5D+1, Stealth 4D
-Gear: Camera, passport, pistol, secret phone,
-sports car, suicide pill.
-Static: Dodge 16, Block 9, Soak 8
 
 Sci-Fi Stock Characters
-Apprentice-Mystic
+-----------------------
 
-8
-
-!!!
-
-Scale: 0D
+### Apprentice-Mystic ###
 
 Devoted pupil.
-Might: 3D
 
-Wit: 3D
+* Threat: !!!
+* Scale: 0D
+* Might: 3D
+* Wit: 3D
+* Agility: 3D+2 
+* Charm: 2D+1
+* Skills: Dodge 4D+2, Magic 5D, Sword 4D
+* Perks: Sorcerer.
+* Spells: Charm, ESP, Hasten, See Magic Aura.
+* Gear: Plasma sword.
+* Static: Dodge 14, Block 9, Parry 12, Soak 9
 
-Agility: 3D+2 Charm: 2D+1
 
-Skills: Dodge 4D+2, Magic 5D, Sword 4D
-Perks: Sorcerer.
-Spells: Charm, ESP, Hasten, See Magic Aura.
-Gear: Plasma sword.
-Static: Dodge 14, Block 9, Parry 12, Soak 9
-
-Cybercop
-
-r
-
-!!!
-
-Scale: 0D
+### Cybercop ###
 
 Stand down citizen.
-Might: 4D
 
-Wit: 2D+1
+* Threat: !!!
+* Scale: 0D
+* Might: 4D
+* Wit: 2D+1
+* Agility: 3D+1 
+* Charm: 2D+1
+* Skills: Brawling 5D, Dodge 4D+1, Pistol 5D+1, Rifle 4D+1
+* Perks: Cybernetics (dermal armor +3), cyber holster (in leg).
+* Gear: Armor jack (+6), heavy pistol, rifle.
+* Static: Dodge 13, Block 15, Parry 12, Soak 12(21)
 
-Agility: 3D+1 Charm: 2D+1
 
-Skills: Brawling 5D, Dodge 4D+1,
-Pistol 5D+1, Rifle 4D+1
-Perks: Cybernetics (dermal armor +3),
-cyber holster in leg).
-Gear: Armor jack (+6), heavy pistol, rifle.
-Static: Dodge 13, Block 15, Parry 12, Soak 12(21)
-
-Kid Genius
-
-#
-
-!!
-
-Scale: 0D
+### Kid Genius ###
 
 You didn't know that?! Hah!
-Might: 1D+1
 
-Wit: 3D+2
+* Threat: !!
+* Scale: 0D
+* Might: 1D+1
+* Wit: 3D+2
+* Agility: 3D
+* Charm: 2D
+* Skills: Dodge 5D, Science 4D+2, Throwing 4D
+* Gear: Baseball, pocket knife, galaxy guide.
+* Static: Dodge 15, Block 4, Parry 4, Soak 4
 
-Agility: 3D
 
-Charm: 2D
-
-Skills: Dodge 5D, Science 4D+2, Throwing 4D
-Gear: Baseball, pocket knife, galaxy guide.
-Static: Dodge 15, Block 4, Parry 4, Soak 4
-
-3
-
-!!!
-
-Scale: 0D
+### Reptoid Pilot ###
 
 Smuggler with 2 hearts of gold.
-Might: 4D
 
-Wit: 2D+1
+* Threat: !!!
+* Scale: 0D
+* Might: 4D
+* Wit: 2D+1
+* Agility: 3D+1 
+* Charm: 2D+1
+* Skills: Dodge 5D+1, Stealth 4D,
+* Pistol 4D, Pilot 5D
+* Perks: Reptoid
+* Comp: Unlucky in Money (huge debt)
+* Gear: Plasma pistol, star yacht.
+* Static: Dodge 16, Block 12, Parry 12, Soak 12(13)
 
-Agility: 3D+1 Charm: 2D+1
+
+### Knight-Mystic ###
 
 Monastic warriors of truth.
 
-Skills: Dodge 5D+1, Stealth 4D,
-Pistol 4D, Pilot 5D
-Perks: Reptoid
-Comp: Unlucky in Money (huge debt)
-Gear: Plasma pistol, star yacht.
-Static: Dodge 16, Block 12, Parry 12, Soak 12(13)
+* Threat: !!!!
+* Scale: 0D
+* Might: 3D
+* Wit: 3D
+* Agility: 3D+2 
+* Charm: 2D+1
+* Skills: Courage 5D, Diplomacy 5D+1,
+  Dodge 6D+1, Magic 8D, Sword 6D+2
+* Perks: Sorcerer.
+* Spells: Charm, Clairvoyance, Dark Vision,
+  Divination, ESP, Hasten, Resist Elements, See Magic Aura, 
+  Telekinesis.
+* Gear: Plasma sword.
+* Static: Dodge 19, Block 9, Parry 20, Soak 9
 
-Might: 3D
 
-Robot Mechanic
-
-Knight-Mystic
-
-4
-
-Reptoid Pilot
-
-!!!!
-
-Scale: 0D
-
-Wit: 3D
-
-Agility: 3D+2 Charm: 2D+1
-
-Skills: Courage 5D, Diplomacy 5D+1,
-Dodge 6D+1, Magic 8D, Sword 6D+2
-Perks: Sorcerer.
-Spells: Charm, Clairvoyance, Dark Vision,
-Divination, ESP, Hasten, Resist Elements,
-See Magic Aura, Telekinesis.
-Gear: Plasma sword.
-Static: Dodge 19, Block 9, Parry 20, Soak 9
-
-]
-
-!
-
-Scale: 0D
+### Robot Mechanic ###
 
 Beep. I mean yes sir.
-Might: 3D
 
-Wit: 4D
+* Threat: !
+* Scale: 0D
+* Might: 3D
+* Wit: 4D
+* Agility: 1D+2 
+* Charm: 1D+1
+* Skills: Navigation 5D, Pick Lock 5D, Repair 6D
+* Perks: Robot, Built-In Tools (drill, extiguisher, oiler, 
+  saw, spanner, spot welder, magnetic feet)
+* Comp: Personal Code (pacifist)
+* Static: Dodge 16, Block 12, Parry 12, Soak 12(13)
 
-Agility: 1D+2 Charm: 1D+1
-
-Skills: Navigation 5D, Pick Lock 5D, Repair 6D
-Perks: Robot, Built-In Tools (drill, extiguisher,
-oiler, saw, spanner, spot welder, magnetic feet)
-Comp: Personal Code (pacifist)
-Static: Dodge 16, Block 12, Parry 12, Soak 12(13)
 
 Pulp Stock Characters
-Cultist
+---------------------
 
-9
-
-!!
-
-Scale: 0D
+### Cultist ###
 
 We're not worthy.
+
+Threat: !!
+Scale: 0D
 Might: 2D
-
 Wit: 2D+1
-
 Agility: 2D
-
 Charm: 1D+2
-
 Skills: Brawling 3D, Stealth 3D, Magic 3D
 Gear: Hooded robe, knife.
 Static: Dodge 6, Block 9, Parry 6, Soak 6
 
-Dame in Distress
 
-Y
-
-!!
-
-Scale: 0D
+### Dame in Distress ###
 
 Anything goes.
+
+Threat: !!
+Scale: 0D
 Might: 1D+2
-
 Wit: 2D+1
-
 Agility: 2D
-
 Charm: 3D
-
 Skills: Brawling 2D+2, Dodge 4D, Seduce 5D
 Gear: Compact mirror, hair pin, lip stick.
 Static: Dodge 12, Block 8, Parry 5, Soak 5
 
-Elder God
 
-!
+### Elder God ###
 
-!!!!!!! Scale: +12D
 Klatu Barada Nikto.
+
+Threat: !!!!!!! 
+Scale: +12D
 Might: 5D
-
 Wit: 10D
-
-Agility: 3D+2 Charm: 10D
-
+Agility: 3D+2 
+Charm: 10D
 Skills: Magic 17D
 Spells: All.
 Perks: Maddening Visage (any character that
@@ -2294,49 +2231,41 @@ Sorcerer.
 Complication: Must be summoned.
 Static: Dodge 11, Block 15, Soak 15
 
-15
 
-Mad Scientist
-@
-
-!!
-
-Scale: 0D
+### Mad Scientist ###
 
 1.21 jigawatts should do it!
+
+Threat: !!
+Scale: 0D
 Might: 2D
-
 Wit: 4D
-
 Agility: 2D
-
 Charm: 2D
-
 Skills: Dodge 4D, Repair 6D, Science 7D
 Complication: Crazy.
 Static: Dodge 12, Block 6, Parry 6, Soak 6
 
+
 Scaly Kin
 
-!!!
-
-Scale: 0D
-
 Survivors out of time.
+
+Threat: !!!
+Scale: 0D
 Might: 2D+1
-
--
-
 Wit: 2D
-
-Agility: 2D+2 Charm: 3D
-
+Agility: 2D+2 
+Charm: 3D
 Skills: Dodge 3D+2, Pole Arm 3D+1, Stealth: 4D
 Perk: ESP
 Static: Dodge 11, Block 7, Parry 10, Soak 7
 
+
 Fantasy Stock Characters
-Barbarian
+------------------------
+
+### Barbarian ###
 
 b
 
@@ -3111,9 +3040,10 @@ Charm: 0D
 
 Static: Dodge 6, Block 9, Parry 9, Soak 9
 
-Optional Rules
 
-No Attributes
+
+Optional Rules
+==============
 
 By its nature Mini Six is highly customizable. With just a few
 choices you can change it from a light hearted game of keystone cops
@@ -3123,24 +3053,94 @@ are meant to help give you further inspiration in adjusting the game
 to best fit your needs. In the end the only hard and fast rule is to play
 the game the way your group enjoys.
 
-All skills default to a base 2D and at character creation players
-receive 16D to spend on skills. Up to 4D can be spent in any one
-skill. For example, if playing a Gunslinger, the player may spend
-4D in Pistols, 1D in Rifles, 3D in Toughness (to resist damage) 4D
-in Dodge, 3D in Brawl, and 1D in Gamble; recording it like this:
-Gunslinger: 5D Brawl, 6D Dodge, 3D Gamble, 6D Pistols,
-3D Rifles, 5D Toughness.
 
 Renaming Attributes
-
-Adding Paranormal Abilities
+-------------------
 
 By changing attribute names GMs can influence how a game
 feels. For Swashbuckling games the four attributes could be called
 Power, Grace, Reason, and Poise. If set in 70's Grindhouse they
 could transform into Muscles, Moves, Brains, and Cool.
 
-10 dice = Competent. A cut above John Q Public.
+
+Varying the Number of Attribute Dice
+------------------------------------
+
+Default starting player characters have 12 dice to spend
+on attributes. This makes them heroic in nature and generally
+competent in everything. By changing the number of attribute
+dice the feel of play is altered. The following chart provides
+guidelines for total attribute dice to use based on the power scale
+of the game:
+
+* 8 dice = The common man.
+* 9 dice = Experienced. Well trained in their specialty.
+* 10 dice = Competent. A cut above John Q Public.
+* 11 dice = Veteran. Easily stands out from the rest.
+* 12 dice = Heroic. The default level of play.
+* 13 dice = World Class. Has an edge in most everything.
+* 14+ dice = Legendary characters. Herculean in nature.
+
+
+Expanded Number of Attributes
+-----------------------------
+
+The default four attributes cover most situations a character
+might come across. This also makes them fairly broad. If a greater
+division is desired extra attributes can be added. Examples include
+Perception (separated from Wit), Mechanical (from Agility and
+Wit), Courage (from Charm) and Toughness (from Might).
+
+### Beginning Attribute Dice ###
+
+When adding extra attributes each player receives three additional dice 
+per attribute added for heroic level games. If 6 attributes are used in 
+place of 4, players would divide 18D among them.
+
+### Effects on Skills ###
+
+If your GM has increased the number of attributes he will provide you 
+with a breakdown of where each skill now defaults.
+
+
+Increasing the Attribute Range
+------------------------------
+
+Characters are normally limited to 4D in an attribute unless
+a perk modifies this. Some GMs may wish to offer an upper
+maximum of 5D, 6D, or higher. When using this option the dice
+are spent as normal. Other GMs may not be so comfortable with
+such casually powerful characters. They may choose a more costly
+option instead.
+
+
+Higher Attributes at a Price
+----------------------------
+
+Under this rule characters can select attributes above 4D
+or whatever limits the GM sets, but they cost twice as much as
+normal beyond that limit. For example, a GM declares attributes
+are purchased as normal up to 4D but he allows higher attributes
+at a price up to 5D. A character who spends 6D in Might would
+record 5D as their Might attribute. Another character wants an
+Agility of 4D+2. This would cost him 5D+1 attribute dice.
+
+
+No Attributes
+-------------
+
+All skills default to a base 2D and at character creation players
+receive 16D to spend on skills. Up to 4D can be spent in any one
+skill. For example, if playing a Gunslinger, the player may spend
+4D in Pistols, 1D in Rifles, 3D in Toughness (to resist damage) 4D
+in Dodge, 3D in Brawl, and 1D in Gamble; recording it like this:
+
+Gunslinger: 5D Brawl, 6D Dodge, 3D Gamble, 6D Pistols,
+3D Rifles, 5D Toughness.
+
+
+Adding Paranormal Abilities
+---------------------------
 
 Paranormal Abilities are special for two reasons; first it is
 possible to have 0D in them, representing mundane characters.
@@ -3149,20 +3149,19 @@ powers. For example in a vampire game characters might use
 Blood Potency, Dominate, Foretelling, Spirit, and Transformation;
 during character creation the player could spend attribute dice to
 gain some access to one or more them.
+
 No extra attribute dice are given for Paranormal Abilities at
 character creation. This reduces a character's mundane attributes
 but the powers granted by their paranormal gifts make up for it.
 GMs will define which, if any, are used in their games and how
 they work in the setting.
+
 Characters who begin with 0D in a Paranormal Ability may
 be allowed to purchase it later with GM permission. We suggest
 the first die cost 10 or 20 CP.
 
-11 dice = Veteran. Easily stands out from the rest.
 
-Quasi Skills
-
-12 dice = Heroic. The default level of play.
+### Quasi Skills ###
 
 These are purchased as attributes at character creation but
 afterwards are raised with CP like skills and don't have any skills
@@ -3174,34 +3173,9 @@ have Spiritual 2D Etheric 1D, and Corporeal 0D. Later, studying
 under one of his elder's the angel would spend 2 CP to improve
 Spiritual to 2D+1.
 
-Varying the Number of Attribute Dice
-Default starting player characters have 12 dice to spend
-on attributes. This makes them heroic in nature and generally
-competent in everything. By changing the number of attribute
-dice the feel of play is altered. The following chart provides
-guidelines for total attribute dice to use based on the power scale
-of the game:
-8 dice = The common man.
-9 dice = Experienced. Well trained in their specialty.
 
-13 dice = World Class. Has an edge in most everything.
-14+ dice = Legendary characters. Herculean in nature.
+### Paranormal Attributes with Skills ###
 
-Expanded Number of Attributes
-The default four attributes cover most situations a character
-might come across. This also makes them fairly broad. If a greater
-division is desired extra attributes can be added. Examples include
-Perception (separated from Wit), Mechanical (from Agility and
-Wit), Courage (from Charm) and Toughness (from Might).
-Beginning Attribute Dice: When adding extra attributes
-each player receives three additional dice per attribute added for
-heroic level games. If 6 attributes are used in place of 4, players
-would divide 18D among them.
-Effects on Skills: If your GM has increased the number of
-attributes he will provide you with a breakdown of where each
-skill now defaults.
-
-Paranormal Attributes with Skills
 These are the same as any other attributes except that characters
 can have 0D in the attribute and no access to their related skills.
 In a game focused on werewolf naturists the GM might create the
@@ -3209,15 +3183,10 @@ attributes Elemental and Spiritual. Under the Elemental attribute
 the skills may be Air, Earth, Fire, and Water; while Spiritual
 includes Communing, Summoning, and Channeling.
 
-Varying Starting Skill Dice
 
-Increasing the Attribute Range
-Characters are normally limited to 4D in an attribute unless
-a perk modifies this. Some GMs may wish to offer an upper
-maximum of 5D, 6D, or higher. When using this option the dice
-are spent as normal. Other GMs may not be so comfortable with
-such casually powerful characters. They may choose a more costly
-option instead.
+Varying Starting Skill Dice
+---------------------------
+
 
 Default starting player characters receive 7 dice to spend on
 skills and perks and can't spend more than 2D on any one skill.
@@ -3227,17 +3196,9 @@ also allow them to spend more than 2D in any single skill. The
 number of dice and maximum allocations should be weighed
 carefully to fit the desires of the campaign.
 
-Higher Attributes at a Price
 
 High Skills Rolls Increasing Damage
-
-Under this rule characters can select attributes above 4D
-or whatever limits the GM sets, but they cost twice as much as
-normal beyond that limit. For example, a GM declares attributes
-are purchased as normal up to 4D but he allows higher attributes
-at a price up to 5D. A character who spends 6D in Might would
-record 5D as their Might attribute. Another character wants an
-Agility of 4D+2. This would cost him 5D+1 attribute dice.
+-----------------------------------
 
 When using this rule damage is boosted by 1 point for every 5
 points you exceeded the target number to hit. If a warrior needed
@@ -3247,11 +3208,9 @@ For increased deadliness, simply reduce the number needed
 to exceed the roll by to increase damage. If every 3 points of success
 translates to 1 point of damage skilled characters are deadly.
 
-18
 
 Independent Skills
-
-Buying New Perks
+------------------
 
 Skills normally always default to one particular attribute, for
 example Sword always defaults to Might. In a more freewheeling
@@ -3260,58 +3219,32 @@ fluid definition of how their used. When skills are purchased they
 don't get the benefit of any default attribute. If using a broad skill
 list then the typical 7D may be used. If opting for many more
 narrowly focused skills then 12D to 18D may be appropriate.
+
 It is suggested that raising skills with CP should cost double
 the normal price for skill advancement. This sounds more costly
 but isn't because the skills start so much lower.
 
-If you have a good reason and the GM agrees you may buy a
-perk after play has begun for 10 CP times the standard cost. Some
-perks make no sense; you don't wake up an elf.
-
-Buying Off Complications
-To get rid of a complication the GM will impose a price of at
-least 20 CP if he allows it at all and you need a really good story,
-possibly even a quest or adventure to justify it. Alternatively, as
-the story progresses player and GM might agree to exchange old
-complications for new one.
-
-Body Points (alternative to Wound Levels)
-
 A sample knight might look like this:
 
-In place of using Wound Levels GMs may elect to use Body
-Points (BP). Under this variant, players roll their character's
-Might and add this to 20. This is the amount of damage they can
-take before death. If less variability is desired the GM may give 4
-BP per die in Might instead.
-Damage Resistance Under Fast Static Combat: Under
-this combat system, the Static Soak is replaced with Static Damage
-Resistance (DR). Static Damage Resistance is equal to the Armor
-Value of the target. As a rule of thumb any creature or stock
-character with no number in parenthesis next to their Soak has
-a Damage Resistance of 0; those that do subtract their Soak from
-the number in parenthesis and use the difference. The GM might
-define special abilities that also grant a bonus to this total. Hero
-points can be spent to gain a +6 bonus to DR.
-Damage Resistance Traditional OpenD6 Combat: The
-damage resistance total equals a roll of the target character's die
-codes from armor or Special Abilities. Hero points can be spent to
-gain a +6 bonus to DR.
-Taking Damage Under Both Systems: When a character is
-hit they subtract their DR from the damage total. If the remaining
-total is one or more it is subtracted from the character's current
-BP total. If reduced to 0 or fewer BP, the character is dead.
+### Knight ###
 
-Knight: Might 4D, Agility 3D, Wit 2D, Charm 3D
-Dodge 1D, History 1D, Ride 2D, Seduce 1D, Sword 2D
-When attacking an enemy our knight will typically roll Might
-+ Sword for a total of 6D. Later when attempting to purchase a
-quality sword in the market the knight would roll his Wit + Sword
+* Might 4D
+* Agility 3D
+* Wit 2D
+* Charm 3D
+* Skills:  Dodge 1D, History 1D, Ride 2D, Seduce 1D, Sword 2D
+
+When attacking an enemy our knight will typically roll 
+Might + Sword for a total of 6D. Later when attempting to purchase 
+a quality sword in the market the knight would roll his Wit + Sword
 for a total of 4D. That evening while practicing his swordsmanship
 a group of ladies watches from afar. To impress them he rolls his
 Charm + Sword for a total of 5D.
 
+
 Rolling Limit
+-------------
+
 Some dislike rolling large numbers of dice, feeling the math
 slows down the game. GMs may impose a limit on the number
 of dice rolled at any time. We suggest the cut-off be 5 dice. If a
@@ -3320,38 +3253,28 @@ limit is converted to a +3 bonus. For example a GM has imposed a
 5D rolling limit at his table. A character with 7D+1 in Rifle shoots
 at bad guy. He rolls 5 dice and adds 7 to the result.
 
+
 Halfway There
+-------------
+
 To help speed up the game, if the number of skill dice in any
 skill is equal to half the Target Number, the GM may consider it
 an automatic success.
 
-Natural Healing
 
 Traditional OpenD6 Hero Points
-
-To heal, the character needs complete rest. After resting one
-full day a Might check is made and the level of success achieved
-determines how many BP are recovered. Healing: BP are recovered
-as follows:
+------------------------------
 
 In traditional OpenD6, Hero Points work differently. Instead
-of giving a static +6 to a roll and allowing for other options such as
-Flesh Wounds, etc. they double the number of dice on any single
+of giving a static +6 to a roll and allowing for other options such 
+as Flesh Wounds, etc. they double the number of dice on any single
 roll. For example a spy has 4D+1 in Security and must disable a
 bomb. To help ensure success the player spends 1 HP doubling his
 roll to 8D+2.
 
-Healing Difficulty
-Very Easy
-
-BP Recovered
-2
 
 Traditional OpenD6 Character Points
-
-Easy
-
-1D
+-----------------------------------
 
 In traditional OpenD6 Character Points may be spent to
 improve individual rolls during play. These points can be spent
@@ -3362,23 +3285,83 @@ how many CP may be used on a single roll in his game. Players
 cannot spend character points to improve a roll that they also
 spent a Hero Point on.
 
-Moderate
 
-2D
+Buying New Perks
+----------------
 
-Difficult
+If you have a good reason and the GM agrees you may buy a
+perk after play has begun for 10 CP times the standard cost. Some
+perks make no sense; you don't wake up an elf.
 
-3D
 
-Very Difficult
+Buying Off Complications
+------------------------
 
-4D
+To get rid of a complication the GM will impose a price of at
+least 20 CP if he allows it at all and you need a really good story,
+possibly even a quest or adventure to justify it. Alternatively, as
+the story progresses player and GM might agree to exchange old
+complications for new one.
 
-Heroic
 
-5D
+Body Points (alternative to Wound Levels)
+-----------------------------------------
+
+In place of using Wound Levels GMs may elect to use Body
+Points (BP). Under this variant, players roll their character's
+Might and add this to 20. This is the amount of damage they can
+take before death. If less variability is desired the GM may give 4
+BP per die in Might instead.
+
+
+### Damage Resistance Under Fast Static Combat ###
+
+Under this combat system, the Static Soak is replaced with Static 
+Damage Resistance (DR). Static Damage Resistance is equal to the 
+Armor Value of the target. As a rule of thumb any creature or stock
+character with no number in parenthesis next to their Soak has
+a Damage Resistance of 0; those that do subtract their Soak from
+the number in parenthesis and use the difference. The GM might
+define special abilities that also grant a bonus to this total. Hero
+points can be spent to gain a +6 bonus to DR.
+
+
+### Damage Resistance Traditional OpenD6 Combat ###
+
+The damage resistance total equals a roll of the target character's 
+die codes from armor or Special Abilities. Hero points can be spent 
+to gain a +6 bonus to DR.
+
+
+### Taking Damage Under Both Systems ###
+
+When a character is hit they subtract their DR from the damage total. 
+If the remaining total is one or more it is subtracted from the 
+character's current BP total. If reduced to 0 or fewer BP, the 
+character is dead.
+
+
+Natural Healing
+---------------
+
+To heal, the character needs complete rest. After resting one
+full day a Might check is made and the level of success achieved
+determines how many BP are recovered. Healing: BP are recovered
+as follows:
+
+*Healing Difficulty: BP Recovered*
+
+* Very Easy: 2
+* Easy: 1D
+* Moderate: 2D
+* Difficult: 3D
+* Very Difficult: 4D
+* Heroic: 5D
+
 
 Assisted Healing (Medicine)
+---------------------------
+
 Once per day a character can assist another by making a
 Medicine skill check. The number of BP healed is based on the
 level of success achieved and uses the same chart as the character's
@@ -3392,15 +3375,14 @@ the result. For example, a character with a Lift skill of 3D+2 would
 deal 1D damage in unarmed combat or 1D+weapon damage
 when using a melee weapon.
 
+
 Adjusting Deadliness
+--------------------
 By increasing or decreasing the base number of BP the
 lethality of the game is changed. For extremely cinematic games
 the GM may allow players to double the Might total or roll twice
 and take the higher number.
 
-19
-
-What are the Rules?
 
 Making the Game Your Own
 ========================
@@ -3411,6 +3393,9 @@ more enjoyable when some advance thought is put into the world
 the characters will adventure in. For repeated campaign style play
 this is practically a requirement.
 
+
+What are the Rules?
+-------------------
 
 We think we have a pretty good set here with Mini Six, but
 some might call us biased. You might be happy with the default
@@ -5161,6 +5146,7 @@ normal time needed is over one day or 1d6 hours if less than a day.
       Varos: 5h
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 Money and Gear
 --------------
