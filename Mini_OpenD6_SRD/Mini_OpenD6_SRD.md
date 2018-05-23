@@ -2182,84 +2182,84 @@ Pulp Stock Characters
 
 We're not worthy.
 
-Threat: !!
-Scale: 0D
-Might: 2D
-Wit: 2D+1
-Agility: 2D
-Charm: 1D+2
-Skills: Brawling 3D, Stealth 3D, Magic 3D
-Gear: Hooded robe, knife.
-Static: Dodge 6, Block 9, Parry 6, Soak 6
+* Threat: !!
+* Scale: 0D
+* Might: 2D
+* Wit: 2D+1
+* Agility: 2D
+* Charm: 1D+2
+* Skills: Brawling 3D, Stealth 3D, Magic 3D
+* Gear: Hooded robe, knife.
+* Static: Dodge 6, Block 9, Parry 6, Soak 6
 
 
 ### Dame in Distress ###
 
 Anything goes.
 
-Threat: !!
-Scale: 0D
-Might: 1D+2
-Wit: 2D+1
-Agility: 2D
-Charm: 3D
-Skills: Brawling 2D+2, Dodge 4D, Seduce 5D
-Gear: Compact mirror, hair pin, lip stick.
-Static: Dodge 12, Block 8, Parry 5, Soak 5
+* Threat: !!
+* Scale: 0D
+* Might: 1D+2
+* Wit: 2D+1
+* Agility: 2D
+* Charm: 3D
+* Skills: Brawling 2D+2, Dodge 4D, Seduce 5D
+* Gear: Compact mirror, hair pin, lip stick.
+* Static: Dodge 12, Block 8, Parry 5, Soak 5
 
 
 ### Elder God ###
 
 Klatu Barada Nikto.
 
-Threat: !!!!!!! 
-Scale: +12D
-Might: 5D
-Wit: 10D
-Agility: 3D+2 
-Charm: 10D
-Skills: Magic 17D
-Spells: All.
-Perks: Maddening Visage (any character that
-sees the Elder God must make a Heroic Charm
-roll or gain Crazy complication).
-Cosmic Appetite (It will eat D6 characters
-before returning to its home dimension).
-Dimensional Shift (can return to its home
-dimension at will).
-Sorcerer.
-Complication: Must be summoned.
-Static: Dodge 11, Block 15, Soak 15
+* Threat: !!!!!!! 
+* Scale: +12D
+* Might: 5D
+* Wit: 10D
+* Agility: 3D+2 
+* Charm: 10D
+* Skills: Magic 17D
+* Spells: All.
+* Perks: Maddening Visage (any character that
+  sees the Elder God must make a Heroic Charm
+  roll or gain Crazy complication).
+  Cosmic Appetite (It will eat D6 characters
+  before returning to its home dimension).
+  Dimensional Shift (can return to its home
+  dimension at will).
+  Sorcerer.
+* Complication: Must be summoned.
+* Static: Dodge 11, Block 15, Soak 15
 
 
 ### Mad Scientist ###
 
 1.21 jigawatts should do it!
 
-Threat: !!
-Scale: 0D
-Might: 2D
-Wit: 4D
-Agility: 2D
-Charm: 2D
-Skills: Dodge 4D, Repair 6D, Science 7D
-Complication: Crazy.
-Static: Dodge 12, Block 6, Parry 6, Soak 6
+* Threat: !!
+* Scale: 0D
+* Might: 2D
+* Wit: 4D
+* Agility: 2D
+* Charm: 2D
+* Skills: Dodge 4D, Repair 6D, Science 7D
+* Complication: Crazy.
+* Static: Dodge 12, Block 6, Parry 6, Soak 6
 
 
-Scaly Kin
+### Scaly Kin ###
 
 Survivors out of time.
 
-Threat: !!!
-Scale: 0D
-Might: 2D+1
-Wit: 2D
-Agility: 2D+2 
-Charm: 3D
-Skills: Dodge 3D+2, Pole Arm 3D+1, Stealth: 4D
-Perk: ESP
-Static: Dodge 11, Block 7, Parry 10, Soak 7
+* Threat: !!!
+* Scale: 0D
+* Might: 2D+1
+* Wit: 2D
+* Agility: 2D+2 
+* Charm: 3D
+* Skills: Dodge 3D+2, Pole Arm 3D+1, Stealth: 4D
+* Perk: ESP
+* Static: Dodge 11, Block 7, Parry 10, Soak 7
 
 
 Fantasy Stock Characters
@@ -2267,218 +2267,163 @@ Fantasy Stock Characters
 
 ### Barbarian ###
 
-b
-
-!!
-
-Scale: 0D
-
-Guard
-
-Scale: 0D
-
-!!
-
-Pirate
-
-Scale: 0D
-
-!!!
-
 Savage from the north hills.
+
+* Threat: !!
+* Scale: 0D
+* Might: 3D+2
+* Wit: 1D+2
+* Agility: 2D+1 
+* Charm: 2D+1
+* Skills: Brawling 4D+2, Dodge 4D+1,
+* Sword 5D+2, Track 3D+2
+* Gear: Leather armor (+2), two-handed sword.
+* Static: Dodge 13, Block 14, Parry 17, Soak 11(13)
+
+
+### Guard ###
 
 Guard, gladiator, or soldier.
 
+* Threat: !!
+* Scale: 0D
+* Might: 3D
+* Wit: 2D
+* Agility: 2D
+* Charm: 2D
+* Skills: Brawling 4D, Dodge 3D, Sword or Mace 4D
+* Gear: Leather armor (+2), sword or mace.
+* Static: Dodge 9, Block 12, Parry 12, Soak 9(11)
+
+
+### Pirate ###
+
 Yoho!
 
-Might: 3D+2
+* Threat: !!!
+* Scale: 0D
+* Might: 2D
+* Wit: 2D
+* Agility: 4D
+* Charm: 2D
+* Skills: Brawling 3D, Dodge 5D, Navigation 3D, 
+  Sailing 5D, Sword 4D
+* Gear: Compass or spy glass, sword.
+* Static: Dodge 15, Block 9, Parry 12, Soak 6
 
-Might: 3D
 
-Wit: 2D
-
-Might: 2D
-
-Wit: 2D
-
-Agility: 2D
-
-Charm: 2D
-
-Agility: 4D
-
-Charm: 2D
-
-Wit: 1D+2
-
-Agility: 2D+1 Charm: 2D+1
-
-+
-
-R
-
-Skills: Brawling 4D+2, Dodge 4D+1,
-Sword 5D+2, Track 3D+2
-Gear: Leather armor (+2), two-handed sword.
-Static: Dodge 13, Block 14, Parry 17, Soak 11(13)
-
-Skills: Brawling 4D, Dodge 3D,
-Sword or Mace 4D
-Gear: Leather armor (+2), sword or mace.
-Static: Dodge 9, Block 12, Parry 12, Soak 9(11)
-
-Skills: Brawling 3D, Dodge 5D, Navigation 3D,
-Sailing 5D, Sword 4D
-Gear: Compass or spy glass, sword.
-Static: Dodge 15, Block 9, Parry 12, Soak 6
-
-Dwarf Warrior
-
-Knight
-
-Thief
-
-K
-
-!!!
-
-Scale: 0D
-
-Scale: 0D
-
-!!!
+### Dwarf Warrior ###
 
 Clansman of the Great Hall.
 
+* Threat: !!!
+* Scale: 0D
+* Might: 4D
+* Wit: 2D
+* Agility: 2D
+* Charm: 2D
+* Skills: Axe 5D, Brawling 5D, Dodge 3D
+* Perks: Dwarf
+* Gear: Axe, chain mail (+6).
+* Static: Dodge 9, Block 15, Parry 15, Soak 8(14)
+
+
+### Knight ###
+
 For King and country!
 
-Might: 4D
+* Threat: !!!
+* Scale: 0D
+* Might: 3D+1
+* Wit: 2D
+* Agility: 2D+2 
+* Charm: 2D
+* Skills: Dodge 3D+2, Sword 4D+2, Riding 3D
+* Gear: Horse, plate mail (+9), shield (+4), sword.
+* Static: Dodge 11, Block 10, Parry 14, Soak 10(23)
 
-Wit: 2D
 
-Might: 3D+1
+### Thief ###
 
-Agility: 2D
+What's yours is mine.
 
-Charm: 2D
+* Threat: !!
+* Scale: 0D
+* Might: 2D
+* Wit: 2D
+* Agility: 3D+1 
+* Charm: 2D+2
+* Skills: Pick Locks 3D, Pickpocket 4D, Stealth 5D
+* Gear: Leather armor(+2), lock picks, knife.
+* Static: Dodge 9, Block 12, Parry 12, Soak 9(11)
 
-k
 
-Wit: 2D
-
-Agility: 2D+2 Charm: 2D
-
-Skills: Axe 5D, Brawling 5D, Dodge 3D
-Perks: Dwarf
-Gear: Axe, chain mail (+6).
-Static: Dodge 9, Block 15, Parry 15, Soak 8(14)
-
-Skills: Dodge 3D+2, Sword 4D+2, Riding 3D
-Gear: Horse, plate mail (+9), shield (+4), sword.
-Static: Dodge 11, Block 10,
-Parry 14, Soak 10(23)
-
-Elf Bowman
-
-Priest
-
-!!!
-
-Scale: 0D
+### Elf Bowman ###
 
 Guardian of the forest.
 
-a
+* Threat: !!!
+* Scale: 0D
+* Might: 2D
+* Wit: 2D
+* Agility: 4D
+* Charm: 2D
+* Skills: Bow 5D, Dodge 5D, Sword 3D
+* Perks: Elf
+* Gear: Bow & arrows, leather armor(+2), sword.
+* Static: Dodge 15, Block 6, Parry 9, Soak 6(8)
 
-Might: 2D
 
-Wit: 2D
-
-Agility: 4D
-
-Charm: 2D
-
-Skills: Bow 5D, Dodge 5D, Sword 3D
-Perks: Elf
-Gear: Bow & arrows, leather armor(+2), sword.
-Static: Dodge 15, Block 6, Parry 9, Soak 6(8)
-
-Scale: 0D
-
-!!!
-
-9
+### Priest ###
 
 Righteous defender.
-Might: 2D+1
 
-Wit: 2D+2
+* Threat: !!!
+* Scale: 0D
+* Might: 2D+1
+* Wit: 2D+2
+* Agility: 2D
+* Charm: 3D
+* Skills: Dodge 3D, Magic 4D+2.
+* Perks: Sorcerer. Spells: Heal, Bless, +2 more
+* Gear: Chain mail(+3), staff.
+* Static: Dodge 9, Block 7, Parry 7, Soak 7(13)
 
-Agility: 2D
 
-Charm: 3D
-
-Skills: Dodge 3D, Magic 4D+2.
-Perks: Sorcerer. Spells: Heal, Bless, +2 more
-Gear: Chain mail(+3), staff.
-Static: Dodge 9, Block 7, Parry 7, Soak 7(13)
-
-;
-
-Scale: 0D
-
-!!
-
-What's yours is mine.
-Might: 2D
-
-Wit: 2D
-
-Agility: 3D+1 Charm: 2D+2
-
-Skills: Pick Locks 3D, Pickpocket 4D, Stealth 5D
-Gear: Leather armor(+2), lock picks, knife.
-Static: Dodge 9, Block 12, Parry 12, Soak 9(11)
-
-Wizard
-
-5
-
-Scale: 0D
-
-!!!!
+### Wizard ###
 
 Sorcerer or necromancer.
-Might: 1D+2
 
-Wit: 4D
+* Threat: !!!!
+* Scale: 0D
+* Might: 1D+2
+* Wit: 4D
+* Agility: 2D+1 
+* Charm: 2D
+* Skills: Dodge 3D+1, Magic 6D
+* Perks: Sorcerer.
+* Gear: Knife
+* Spells: ESP, Lightning Bolt, Paralysis, +3 more
+* Static: Dodge 10, Block 4, Parry 4, Soak 5
 
-Agility: 2D+1 Charm: 2D
-
-Skills: Dodge 3D+1, Magic 6D
-Perks: Sorcerer.
-Gear: Knife
-Spells: ESP, Lightning Bolt, Paralysis, +3 more
-Static: Dodge 10, Block 4, Parry 4, Soak 5
 
 Fantasy Beastiary
-Centaur
+-----------------
 
-c
-
-!!
-
-Scale: 0D
+### Centaur ###
 
 Can you ride me? I say nay.
+
+Threat: !!
+Scale: 0D
 Might: 4D
-
 Wit: 1D+2
-
-Agility: 2D+1 Charm: 2D
+Agility: 2D+1 
+Charm: 2D
 Skills: Bow 4D+1, Dodge 3D+1, Stamina 5D
 Gear: Bow & arrows.
 Static: Dodge 10, Block 12, Parry 12, Soak 12
+
 
 Scale: +0D
 
@@ -2953,93 +2898,74 @@ Stone cold killer.
 
 Scale: 0D
 
+
+### Troll ###
+
 Nearly mindless killers.
-Might: 6D
 
-Wit: 1D
+* Threat: !!!!
+* Scale: 0D
+* Might: 6D
+* Wit: 1D
+* Agility: 2D
+* Charm: 1D
+* Perks: Regeneration
+* Comp: Weakness to fire (+2D damage)
+* Gear: Club.
+* Static: Dodge 6, Block 18, Parry 18, Soak 18
 
-Agility: 2D
 
-Charm: 1D
-
-Perks: Regeneration
-Comp: Weakness to fire (+2D damage)
-Gear: Club.
-Static: Dodge 6, Block 18, Parry 18, Soak 18
-
-Vampire
-
-,
-
-!!!!!
-
-Scale: 0D
+### Vampire ###
 
 Cursed to feed on the living.
-Might: 3D+1
 
-Wit: 3D+1
+* Threat: !!!!!
+* Scale: 0D
+* Might: 3D+1
+* Wit: 3D+1
+* Agility: 4D+1 
+* Charm: 4D
+* Skills: Athletics 5D, Brawling 5D, Dodge 6D+1, History 5D, Seduce 6D, 
+  Stealth 5D
+* Perks: ESP, Bite (the vampire heals a wound level when inflicting 
+  at least a serious wound by brawling. Anyone killed this way rises 
+  as a vampire the next night.)
+* Comp: Weakness to Sunlight (the vampire suffers a -2D to all rolls 
+  and -6 to all Static combat scores while in direct sunlight.)
+  Stake through the heart (targeting a vampire's heart with a wooden 
+  stake adds 25 to the TN to hit but kills it instantly.)
+* Static: Dodge 19, Block 15, Parry 10, Soak 10
 
-Agility: 4D+1 Charm: 4D
 
-Skills: Athletics 5D, Brawling 5D, Dodge 6D+1,
-History 5D, Seduce 6D, Stealth 5D
-Perks: ESP, Bite (the vampire heals a wound
-level when inflicting at least a serious wound
-by brawling. Anyone killed this way rises as a
-vampire the next nite.)
-Comp: Weakness to Sunlight (the vampire
-suffers a -2D to all rolls and -6 to all Static
-combat scores while in direct sunlight.)
-Stake through the heart (targeting a vampire's
-heart with a wooden stake adds 25 to the TN
-to hit but kills it instantly.)
-Static: Dodge 19, Block 15, Parry 10, Soak 10
-
-Werewolf
-
--
-
-!!!
-
-Scale: 0D
+### Werewolf ###
 
 He's the hairy hairy gent...
-Might: 4D
 
-Wit: 1D+2
+* Threat: !!!
+* Scale: 0D
+* Might: 4D
+* Wit: 1D+2
+* Agility: 3D+2 
+* Charm: 2D
+* Skills: Brawling 5D, Dodge 5D+2, Stealth 5D
+* Perks: Regeneration, Damage Immunity (can only be harmed by silver, 
+  magic, and enchanted weapons.), Infectious Attack (anyone who is 
+  Severely Wounded or worse by a werewolf must make a Moderate Charm 
+  roll or transforms into a werewolf during the full moon).
+* Static: Dodge 17, Block 15, Soak 12
 
-Agility: 3D+2 Charm: 2D
 
-Skills: Brawling 5D, Dodge 5D+2, Stealth 5D
-Perks: Regeneration, Damage Immunity
-(can only be harmed by silver, magic, and
-enchanted weapons.)
-Infectious Attack (anyone who is Severely
-Wounded or worse by a werewolf must make
-a Moderate Charm roll or transforms into a
-werewolf during the full moon).
-Static: Dodge 17, Block 15, Soak 12
-
-Zombie
-
-a
-
-!!
-
-Scale: 0D
+### Zombie ###
 
 Freshly risen undead.
-Might: 3D
 
-Wit: 0D
-
-Agility: 2D
-
-Charm: 0D
-
-Static: Dodge 6, Block 9, Parry 9, Soak 9
-
+* Threat: !!
+* Scale: 0D
+* Might: 3D
+* Wit: 0D
+* Agility: 2D
+* Charm: 0D
+* Static: Dodge 6, Block 9, Parry 9, Soak 9
 
 
 Optional Rules
@@ -3394,26 +3320,6 @@ the characters will adventure in. For repeated campaign style play
 this is practically a requirement.
 
 
-What are the Rules?
--------------------
-
-We think we have a pretty good set here with Mini Six, but
-some might call us biased. You might be happy with the default
-rules, but maybe you want something a little different. Okay Mr.
-Picky, write down which optional rules you are going to use.
-Which combat system are you going to use? Hint, hint, we think
-Static is Faster, but maybe you're a traditionalist at heart. That's
-okay, we still love you. You might have your own ideas for another
-magic system if your game uses that or you decide to run with the
-Body Points system instead of Wound Levels.
-The optional rules you can use though are not just limited to
-the choices we give in this rule book, it includes your own ideas
-and editions, those special flourishes that make the game your
-own. But whatever you do, be sure to write it down for consistency
-later and tell your players before they make characters. It is only
-the nice thing to do.
-
-
 Developing Your Own Setting 
 ---------------------------
 
@@ -3439,6 +3345,52 @@ even understand it. At this point though, do not bog yourself down
 in detail.
 
 
+Who are the Characters?
+-----------------------
+
+Think about it your game from the players' perspective. What kind of 
+characters do they often like to play and what kind of characters do 
+you see them playing in your game? You will need to be able to explain 
+to them what kind of characters they can make and how they fit into 
+the world. This must be followed up by the very important question what 
+do they do? What kind of adventures will they go on? How can their 
+characters fit into the adventure easily without you having to invent 
+the flimsiest of reasons to include them. The easier you make it on 
+them at this point, the less work it is going to be on you to bring 
+them in and keep them all together.
+
+Some players get a sadistic joy out of playing against type.
+You might be casting a supers team made up of mutants that all
+work together and one person who declares himself to be the feral
+loner. These characters can complicate things quite a bit. We aren't
+saying not to allow them, although that is your call. You will need
+to speak with this player to make sure you are both on the same
+page. Maybe the crazy professor that pulled them together also
+gave them all radios to stay in constant communication. If all else
+fails gently remind them this is a group oriented game.
+
+
+What are the Rules?
+-------------------
+
+We think we have a pretty good set here with Mini Six, but
+some might call us biased. You might be happy with the default
+rules, but maybe you want something a little different. Okay Mr.
+Picky, write down which optional rules you are going to use.
+Which combat system are you going to use? Hint, hint, we think
+Static is Faster, but maybe you're a traditionalist at heart. That's
+okay, we still love you. You might have your own ideas for another
+magic system if your game uses that or you decide to run with the
+Body Points system instead of Wound Levels.
+
+The optional rules you can use though are not just limited to
+the choices we give in this rule book, it includes your own ideas
+and editions, those special flourishes that make the game your
+own. But whatever you do, be sure to write it down for consistency
+later and tell your players before they make characters. It is only
+the nice thing to do.
+
+
 What are the Skills?
 --------------------
 
@@ -3456,98 +3408,37 @@ Science skills.
 New Perks or Complications?
 ---------------------------
 
-Who are the Characters?
+This is your chance to help reinforce the game through new racial perks
+you make, codes of honor, etc. Players love new stuff. It also serves 
+to further develop any archetypes you dreamed up.
 
-This is your chance to help
-Think about it your game
-reinforce
-the game through new
-from the players' perspective.
-racial
-perks
-you make, codes of
-What kind of characters do they
-honor,
-etc.
-Players
-love new stuff. It
-often like to play and what kind
-also
-serves
-to
-further
-develop any
-of characters do you see them
-archetypes
-you
-dreamed
-up.
-playing in your game? You will "For the last time a one on the Wild Die is nothing special!"
-need to be able to explain to them
+
 How are Money and Gear Handled?
-what kind of characters they can make and how they fit into the
-Most players are going to want to know how much stuff they
-world. This must be followed up by the very important question
-can
-get
-their hands on. If your game is one where they count their
-what do they do? What kind of adventures will they go on? How
-dollars
-and
-spend specific amounts be sure to let them know and
-can their characters fit into the adventure easily without you
-even
-prepare
-a price list and basic monetary notation. You might
-having to invent the flimsiest of reasons to include them. The
-take
-a
-more
-laid
-back approach and say that a knight owns armor,
-easier you make it on them at this point, the less work it is going
-a
-sword,
-and
-a
-horse;
-while his wizard companion has a pointed
-to be on you to bring them in and keep them all together.
-hat,
-musty
-books,
-and
-a stout walking stick. However you decide
-Some players get a sadistic joy out of playing against type.
-to
-do
-this,
-just
-try
-and
-be
-consistent and fair.
+-------------------------------
 
-You might be casting a supers team made up of mutants that all
-work together and one person who declares himself to be the feral
+Most players are going to want to know how much stuff they
+can get their hands on. If your game is one where they count their
+dollars and spend specific amounts be sure to let them know and
+even prepare a price list and basic monetary notation. You might
+take a more laid back approach and say that a knight owns armor,
+a sword, and a horse; while his wizard companion has a pointed
+hat, musty books, and a stout walking stick. However you decide
+to do  this, just try and be consistent and fair.
+
+
 What are You Going to do When You Run Out of Ideas?
-loner. These characters can complicate things quite a bit. We aren't
+---------------------------------------------------
+
 Well, you're having ideas right now, so start writing these
-saying not to allow them, although that is your call. You will need
 adventures seeds and save them for a rainy day. Just a paragraph
-to speak with this player to make sure you are both on the same
 or two is all you need to do. It will help keep it in your mind and
-page. Maybe the crazy professor that pulled them together also
 when you are too busy with life or suffering from writer's block
-gave them all radios to stay in constant communication. If all else
 these morsels will be sitting there on your plate. A handy formula
-fails gently remind them this is a group oriented game.
 is a basic scenario plus one complication. Now have at it!
 
 
-
 Campaigning the TV Way
-----------------------
+======================
 
 Think of the campaign as a television series. You can "cast" the
 characters and NPCs from celebrities instead of describing what
@@ -3569,7 +3460,8 @@ mental notes about the things you like. With practice you could run
 a game like a Tarantino flick.
 
 
-### Flash Forwards ###
+Flash Forwards
+--------------
 
 Write down a few vague lines of dialogue on index cards and
 number them. Then hand them out but don't let your players look
@@ -3602,7 +3494,8 @@ have been some alternative future. If the players won't let go of their
 metagame knowledge of the flash forward don't use them again.
 
 
-### Flash Backs ###
+Flash Backs
+-----------
 
 Another popular TV device is looking into the past. During the
 game it's possible to run an adventure from before the first episode.
@@ -3618,7 +3511,7 @@ not enjoy five people whining for three hours.
 
 
 Converting Between Mini Six & Traditional OpenD6
-------------------------------------------------
+================================================
 
 Even though Mini Six is part of the OpenD6 family, it has
 been tweaked in several ways. By making the following changes
@@ -3626,7 +3519,8 @@ and applying the noted optional rules you can make Mni Six
 resemble its more recognized parent.
 
 
-### Character Creation ###
+Character Creation
+------------------
 
 Player characters start with six attributes and distribute
 18D among them. There are three common sets of attributes
@@ -3652,7 +3546,8 @@ Skills may move to new attributes. Simply review the skill list
 provided by the GM and note accordingly.
 
 
-### Extranormal Skills ###
+Extranormal Skills
+------------------
 
 OpenD6 Fantasy has Miracles and Magic. OpenD6 Adventure
 has Magic and Psionics. OpenD6 Science Fiction has Channel,
@@ -3660,7 +3555,8 @@ Sense, and Transform. All of these are considered Paranormal
 Abilities that use the Quasi Skills optional rule.
 
 
-### The Wild Die ###
+The Wild Die
+------------
 
 When a 1 is rolled on the Wild Die in traditional OpenD6 it
 can have three possible effects based on GM fiat;
@@ -3682,18 +3578,18 @@ Options Used by Traditional OpenD6
 Predition
 =========
 
-"Your great-grandpa's great-grandpa came here in a big ship. It was so big
-that whole cities of people were inside. Here was so far away from Earth 
-that everyone slept the whole way. They turned the ships into factories 
-on the nicest worlds, and but nobody else ever came from Earth. Maybe they 
-went to another system. Strange that we never heard anything. The first 
-worlds filled up  and they changed the ones that weren't so nice, the 
-frontier worlds like ours, into better ones so that we could live here 
-too. Folk being as they are, they fell to squabblin' soon enough. The First 
-Worlds have it easy compared to us frontiersmen, but we've got something 
-they'll never understand. You can't put it in a box, or put it in a book, 
-or put a price on it even if they did win the war. It's still 
-ours." -- Old man to his grandson
+"Your great-grandpa's great-grandpa came here in a big ship. It was 
+so big that whole cities of people were inside. Here was so far away 
+from Earth that everyone slept the whole way. They turned the ships 
+into factories on the nicest worlds, and but nobody else ever came 
+from Earth. Maybe they went to another system. Strange that we never 
+heard anything. The first worlds filled up  and they changed the ones 
+that weren't so nice, the frontier worlds like ours, into better ones 
+so that we could live here too. Folk being as they are, they fell to 
+squabblin' soon enough. The First Worlds have it easy compared to us 
+frontiersmen, but we've got something they'll never understand. You 
+can't put it in a box, or put it in a book, or put a price on it even 
+if they did win the war. It's still ours." -- Old man to his grandson
 
 Humanity came to Vega because of war, pollution, limited
 resources, and overpopulation. The pioneers travelled the 25 light
@@ -3703,10 +3599,12 @@ which is parliamentary in nature. As more worlds are colonized,
 the power of the League grew, but rifts began to develop between
 the older heavily industrialized worlds and the younger thinly
 populated frontier worlds of Lantos and Leton.
+
 The war lasted for six years, and hundreds of thousands died
 in battles both on the ground and in space. The frontier rebels
 were eventually defeated and Lantos and Leton rejoined the
 League, although their voices are weak in parliament.
+
 The player characters of Perdition take the roles of scavengers,
 honorable scoundrels, and thieves with conscience. They share
 a dislike, possibly even a hatred for the League, but they're not
@@ -3718,20 +3616,30 @@ aren't murderers or pirates. They're people out on the edge of a
 frontier. They rob banks, they steal stuff, they swindle League
 stooges, they smuggle contraband, they raid League outposts, and
 above all else, they get paid.
-Space Cowboy
-But they don't steal from
-I might be aiming to raise a ruckus. the poor. They don't extort the
+
+But they don't steal from the poor. They don't extort the  virtuous. 
+They always keep their word. They don't kill the innocent or leave 
+them to die, ‘cause deep down they're damned fool heroes.
+
+
+Characters
+----------
+
+### Space Cowboy ###
+
+I might be aiming to raise a ruckus.
+
+
 Might: 3D
-Agility: 3D+1 virtuous. They always keep
-their word. They don't kill
+Agility: 3D+1
+
 Brawling 4D
 Dodge 5D+1
 Pistols 5D+1
-the innocent or leave them to
-die, ‘cause deep down they're
+
 Wit: 2D+1
 Charm: 3D+1
-damned fool heroes.
+
 Bluff 4D+1
 
 Character Creation Guidelines
@@ -3881,18 +3789,23 @@ Wit: 3D+1
 
 Charm: 2D+2
 
-Advice for the GM
 
-Scarab Class Transport
+
+
+
+Advice for the GM
+-----------------
 
 Perdition is a space-western. There are no ray guns, no aliens,
 no faster-than-light travel, and no artificial intelligences. The
 miracle technologies available are limited to spaceships, artificial
 gravity inside spaceships, terraforming, and cryonic sleep -- but
 the latter has few applications in the Worlds of Vega nowadays.
+
 The industrialized worlds are little different from modern
 day Earth aside from these miracle techs. The League is strong
 there, but there are good folk on every world.
+
 The frontier worlds are rougher and more homespun. People
 have had to be self sufficient to survive and there's little to no
 infrastructure in most places. That means that horses are often
@@ -3901,123 +3814,77 @@ locally, but you have to import complex machines and fuel.)
 Justice tends to be more about the spirit of the law than the letter,
 but most folks can only expect whatever justice they create.
 
-$$$$
 
-Scale: 6D
+Scarab Class Transport
+----------------------
 
-Skill: Pilot
+The Scarab is an older generation of ship but well loved for its 
+reliability and ruggedness. Its hold is adaptable to suit many types 
+of cargo or can be converted for additional passenger berths.
 
-MNV: 2D
+* Cost: $$$$
+* Scale: 6D
+* Skill: Pilot
+* MNV: 2D
+* Body: 3D+1 
+* Move: 3D
+* Crew: 2
+* Psg: 12
+* Cargo: 2 Shuttles + 100 Tons
+* Shuttle: 
+    * Cost: $$$, Scale+4D, Skill: Pilot,
+      MNV: 1D, Body: 2D+2, Move: 2D,
+      Crew 1, Psg: 6, Cargo: 2 Tons
 
-Body: 3D+1 Move: 3D
-Crew: 2
 
-Cargo: 2 Shuttles + 100 Tons
-Shuttle: $$$, Scale+4D, Skill: Pilot,
-MNV: 1D, Body: 2D+2, Move: 2D,
-Crew 1, Psg: 6, Cargo: 2 Tons
-
-Psg: 12
-The Scarab is an
-older generation of
-ship but well loved
-for its reliability and
-ruggedness. Its hold
-is adaptable to suit
-many types of cargo
-or can be converted
-for additional
-passenger berths.
 
 Standard Travel Times
+---------------------
+
+*From: To: Time*
+
+* Nomos: Belt: 1D6 + 1 Days
+* Nomos or Belt: Ophion Worlds: 1 Week + 1D6 Days
+* Nomos or Belt: Lelantosian Worlds: 2 Weeks + 1D6 Days
+* Nomos or Belt: Leton Worlds: 3 Weeks + 1D6 Days
+* Ophion Worlds: Ophion Worlds: 1D6 Weeks
+* Ophion Worlds: Lelantosian Worlds: 1 Week + 2D6 Days
+* Ophion Worlds: Leton Worlds: 2 Weeks + 2D6 Days
+* Lelantosian Worlds: Lelantosian Worlds: 1D6 Days
+* Lelantosian Worlds: Leton Worlds: 1 Week + 3D6 Days
+* Leton Worlds: Leton Worlds: 1D6 Days
+
 
 The Paranormal
-
-From
+--------------
 
 Psychics are rare, and most educated people don't believe
 they exist. For every real psychic, there are a hundred charlatans
 conning people out of their money. No other special abilities are
 known to exist aside from ESP.
 
-To
-
-Time
-
-Nomos
-
-Belt
-
-1D6 + 1 Days
-
-Nomos or Belt
-
-Ophion Worlds
-
-1 Week + 1D6 Days
-
-Nomos or Belt
-
-Lelantosian Worlds
-
-2 Weeks + 1D6 Days
 
 Adventure Seeds
+---------------
 
-Nomos or Belt
+### The Eosian Job ###
 
-Leton Worlds
+Another gang wants to team up to rob the Safety Society Bank on Eos, 
+which handles the payroll for nearby Fort Temperance. The leader of 
+the gang suspects that one of his crew is a traitor after finding a 
+League transmitting device, and wants the heroes to figure out 
+who it is.
 
-3 Weeks + 1D6 Days
+### Strange Bedfellows ###
 
-The Eosian Job: Another gang wants to team up to rob the Safety
-Society Bank on Eos, which handles the payroll for nearby Fort
-Temperance. The leader of the gang suspects that one of his crew
-is a traitor after finding a League transmitting device, and wants
-the heroes to figure out who it is.
-
-Ophion Worlds
-
-Ophion Worlds
-
-1D6 Weeks
-
-Strange Bedfellows: The town of Baggs on Silenus asks for help
+The town of Baggs on Silenus asks for help
 against a cult who follow a supposed psychic. The leader of the
 gang is also wanted by the League for her crimes. The problem is
 that she's the eighteen year old daughter of a League minister.
 
-Ophion Worlds
-
-Lelantosian Worlds
-
-1 Week + 2D6 Days
-
-Ophion Worlds
-
-Leton Worlds
-
-2 Weeks + 2D6 Days
-
-Lelantosian Worlds
-
-Lelantosian Worlds
-
-1D6 Days
-
-Lelantosian Worlds
-
-Leton Worlds
-
-1 Week + 3D6 Days
-
-Leton Worlds
-
-Leton Worlds
-
-1D6 Days
 
 Navigation Bonus
+
 A pilot or another crewman
 can try to speed up the
 journey by making a special
