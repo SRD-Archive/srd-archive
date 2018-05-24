@@ -4008,15 +4008,19 @@ Gear:
 Rust Moon of Castia
 ===================
 
-They say the moon turned red when the Radiant Queen was born. Sages across the
-land studied the portent's meaning, but the skalds of Kauleshan knew that destiny
-was on their side. As she grew she united the northern tribes into a mighty force. Still
-this did not sate her thirst for power. She turned her covetous eye to the ancient throne
-of Castia. The war was harsh and swift. In the end only the four Elons stood against
-her horde but even they could not hold out in the face of her magic. In plundering our
-libraries she uncovered the Prophecy of the Marks of Radiance. Now she is obsessed with hunting our daughters. Her ambition is now twisted
-with her lust for eternal life. Now that we have learned to hide the vessel children things have gotten worse for the people. Rumors claim she
-has begun to grow old, she has grown desperate. — Mardegant the Wise, Secret Sage of Etain.
+They say the moon turned red when the Radiant Queen was born. Sages 
+across the land studied the portent's meaning, but the skalds of 
+Kauleshan knew that destiny was on their side. As she grew she united 
+the northern tribes into a mighty force. Still this did not sate her 
+thirst for power. She turned her covetous eye to the ancient throne
+of Castia. The war was harsh and swift. In the end only the four 
+Elons stood against her horde but even they could not hold out in the 
+face of her magic. In plundering our libraries she uncovered the 
+Prophecy of the Marks of Radiance. Now she is obsessed with hunting 
+our daughters. Her ambition is now twisted with her lust for eternal 
+life. Now that we have learned to hide the vessel children things have 
+gotten worse for the people. Rumors claim she has begun to grow old, 
+she has grown desperate. -- Mardegant the Wise, Secret Sage of Etain.
 
 Castia was once a proud kingdom, its boundaries stretching
 from the Northern Forest south to the farmlands surrounding
@@ -4027,36 +4031,19 @@ sing of this golden age, reminding all of what life was like in a
 land of joy deep in their memories. Because memories seldom
 whisper of anything other than beauty when waking eyes see only
 the mark of evil upon the land.
+
 Dark times fell across the land when the moon turned red.
 Each night when the Rusting Eye passed over, strife would spread
 by leagues. Sydra and Nehar began to bite at the borders while
 the Syndics of Westron encroached on the forest. When raiders
-of Kauleshan invaded, none saw the true threat offered by the illorganized barbarians. Only after the Scarlet Horde stood at the
+of Kauleshan invaded, none saw the true threat offered by the 
+illorganized barbarians. Only after the Scarlet Horde stood at the
 gates of Devmora did the king see the fate awaiting him. It took
 only three more summers for the once proud kingdom to fall.
+
 During the plundering of Etain the new royal's sages
 unearthed the Prophecy of the Marks of Radiance. Few speak of it
 openly but all well travelled folk now know how it reads,
-
-Engalt: The largest Hannedyn population near the Castian
-Realms, it is their common city ruled by a council of elders and a
-High Judge chosen from among the council to barter treaties with
-the larger lands of humans. The larger folk seldom take the smaller
-ones seriously, and even in their own towns and villages the phrase
-"Out of the way Speck!" can easily be heard. Few humans give
-the smaller race's great city much thought, but within its stunted
-rooms and narrow alleys many secrets still linger.
-Tarsis Elon: The last of the four fortresses to fall, it suffered the
-worst of the four curses. All who once lived there are now encased
-in translucent stone, alive but entombed. For each year that passes
-in the outside world, these poor souls age a single day. If any are
-chiseled free time comes rushing upon them bringing immediate
-death by old age. Still, more than a curse was left to watch Tarsis.
-Monsters, minions, and shadows without name haunt this
-doomed sanctuary. Rumors abound about what is still kept here.
-Some claim a great vault filled with gold, others speak of lost
-magics. Even if only a cache of ancient weapons, it would be a
-great fortune to those foolhardy enough to try and claim them.
 
 "Into each generation there will be born 13 daughters,
 one for each moon that passes over the sky. They share a
@@ -4091,32 +4078,95 @@ them. After a hundred years many citizens of Etain still
 look hollow, carrying a broken spirit for the horrors they
 are always reminded of.
 
-24
+Engalt: The largest Hannedyn population near the Castian
+Realms, it is their common city ruled by a council of elders and a
+High Judge chosen from among the council to barter treaties with
+the larger lands of humans. The larger folk seldom take the smaller
+ones seriously, and even in their own towns and villages the phrase
+"Out of the way Speck!" can easily be heard. Few humans give
+the smaller race's great city much thought, but within its stunted
+rooms and narrow alleys many secrets still linger.
+
+Tarsis Elon: The last of the four fortresses to fall, it suffered the
+worst of the four curses. All who once lived there are now encased
+in translucent stone, alive but entombed. For each year that passes
+in the outside world, these poor souls age a single day. If any are
+chiseled free time comes rushing upon them bringing immediate
+death by old age. Still, more than a curse was left to watch Tarsis.
+Monsters, minions, and shadows without name haunt this
+doomed sanctuary. Rumors abound about what is still kept here.
+Some claim a great vault filled with gold, others speak of lost
+magics. Even if only a cache of ancient weapons, it would be a
+great fortune to those foolhardy enough to try and claim them.
+
 
 Character Creation Guidelines
-Skill List
-Might: Axe/Mace, Brawling, Knife, Lift, Smithing, Stamina, Pole
+-----------------------------
+
+### Skill List ###
+
+* Might: Axe/Mace, Brawling, Knife, Lift, Smithing, Stamina, Pole
 Arm, Sword
-Agility: Athletics, Bow, Dodge, Pickpocket, Stealth, Throwing
-Wit: Crafts, Lore, Magic, Medicine, Pick Locks, Search, Tracking
-Charm: Command, Diplomacy, Persuasion, Riding, Seduce,
-Streetwise
-Brownie (4): A small race standing only 12 to 15 inches tall. They
+
+* Agility: Athletics, Bow, Dodge, Pickpocket, Stealth, Throwing
+
+* Wit: Crafts, Lore, Magic, Medicine, Pick Locks, Search, Tracking
+
+* Charm: Command, Diplomacy, Persuasion, Riding, Seduce, Streetwise
+
+
+### New Perks ###
+
+* Brownie (4): A small race standing only 12 to 15 inches tall. They
 normally live apart from humans, preferring the deep woodlands
 and hills. Only rarely do they meddle in the affairs of men.
-Brownies naturally speak with animals and birds while their
-tiny size gives them a bonus to stealth (+2D) and Dodge (+2D)
-when fighting creatures man-sized or bigger. Unfortunately it
-also hinders them with the Tiny complication. The Brownie's
-maximum Might is limited to 3D while Agility may be up to 5D.
-Hannedyn (2): A short race standing half the size of men, they
+
+    * Brownies naturally speak with animals and birds while their
+    tiny size gives them a bonus to stealth (+2D) and Dodge (+2D)
+    when fighting creatures man-sized or bigger. Unfortunately it
+    also hinders them with the Tiny complication. The Brownie's
+    maximum Might is limited to 3D while Agility may be up to 5D.
+
+* Hannedyn (2): A short race standing half the size of men, they
 live in Engelt and the surrounding region. Humans tend to call
 them by their slang name Halfling or the popular insult Speck.
 While not technically subjects of the Castian throne they do pay
 tribute in exchange for continued peace.
-Their small stature grants a bonus to Stealth (+1D) and Dodge
-(+1D) when fighting creatures man-sized or larger. All Hannedyn must
-take the Small complication while their Might is limited to 3D+1.
+
+    * Their small stature grants a bonus to Stealth (+1D) and Dodge
+    (+1D) when fighting creatures man-sized or larger. All Hannedyn must
+    take the Small complication while their Might is limited to 3D+1.
+
+
+### New Complications ###
+
+* Small: This is a Racial Complication. Player Characters gain
+this only by the associated racial perk. Small characters receive
+a -5 penalty on all Might skill checks, Might based damage rolls,
+Block, and Parry. This penalty doesn't apply to Stamina, healing,
+and resisting damage. This penalty doesn't apply when fighting a
+Small or Tiny creature. Earn 1 bonus CP each session.
+
+* Tiny: This is a Racial Complication. Player Characters gain
+this only by the associated racial perk. Tiny characters receive a
+-10 penalty on all Might skill checks, Might based damage rolls,
+Block, and Parry. This penalty doesn't apply to Stamina, healing,
+and resisting damage. This penalty doesn't apply when fighting
+another Tiny creature. Earn 1 bonus CP each session.
+
+* Vessel: Available only to female characters. You were born with
+the Mark of Radiance. The Radiant Queen will hunt you all your
+days. Earn 1 bonus CP per session when you face her minions.
+
+
+### Gear for Brownies and Hanedyn ###
+
+Any item can be made for tiny or small characters. The
+statistics are the same as their normal sized counterparts. Simply
+apply the Tiny or Small penalty as appropriate. Characters that try
+to use items too big for their size suffer double normal penalties.
+
+
 
 My finger is more powerful than you know.
 
@@ -4180,30 +4230,9 @@ Static: Dodge 10, Block 19, Parry 16, Soak 16
 Static: Dodge 15 (21), Block 6,
 Parry 6, Soak 6
 
+
 Advice for the GM
-
-Adventure Seeds
-The Golden Key: The player characters have found the key to
-the Vault of Lorna Fields. Legends tell of a hidden treasure horde
-to the east of Lorna Elon. When the key is held at the Crossroads
-under the light of the full moon the entrance will be revealed.
-Some legends speak of great wealth; others though make it
-less glamorous. Whispering of dark monsters held fast until the
-ancient line of kings would offer mercy and freedom if the beasts
-accepted a geas. Those still held refused such a punishment.
-Down the Fairie Ring: While travelling through the deep forest
-the player characters stumble into a Fairie Ring. These magical
-doorways are normally closed, but sadly this fairie keep has
-fallen under a curse and now they seek to bring others into their
-madness. The players must find their way out or break the curse
-before madness captures them as well.
-
-Scale: +4D Fairie
-
-Agility: 2D+2 Charm: 2D
-
-Static: Dodge 12 (15), Block 6,
-Parry 6, Soak 6
+-----------------
 
 Rust Moon of Castia is classic fantasy adventure; a world of
 heroes and adventurers fighting for fortune and glory under the
@@ -4213,10 +4242,44 @@ trying to find the next lost treasure horde. It is always best to work
 with players when deciding on what kind of fantasy campaign to
 run because tastes can vary wildly.
 
-Any item can be made for tiny or small characters. The
-statistics are the same as their normal sized counterparts. Simply
-apply the Tiny or Small penalty as appropriate. Characters that try
-to use items too big for their size suffer double normal penalties.
+
+Adventure Seeds
+---------------
+
+### The Golden Key ###
+
+The player characters have found the key to
+the Vault of Lorna Fields. Legends tell of a hidden treasure horde
+to the east of Lorna Elon. When the key is held at the Crossroads
+under the light of the full moon the entrance will be revealed.
+Some legends speak of great wealth; others though make it
+less glamorous. Whispering of dark monsters held fast until the
+ancient line of kings would offer mercy and freedom if the beasts
+accepted a geas. Those still held refused such a punishment.
+
+
+### Down the Fairie Ring ###
+
+While travelling through the deep forest
+the player characters stumble into a Fairie Ring. These magical
+doorways are normally closed, but sadly this fairie keep has
+fallen under a curse and now they seek to bring others into their
+madness. The players must find their way out or break the curse
+before madness captures them as well.
+
+
+
+Scale: +4D Fairie
+
+Agility: 2D+2 Charm: 2D
+
+Static: Dodge 12 (15), Block 6,
+Parry 6, Soak 6
+
+
+
+
+
 
 Wit: 1D+2
 
@@ -4225,9 +4288,9 @@ Charm: 3D
 Perks & Comps: Attractive, Vessel. Perks & Comps: Brownie, Tiny
 Gear: Axe, chain mail(+6), shield(+4). Gear: Brownie bow and ugly hat.
 
-Gear for Brownies and Hanedyn
 
-Leviathan of terror.
+
+
 
 Wit: 4D
 Magic 5D
@@ -4239,21 +4302,7 @@ long sword.
 Static: Dodge 17, Block 9,
 Parry 15, Soak 9 (21)
 
-Small: This is a Racial Complication. Player Characters gain
-this only by the associated racial perk. Small characters receive
-a -5 penalty on all Might skill checks, Might based damage rolls,
-Block, and Parry. This penalty doesn't apply to Stamina, healing,
-and resisting damage. This penalty doesn't apply when fighting a
-Small or Tiny creature. Earn 1 bonus CP each session.
-Tiny: This is a Racial Complication. Player Characters gain
-this only by the associated racial perk. Tiny characters receive a
--10 penalty on all Might skill checks, Might based damage rolls,
-Block, and Parry. This penalty doesn't apply to Stamina, healing,
-and resisting damage. This penalty doesn't apply when fighting
-another Tiny creature. Earn 1 bonus CP each session.
-Vessel: Available only to female characters. You were born with
-the Mark of Radiance. The Radiant Queen will hunt you all your
-days. Earn 1 bonus CP per session when you face her minions.
+
 
 Might: 3D+1
 
@@ -4261,9 +4310,14 @@ Your leg? I would love to break it.
 
 Did my beauty or axe strike you helpless? This way! No... That way!
 
-New Complications
 
-*****
+
+
+
+Example Characters
+------------------
+
+### Mad Mercenary ###
 
 Hannedyn Apprentice
 
@@ -4272,106 +4326,56 @@ Parry 17, Soak 11 (17)
 
 New Perks
 
-Arnax
 
-Mad Mercenary
+Example Creatures
+-----------------
 
-*
+### Arnax ###
 
-Scale: 0D Troll Ape
+Leviathan of terror.
+
+* Threat: !!!!!
+* Scale: +4D
+* Might: 3D+1
+* Wit: 1D+2
+* Agility: 2D+2 
+* Charm: 2D
+* Skills: Brawling 6D, Breath Attack 6D
+* Attacks: Bite (character scale, 7D), Breath Fire (5D, range 30 ft )
+* Perks: Two Heads (makes 2 bites with no penalty)
+* Static: Dodge 10, Block 19, Parry 16, Soak 16
+
+
+### Fairie ###
 
 Tinkling lights in the forest.
-Might: 1D+1
 
-Wit: 2D
+* Threat: !
+* Scale: 0D
+* Might: 1D+1
+* Wit: 2D
+* Agility: 5D+2 
+* Charm: 3D
+* Skills: Bow 6D+2, Dodge 8D+2, Stealth 8D+2
+* Perks: ESP, Faint Glow (like a candle), Fly (60 ft/round), Mute, Tiny
+* Static: Dodge 26, Block 4, Parry 4, Soak 4
+* Gear: Fairie Bow, Fairie Dust
 
-Agility: 5D+2 Charm: 3D
 
-Skills: Bow 6D+2, Dodge 8D+2, Stealth 8D+2
-Perks: ESP, Faint Glow (like a candle),
-Fly (60 ft/round), Mute, Tiny
-Static: Dodge 26, Block 4, Parry 4, Soak 4
-Gear: Fairie Bow, Fairie Dust
-
-25
-
-/
-
-***
-
-Scale: 0D
+### Troll Ape ###
 
 Smells worse than it looks.
-Might: 5D+1
 
-Wit: 1D+1
-
-Agility: 3D+1 Charm: 1D
-
-Skills: Athletics 4D+1, Brawling 6D+1,
-Tracking 4D+1
-Perks: Regeneration, Scale any Surface
-Static: Dodge 10, Block 19, Parry 16, Soak 16
-Gear: None
-
-
-Victorean Fantasy / Gotich Horror
-================================
-
-"My friends,we are going into a terrible danger, and we need arms of 
-many kinds. Our enemy is not merely spiritual. Remember that he has 
-the strength of twenty men, and that, though our necks or our 
-windpipes are of the common kind,and therefore breakable or 
-crushable, his are not amenable to mere strength. A stronger man, or 
-a body of men more strong in all than him, can at certain times hold 
-him, but they cannot hurt him as we can be hurt by him. We must, 
-therefore, guard ourselves from his touch. Keep this near your 
-heart." As he spoke he lifted a little silver crucifix and held it 
-out to me, I being nearest to him, "put these flowers round your 
-neck," here he handed to me a wreath of withered garlic blossoms, 
-"for other enemies more mundane, this revolver and this knife,and for 
-aid in all, these so small electric lamps, which you can fasten to your 
-breast, and for all, and above all at the last, this, which we must not 
-desecrate needless." 
-
-
-Character Creation Guidelines
------------------------------
-
-Skills
-
-Might: Brawling, Cane/Club, Knife, Lift , Stamina, Sword
-Agility: Athletics, Bow, Dodge, Drive, Electro-Tether,
-Pickpocket, Pilot, Pistol, Rifl e, Stealth, Th rowing
-Wit: Cultures, History, Language, Occult, Medicine, Pick Locks,
-Repair, Science, Search, Tracking
-Charm: Command, Contacts, Courage, Diplomacy, Persuasion,
-Ride, Seduce, Streetwise
-New Perks
-Aristocrat (1): Your name has some weight on occasion. When
-attempting to gain access to a noble’s residence, avoiding arrest, or
-any other occasion where status is a factor you can try and draw
-on your family. Once per session you can double the result of any
-one Charm based roll when attempting to exploit your name.
-Medium (2): You see dead people. Th e invisible ones no one else
-can see. You hear them too but that doesn’t sound as impressive. If
-they are close enough, you can even compel answers from them,
-but this is much harder. Th ey have to be incorporeal and within
-20 feet for this aspect to work. To compel or bind them requires
-at least two rounds of concentration and an Occult roll opposed
-by the target’s Courage. Th e fi rst success holds the target fast. Each
-successful contest aft er the fi rst compels one honest answer.
-Wealthy (1): Old money, industrialist, or benefactor of ill-gotten
-gains, however you did it, you have money. Far more than most.
-Each month the character receives a stipend of £80 (10 times the
-average income).
-
-
-
-Modern
-======
-
-
+* Threat: !!!
+* Scale: 0D
+* Might: 5D+1
+* Wit: 1D+1
+* Agility: 3D+1 
+* Charm: 1D
+* Skills: Athletics 4D+1, Brawling 6D+1, Tracking 4D+1
+* Perks: Regeneration, Scale any Surface
+* Static: Dodge 10, Block 19, Parry 16, Soak 16
+* Gear: None
 
 
 Imperium in Revolt
@@ -4572,92 +4576,6 @@ Coronation Day, the ancient order was outlawed. The Shadow Guard became
 the Inquisition and now hunt for their former brothers in arms.
 
 
-### High Inquisitor ###
-
-You will submit.
-
-* Might: 3D
-
-Agility: 2D+2
-
-Brawling 4D+2 Dodge 6D+2
-Plasma Sword 8D Pistol 5D
-Stamina 6D
-Stealth 5D+1
-
-Wit: 4D
-Computer 5D
-History 6D+1
-Language 6D
-Magic 9D+2
-Tracking 7D
-
-Charm: 2D+1
-Command 7D+1
-Courage 6D+2
-Diplomacy 6D
-
-Static: Dodge 20, Block 14
-Parry 24, Soak 9 (18)
-Perks: Cyborg, Favors, Sorcerer
-Gear: Custom body armor (+9),
-plasma sword, pistol
-
-Centurion
-For the Imperium!
-Might: 3D+1
-
-Agility: 2D+2
-
-Brawling 4D+1
-Stamina 4D
-
-Dodge 3D+2
-Pistol 4D
-Rifle 4D+1
-
-Wit: 2D
-
-Charm: 2D
-
-Search 3D
-
-Command 2D+1
-
-Static: Dodge 11, Block 13
-Parry 10, Soak 10 (16)
-Gear: Body Armor (+6), Rifle
-
-Bounty Hunter
-Everyone has a price on them.
-Might: 3D+1
-
-Agility: 3D+1
-
-Brawling 4D
-Melee 4D
-
-Dodge 4D
-Pistol 4D
-Rifle 4D
-
-Wit: 3D
-
-Charm: 2D+1
-
-Computer 4D
-Search 4D
-Tracking 4D
-
-Diplomacy 3D
-
-Static: Dodge 12, Block 12
-Parry 12, Soak 10 (13)
-Gear: Body armor (+6), rifle, taser
-manacles, tracking beacons
-
-
-
 Using Magic in the Imperium
 ---------------------------
 
@@ -4700,6 +4618,73 @@ Example Characters
 Player characters take the role of rebels, smugglers, knights,
 and others who stand against the Imperium. They are fighting for
 freedom; even if only their own.
+
+
+### High Inquisitor ###
+
+You will submit.
+
+* Might: 3D
+    * Brawling 4D+2
+    * Plasma Sword 8D
+    * Stamina 6D
+* Agility: 2D+2
+    * Dodge 6D+2
+    * Pistol 5D
+    * Stealth 5D+1
+* Wit: 4D
+    * Computer 5D
+    * History 6D+1
+    * Language 6D
+    * Magic 9D+2
+    * Tracking 7D
+* Charm: 2D+1
+    * Command 7D+1
+    * Courage 6D+2
+    * Diplomacy 6D
+* Static: Dodge 20, Block 14, Parry 24, Soak 9 (18)
+* Perks: Cyborg, Favors, Sorcerer
+* Gear: Custom body armor (+9), plasma sword, pistol
+
+
+### Centurion ###
+
+For the Imperium!
+
+* Might: 3D+1
+    * Brawling 4D+1
+    * Stamina 4D
+* Agility: 2D+2
+   * Dodge 3D+2
+   * Pistol 4D
+   * Rifle 4D+1
+* Wit: 2D
+   * Search 3D
+* Charm: 2D
+   * Command 2D+1
+* Static: Dodge 11, Block 13, Parry 10, Soak 10 (16)
+* Gear: Body Armor (+6), Rifle
+
+
+### Bounty Hunter ###
+
+Everyone has a price on them.
+
+* Might: 3D+1
+   * Brawling 4D
+   * Melee 4D
+* Agility: 3D+1
+   * Dodge 4D
+   * Pistol 4D
+   * Rifle 4D
+* Wit: 3D
+   * Computer 4D
+   * Search 4D
+   * Tracking 4D
+* Charm: 2D+1
+   * Diplomacy 3D
+* Static: Dodge 12, Block 12, Parry 12, Soak 10 (13)
+* Gear: Body armor (+6), rifle, taser manacles, tracking beacons
 
 
 ### Minor Paladin ###
@@ -4766,6 +4751,7 @@ Perks: Favors
 
 Gear: hold-out pistol, wardrobe.
 
+
 ### Telmek Gangster ###
 
 *Of course I can help you out.*
@@ -4797,6 +4783,7 @@ Static: Dodge 14, Block 13, Parry 12, Soak 9
 Perks: Favors, Telmek
 
 Gear: Pistol, pocket computer.
+
 
 ### Kaishee Pilot ###
 
