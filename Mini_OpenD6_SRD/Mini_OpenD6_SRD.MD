@@ -2414,32 +2414,44 @@ Fantasy Beastiary
 
 Can you ride me? I say nay.
 
-Threat: !!
-Scale: 0D
-Might: 4D
-Wit: 1D+2
-Agility: 2D+1 
-Charm: 2D
-Skills: Bow 4D+1, Dodge 3D+1, Stamina 5D
-Gear: Bow & arrows.
-Static: Dodge 10, Block 12, Parry 12, Soak 12
+* Threat: !!
+* Scale: 0D
+* Might: 4D
+* Wit: 1D+2
+* Agility: 2D+1 
+* Charm: 2D
+* Skills: Bow 4D+1, Dodge 3D+1, Stamina 5D
+* Gear: Bow & arrows.
+* Static: Dodge 10, Block 12, Parry 12, Soak 12
 
 
-Scale: +0D
+### Elemental (Fire) ###
 
-Might: 4D+1
+Body of living flame.
+
+* Threat: !!
+* Scale: +0D
+* Might: 4D+1
+* Wit: 1D
+* Agility: 4D+2 
+* Charm: 1D
+* Skills: Brawling 5D+1, Dodge 5D+2
+* Perks: Ignite by Touch, Targets hit by brawling 
+  attack must make a Moderate Might check or
+  catch fire (4D damage/round until extinguished).
+* Comp: Weakness to Water (1D damage/gallon).
+* Static: Dodge 17, Block 16, Soak 13
+
+
+### Ghost ###
 
 Might: 0D
-
 Wit: 3D+2
-
 Agility: 4D
-
 Charm: 3D+1
 
-Wit: 1D
 
-Agility: 4D+2 Charm: 1D
+
 
 Fairie
 
@@ -2521,12 +2533,6 @@ D
 
 !!!
 
-Skills: Brawling 5D+1, Dodge 5D+2
-Perks: Ignite by Touch, Targets hit by brawling
-attack must make a Moderate Might check or
-catch fire (4D damage/round until extinguished).
-Comp: Weakness to Water (1D damage/gallon).
-Static: Dodge 17, Block 16, Soak 13
 
 Devil (Minor)
 
@@ -4148,8 +4154,8 @@ and resisting damage. This penalty doesn't apply when fighting a
 Small or Tiny creature. Earn 1 bonus CP each session.
 
 * Tiny: This is a Racial Complication. Player Characters gain
-this only by the associated racial perk. Tiny characters receive a
--10 penalty on all Might skill checks, Might based damage rolls,
+this only by the associated racial perk. Tiny characters receive 
+a -10 penalty on all Might skill checks, Might based damage rolls,
 Block, and Parry. This penalty doesn't apply to Stamina, healing,
 and resisting damage. This penalty doesn't apply when fighting
 another Tiny creature. Earn 1 bonus CP each session.
@@ -4165,70 +4171,6 @@ Any item can be made for tiny or small characters. The
 statistics are the same as their normal sized counterparts. Simply
 apply the Tiny or Small penalty as appropriate. Characters that try
 to use items too big for their size suffer double normal penalties.
-
-
-
-My finger is more powerful than you know.
-
-Might: 3D+2
-
-Agility: 3D+1 Might: 2D
-
-Agility: 3D
-
-Athletics 4D+1
-Brawling 4D+2
-Sword 5D+2
-
-Dodge 5D+1
-Riding 4D
-
-Dodge 4D
-
-Wit: 2D
-
-Charm: 3D
-
-Perks & Comps: Hannedyn,
-Small, Sorcerer
-Spells: Choose 2 spells.
-Gear: Spell book and walking stick.
-
-Warrior Maiden
-
-Brownie Scout
-
-Might: 3D
-
-Agility: 3D+2 Might: 2D
-
-Agility: 5D
-
-Axe/Mace 5D
-
-Dodge 5D+2
-
-Bow 6D
-
-Wit: 2D
-Lore 3D
-
-Charm: 3D+1
-Wit: 2D+1
-Command 4D+1 Tracking 4D+1
-
-Charm: 2D+2
-
-Skills: Brawling 6D, Breath Attack 6D
-Attacks: Bite (character scale, 7D)
-Breath Fire (5D, range 30 ft)
-Perks: Two Heads (makes 2 bites with no penalty)
-Static: Dodge 10, Block 19, Parry 16, Soak 16
-
-~
-
-Static: Dodge 15 (21), Block 6,
-Parry 6, Soak 6
 
 
 Advice for the GM
@@ -4268,63 +4210,73 @@ madness. The players must find their way out or break the curse
 before madness captures them as well.
 
 
-
-Scale: +4D Fairie
-
-Agility: 2D+2 Charm: 2D
-
-Static: Dodge 12 (15), Block 6,
-Parry 6, Soak 6
-
-
-
-
-
-
-Wit: 1D+2
-
-Charm: 3D
-
-Perks & Comps: Attractive, Vessel. Perks & Comps: Brownie, Tiny
-Gear: Axe, chain mail(+6), shield(+4). Gear: Brownie bow and ugly hat.
-
-
-
-
-
-Wit: 4D
-Magic 5D
-
-Perks & Comps: None
-Gear: Chain mail(+6), horse, and
-long sword.
-
-Static: Dodge 17, Block 9,
-Parry 15, Soak 9 (21)
-
-
-
-Might: 3D+1
-
-Your leg? I would love to break it.
-
-Did my beauty or axe strike you helpless? This way! No... That way!
-
-
-
-
-
 Example Characters
 ------------------
 
 ### Mad Mercenary ###
 
-Hannedyn Apprentice
+Your leg? I would love to break it.
 
-Static: Dodge 16, Block 14,
-Parry 17, Soak 11 (17)
+* Might: 3D+2
+   * Athletics 4D+1
+   * Brawling 4D+2
+   * Sword 5D+2
+* Agility: 3D+1 
+   * Dodge 5D+1
+   * Riding 4D
+* Wit: 2D
+* Charm: 3D
+* Static: Dodge 16, Block 14, Parry 17, Soak 11 (17)
+* Perks & Comps: None
+* Gear: Chain mail(+6), horse, and long sword.
 
-New Perks
+
+### Hannedyn Apprentice ###
+
+My finger is more powerful than you know.
+
+* Might: 2D
+* Agility: 3D
+    * Dodge 4D
+* Wit: 4D
+    * Magic 5D
+* Charm: 3D
+* Static: Dodge 12 (15), Block 6, Parry 6, Soak 6
+* Perks & Comps: Hannedyn, Small, Sorcerer
+* Spells: Choose 2 spells.
+* Gear: Spell book and walking stick.
+
+
+### Warrior Maiden ###
+
+Did my beauty or axe strike you helpless?
+
+Might: 3D
+   * Axe/Mace 5D
+Agility: 3D+2 
+   * Dodge 5D+2
+* Wit: 2D
+    * Lore 3D
+* Charm: 3D+1
+   * Command 4D+1 
+* Static: Dodge 17, Block 9, Parry 15, Soak 9 (21)
+* Perks & Comps: Attractive, Vessel. 
+* Gear: Axe, chain mail(+6), shield(+4).
+
+
+### Brownie Scout ###
+
+This way! No... That way!
+
+* Might: 2D
+* Agility: 5D
+    * Bow 6D
+* Wit: 2D+1
+   * Tracking 4D+1
+* Charm: 2D+2
+* Static: Dodge 15 (21), Block 6, Parry 6, Soak 6
+* Perks & Comps: Brownie, Tiny
+* Gear: Brownie bow and ugly hat.
 
 
 Example Creatures
