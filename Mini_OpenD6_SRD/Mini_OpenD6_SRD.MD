@@ -1,13 +1,19 @@
 Mini OpenD6 SRD
 ===============
 
-An SRD based on Mini Six, by Antipaladin Games.
+An SRD based on Mini Six, by Antipaladin Games. This SRD contans all
+the elements that are not identified as Product Identy under the 
+Open Game License.
+
+I would like to thank Antipaladin games for making the Mini Six Bare Bones
+Edition. I feel it is important and useful to have a collection of the 
+open content the definitive modern OpenD6 rules set.
 
 
 About this Book
 ---------------
 
-Mini Six is a member of the OpenD6 family of games.
+[Mini OpenD6] is a member of the OpenD6 family of games.
 
 It's cinematic and flexible like its parent, but its goal is to be
 lighter and faster, keeping the heart of the system's mechanics
@@ -30,7 +36,7 @@ the rules conflict with fun, fun wins.
 Definitions of Common Game Terms
 --------------------------------
 
-Mini Six wasn't written to be read from the standpoint of the
+[Mini OpenD6] wasn't written to be read from the standpoint of the
 novice gamer; someone who's never seen a roleplaying game before.
 So, if you're lost the following definitions might prove helpful.
 Adventure: The story the player characters are taking part in.
@@ -171,38 +177,29 @@ them all into a unified skill named "Melee Combat."
 ### All Genres ###
 
 * Might Skills: Brawling, Knife, Lift, Mace, Stamina
-
 * Agility Skills: Athletics, Dodge, Pickpocket, Stealth, Throwing
-
 * Wit Skills: History, Language, Medicine, Pick Locks, Search, Tracking
-
 * Charm Skills: Command, Courage, Diplomacy, Persuasion, Seduce
 
 
 ### Modern or Sci-fi ###
 
 * Agility Skills: BFG, Drive, Pilot, Pistol, Rifle
-
 * Wit Skills: Computer, Navigation, Repair, Science
-
 * Charm Skills: Streetwise
 
 
 ### Fantasy ###
 
 * Might Skills: Axe, Pole Arm, Smithing, Sword
-
 * Agility Skills: Bow, Crossbow
-
 * Wit Skills: Magic
-
 * Charm Skills: Ride
-
 
 *Note: Combat skills are not allowed specializations.*
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Skill Specializations
 ---------------------
@@ -227,21 +224,18 @@ and inspiration. The cost listed next to each is in whole skill dice.
 
 ### Racial Perks ###
 
-Dwarf (1): You're long lived, you can see in the dark, you receive
-+2 to smithing or any other craft skill, Your maximum Might is
-5D but your maximum Agility is 3D.
-
-Elf (2): You're long lived, you can see in the dark, you receive a
-+1 on all ranged attacks, Your maximum Agility is 5D but your
-maximum Might is only 3D.
-
-Reptoid (2): You're green and scaly, this gives a +1 Armor Value.
-You also have claw-tipped fingers which grant you +1 damage on
-unarmed attacks. You might also be asexual. Sorry.
-
-Robot (4): You don't eat, breathe, or sleep. You can have your
-memory wiped. You don't heal but you can be repaired. As long as
-your memory core survives you may be rebuilt if destroyed.
+* Dwarf (1): You're long lived, you can see in the dark, you receive
+  +2 to smithing or any other craft skill, Your maximum Might is
+  5D but your maximum Agility is 3D.
+* Elf (2): You're long lived, you can see in the dark, you receive 
+  a +1 on all ranged attacks, Your maximum Agility is 5D but your
+  maximum Might is only 3D.
+* Reptoid (2): You're green and scaly, this gives a +1 Armor Value.
+  You also have claw-tipped fingers which grant you +1 damage on
+  unarmed attacks. You might also be asexual. Sorry.
+* Robot (4): You don't eat, breathe, or sleep. You can have your
+  memory wiped. You don't heal but you can be repaired. As long as
+  your memory core survives you may be rebuilt if destroyed.
 
 
 ### General Perks ###
@@ -571,15 +565,10 @@ dodge attacks from or actually attempting to attack a larger scaled
 opponent add the difference to their dodge and attack rolls.
 
 * Character, Animals: None
-
 * Air Cycle, Car, Little Dragon, Wagon: +2D /+6 to Dodge & Soak
-
 * Big Dragon, Galley, Mecha, Tank: +4D/+12 to Dodge & Soak
-
 * Fighter, Lt. Transport, Heavy Mecha: +6D/+18 to Dodge & Soak
-
 * Capital Ship, Elder God, Space Station: +12D/+36 to Dodge & Soak
-
 * Mega Space Station, Planets: +24D/+72 to Dodge & Soak
 
 
@@ -598,13 +587,9 @@ heals one wound level.
 *Wound Level: Frequency (N. Healing): Might Difficulty: Assisted Healing Difficulty*
 
 * Stunned: 1 minute: automatic: Easy
-
 * Wounded: 3 days: 6: Moderate
-
 * Severely Wounded: 3 days: 6: Moderate
-
 * Incapacitated: 2 weeks: 8: Difficult
-
 * Mortally Wounded: 5 weeks: 9: Very Difficult
 
 
@@ -620,7 +605,7 @@ OpenD6 Combat.
 Fast Static Combat reduces the number of die rolls without significantly 
 altering the results compared to Traditional OpenD6 Combat.
 
-Mini Six supports both flavors so you can easily use whichever method 
+[Mini OpenD6] supports both flavors so you can easily use whichever method 
 you prefer.
 
 
@@ -1833,7 +1818,7 @@ All Genres
 
 ### Ape ###
 
-Th e Great Ape or Yeti.
+The Great Ape or Yeti.
 
 * Threat: !!!
 * Scale: 0D
@@ -1993,21 +1978,6 @@ Modern Stock Characters
 * Static: Dodge 10, Block 6, Parry 6, Soak 6
 
 
-### Ninja ###
-
-Agents of the shadows.
-
-* Threat: !!!!
-* Scale: 0D
-* Might: 3D+1
-* Wit: 2D+2
-* Agility: 4D
-* Charm: 2D
-* Skills: Brawling 5D, Dodge 5D, Stealth 5D, Sword 5D+1
-* Gear: Sword (6D).
-* Static: Dodge 15, Block 15, Parry 16, Soak 7
-
-
 ### Criminal (Thug) ###
 
 Mooks!
@@ -2021,6 +1991,21 @@ Mooks!
 * Skills: Brawling 3D, Pistol 3D
 * Gear: Crowbar, heavy pistol, ski mask.
 * Static: Dodge 7, Block 9, Soak 8
+
+
+### Ninja ###
+
+Agents of the shadows.
+
+* Threat: !!!!
+* Scale: 0D
+* Might: 3D+1
+* Wit: 2D+2
+* Agility: 4D
+* Charm: 2D
+* Skills: Brawling 5D, Dodge 5D, Stealth 5D, Sword 5D+1
+* Gear: Sword (6D).
+* Static: Dodge 15, Block 15, Parry 16, Soak 7
 
 
 ### Policeman ###
@@ -2120,24 +2105,6 @@ You didn't know that?! Hah!
 * Static: Dodge 15, Block 4, Parry 4, Soak 4
 
 
-### Reptoid Pilot ###
-
-Smuggler with 2 hearts of gold.
-
-* Threat: !!!
-* Scale: 0D
-* Might: 4D
-* Wit: 2D+1
-* Agility: 3D+1 
-* Charm: 2D+1
-* Skills: Dodge 5D+1, Stealth 4D,
-* Pistol 4D, Pilot 5D
-* Perks: Reptoid
-* Comp: Unlucky in Money (huge debt)
-* Gear: Plasma pistol, star yacht.
-* Static: Dodge 16, Block 12, Parry 12, Soak 12(13)
-
-
 ### Knight-Mystic ###
 
 Monastic warriors of truth.
@@ -2156,6 +2123,24 @@ Monastic warriors of truth.
   Telekinesis.
 * Gear: Plasma sword.
 * Static: Dodge 19, Block 9, Parry 20, Soak 9
+
+
+### Reptoid Pilot ###
+
+Smuggler with 2 hearts of gold.
+
+* Threat: !!!
+* Scale: 0D
+* Might: 4D
+* Wit: 2D+1
+* Agility: 3D+1 
+* Charm: 2D+1
+* Skills: Dodge 5D+1, Stealth 4D,
+* Pistol 4D, Pilot 5D
+* Perks: Reptoid
+* Comp: Unlucky in Money (huge debt)
+* Gear: Plasma pistol, star yacht.
+* Static: Dodge 16, Block 12, Parry 12, Soak 12(13)
 
 
 ### Robot Mechanic ###
@@ -2281,37 +2266,6 @@ Savage from the north hills.
 * Static: Dodge 13, Block 14, Parry 17, Soak 11(13)
 
 
-### Guard ###
-
-Guard, gladiator, or soldier.
-
-* Threat: !!
-* Scale: 0D
-* Might: 3D
-* Wit: 2D
-* Agility: 2D
-* Charm: 2D
-* Skills: Brawling 4D, Dodge 3D, Sword or Mace 4D
-* Gear: Leather armor (+2), sword or mace.
-* Static: Dodge 9, Block 12, Parry 12, Soak 9(11)
-
-
-### Pirate ###
-
-Yoho!
-
-* Threat: !!!
-* Scale: 0D
-* Might: 2D
-* Wit: 2D
-* Agility: 4D
-* Charm: 2D
-* Skills: Brawling 3D, Dodge 5D, Navigation 3D, 
-  Sailing 5D, Sword 4D
-* Gear: Compass or spy glass, sword.
-* Static: Dodge 15, Block 9, Parry 12, Soak 6
-
-
 ### Dwarf Warrior ###
 
 Clansman of the Great Hall.
@@ -2326,36 +2280,6 @@ Clansman of the Great Hall.
 * Perks: Dwarf
 * Gear: Axe, chain mail (+6).
 * Static: Dodge 9, Block 15, Parry 15, Soak 8(14)
-
-
-### Knight ###
-
-For King and country!
-
-* Threat: !!!
-* Scale: 0D
-* Might: 3D+1
-* Wit: 2D
-* Agility: 2D+2 
-* Charm: 2D
-* Skills: Dodge 3D+2, Sword 4D+2, Riding 3D
-* Gear: Horse, plate mail (+9), shield (+4), sword.
-* Static: Dodge 11, Block 10, Parry 14, Soak 10(23)
-
-
-### Thief ###
-
-What's yours is mine.
-
-* Threat: !!
-* Scale: 0D
-* Might: 2D
-* Wit: 2D
-* Agility: 3D+1 
-* Charm: 2D+2
-* Skills: Pick Locks 3D, Pickpocket 4D, Stealth 5D
-* Gear: Leather armor(+2), lock picks, knife.
-* Static: Dodge 9, Block 12, Parry 12, Soak 9(11)
 
 
 ### Elf Bowman ###
@@ -2374,6 +2298,52 @@ Guardian of the forest.
 * Static: Dodge 15, Block 6, Parry 9, Soak 6(8)
 
 
+### Guard ###
+
+Guard, gladiator, or soldier.
+
+* Threat: !!
+* Scale: 0D
+* Might: 3D
+* Wit: 2D
+* Agility: 2D
+* Charm: 2D
+* Skills: Brawling 4D, Dodge 3D, Sword or Mace 4D
+* Gear: Leather armor (+2), sword or mace.
+* Static: Dodge 9, Block 12, Parry 12, Soak 9(11)
+
+
+### Knight ###
+
+For King and country!
+
+* Threat: !!!
+* Scale: 0D
+* Might: 3D+1
+* Wit: 2D
+* Agility: 2D+2 
+* Charm: 2D
+* Skills: Dodge 3D+2, Sword 4D+2, Riding 3D
+* Gear: Horse, plate mail (+9), shield (+4), sword.
+* Static: Dodge 11, Block 10, Parry 14, Soak 10(23)
+
+
+### Pirate ###
+
+Yoho!
+
+* Threat: !!!
+* Scale: 0D
+* Might: 2D
+* Wit: 2D
+* Agility: 4D
+* Charm: 2D
+* Skills: Brawling 3D, Dodge 5D, Navigation 3D, 
+  Sailing 5D, Sword 4D
+* Gear: Compass or spy glass, sword.
+* Static: Dodge 15, Block 9, Parry 12, Soak 6
+
+
 ### Priest ###
 
 Righteous defender.
@@ -2388,6 +2358,21 @@ Righteous defender.
 * Perks: Sorcerer. Spells: Heal, Bless, +2 more
 * Gear: Chain mail(+3), staff.
 * Static: Dodge 9, Block 7, Parry 7, Soak 7(13)
+
+
+### Thief ###
+
+What's yours is mine.
+
+* Threat: !!
+* Scale: 0D
+* Might: 2D
+* Wit: 2D
+* Agility: 3D+1 
+* Charm: 2D+2
+* Skills: Pick Locks 3D, Pickpocket 4D, Stealth 5D
+* Gear: Leather armor(+2), lock picks, knife.
+* Static: Dodge 9, Block 12, Parry 12, Soak 9(11)
 
 
 ### Wizard ###
@@ -2425,11 +2410,45 @@ Can you ride me? I say nay.
 * Static: Dodge 10, Block 12, Parry 12, Soak 12
 
 
+### Devil (Minor) ###
+
+I'm the best there's ever been.
+
+* Threat: !!!!
+* Scale: 0D
+* Might: 3D
+* Wit: 3D+1
+* Agility: 2D+2
+* Charm: 5D
+* Skills: Brawling 5D, Dodge 4D+2, Persuasion 7D, Seduce 6D
+* Perks: Regeneration, Speaks All Languages.
+* Static: Dodge 14, Block 15, Soak 9
+
+
+### Dragon ###
+
+Master of all he surveys.
+
+* Threat: !!!!!
+* Scale: +4D
+* Might: 4D
+* Wit: 4D
+* Agility: 2D
+* Charm: 3D
+* Skills: Brawling 5D, Breath Attack 5D
+* Attacks: Bite (character scale, 8D damage) or
+  Bite (dragon scale, 4D damage), 
+  Tail Bash (character scale, 4D damage),
+  Breath Fire (3D damage, range 60 ft)
+* Perks: Scales (+3 armor), Fly 90 ft/round
+* Static: Dodge 6, Block 15, Soak 12 (15)
+
+
 ### Elemental (Fire) ###
 
 Body of living flame.
 
-* Threat: !!
+* Threat: !!!
 * Scale: +0D
 * Might: 4D+1
 * Wit: 1D
@@ -2443,466 +2462,308 @@ Body of living flame.
 * Static: Dodge 17, Block 16, Soak 13
 
 
-### Ghost ###
-
-Might: 0D
-Wit: 3D+2
-Agility: 4D
-Charm: 3D+1
-
-
-
-
-Fairie
-
-Wit: 3D+1
-
-Agility: 2D+2 Charm: 5D
-
-~
-
-!
-
-Scale: 0D
+### Fairie ###
 
 Third star to the right...
-Might: 1D
 
-Wit: 2D
-
-Agility: 4D+1 Charm: 2D+2
-
-Master of all he surveys.
-
-Skills: Athletics 3D, Dodge 6D+1, Magic 4D
-Perks: Sorcerer, Fly 60 ft/round
-Spells: Charm, Illusions, Light, Slumber
-Static: Dodge 19, Block 3, Soak 3
-
-Might: 4D
-
-Wit: 4D
-
-Gargoyle
-
-Agility: 2D
-
-Charm: 3D
-
-Dragon
-
-!!!!!
-
-Scale: +4D
-
-Skills: Brawling 5D, Breath Attack 5D
-Attacks: Bite (character scale, 8D damage) or
-Bite (dragon scale, 4D damage)
-Tail Bash (character scale, 4D damage),
-Breath Fire (3D damage, range 60 ft)
-Perks: Scales (+3 armor), Fly 90 ft/round
-Static: Dodge 6, Block 15, Soak 12 (15)
-
-O
-
-Scale: 0D
-
-!!!!
-Doomed spirit.
-
-Might: 3D
-
-Scale: 0D
-
-Ghost
-
-Body of living flame.
-
-I'm the best there's ever been.
-
-!!!!
-
-Skills: Brawling 5D, Dodge 4D+2,
-Persuasion 7D, Seduce 6D
-Perks: Regeneration, Speaks All Languages.
-Static: Dodge 14, Block 15, Soak 9
-
-D
-
-}
-
-!!!
+* Threat: !
+* Scale: 0D
+* Might: 1D
+* Wit: 2D
+* Agility: 4D+1
+* Charm: 2D+2
+* Skills: Athletics 3D, Dodge 6D+1, Magic 4D
+* Perks: Sorcerer, Fly 60 ft/round
+* Spells: Charm, Illusions, Light, Slumber
+* Static: Dodge 19, Block 3, Soak 3
 
 
-Devil (Minor)
-
-s
-
-Elemental (Fire)
-
-!!!
-
-Scale: 0D
+### Gargoyle ###
 
 Stone guardian.
-Might: 2D
 
-Wit: 1D
+* Threat: !!!
+* Scale: 0D
+* Might: 2D
+* Wit: 1D
+* Agility: 2D+2 
+* Charm: 1D
+* Skills: Brawling 4D+1, Dodge 4D, Search 3D+2, 
+  Stamina 4D, Stealth 4D+1
+* Perk: Fly 60 ft/round, Armor Skin (+9)
+* Static: Dodge 12, Block 13, Soak 6(15)
 
-Agility: 2D+2 Charm: 1D
-Skills: Brawling 4D+1, Dodge 4D,
-Search 3D+2, Stamina 4D, Stealth 4D+1
-Perk: Fly 60 ft/round, Armor Skin (+9)
-Static: Dodge 12, Block 13, Soak 6(15)
 
-16
+### Ghost ###
 
-Skills: Brawling 4D+2, Dodge 5D, Stealth 6D
-Perks: Insubstantial (can only be harmed by
-magic or enchanted weapons; uses Wit in place
-of Might to resist and deal damage);
-Mournful Wail (any who hear the wail must
-make a Moderate Courage check or flee).
-Static: Dodge 15, Block 14, Soak 11
+Doomed spirit.
 
-Giant
+* Threat: !!!!
+* Scale: 0D
+* Might: 0D
+* Wit: 3D+2
+* Agility: 4D
+* Charm: 3D+1
+* Skills: Brawling 4D+2, Dodge 5D, Stealth 6D
+* Perks: Insubstantial (can only be harmed by magic or enchanted 
+  weapons; uses Wit in place of Might to resist and deal damage);
+  Mournful Wail (any who hear the wail must make a Moderate Courage 
+  check or flee).
+* Static: Dodge 15, Block 14, Soak 11
 
-@
 
-!!!!!
-
-Scale: +4D
+### Giant ###
 
 Grind your bones to paste.
-Might: 5D
 
-Wit: 2D
+* Threat: !!!!!
+* Scale: +4D
+* Might: 5D
+* Wit: 2D
+* Agility: 2D
+* Charm: 3D
+* Skills: Brawling 7D, Mace 7D, Throwing 4D
+* Gear: Mace (tree trunk).
+* Boulders: 3D damage, range 20 / 40 / 60
+* Static: Dodge 6, Block 21, Parry 21, Soak 15
 
-Agility: 2D
 
-Charm: 3D
-
-Skills: Brawling 7D, Mace 7D, Throwing 4D
-Gear: Mace (tree trunk).
-Boulders: 3D damage, range 20 / 40 / 60
-Static: Dodge 6, Block 21, Parry 21, Soak 15
-
-Goblin
-
-l
-
-!!
-
-Scale: 0D
+### Goblin ###
 
 Vermin from below.
-Might: 1D+1
 
-Wit: 1D+1
+* Threat: !!
+* Scale: 0D
+* Might: 1D+1
+* Wit: 1D+1
+* Agility: 2D+1 
+* Charm: 1D
+* Skills: Bow 3D, Dodge 3D+1, Stealth 2D+2
+* Gear: Bow & arrows, knife, shield(+4).
+* Static: Dodge 10, Block 4, Parry 4, Soak 4(8)
 
-Agility: 2D+1 Charm: 1D
-Skills: Bow 3D, Dodge 3D+1, Stealth 2D+2
-Gear: Bow & arrows, knife, shield(+4).
-Static: Dodge 10, Block 4, Parry 4, Soak 4(8)
 
-Golem
-
-!
-
-!!!!
-
-Scale: +2D
+### Golem ###
 
 Automatons of destruction.
-Might: 4D+1
 
-Wit: 1D
+* Threat: !!!!
+* Scale: +2D
+* Might: 4D+1
+* Wit: 1D
+* Agility: 2D
+* Charm: 1D
+* Skills: Brawling 6D+1, Dodge 4D, Lift 6D+1
+* Perks: Armor Skin (+3)
+* Static: Dodge 12, Block 19, Soak 13(16)
 
-Agility: 2D
 
-Charm: 1D
+### Gorgon ###
 
-Skills: Brawling 6D+1, Dodge 4D, Lift 6D+1
-Perks: Armor Skin (+3)
-Static: Dodge 12, Block 19, Soak 13(16)
-
-F
-
-Gorgon
-
-Scale: 0D
-
-!!!
 With baited breath.
-Might: 5D+1
 
-Wit: 0D
+* Threat: !!!
+* Scale: 0D
+* Might: 5D+1
+* Wit: 0D
+* Agility: 1D+2 
+* Charm: 1D
+* Skills: Brawling 6D+2, Breath Attack 3D+2
+* Perks: Armor Skin (+5), Petrifying Breath (60 ft range, any 
+  creature caught in it's breath must make a Moderate Stamina 
+  check or be paralyzed for 1d6 rounds).
+* Static: Dodge 5, Block 20, Soak 16(21)
 
-Agility: 1D+2 Charm: 1D
 
-Skills: Brawling 6D+2, Breath Attack 3D+2
-Perks: Armor Skin (+5), Petrifying Breath
-(60 ft range, any creature caught in it's breath
-must make a Moderate Stamina check or be
-paralyzed for 1d6 rounds).
-Static: Dodge 5, Block 20, Soak 16(21)
+### Griffon ###
 
-Griffon
-
-7
-
-Scale: 0D
-
-!!!
 Hunters of the sky.
-Might: 3D+2
 
-Wit: 1D
+* Threat: !!!
+* Scale: 0D
+* Might: 3D+2
+* Wit: 1D
+* Agility: 3D+1 
+* Charm: 1D
+* Skills: Brawling 5D, Dodge 5D+1, Stamina 6D
+* Perks: Fly (60 ft/round), Talons (+1D damage)
+* Static: Dodge 16, Block 15, Soak 11
 
-Agility: 3D+1 Charm: 1D
 
-Skills: Brawling 5D, Dodge 5D+1, Stamina 6D
-Perks: Fly (60 ft/round), Talons (+1D damage)
-Static: Dodge 16, Block 15, Soak 11
+### Harpy ###
 
-Harpy
-
-F
-
-Scale: 0D
-
-!!!
 She's a maneater.
+
+Threat: !!!
+Scale: 0D
 Might: 2D+2
-
 Wit: 2D
-
-Agility: 3D+1 Charm: 1D
-
+Agility: 3D+1 
+Charm: 1D
 Skills: Brawling 4D+2, Dodge 5D, Stealth 5D
 Perk: Fly (60 ft/round), Talons (+1D damage)
 Static: Dodge 15, Block 14, Soak 8
 
-Hell Hound
 
-W
+### Hell Hound ###
 
-Scale: 0D
-
-!!!
 The devil's lapdog.
+
+Threat: !!!
+Scale: 0D
 Might: 3D+2
-
 Wit: 1D
-
-Agility: 2D+1 Charm: 1D
-Skills: Breath Attack 4D+1, Brawling 4D+2,
-Dodge 3D+1, Tracking 5D
+Agility: 2D+1 
+Charm: 1D
+Skills: Breath Attack 4D+1, Brawling 4D+2, Dodge 3D+1, Tracking 5D
 Perks: Fire Breathing (20 ft range, 3D damage)
 Static: Dodge 10, Block 14, Soak 11
 
-Hydra
 
-a
-
-!!!!!
-
-Scale: +4D
-
-Medusa
-
-2
-
-Scale: 0D
-
-!!!!!
-Might: 2D+2
-
-Wit: 2D+2
-
-Scale: 0D
-
-Agility: 2D+2 Charm: 1D
-
-Might: 3D
-
-Wit: 0D
-
-Agility: 2D
-
-Charm: 1D
-
-Skills: Bow 4D+2, Dodge 4D+2, Stealth 4D
-Gear: Bow & arrows.
-Perks: Petrifying Visage (setting eyes upon a
-medusa will turn a character to stone if they
-fail a Difficult Stamina check. To avoid looking
-at her while targeting her requires a Moderate
-Wit check or closing one's eyes. Closed eyes
-incur a -20 penalty to the attack.)
-Static: Dodge 14, Block 8, Soak 10
-
-Skills: Athletics 4D, Brawling 4D, Dodge 3D
-Static: Dodge 9, Block 12, Soak 9
-
-Minotaur
-
-Troll
-
-m
-
-Scale: 0D
-
-!!!
-Master of the maze.
-Might: 5D+2
-
-Wit: 1D+2
-
-Skills: Pole Arm 6D+2, Dodge 3D+1,
-Tracking 5D+2
-Gear: Spear.
-Static: Dodge 10, Block 17, Parry 20, Soak 17
-
-Ogre
-
-y
-
-!!!!
-
-Scale: +2D
-
-Mercenaries and brigands.
-Might: 4D
-
-Wit: 1D+1
-
-Agility: 1D+1 Charm: 1D+1
-
-Skills: Axe 6D, Brawling 5D+2, Dodge 3D+1
-Gear: Axe, leather armor(+2).
-Static: Dodge 10, Block 17, Parry 18, Soak 12(14)
-
-Orc
-
-P
-
-Scale: 0D
-
-!!!
-Scourge of civilation.
-Might: 3D+1
-
-Wit: 1D+2
-
-Agility: 2D
-
-Charm: 1D
-
-Skills: Dodge 3D, Stealth 3D, Sword 4D+1
-Gear: Sword, shield(+4).
-Static: Dodge 9, Block 10, Parry 13, Soak 10(14)
-
-Pegasus
-
-9
-
-Scale: 0D
-
-!!!
-
-Sky mounts of the elves.
-Might: 4D+1
-
-Wit: 1D
-
-Agility: 2D+2 Charm: 2D
-
-Wit: 1D
-
-Agility: 2D
-
-Charm: 1D
-
-Phoenix
-
-r
-
-Skeleton
-
-,
-
-!!!!
-
-Scale: +2D
-
-The eternal bird.
-Might: 2D+1
-
-Wit: 2D
-
-Agility: 3D+2 Charm: 2D
-
-Skills: Brawling 6D, Dodge 6D+2
-Perks: Fly (60 ft/round)
-Explosive Death (when killed a 20 ft radius 5D
-fireball erupts from its body). Resurrection (at
-sunrise the next sunrise a new phoenix rises
-from the ashes.)
-Static: Dodge 20, Block 18, Soak 7
-
-17
-
-!!
-
-Scale: 0D
-
-Fleshless undead.
-Might: 2D
-
-Wit: 0D
-
-Agility: 3D
-
-Charm: 0D
-
-Static: Dodge 9, Block 6, Parry 6, Soak 6
-
-I
-
-Agility: 2D+1 Charm: 1D+1
-
-Might: 3D
-
-Skills: Brawling 5D, Search 4D
-Perks: Hydra Heads (A Hydra starts with three
-heads and has one Wounded level for each
-head but has no Severely Wounded level. A
-head is destroyed if it takes a Wounded damage
-level. Three rounds after a head is destroyed
-two new ones take its place. These heads
-provide extra Wounded levels.)
-Extra Attacks (make one unpenaliized attack
-for each head.)
-Static: Dodge 6, Block 15, Soak 9
-
-!!
-
-Most dispute they exist.
-
-Skills: Athletics 3D, Dodge 4D+2
-Perks: Fly (60 ft/round).
-Static: Dodge 14, Block 13, Soak 13
+### Hydra ###
 
 Many-headed terror.
 
-Rat of Unusual Size
+* Threat: !!!!!
+* Scale: +4D
+* Might: 3D
+* Wit: 1D
+* Agility: 2D 
+* Charm: 1D
+* Skills: Brawling 5D, Search 4D
+* Perks: Hydra Heads (A Hydra starts with three heads and has 
+  one Wounded level for each head but has no Severely Wounded 
+  level. A head is destroyed if it takes a Wounded damage
+  level. Three rounds after a head is destroyed two new ones 
+  take its place. These heads provide extra Wounded levels.),
+  Extra Attacks (make one unpenaliized attack for each head.)
+* Static: Dodge 6, Block 15, Soak 9
+
+
+### Medusa ###
 
 Stone cold killer.
 
-!!!!
+* Threat: !!!!!
+* Scale: 0D
+* Might: 2D+2
+* Wit: 2D+2
+* Agility: 2D+2 
+* Charm: 1D
+* Skills: Bow 4D+2, Dodge 4D+2, Stealth 4D
+* Gear: Bow & arrows.
+* Perks: Petrifying Visage (setting eyes upon a
+  medusa will turn a character to stone if they
+  fail a Difficult Stamina check. To avoid looking
+  at her while targeting her requires a Moderate
+  Wit check or closing one's eyes. Closed eyes
+  incur a -20 penalty to the attack.)
+* Static: Dodge 14, Block 8, Soak 10
 
-Scale: 0D
+
+### Minotaur ###
+
+Master of the maze.
+
+* Threat: !!!
+* Scale: 0D
+* Might: 5D+2
+* Wit: 1D+2
+* Agility: 2D+1 
+* Charm: 1D+1
+* Skills: Pole Arm 6D+2, Dodge 3D+1, Tracking 5D+2
+* Gear: Spear.
+* Static: Dodge 10, Block 17, Parry 20, Soak 17
+
+
+### Ogre ###
+
+Mercenaries and brigands.
+
+* Threat: !!!!
+* Scale: +2D
+* Might: 4D
+* Wit: 1D+1
+* Agility: 1D+1
+* Charm: 1D+1
+* Skills: Axe 6D, Brawling 5D+2, Dodge 3D+1
+* Gear: Axe, leather armor(+2).
+* Static: Dodge 10, Block 17, Parry 18, Soak 12(14)
+
+
+### Orc ###
+
+Scourge of civilation.
+
+* Threat: !!!
+* Scale: 0D
+* Might: 3D+1
+* Wit: 1D+2
+* Agility: 2D
+* Charm: 1D
+* Skills: Dodge 3D, Stealth 3D, Sword 4D+1
+* Gear: Sword, shield(+4).
+* Static: Dodge 9, Block 10, Parry 13, Soak 10(14)
+
+
+### Pegasus ###
+
+Sky mounts of the elves.
+
+* Threat: !!!
+* Scale: 0D
+* Might: 4D+1
+* Wit: 1D
+* Agility: 2D+2 
+* Charm: 2D
+* Skills: Athletics 3D, Dodge 4D+2
+* Perks: Fly (60 ft/round).
+* Static: Dodge 14, Block 13, Soak 13
+
+
+### Phoenix ###
+
+The eternal bird.
+
+* Threat: !!!!
+* Scale: +2D
+* Might: 2D+1
+* Wit: 2D
+* Agility: 3D+2
+* Charm: 2D
+* Skills: Brawling 6D, Dodge 6D+2
+* Perks: Fly (60 ft/round), Explosive Death (when 
+  killed a 20 ft radius 5D fireball erupts from its 
+  body). Resurrection (at the next sunrise a 
+  new phoenix rises from the ashes.)
+* Static: Dodge 20, Block 18, Soak 7
+
+
+### Rat of Unusual Size ###
+
+Most dispute they exist.
+
+* Threat: !!
+* Scale: 0D
+* Might: 3D
+* Wit: 0D
+* Agility: 2D
+* Charm: 1D
+* Skills: Athletics 4D, Brawling 4D, Dodge 3D
+* Static: Dodge 9, Block 12, Soak 9
+
+
+### Skeleton ###
+
+Fleshless undead.
+
+* Threat: !!
+* Scale: 0D
+* Might: 2D
+* Wit: 0D
+* Agility: 3D
+* Charm: 0D
+* Static: Dodge 9, Block 6, Parry 6, Soak 6
 
 
 ### Troll ###
@@ -2977,7 +2838,7 @@ Freshly risen undead.
 Optional Rules
 ==============
 
-By its nature Mini Six is highly customizable. With just a few
+By its nature [Mini OpenD6] is highly customizable. With just a few
 choices you can change it from a light hearted game of keystone cops
 to gritty survival horror. While it is always good to remember that all
 rules are optional when preparing for the game the following ideas
@@ -3319,7 +3180,7 @@ and take the higher number.
 Making the Game Your Own
 ========================
 
-Its possible to sit down and play a game with Mini Six on the
+Its possible to sit down and play a game with [Mini OpenD6] on the
 fly using just what has been provided. However, the game is much
 more enjoyable when some advance thought is put into the world
 the characters will adventure in. For repeated campaign style play
@@ -3379,7 +3240,7 @@ fails gently remind them this is a group oriented game.
 What are the Rules?
 -------------------
 
-We think we have a pretty good set here with Mini Six, but
+We think we have a pretty good set here with [Mini OpenD6], but
 some might call us biased. You might be happy with the default
 rules, but maybe you want something a little different. Okay Mr.
 Picky, write down which optional rules you are going to use.
@@ -3516,10 +3377,10 @@ forays then don't use them. Because even if you enjoy them, you will
 not enjoy five people whining for three hours.
 
 
-Converting Between Mini Six & Traditional OpenD6
+Converting Between [Mini OpenD6] & Traditional OpenD6
 ================================================
 
-Even though Mini Six is part of the OpenD6 family, it has
+Even though [Mini OpenD6] is part of the OpenD6 family, it has
 been tweaked in several ways. By making the following changes
 and applying the noted optional rules you can make Mni Six
 resemble its more recognized parent.
@@ -3533,11 +3394,11 @@ Player characters start with six attributes and distribute
 depending on the genre played. The following chart may help
 convert characters between the systems. Once dice have been
 distributed check your math. If you have more than 18D in
-traditional OpenD6, or 12D in Mini Six, adjust for balance using
+traditional OpenD6, or 12D in [Mini OpenD6], adjust for balance using
 common sense. If you have too few dice spent, then spend the
 remaining dice as best fits the character concept.
 
-*Mini Six Equivalent: OpenD6 Fantasy: OpenD6 Adventure: OpenD6 Sci-Fi*
+*[Mini OpenD6] Equivalent: OpenD6 Fantasy: OpenD6 Adventure: OpenD6 Sci-Fi*
 
 * Might: Physique: Physique: Strength
 * Agility: Agility: Reflexes: Dexterity
@@ -3628,197 +3489,52 @@ They always keep their word. They don't kill the innocent or leave
 them to die, ‘cause deep down they're damned fool heroes.
 
 
-Characters
-----------
-
-### Space Cowboy ###
-
-I might be aiming to raise a ruckus.
-
-
-Might: 3D
-Agility: 3D+1
-
-Brawling 4D
-Dodge 5D+1
-Pistols 5D+1
-
-Wit: 2D+1
-Charm: 3D+1
-
-Bluff 4D+1
-
 Character Creation Guidelines
+-----------------------------
+
 Higher Attributes at a Price, up to 5D (See page 18).
 
-Skill List
-Might: Brawling, Melee Weapons, Lift, Stamina
-Agility: Athletics, BFG, Bow, Dodge, Drive, Pickpocket, Pilot,
-Pistol, Rifle, Stealth, Throwing
-Wit: Computer, History, Language, Medicine, Navigation,
-Repair, Science, Security, Tracking
-Charm: Command, Diplomacy, Persuasion, Riding, Seduce,
-Streetwise
 
-New Complications
-Bull in a China Shop: The character is a klutz. Choose one
+### Skill List ###
+
+* Might: Brawling, Melee Weapons, Lift, Stamina
+* Agility: Athletics, BFG, Bow, Dodge, Drive, Pickpocket, Pilot,
+  Pistol, Rifle, Stealth, Throwing
+* Wit: Computer, History, Language, Medicine, Navigation,
+  Repair, Science, Security, Tracking
+* Charm: Command, Diplomacy, Persuasion, Riding, Seduce,
+  Streetwise
+
+
+### New Complications ###
+
+* Bull in a China Shop: The character is a klutz. Choose one
 Agility skill that the character can use without penalty. Increase
 the difficulty of all other Agility rolls by +5. Dodge skill isn't
 penalized. Earn one bonus CP each session.
-Damned Fool Hero: The character follows the code of Robin
+
+* Damned Fool Hero: The character follows the code of Robin
 Hood as described previously, (except for the giving to the needy
 part. A Hero's got to eat.) This is really just a Personal Code, so earn
 one CP whenever acting like a Damned Fool Hero complicates
 your life. (It's suggested that most of the player characters in the
 game have this complication, if not all.)
-Not Pretty Cunning: The character is uncouth and or
+
+* Not Pretty Cunning: The character is uncouth and or
 unattractive. Choose one Charm skill that the character can use
 without penalty. Increase the difficulty of all other Charm skill
 rolls by +5. Earn one bonus CP each session.
-No Book Learning: The character didn't benefit from a League
+
+* No Book Learning: The character didn't benefit from a League
 education. Choose one Wit skill that the character can use without
 penalty. Increase the difficulty of all other Wit skill rolls by +5.
 Earn one bonus CP each session.
-Weak: The character is less powerful than his build would imply.
+
+* Weak: The character is less powerful than his build would imply.
 Choose one Might skill that the character can use without penalty.
 Increase the difficulty of all other Might skill rolls by +5. Resisting
 damage and healing checks aren't penalized. Earn one bonus CP
 each session.
-
-Command 4D+1
-
-Static: Dodge 16, Block 12,
-Parry 9, Soak 9
-Perks & Comps: None
-Gear: Pistol
-
-First Mate
-
-"I call 'er Betty. She's the
-only lady I trust." - Brute
-City Slicker Doc
-
-Captain your plan is, well, not good. Could you be any cruder? I doubt it.
-
-Agility: 3D
-
-Pilot
-
-Mechanic
-
-Watch how I soar!
-
-What did you call our ship?!
-
-Agility: 3D+2 Might: 2D+1
-
-Agility: 3D+2
-
-Dodge 5D+1
-Pilot 5D+2
-
-Dodge 5D+1
-Pilot 5D+2
-
-Might: 3D
-Brawling 4D
-
-Agility: 3D
-
-Wit: 3D+1
-
-Charm: 2D+2
-
-Wit: 4D
-
-Charm: 3D
-
-Wit: 3D+1
-
-Streetwise 4D+2
-
-Computer 5D
-Medicine 6D
-Science 5D
-
-Diplomacy 4D
-
-Computer 4D
-Diplomacy 4D
-Navigation 5D+1
-Repair 4D
-
-Computer 4D
-Diplomacy 4D
-Navigation 5D+1
-Repair 4D
-
-Static: Dodge 12, Block 6,
-Parry 6, Soak 6
-
-Static: Dodge 16, Block 7,
-Parry 7, Soak 7
-
-Static: Dodge 16, Block 7,
-Parry 7, Soak 7
-
-Perks & Comps: None
-Gear: Medical Bag,
-Pocket Computer
-
-Perks & Comps: None
-Gear: Light Pistol
-
-Perks & Comps: None
-Gear: Light Pistol
-
-Static: Dodge 15, Block 12,
-Parry 9, Soak 9
-Perks & Comps: None
-Gear: Shotgun
-
-Might: 2D
-
-Might: 2D+1
-
-Dodge 4D
-Stealth 4D
-
-Dodge 5D
-Rifle 5D
-
-22
-
-Charm: 2D+2
-
-Wit: 3D+1
-
-Charm: 2D+2
-
-
-
-
-
-Advice for the GM
------------------
-
-Perdition is a space-western. There are no ray guns, no aliens,
-no faster-than-light travel, and no artificial intelligences. The
-miracle technologies available are limited to spaceships, artificial
-gravity inside spaceships, terraforming, and cryonic sleep -- but
-the latter has few applications in the Worlds of Vega nowadays.
-
-The industrialized worlds are little different from modern
-day Earth aside from these miracle techs. The League is strong
-there, but there are good folk on every world.
-
-The frontier worlds are rougher and more homespun. People
-have had to be self sufficient to survive and there's little to no
-infrastructure in most places. That means that horses are often
-more reliable than cars and trucks. (You can grow and feed horses
-locally, but you have to import complex machines and fuel.)
-Justice tends to be more about the spirit of the law than the letter,
-but most folks can only expect whatever justice they create.
 
 
 Scarab Class Transport
@@ -3843,6 +3559,206 @@ of cargo or can be converted for additional passenger berths.
       Crew 1, Psg: 6, Cargo: 2 Tons
 
 
+Characters
+----------
+
+### Space Cowboy ###
+
+I might be aiming to raise a ruckus.
+
+* Might: 3D
+    * Brawling 4D
+* Agility: 3D+1
+    * Dodge 5D+1
+    * Pistols 5D+1
+* Wit: 2D+1
+* Charm: 3D+1
+    * Bluff 4D+1
+    * Command 4D+1
+* Static: Dodge 16, Block 12, Parry 9, Soak 9
+* Perks & Comps: None
+* Gear: Pistol
+
+
+### First Mate ###
+
+Captain your plan is, well, not good.
+
+* Might: 3D
+    * Brawling 4D
+* Agility: 3D
+    * Dodge 5D
+    * Rifle 5D
+* Wit: 3D+1
+* Charm: 2D+2
+    * Streetwise 4D+2
+* Static: Dodge 15, Block 12, Parry 9, Soak 9
+* Perks & Comps: None
+* Gear: Shotgun
+
+
+### City Slicker Doc ###
+ 
+ Could you be any cruder? I doubt it.
+
+* Might: 2D
+* Agility: 3D+2
+    * Dodge 4D
+    * Stealth 4D
+* Wit: 4D
+    * Computer 5D
+    * Medicine 6D
+    * Science 5D
+* Charm: 3D
+    * Diplomacy 4D
+* Static: Dodge 12, Block 6, Parry 6, Soak 6
+* Perks & Comps: None
+* Gear: Medical Bag, Pocket Computer
+
+
+### Pilot ###
+
+Watch how I soar!
+
+* Might: 2D+1
+* Agility: 3D+2 
+    * Dodge 5D+1
+    * Pilot 5D+2
+* Wit: 3D+1
+    * Computer 4D
+    * Navigation 5D+1
+    * Repair 4D
+* Charm: 2D+2
+    * Diplomacy 4D
+* Static: Dodge 16, Block 7, Parry 7, Soak 7
+* Perks & Comps: None
+* Gear: Light Pistol
+
+
+### Mechanic ###
+
+What did you call our ship?!
+
+* Might: 2D+1
+* Agility: 3D+2
+    * Dodge 5D+1
+    * Pilot 5D+2
+* Wit: 3D+1
+    * Computer 4D
+    * Navigation 5D+1
+    * Repair 4D
+* Charm: 2D+2
+    * Diplomacy 4D
+* Static: Dodge 16, Block 7, Parry 7, Soak 7
+* Perks & Comps: None
+* Gear: Light Pistol
+
+
+### Brute ### 
+
+I get 10% AND my own bunk?!
+
+* Might: 5D
+    * Brawling 5D+1
+* Agility: 2D+2
+    * BFG 4D+2
+    * Dodge 4D+1
+    * Rifle 4D+2
+    * Throwing 3D+2 
+* Wit: 1D+2
+* Charm: 2D+2
+Static: Dodge 13, Block 16, Parry 15, Soak 15
+Perks & Comps: None
+Gear: BFG, rifle, and knife.
+
+
+### Outlaw Preacher ###
+
+The Good Book's vague on kneecaping.
+
+* Might: 3D
+    * Brawling 5D
+* Agility: 2D+2
+    * Dodge 5D
+    * Rifle 4D
+* Wit: 1D+2
+    * History 4D
+* Charm: 2D+2
+    * Persuasion 4D
+* Static: Dodge 15, Block 15, Parry 9, Soak 9
+* Perks & Comps: Age, Skeletons in the closet.
+* Gear: Holy Book
+
+
+### Noble ###
+
+We're all running from something.
+
+* Might: 1D+2
+* Agility: 3D
+    * Bow 4D
+    * Dodge 4D
+* Wit: 3D+1
+* Charm: 4D
+    * Diplomacy 5D
+    * Persuasion 5D
+    * Seduce 6D
+* Static: Dodge 15, Block 15, Parry 9, Soak 9
+* Perks & Comps: Attractive
+* Gear: Fancy clothes, jewelry, bow.
+
+
+### Psychic ###
+
+Lost my happy thought, can I have yours?
+
+* Might: 2D
+* Agility: 3D+2
+    * Athletics 4D+2
+    * Dodge 5D+2
+* Wit: 3D+1
+* Charm: 4D
+* Static: Dodge 17, Block 6, Parry 6, Soak 6
+* Perks & Comps: ESP, Crazy
+* Gear: None
+
+
+Advice for the GM
+-----------------
+
+Perdition is a space-western. There are no ray guns, no aliens,
+no faster-than-light travel, and no artificial intelligences. The
+miracle technologies available are limited to spaceships, artificial
+gravity inside spaceships, terraforming, and cryonic sleep -- but
+the latter has few applications in the Worlds of Vega nowadays.
+
+The industrialized worlds are little different from modern
+day Earth aside from these miracle techs. The League is strong
+there, but there are good folk on every world.
+
+The frontier worlds are rougher and more homespun. People
+have had to be self sufficient to survive and there's little to no
+infrastructure in most places. That means that horses are often
+more reliable than cars and trucks. (You can grow and feed horses
+locally, but you have to import complex machines and fuel.)
+Justice tends to be more about the spirit of the law than the letter,
+but most folks can only expect whatever justice they create.
+
+
+The Worlds of the Vega System
+-----------------------------
+
+There are eleven true planets and another 78 moons in the Vega system. 
+Of those, one planet is inhabited and three additional planets host a 
+total of 37 moons that have been terraformed to human tolerance.
+
+Vega is a blue star, much larger and hotter than Earth's sun.
+It has four small, rocky inner planets, and seven outer gas giants.
+Inside the orbit of the innermost three planets (Pallas, Perses, and
+Asteria) is the Typhon Asteroid Belt, which is usually just called
+the Belt by veteran spacers. Mining outfits large and small work
+the rocks for silver, gold, and other precious ores.
+
 
 Standard Travel Times
 ---------------------
@@ -3859,6 +3775,29 @@ Standard Travel Times
 * Lelantosian Worlds: Lelantosian Worlds: 1D6 Days
 * Lelantosian Worlds: Leton Worlds: 1 Week + 3D6 Days
 * Leton Worlds: Leton Worlds: 1D6 Days
+
+
+Navigation Bonus
+----------------
+
+A pilot or another crewman can try to speed up the journey by making a 
+special check. Roll the character's Navigation skill plus the Move
+of the vessel. Compare the result to the following:
+
+* 10 or less: 2x Standard Time
+* 11-20: Standard Time
+* 21-40: 90% of Standard Time
+* 41+: 75% of Standard Time
+
+
+A Mechanic's Work is Never Done
+-------------------------------
+
+Someone must spend time keeping every ship running. For small ships 
+(scale +6D or less), a mechanic must make a repair roll with a TN equal 
+to the 1/2 the trip's standard travel time (in days) + 10. This check
+is made at the midway point of the voyage. If he fails the check,
+roll on the vehicle damage chart to see what's broke.
 
 
 The Paranormal
@@ -3887,128 +3826,6 @@ The town of Baggs on Silenus asks for help
 against a cult who follow a supposed psychic. The leader of the
 gang is also wanted by the League for her crimes. The problem is
 that she's the eighteen year old daughter of a League minister.
-
-
-Navigation Bonus
-
-A pilot or another crewman
-can try to speed up the
-journey by making a special
-check. Roll the character's
-Navigation skill plus the Move
-of the vessel. Compare the
-result to the following:
-
-The Worlds of the Vega System
-There are eleven true planets and another 78 moons in the
-Vega system. Of those, one planet is inhabited and three additional
-planets host a total of 37 moons that have been terraformed to
-human tolerance.
-Vega is a blue star, much larger and hotter than Earth's sun.
-It has four small, rocky inner planets, and seven outer gas giants.
-Inside the orbit of the innermost three planets (Pallas, Perses, and
-Asteria) is the Typhon Asteroid Belt, which is usually just called
-the Belt by veteran spacers. Mining outfits large and small work
-the rocks for silver, gold, and other precious ores.
-
-10 or less: 2x Standard Time
-11-20: Standard Time
-21-40: 90% of Standard Time
-41+: 75% of Standard Time
-
-Outlaw Preacher
-
-I get 10% AND my own bunk?!
-
-The Good Book's vague on kneecaping. We're all running from something.
-
-Agility: 2D+2 Might: 3D
-
-Brawling 5D+1
-
-Brawling 5D
-BFG 4D+2
-Dodge 5D
-Dodge 4D+1
-Rifle 4D
-Rifle 4D+2
-Wit: 1D+2
-Charm: 2D+2
-Throwing 3D+2 History 4D
-Persuasion 4D
-Charm: 2D+2
-Static: Dodge 15, Block 15,
-
-Wit: 1D+2
-
-Static: Dodge 13, Block 16,
-Parry 15, Soak 15
-Perks & Comps: None
-Gear: BFG, rifle, and knife.
-
-Agility: 3D
-
-Noble
-Might: 1D+2
-
-Someone must spend time
-keeping every ship running.
-For small ships (scale +6D or
-less), a mechanic must make a
-repair roll with a TN equal to
-the ½ the trip's standard travel
-time (in days) + 10. This check
-is made at the midway point of
-the voyage. If he fails the check,
-roll on the vehicle damage chart
-to see what's broke.
-
-Psychic
-
-Brute
-Might: 5D
-
-A Mechanic's Work is
-Never Done
-
-Agility: 3D
-
-Lost my happy thought, can I have yours?
-Might: 2D
-
-Wit: 3D+1
-
-Parry 9, Soak 9
-
-Charm: 4D
-Diplomacy 5D
-Persuasion 5D
-Seduce 6D
-
-Perks & Comps: Age, Skeletons in Static: Dodge 15, Block 15,
-Parry 9, Soak 9
-the closet.
-Gear: Holy Book
-Perks & Comps: Attractive
-Gear: Fancy clothes, jewelry, bow.
-
-23
-
-Agility: 3D+2
-Athletics 4D+2
-Dodge 5D+2
-
-Bow 4D
-Dodge 4D
-Wit: 3D+1
-
-Charm: 4D
-
-Static: Dodge 17, Block 6,
-Parry 6, Soak 6
-Perks & Comps: ESP, Crazy
-Gear:
-
 
 
 Rust Moon of Castia
@@ -4341,15 +4158,12 @@ that freedom can be claimed if people are willing to stand up for what
 they believe in. The future is uncertain, but it will be forged by the 
 spirit of heroes.
 
-For 5,000 years the Galactic Commonwealth  grew, 
-stretching across the galaxy. Starting from
-the Founding Systems who mastered the secrets
-of hyperspace travel, they explored and expanded
-bringing thousands races together under a
-common banner of prosperity. What felt like an
-eternity of good fortune bred its own peculiar
-evil. At first none noticed the corruption taking
-seed in the honored halls of galactic power.
+For 5,000 years the Galactic Commonwealth  grew, stretching across the 
+galaxy. Starting from the Founding Systems who mastered the secrets
+of hyperspace travel, they explored and expanded bringing thousands 
+races together under a common banner of prosperity. What felt like an
+eternity of good fortune bred its own peculiar evil. At first none 
+noticed the corruption taking seed in the honored halls of galactic power.
 
 Factions formed in the Senate, each coveting
 what others had amassed. Many senators viewed
@@ -4389,39 +4203,30 @@ hope was lost.
 
 Character Creation Guidelines
 -----------------------------
-Characters may purchase the Sorcerer
-perk. The Star Paladins section explains how
-magic is treated in the game universe and the
-complications related to selecting it.
+
+Characters may purchase the Sorcerer perk. The Star Paladins section 
+explains how magic is treated in the game universe and the complications 
+related to selecting it.
 
 
 Skill List
 ----------
 
-* Might: Athletics, Brawling, Lift, Melee, Plasma
-Sword, Stamina, Swimming
-
-* Agility: BFG, Dodge, Drive, Pilot, Pistol, Rifle,
-Stealth, Throwing
-
-* Wit: Computers/Androids, Cultures,
-Demolitions, Gunnery, Languages, History,
-Magic, Medicine, Navigation, Repair, Science,
-Search, Security, Star Systems, Tracking
-
-* Charm: Command, Courage, Diplomacy,
-Gambling, Seduce, Streetwise
+* Might: Athletics, Brawling, Lift, Melee, Plasma Sword, Stamina, Swimming
+* Agility: BFG, Dodge, Drive, Pilot, Pistol, Rifle, Stealth, Throwing
+* Wit: Computers/Androids, Cultures, Demolitions, Gunnery, Languages, 
+  History, Magic, Medicine, Navigation, Repair, Science, Search, 
+  Security, Star Systems, Tracking 
+* Charm: Command, Courage, Diplomacy, Gambling, Seduce, Streetwise
 
 
 New Perks
 ---------
 
-* Alien Races (varies): Sample aliens provided
-include Avari, Kaishee, and Telmek but GM's
-are encouraged to create additional alien races
-to further flesh out the many races found within
-the Imperium. Just be reasonable and cautious
-when determining how much a race should cost
+* Alien Races (varies): Sample aliens provided include Avari, Kaishee, 
+and Telmek but GM's are encouraged to create additional alien races
+to further flesh out the many races found within the Imperium. Just be 
+reasonable and cautious when determining how much a race should cost
 (if any) as a perk.
 
 * Avari (1): Natives of Varos, the Avari stand
@@ -4650,14 +4455,10 @@ Focus, honor, humility.
 * Wit: 4D
     * Magic 6D
 * Charm: 2D
-
-Static: Dodge 12, Block 9, Parry 12, Soak 9
-
-Perks & Comps: Sorcerer, Hunted
-
-Spells: Charm, ESP, Sense Danger
-
-Gear: Plasma Sword
+* Static: Dodge 12, Block 9, Parry 12, Soak 9
+* Perks & Comps: Sorcerer, Hunted
+* Spells: Charm, ESP, Sense Danger
+* Gear: Plasma Sword
 
 
 ### Scruffy Smuggler ###
@@ -4674,12 +4475,9 @@ I can get ya there, no questions asked.
    * Navigation 3D+1
 * Charm: 3D
     * Streetwise 4D+1
-
-Static: Dodge 15, Block 12, Parry 9, Soak 9
-
-Perks & Comp: Large Debt
-
-Gear: Hvy Blaster, Lt. Transport
+* Static: Dodge 15, Block 12, Parry 9, Soak 9
+* Perks & Comp: Large Debt
+* Gear: Hvy Blaster, Lt. Transport
 
 
 ### Exiled Royal ###
@@ -4696,45 +4494,36 @@ Do you KNOW who I am?
 * Charm: 3D+1
     * Command 5D+1
     * Diplomacy 4D+2
-
-Static: Dodge 15, Block 7, Parry 9, Soak 7
-
-Perks: Favors
-
-Gear: hold-out pistol, wardrobe.
+* Static: Dodge 15, Block 7, Parry 9, Soak 7
+* Perks: Favors
+* Gear: hold-out pistol, wardrobe.
 
 
 ### Telmek Gangster ###
 
-*Of course I can help you out.*
+Of course I can help you out.
 
 * Might: 3D
     * Brawling 4D+1
     * Melee 4D
-
 * Agility: 2D+1
     * Dodge 4D+2
     * Pilot 3D+2
     * Pistol 5D
-
 * Wit: 3D
     * Computer 5D
     * Languages 5D
     * Star Systems 6D
     * Search 4D
-
 * Charm: 3D+2
     * Command 5D+1
     * Courage 5D
     * Diplomacy 6D
     * Seduce 4D+1
     * Streetwise 7D
-
-Static: Dodge 14, Block 13, Parry 12, Soak 9
-
-Perks: Favors, Telmek
-
-Gear: Pistol, pocket computer.
+* Static: Dodge 14, Block 13, Parry 12, Soak 9
+* Perks: Favors, Telmek
+* Gear: Pistol, pocket computer.
 
 
 ### Kaishee Pilot ###
@@ -4749,12 +4538,9 @@ You don't want to make me mad.
     * Navigation 3D+2 
 * Charm: 2D
     * Streetwise 4D
-
-Static: Dodge 13, Block 14, Parry 14, Soak 14
-
-Perks: Kaishee (1)
-
-Gear: Plasma bolter, bandoliers.
+* Static: Dodge 13, Block 14, Parry 14, Soak 14
+* Perks: Kaishee (1)
+* Gear: Plasma bolter, bandoliers.
 
 
 ### Android Companion ###
@@ -4768,12 +4554,9 @@ As you command.
     * Languages 6D
     * Repair 6D
 * Charm: 2D
-
-Static: Dodge 12, Block 6, Parry 6, Soak 6
-
-Perks & Comps: Robot, Total Pacifist
-
-Gear: Systems link, toolkit.
+* Static: Dodge 12, Block 6, Parry 6, Soak 6
+* Perks & Comps: Robot, Total Pacifist
+* Gear: Systems link, toolkit.
 
 
 ### Failed Apprentice ###
@@ -4789,12 +4572,9 @@ Honor? It ‘n 2 creds buys a drink.
     * Magic 4D+2
 * Charm: 2D+1
     * Courage 3D
-
-Static: Dodge 12, Block 8, Parry 12, Soak 8
-
-Perks & Comps: Sorcerer, Hunted
-
-Gear: Plasma sword, whiskey.
+* Static: Dodge 12, Block 8, Parry 12, Soak 8
+* Perks & Comps: Sorcerer, Hunted
+* Gear: Plasma sword, whiskey.
 
 
 ### Ex-Imperium Officer ###
@@ -4812,10 +4592,8 @@ I swore to defend. Not enslave.
 * Charm: 3D
     * Command 5D
     * Courage 3D+1
-
-Static: Dodge 12, Block 9, Parry 9, Soak 9
-
-Gear: Laser Pistol. Naval Uniform.
+* Static: Dodge 12, Block 9, Parry 9, Soak 9
+* Gear: Laser Pistol. Naval Uniform.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
