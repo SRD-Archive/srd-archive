@@ -2,12 +2,7 @@ Mini OpenD6 SRD
 ===============
 
 An SRD based on Mini Six, by Antipaladin Games. This SRD contans all
-the elements that are not identified as Product Identy under the 
-Open Game License.
-
-I would like to thank Antipaladin games for making the Mini Six Bare Bones
-Edition. I feel it is important and useful to have a collection of the 
-open content the definitive modern OpenD6 rules set.
+the elements that are Open Content under the Open Game License.
 
 
 About this Book
