@@ -19,12 +19,12 @@ six and seven provide all the needed mechanics to play a
 complete game. Beyond these four pages are additional rules
 and options to expand your game.
 
-What you won't find in ths book are a lot of detailed
+What you won't find in this book are a lot of detailed
 examples, exhaustive rules to cover every possible scenario, or
 a large list of modifiers. Instead, we are trusting GM's, with the
 help of their players, to apply common sense to make the game
 fun for everyone. Don't slow the game down by wasting time
-digging for rules that aren't there. And most imporantly, when
+digging for rules that aren't there. And most importantly, when
 the rules conflict with fun, fun wins.
 
 
@@ -403,19 +403,19 @@ For anything else, beg the GM.
 
 ### Modern Tech and Damage ###
 
-Light Pistol: 3D+2
-Heavy Pistol: 4D
-Rifle: 5D
-Shotgun: 4D+2
-BFG: 6D
+* Light Pistol: 3D+2
+* Heavy Pistol: 4D
+* Rifle: 5D
+* Shotgun: 4D+2
+* BFG: 6D
 
 
 ### Sci-Fi Tech ###
 
-Plasma Pistol: 5D
-Plasma Rifle: 6D
-Plasma BFG: 7D
-Plasma Sword: +4D
+* Plasma Pistol: 5D
+* Plasma Rifle: 6D
+* Plasma BFG: 7D
+* Plasma Sword: +4D
 
 
 ### Ranges in Feet (S/M/L) ###
@@ -827,6 +827,7 @@ determine which part is damaged.
 * 1: Lose 1D from Maneuverability
 * 2 to 3: Random System Damaged
 * 4 to 6: Structural Damage
+
 
 ### Effects of Damage ###
 

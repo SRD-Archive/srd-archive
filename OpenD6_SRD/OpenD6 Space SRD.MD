@@ -89,13 +89,13 @@ chance to try out what you've learned here.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Reality ###
->
-> The D6 System rules are not meant to reﬂect the real world's reality. 
-> Rather, they have been designed to model ﬁction reality, the reality 
-> of stories, television shows, comic books, and movies. Gamemasters who 
-> want to use this system to describe the real world will need to add 
-> their own modiﬁers and limits.
+### Reality ###
+
+The D6 System rules are not meant to reﬂect the real world's reality. 
+Rather, they have been designed to model ﬁction reality, the reality 
+of stories, television shows, comic books, and movies. Gamemasters who 
+want to use this system to describe the real world will need to add 
+their own modiﬁers and limits.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -237,12 +237,12 @@ need to use your Body Points number.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Already Have a Character? ###
-> 
-> If you already have a D6 System character -- from another
-> D6 System game or because you created a new one using the
-> rules in this book -- you can still play this adventure. Simply
-> skip to the "Station Visit" section and follow the directions.
+### Already Have a Character? ###
+
+If you already have a D6 System character -- from another
+D6 System game or because you created a new one using the
+rules in this book -- you can still play this adventure. Simply
+skip to the "Station Visit" section and follow the directions.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -345,7 +345,7 @@ Then you'll be ready for your ﬁrst D6 Space adventure!
 Station Visit
 =============
 
-**1**
+### 1 ###
 
 After a long voyage you like a little relaxation -- like a holo-boxing
 session at the station gym... or maybe a long swim, if they have a pool.
@@ -358,7 +358,8 @@ being sized up.
 
 *Before you decide what to do, let's ﬁnd out who goes ﬁrst: go to 12.*
 
-**2**
+
+### 2 ###
 
 You rolled a Critical Failure on the Wild Die. Take away the one and 
 your highest number. Read the result on the remaining die, and add any 
@@ -367,7 +368,8 @@ Bounty Hunter sample character, then you add 1 to the number on the die.)
 
 *Go to 5.*
 
-**3**
+
+### 3 ###
 
 The man seems shaken by your talk. He
 opens his mouth to say something, then
@@ -375,7 +377,8 @@ merely spits at you and slinks off.
 
 *Go to 13.*
 
-**4**
+
+### 4 ###
 
 Looks like the stalker anticipated your move, because he steps out 
 of the way just as your ﬁst is about to connect with his face. "You 
@@ -385,7 +388,8 @@ down the promenade.
 
 *Go to 13.*
 
-**5**
+
+### 5 ###
 
 The stalker must have had a plan in mind before starting to approach
 you. Before you can react, he rushes forward to punch you, yelling,
@@ -408,7 +412,8 @@ to 7.*
 
 *If you think he'll only listen to force, go to 9.*
 
-**6**
+
+### 6 ###
 
 You rolled a Critical Success on the Wild Die. Add the 6 to the
 total of the other dice, and roll only the Wild Die again. As long as
@@ -419,7 +424,8 @@ sample character, then you add a 1 to the ﬁnal total.)
 
 *Go to 10.*
 
-**7**
+
+### 7 ###
 
 You stop and stare through slitted eyes at the man as he approaches you. 
 "Some reason you're following me, sir? You're the bounty hunter that 
@@ -445,7 +451,8 @@ the results of all of the dice.
 
 *If the total on the dice is less than 15, go to 14.*
 
-**8**
+
+### 8 ###
 
 You quickly approach the stalker and give him a quick and sharp
 jab on the jaw. He looks at you with surprise, then anger. "I'll get you
@@ -458,7 +465,8 @@ risking another encounter.
 
 *Go to 13.*
 
-**9**
+
+### 9 ###
 
 You're not going to waste any more time with this guy. A little 
 violence ought to shake him up enough to leave you alone. Look at your
@@ -477,7 +485,8 @@ the results of all of the dice.
 
 *If the total on the dice is less than 5, go 4.*
 
-**10**
+
+### 10 ###
 
 You're a little quicker at assessing the situation than the stalker
 is. You get the chance to do something before he can react. What do
@@ -487,7 +496,8 @@ you want to do?
 
 *If you think he'll only listen to force, go to 9.*
 
-**11**
+
+### 11 ###
 
 Since you didn't get a 1 or 6 on the Wild Die, simply total the dice
 and add any pips if your Perception die code included them. (If you're
@@ -498,7 +508,8 @@ the dice.)
 
 *If the Perception total is less than 6, go to 5.*
 
-**12**
+
+### 12 ###
 
 To ﬁnd out who's got the faster reactions in this combat encounter,
 look at your character sheet and ﬁnd "Perception" and the die code next
@@ -514,7 +525,8 @@ matches the results on the Wild Die.
 
 *If you rolled any number other than a 1 or a 6, go to 11.*
 
-**13**
+
+### 13 ###
 
 That was an unpleasant encounter. Not unusual, considering your
 work, but nothing you ever enjoy no matter how many times it hap-
@@ -523,7 +535,8 @@ risking another encounter.
 
 *Go to 15.*
 
-**14**
+
+### 14 ###
 
 He sneers at your ridiculous statement, and he rushes forward to
 punch you. His wild swing connects with your stomach, causing you
@@ -544,7 +557,8 @@ stomps off down the promenade.
 
 *Go to 13.*
 
-**15**
+
+### 15 ###
 
 In a full-length adventure, you'd have a lot more choices, but hopefully, 
 this short adventure gave you an idea of how the game works. If
@@ -566,115 +580,115 @@ character does, like give a speech or climb a wall.
 active defense value: A number the character gets when concentrating on 
 getting out of the way of an attack.
 
-* Armor Value: A die code representing the amount of protection a
+* **Armor Value:** A die code representing the amount of protection a
 defensive covering provides. It can help determine the damage resistance
 total. This term is sometimes abbreviated AV.
 
-* Body Points: One of two ways of indicating the amount of injury a
+* **Body Points:** One of two ways of indicating the amount of injury a
 character can sustain, listed as a number. The damage total is subtracted
 from the character's current Body Point total. May be used alone or
 with Wounds.
 
-* Character Point: A bonus representing a surge of adrenaline or
+* **Character Point:** A bonus representing a surge of adrenaline or
 that extra luck the main characters of a story seem to have. Allows the
 user to roll an additional Wild Die.
 
-* combat difficulty: A number representing how challenging it is to
+* **combat difficulty:** A number representing how challenging it is to
 attack someone or something. It equals the active defense value or the
 passive defense value.
 
-* complementary skill: A skill whose results could aid in the use
+* **complementary skill:** A skill whose results could aid in the use
 of another skill.
 
-* creation points: Points used when designing a character to purchase
+* **creation points:** Points used when designing a character to purchase
 die codes in game characteristics or other features that represent the
 character's abilities, experience, and background.
 
-* Critical Failure: A result, represented by a 1, on the Wild Die that
+* **Critical Failure:** A result, represented by a 1, on the Wild Die that
 indicates something bad has occurred.
 
-* Critical Success: A result, represented by a 6, on the Wild Die
+* **Critical Success:** A result, represented by a 6, on the Wild Die
 that indicates something good has happened. Generally, the player
 adds the 6 to the current total and rolls again, adding and rerolling as
 long as a 6 comes up.
 
-* D (as in "1D"): An abbreviation for "six-sided dice." The number
+* **D (as in "1D"):** An abbreviation for "six-sided dice." The number
 in front of the "D" is part of the die code, and lets you know how many
 six-sided dice to roll.
 
-* damage resistance total: A number that indicates how much injury
+* **damage resistance total:** A number that indicates how much injury
 a character or object can absorb, soak, or deﬂect.
 
-* damage total: A number representing how much injury or destruction 
+* **damage total:** A number representing how much injury or destruction 
 something has caused. 
 
-* defaulting to an attribute: Using the die code for an attribute when
+* **defaulting to an attribute:** Using the die code for an attribute when
 the character doesn't have a higher die code in the needed skill.
-die code, score: The number of six-sided dice players roll (1D, 2D,
+die code, score:** The number of six-sided dice players roll (1D, 2D,
 3D, 4D, 5D, etc.), and sometimes an amount (called pips) of "+1" or
 "+2" that is added to the total result that came up on the dice. "Die
 code" and "score" are used interchangeably.
 
-* difficulty: A number representing how challenging it is to perform
+* **difficulty:** A number representing how challenging it is to perform
 an action.
 
-* Fate Point: A bonus representing that a character is using all of
+* **Fate Point:** A bonus representing that a character is using all of
 her concentration to try to succeed. Allows the player to, at least,
 double the number of dice on one roll. Sometimes the gamemaster
 will provide other beneﬁts.
 
-* free action: Any action that needs only a few seconds to perform or
+* **free action:** Any action that needs only a few seconds to perform or
 do, such as taking a few steps or glancing quickly around a room.
 
-* modiﬁer: A number or die code that is added or subtracted
+* **modiﬁer:** A number or die code that is added or subtracted
 from another number or die code to represent a change in the
 typical situation.
 
-* opposed difficulty, opposed roll: A difficulty that applies when
+* **opposed difficulty, opposed roll:** A difficulty that applies when
 one character resists another character's action. In this case, both
 characters roll die codes related to the activity and compare them.
 
-* passive defense value: A number representing a character's innate
+* **passive defense value:** A number representing a character's innate
 ability to get out of the way of danger. It usually equals 10.
 
-* pip: An added bonus to the total result that came up on the
+* **pip:** An added bonus to the total result that came up on the
 dice. A "+1" means one is added to the total, while "+2" means
 two is added.
 
-* range (in combat): The distance from the attacker to the target.
-result points: The difference between the total rolled with an
+* **range (in combat):** The distance from the attacker to the target.
+result points:** The difference between the total rolled with an
 attribute's or skill's die code and the difficulty of an action.
 
-* result point bonus: Usually, one-half (rounded up) of the
+* **result point bonus:** Usually, one-half (rounded up) of the
 result points ﬁgured for an action. It sometimes may be used to
 affect other rolls.
 
-* round: A unit of time equal to ﬁve seconds in the game world.
+* **round:** A unit of time equal to ﬁve seconds in the game world.
 Figuring out what happens in a round can take longer.
 
-* scale: A game mechanic representing that opponents of vastly
+* **scale:** A game mechanic representing that opponents of vastly
 different sizes can affect each other differently in combat.
 
-* standard difficulty: A number, generally selected from a chart,
+* **standard difficulty:** A number, generally selected from a chart,
 assigned to an action based on how challenging it is.
 
-* Strength Damage: A die code representing the amount of harm
+* **Strength Damage:** A die code representing the amount of harm
 a character can do because of his or her physical prowess.
 
-* Toughness: A die code representing the amount of damage an
+* **Toughness:** A die code representing the amount of damage an
 object can take, similar to a character's Physique attribute.
 
-* unskilled modiﬁer, untrained modiﬁer: A modiﬁer added to
+* **unskilled modiﬁer, untrained modiﬁer:** A modiﬁer added to
 an action's difficulty that represents the increased difficulty of doing
 something without the right training or experience. The terms are
 used interchangeably.
 
-* Wild Die: A six-sided die, of a different color or size from other
+* **Wild Die:** A six-sided die, of a different color or size from other
 dice used, that represents the randomness of life, with the 1 and
 the 6 indicating a special result (see Critical Failure and Critical
 Success).
 
-* Wounds: One of two ways of indicating the amount of injury
+* **Wounds:** One of two ways of indicating the amount of injury
 a character can sustain, listed as a level. The level is determined by
 comparing the difference between the damage total and the damage
 resistance total to a chart. May be used alone or with Body Points.
@@ -783,21 +797,20 @@ this chapter for more details on how to ﬁll out these optional sections.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Gamemaster's Characters ###
->
-> Gamemaster's characters (sometimes referred to as nonplayer characters 
-> or NPCs) may or may not be created using
-> the same rules as players' characters. Because the gamemaster's
-> characters serve as interactive elements in the story, it all
-> depends on the NPC's importance to the storyline. Minor
-> gamemaster's characters have fewer attribute and skill dice, fewer
-> Body Points or Wounds, and few (if any) character options,
-> Character Points, or Fate Points. Major characters, however,
-> should follow the same guidelines as the players' characters,
-> possibly having more skill dice, Advantages, Disadvantages,
-> and Special Abilities than a typical starting player's character.
-> An increase over the players' characters reﬂects the fact that a
-> major antagonist has been around much longer.
+### Gamemaster's Characters ###
+
+Gamemaster's characters (sometimes referred to as nonplayer characters 
+or NPCs) may or may not be created using the same rules as players' 
+characters. Because the gamemaster's characters serve as interactive 
+elements in the story, it all depends on the NPC's importance to the 
+storyline. Minor gamemaster's characters have fewer attribute and skill 
+dice, fewer Body Points or Wounds, and few (if any) character options,
+Character Points, or Fate Points. Major characters, however, should 
+follow the same guidelines as the players' characters, possibly having 
+more skill dice, Advantages, Disadvantages, and Special Abilities than 
+a typical starting player's character. An increase over the players' 
+characters reﬂects the fact that a major antagonist has been around 
+much longer.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -905,33 +918,39 @@ Each die equals three pips.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Creating Experienced Characters ###
-> 
-> If you are making an experienced character, you'll need to ﬁgure out 
-> how many more years that character has been around than one starting out.
-> 
-> **By Deﬁned Limits**    
-> Using the initial novice totals of seven skill dice, ﬁve Character 
-> Points, and one Fate Point, add 15 skill dice, 15 Character Points, 
-> and two Fate Points to the initial totals for each year the character 
-> has been a full-time active adventurer. (For part-timers, halve these 
-> fgures, rounding up.)
-> 
-> **By Creation Point Pool**    
-> With the initial novice totals of 79 creation points, ﬁve
-> Character Points, and one Fate Point as a starting point,
-> add 15 creation points, 15 Character Points, and two Fate
-> Points for each year the character has been a full-time
-> active adventurer. (For part-timers, halve these ﬁgures,
-> rounding up.) Unless the gamemaster decides otherwise,
-> there are no maximums for skills and Disadvantages.
+### Creating Experienced Characters ###
 
-> **Creating Existing Characters**    
-> Players basing their characters on existing ﬁctional
-> entities should ignore the skill and Disadvantage limits
-> and, with their gamemaster's approval, create the character
-> by distributing dice as best reﬂects how the character
-> appears in his, her, or its stories.
+If you are making an experienced character, you'll need to ﬁgure out 
+how many more years that character has been around than one starting out.
+
+
+**By Deﬁned Limits**
+
+Using the initial novice totals of seven skill dice, ﬁve Character 
+Points, and one Fate Point, add 15 skill dice, 15 Character Points, 
+and two Fate Points to the initial totals for each year the character 
+has been a full-time active adventurer. (For part-timers, halve these 
+fgures, rounding up.)
+
+
+**By Creation Point Pool**
+
+With the initial novice totals of 79 creation points, ﬁve
+Character Points, and one Fate Point as a starting point,
+add 15 creation points, 15 Character Points, and two Fate
+Points for each year the character has been a full-time
+active adventurer. (For part-timers, halve these ﬁgures,
+rounding up.) Unless the gamemaster decides otherwise,
+there are no maximums for skills and Disadvantages.
+
+
+**Creating Existing Characters**
+
+Players basing their characters on existing ﬁctional
+entities should ignore the skill and Disadvantage limits
+and, with their gamemaster's approval, create the character
+by distributing dice as best reﬂects how the character
+appears in his, her, or its stories.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -1040,18 +1059,18 @@ don't want to add them to your character.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Focused Skills ###
->
-> Some gamemasters prefer narrower skill categories, 
-> requiring characters to select more speciﬁc abilities, such as
-> vehicle operation: ground or languages: Old Terran. If that's the
-> case, players' characters start with 21 skill dice or 93 creation
-> points. Players will need to get gamemaster approval on any
-> subcategories they choose, while gamemasters need to insure
-> that the subcategories are neither too broad (all scientiﬁc
-> disciplines) or too narrow (a particular model of handgun).
-> Players may take specializations of these narrower skills, as
-> described in the rules.
+### Focused Skills ###
+
+Some gamemasters prefer narrower skill categories, 
+requiring characters to select more speciﬁc abilities, such as
+vehicle operation: ground or languages: Old Terran. If that's the
+case, players' characters start with 21 skill dice or 93 creation
+points. Players will need to get gamemaster approval on any
+subcategories they choose, while gamemasters need to insure
+that the subcategories are neither too broad (all scientiﬁc
+disciplines) or too narrow (a particular model of handgun).
+Players may take specializations of these narrower skills, as
+described in the rules.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -1063,6 +1082,7 @@ As this skill list includes broad deﬁnitions not applicable in all eras
 or worlds for which D6 Space could be used, the gamemaster has
 the ﬁnal say on actual skill applications. For difficulties associated 
 with each skill, see the "Example Skill Difficulties" chapter.
+
 
 ### Agility*###
 
@@ -1098,6 +1118,7 @@ pockets, palming items, and opening mechanical locks.
 including grenades, stones, and knives. Also used for catching
 thrown items. (Using or modifying grenades as explosives for
 special destructive effects requires the demolitions skill.)
+
 
 ### Strength ###
 
@@ -1137,6 +1158,7 @@ one's surroundings.
 
 * vehicle operation: Operating non-ﬂying vehicles traveling on
 or through the ground or a liquid medium.
+
 
 ### Knowledge ###
 
@@ -1202,6 +1224,7 @@ interaction attempts, mental attacks, and pain. The gamemaster
 may allow a specialization in a speciﬁc faith tradition or belief system
 to enhance many, though not all, applications of willpower.
 
+
 ### Perception ###
 
 * artist: Making works of art, like paintings, photographs, and
@@ -1247,6 +1270,7 @@ the trails they've left behind.
 
 * sneak: Moving silently, avoiding detection and hiding oneself.
 
+
 ### Technical ###
 
 * armor repair: Fixing damaged armor.
@@ -1284,6 +1308,7 @@ and surveillance systems.
 
 * vehicle repair: Fixing ground- and ocean-based vehicles that
 do not ﬂy.
+
 
 ### Extranormal: Metaphysics ###
 
@@ -1405,21 +1430,18 @@ accompanying table to adjust this number.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Determining Funds ###
-> 
-> *Characteristic: Modiﬁer*
-> 
-> 1D in Perception: -1
-> 
-> 1D in Knowledge: -1
-> 
-> 4D or more in Perception: +1
-> 
-> 4D or more in Knowledge: +1
-> 
-> 8D or more in business skill plus its specializations: +1
+### Determining Funds ###
+
+*Characteristic: Modiﬁer*
+
+* 1D in Perception: -1
+* 1D in Knowledge: -1
+* 4D or more in Perception: +1
+* 4D or more in Knowledge: +1
+* 8D or more in business skill plus its specializations: +1
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 Include any modiﬁers to attributes due to Disadvantages or Special 
 Abilities. The minimum total is 1. The ﬁnal total becomes the die code
@@ -1503,17 +1525,11 @@ There are several ways you can do this. The easiest is to answer
 questions like:
 
 * Where and when was my character born?
-
 * What did my character do as a child?
-
 * What unusual experiences did my character have?
-
 * How did my character become the character he is now?
-
 * What is one of my character's major goals?
-
 * What was my character doing right before the game begins?
-
 * Why does your character have the skills that he has?
 
 Say your character knows ﬁrearms and several specializations.
@@ -1591,18 +1607,19 @@ that the average Human character can't do.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Game Mechanics ###
->
-> Within the descriptions of several Advantages, Disadvantages, and 
-> Special Abilities, you'll notice references to game
-> mechanics that haven't been explained yet (like the Critical
-> Failure die result and the names of difficulty levels). If this
-> is your ﬁrst time playing a D6 game, you can ignore these for
-> now. You'll learn more about them in the next chapter. Once
-> you start playing adventures, you'll ﬁnd the game mechanics
-> in this chapter useful.
+### Game Mechanics ###
+
+Within the descriptions of several Advantages, Disadvantages, and 
+Special Abilities, you'll notice references to game
+mechanics that haven't been explained yet (like the Critical
+Failure die result and the names of difficulty levels). If this
+is your ﬁrst time playing a D6 game, you can ignore these for
+now. You'll learn more about them in the next chapter. Once
+you start playing adventures, you'll ﬁnd the game mechanics
+in this chapter useful.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 Example: *You decide to give your character a Special Ability that
 provides him with a +1 to one of three combat-related skill totals. If
@@ -1681,48 +1698,30 @@ Advantages, Disadvantages, and Special Abilities List
 ### Disadvantages ###
 
 * Achilles' Heel (R3, R4); examples (R3): Allergy, Cultural
-Allergy, Environmental Incompatibility, Metabolic Difference, 
-Nutritional Requirements, Rot, Vulnerability;
-examples (R4): Allergy, Cultural Allergy, Rot, Symbiosis
-
+  Allergy, Environmental Incompatibility, Metabolic Difference, 
+  Nutritional Requirements, Rot, Vulnerability;
+  examples (R4): Allergy, Cultural Allergy, Rot, Symbiosis
 * Advantage Flaw (R1, R2, R3); examples (R3): Infection,
-Minor Stigma, Stench
-
+  Minor Stigma, Stench
 * Age (R1, R2)
-
 * Bad Luck (R2, R3, R4)
-
 * Burn-out (R1 or more)
-
 * Cultural Unfamiliarity (R1, R2, R3)
-
 * Debt (R1, R2, R3)
-
 * Devotion (R1, R2, R3)
-
 * Employed (R1, R2, R3)
-
 * Enemy (R1, R2, R3)
-
 * Hindrance (R1 or more); examples: Bad Knee, Rude, Trick
-Shoulder, Uncoordinated, Unobservant
-
+  Shoulder, Uncoordinated, Unobservant
 * Infamy (R1, R2, R3)
-
 * Language Problems (R2)
-
 * Learning Problems (R1 or more)
-
 * Poverty (R1)
-
 * Prejudice (R1, R2)
-
 * Price (R1, R2)
-
 * Quirk (R1, R2, R3); examples (R1): Dependency, Kleptomania, Indecision, 
-Stutter; examples (R2): Dependency, Secret; examples (R3): Dependency, 
-Paranoid, Phobic, Vengeful
-
+  Stutter; examples (R2): Dependency, Secret; examples (R3): Dependency, 
+  Paranoid, Phobic, Vengeful
 * Reduced Attribute (R2 or more)
 
 Note: At character creation, Disadvantages give one creation
@@ -1732,19 +1731,12 @@ point or one skill die per rank.
 ### Advantages ###
 
 * Authority (R1, R2, R3)
-
 * Contacts (R1, R2, R3, R4)
-
 * Equipment (R1, R2, R3, R4)
-
 * Fame (R1, R2, R3)
-
 * Patron (R1, R2, R3)
-
 * Size (R1 or more)
-
 * Trademark Specialization (R1)
-
 * Wealth (R1 or more)
 
 Note: At character creation, Advantages cost one creation
@@ -1754,160 +1746,94 @@ point or one skill die per rank.
 ### Special Abilities ###
 
 * Accelerated Healing (3)
-
 * Ambidextrous (2)
-
 * Animal Control (3)
-
 * Armor-Defeating Attack (2)
-
 * Atmospheric Tolerance (2)
-
 * Attack Resistance (2)
-
 * Attribute Scramble (4)
-
 * Blur (3)
-
 * Combat Sense (3)
-
 * Confusion (4)
-
 * Darkness (3)
-
 * Elasticity (1)
-
 * Endurance (1)
-
 * Enhanced Sense (3)
-
 * Environmental Resistance (1)
-
 * Extra Body Part (0)
-
 * Extra Sense (1)
-
 * Fast Reactions (3)
-
 * Fear (2)
-
 * Flight (6)
-
 * Glider Wings (3)
-
 * Hardiness (1)
-
 * Hypermovement (1)
-
 * Immortality (7)
-
 * Immunity (1)
-
 * Increased Attribute (2)
-
 * Infravision/Ultravision (1)
-
 * Intangibility (5)
-
 * Invisibility (3)
-
 * Iron Will (2)
-
 * Life Drain (5)
-
 * Longevity (3)
-
 * Luck, Good (2), Great (3)
-
 * Master of Disguise (3)
-
 * Multiple Abilities (1)
-
 * Natural Armor (3)
-
 * Natural Hand-to-Hand Weapon (2)
-
 * Natural Ranged Weapon (3)
-
 * Omnivorous (2)
-
 * Paralyzing Touch (4)
-
 * Possession, Limited (8), Full (10)
-
 * Quick Study (3)
-
 * Sense of Direction (2)
-
 * Shapeshifting (3)
-
 * Silence (3)
-
 * Skill Bonus (1)
-
 * Skill Minimum (4)
-
 * Teleportation (3)
-
 * Transmutation (5)
-
 * Uncanny Aptitude (3)
-
 * Ventriloquism (3)
-
 * Water Breathing (2)
-
 * Youthful Appearance (1)
 
 
 ### Enhancements ###
 
 * Additional Effect (1)
-
 * Bestow (varies)
-
 * Extended Range (3)
-
 * Multiple Targets (2)
 
 
 ### Limitations ###
 
 * Ability Loss (3; 1 per additional rank)
-
 * Allergy (3; 1 per additional rank)
-
 * Burn-out (1)
-
 * Cybernetics (0)
-
 * Debt (3)
-
 * Flaw (1)
-
 * Minor Stigma (3)
-
 * Others Only (2; 1 per additional rank)
-
 * Price (1)
-
 * Restricted (1)
-
 * Side Effect (2)
-
 * Singularity (varies)
-
 * Super-science (2)
 
 Note: At character creation, the ﬁrst rank in a Special Ability costs 
 the number in parentheses in creation points or skill dice.
+
 Additional ranks cost one creation point or skill die in games where 
-Special Abilities are common or the number in parentheses in
-games where Special Abilities are uncommon. Enhancements add to the 
-total cost of the Special Ability. Limitations subtract from the total 
-of the base cost of the Special Ability plus the cost of its ranks plus 
-the cost of its Enhancements. The minimum cost for a Special Ability 
-plus Enhancements and Limitations is 1.
+Special Abilities are common or the number in parentheses in games where 
+Special Abilities are uncommon. Enhancements add to the total cost of 
+the Special Ability. Limitations subtract from the total of the base 
+cost of the Special Ability plus the cost of its ranks plus the cost of 
+its Enhancements. The minimum cost for a Special Ability plus 
+Enhancements and Limitations is 1.
 
 
 Using the Creation Points
@@ -2992,12 +2918,14 @@ Vengeful: The character cannot stand to "lose" or be "wronged." If
 the character perceives herself as looking foolish (or whatever), she
 will go to great lengths to get even (in reality, the character probably
 takes it too far).
+
 Restrictions/Notes: The character has to make a Very Difficult
 Knowledge or willpower roll to overcome the Quirk -- at the least. If,
 in the gamemaster's judgment, there is a reason the character should
 have modiﬁers to the difficulty, then he will. Players who don't want
 to play a character that can frequently lose control should avoid this
 option. Other rules are the same as under Quirk (R1)
+
 The gamemaster may allow higher versions of this Disadvantage,
 with larger modiﬁers and an increase of +5 per rank to the willpower
 difficulty.
@@ -3101,8 +3029,9 @@ the right circumstances.
 Restrictions/Notes: Contacts should not automatically help the
 character, but they should be reasonable in their negotiations. Multiple
 contacts of various ranks may be selected and they may be stacked. For
-example, a certain person might be a Contact (R1) in most circumstances, but he could be a Contact (R2) or even a Contact (R3) in the
-right place -- for example, a mercenary might help out for a fee versus
+example, a certain person might be a Contact (R1) in most circumstances, 
+but he could be a Contact (R2) or even a Contact (R3) in the right 
+place -- for example, a mercenary might help out for a fee versus
 normal foes, but when ﬁghting his "hereditary enemies," he might be
 almost invincible and eager to help.
 
@@ -3192,27 +3121,27 @@ what the character needs or might not work correctly all of the time.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Contacts, Patrons, Enemies###
->
-> Having friends in high places often means the character
-> attracts the attention of the friends' friends... and enemies.
-> Players willing to roleplay long, associative networks may add
-> lower-level Contacts in exchange for an equivalent number
-> of Ranks in one or more Enemies. The player must purchase
-> one Contact or Patron of Rank 2 or greater. All additional
-> Contacts and Enemies must be associated with that primary
-> Contact or Patron. As long as the total number of Ranks in
-> the additional Contacts equals the total number of Ranks
-> in the Enemies, the Enemies do not count toward the Disadvantage 
-> maximum.
-> 
-> Example: *A player decides to have a Rank 3 Patron. The
-> player may then add any number of Rank 1 or 2 Contacts as
-> long as she adds an equal number of Enemies. If she chose to
-> add three Rank 1 Contacts (well-placed personal assistants
-> to the Patron), the player would have to think of three Rank
-> 1 Enemies, or one Rank 1 and one Rank 2 Enemy, or one
-> Rank 3 Enemy that this Patron has.*
+### Contacts, Patrons, Enemies###
+
+Having friends in high places often means the character
+attracts the attention of the friends' friends... and enemies.
+Players willing to roleplay long, associative networks may add
+lower-level Contacts in exchange for an equivalent number
+of Ranks in one or more Enemies. The player must purchase
+one Contact or Patron of Rank 2 or greater. All additional
+Contacts and Enemies must be associated with that primary
+Contact or Patron. As long as the total number of Ranks in
+the additional Contacts equals the total number of Ranks
+in the Enemies, the Enemies do not count toward the Disadvantage 
+maximum.
+
+Example: *A player decides to have a Rank 3 Patron. The
+player may then add any number of Rank 1 or 2 Contacts as
+long as she adds an equal number of Enemies. If she chose to
+add three Rank 1 Contacts (well-placed personal assistants
+to the Patron), the player would have to think of three Rank
+1 Enemies, or one Rank 1 and one Rank 2 Enemy, or one
+Rank 3 Enemy that this Patron has.*
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -4120,25 +4049,21 @@ control over the new form.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Possession Knowledge Chart ###
-> 
-> Result points equal the difference between the investigation
-> total and the target's Knowledge roll.
-> 
-> *Result Points Needed: Knowledge Attained
-> 
-> *0:* Basic information -- target's name, age, base of operations
-> 
-> *1 to 4:* More personal information -- target's job, ﬁnancial status, 
-> any current schedule
->
-> *5 to 8:* More in-depth personal information -- identities and 
-> backgrounds of family, friends, lovers
-> 
-> *9 to 12:* Very personal information -- secrets, private
-> likes and dislikes, and so on 
-> 
-> *13:* Everything there is to know
+### Possession Knowledge Chart ###
+
+Result points equal the difference between the investigation
+total and the target's Knowledge roll.
+
+*Result Points Needed: Knowledge Attained*
+
+* *0:* Basic information -- target's name, age, base of operations
+* *1 to 4:* More personal information -- target's job, ﬁnancial status, 
+  any current schedule
+* *5 to 8:* More in-depth personal information -- identities and 
+  backgrounds of family, friends, lovers
+* *9 to 12:* Very personal information -- secrets, private
+  likes and dislikes, and so on 
+* *13:* Everything there is to know
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -4206,32 +4131,34 @@ creature or object.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Shapeshifting Example: ###
-> 
-> Mark is playing a wereleopard. He chooses Shapeshifting,
-> specifying that he will only change from Human to leopard
-> and back again. The gamemaster decides he'll gain one rank
-> of the Hypermovement Special Ability (+2 to the movement
-> rate) and +2 to all search totals that require smell when in
-> his wereleopard form.
-> 
-> Mark's character has 18 attribute dice arranged thusly:    
-> AGILITY 2D+2    
-> STRENGTH 3D    
-> KNOWLEDGE 2D+2    
-> PERCEPTION 2D+2    
-> MECHANICAL 3D+1    
-> TECHNICAL 3D+2    
-> 
-> When he changes into wereleopard form, Mark's character
-> has the following attribute values, the total of which has been
-> lowered by 2D because of the bonuses:    
-> AGILITY 4D    
-> STRENGTH 3D+2    
-> KNOWLEDGE 2D+2    
-> PERCEPTION 3D+2    
-> MECHANICAL 1D    
-> TECHNICAL 1D    
+### Shapeshifting Example: ###
+
+Mark is playing a wereleopard. He chooses Shapeshifting,
+specifying that he will only change from Human to leopard
+and back again. The gamemaster decides he'll gain one rank
+of the Hypermovement Special Ability (+2 to the movement
+rate) and +2 to all search totals that require smell when in
+his wereleopard form.
+
+Mark's character has 18 attribute dice arranged thusly:
+
+* AGILITY 2D+2
+* STRENGTH 3D
+* KNOWLEDGE 2D+2
+* PERCEPTION 2D+2
+* MECHANICAL 3D+1
+* TECHNICAL 3D+2
+
+When he changes into wereleopard form, Mark's character has the 
+following attribute values, the total of which has been lowered 
+by 2D because of the bonuses:
+
+* AGILITY 4D
+* STRENGTH 3D+2
+* KNOWLEDGE 2D+2
+* PERCEPTION 3D+2
+* MECHANICAL 1D
+* TECHNICAL 1D
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -4258,29 +4185,17 @@ skills, and the gamemaster must approve the fact that they are "related."
 Some examples of skill groups include:
 
 * Acting: bargain, con, persuasion
-
 * Acute Balance: acrobatics, climb/jump, sneak
-
 * Athletics: lift, running, throwing
-
 * Charismatic: command, con, persuasion
-
 * Close Combat: brawling, melee combat, dodge
-
 * Investigative: investigation, search, streetwise
-
 * Leadership: command, intimidation, persuasion
-
 * Photographic Memory: languages, scholar, investigation
-
 * Observant: gambling, investigation, search
-
 * Ranged Combat: ﬁrearms, missile weapons, throwing
-
 * Players may substitute other related skills for the ones listed in the
-
 * groups above, or create their own groups as long as there is a common
-
 * thread and the gamemaster approves the grouping.
 
 Three specializations may replace one general skill, getting a +1 for
@@ -4495,13 +4410,13 @@ one rank in it.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Cybernetics and Special Abilities ###
-> 
-> Mechanical implants exist as the most common means for an unmutated 
-> Human (and possibly some other species of the gamemaster's devising) 
-> to gain Special Abilities. Read the "Cybernetics" chapter for details 
-> on how to include Special Abilities in your character by replacing an 
-> organic part with a mechanical construct.
+### Cybernetics and Special Abilities ###
+
+Mechanical implants exist as the most common means for an unmutated 
+Human (and possibly some other species of the gamemaster's devising) 
+to gain Special Abilities. Read the "Cybernetics" chapter for details 
+on how to include Special Abilities in your character by replacing an 
+organic part with a mechanical construct.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -4643,7 +4558,8 @@ most number of sensory organs and the brain are located. Some species
 might have their sensory organs split among a few locations, with the
 brain in another part, giving them the illusion of having no head.
 
-Sensory organs: Beings rely on sensory organs to gather information about their environment. How many does the alien have, and what
+Sensory organs: Beings rely on sensory organs to gather information 
+about their environment. How many does the alien have, and what
 do they sense? How well is each sense developed? Humans have ﬁve
 senses, but your alien species may have additional, specialized organs to
 detect other aspects of their environment, such as barometric pressure
@@ -4654,6 +4570,7 @@ Mouth: Consider the number of mouths, location of them, their
 size and shape, type of tongue, and teeth (if any). This often dictates
 the alien's dietary needs and rituals. A mouth might even be separate
 from the part used to create sounds.
+
 Facial features: On Humans, this includes eyes, ears, nose, and
 mouth. Alien species may have these located elsewhere. Decide what
 features are on your alien's face, and then specify number, location, size,
@@ -5339,23 +5256,23 @@ modiﬁed as the gamemaster sees ﬁt.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Installation Example ###
-> 
-> A gamemaster might have available the Equilibria
-> cyber-ear. Fitted in place of the inner ear, the Equilibria
-> improves balance. This is an ear unit with one upgrade,
-> Skill Bonus: Balance (R3), +3 to brawling: block, melee
-> combat: parry/block, acrobatics: beam walking, dodge, and
-> riding totals. The gamemaster decides that a low-grade
-> Equilibria has the Limitation Allergy: Loud Sounds
-> (R1), character loses all Critical Success rerolls when
-> exposed very loud sounds (like hammering). The total
-> point cost for the Special Ability is 1 (3 for the Special
-> Ability and its ranks minus 3 for the Limitation, with
-> a minimum cost of 1). The base surgery difficulty is 17
-> for an ear. With the upgrade, the installation difficulty
-> becomes 18. The price difficulty is 18, while the credits
-> cost is 18,000.
+### Installation Example ###
+
+A gamemaster might have available the Equilibria
+cyber-ear. Fitted in place of the inner ear, the Equilibria
+improves balance. This is an ear unit with one upgrade,
+Skill Bonus: Balance (R3), +3 to brawling: block, melee
+combat: parry/block, acrobatics: beam walking, dodge, and
+riding totals. The gamemaster decides that a low-grade
+Equilibria has the Limitation Allergy: Loud Sounds
+(R1), character loses all Critical Success rerolls when
+exposed very loud sounds (like hammering). The total
+point cost for the Special Ability is 1 (3 for the Special
+Ability and its ranks minus 3 for the Limitation, with
+a minimum cost of 1). The base surgery difficulty is 17
+for an ear. With the upgrade, the installation difficulty
+becomes 18. The price difficulty is 18, while the credits
+cost is 18,000.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -5479,25 +5396,25 @@ additional restrictions, see the sidebar.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Hand, Arm, and Shoulder Restrictions ###
->
-> These restrictions apply to all hand, arm, and shoulder cybernetic 
-> implants.
-> 
-> Skill Bonus, Skill Minimum, and Uncanny Aptitude may only be taken 
-> for skills the hand can use. Unless the character replaces both 
-> legs, the Fast Reactions ability only applies to skills that can be 
-> used with one hand. Ambidextrous may only be taken if both hands are 
-> replaced at the same time, though the Special Ability need only be 
-> purchased once per pair of hands. However, the Special Ability
-> takes up one slot in each hand.
->
-> For items requiring one hand to lift, the character receives
-> the full bonus. For items requiring two hands to lift, the character 
-> gets one-half of the bonus (rounded up), unless he has
-> both hands replaced. If the bonuses given by the hands are
-> different, than the character gets the average of the bonuses
-> (rounded up) when attempting two-handed maneuvers.
+### Hand, Arm, and Shoulder Restrictions ###
+
+These restrictions apply to all hand, arm, and shoulder cybernetic 
+implants.
+
+Skill Bonus, Skill Minimum, and Uncanny Aptitude may only be taken 
+for skills the hand can use. Unless the character replaces both 
+legs, the Fast Reactions ability only applies to skills that can be 
+used with one hand. Ambidextrous may only be taken if both hands are 
+replaced at the same time, though the Special Ability need only be 
+purchased once per pair of hands. However, the Special Ability
+takes up one slot in each hand.
+
+For items requiring one hand to lift, the character receives
+the full bonus. For items requiring two hands to lift, the character 
+gets one-half of the bonus (rounded up), unless he has
+both hands replaced. If the bonuses given by the hands are
+different, than the character gets the average of the bonuses
+(rounded up) when attempting two-handed maneuvers.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -5565,22 +5482,22 @@ bonus. For additional restrictions, see the sidebar.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Foot, Lower Leg, and Complete Leg Restrictions ###
->
-> These restrictions apply to all foot, lower leg, and
-> complete leg cybernetic implants.
-> 
-> Skill Bonus, Skill Minimum, and Uncanny Aptitude may only be taken 
-> for skills the foot can use. Unless the character replaces both legs, 
-> the Fast Reactions ability only applies to skills that can be used 
-> with one foot.
->
-> Characters gain only half the bonus (rounded up) to
-> climb/jump, running, or swim attempts and half of the
-> Hypermovement adjustment unless the character has
-> both feet replaced. If the bonuses given by the feet are 
-> different, than the character gets the average of the bonuses
-> (rounded up) when attempting these maneuvers.
+### Foot, Lower Leg, and Complete Leg Restrictions ###
+
+These restrictions apply to all foot, lower leg, and
+complete leg cybernetic implants.
+
+Skill Bonus, Skill Minimum, and Uncanny Aptitude may only be taken 
+for skills the foot can use. Unless the character replaces both legs, 
+the Fast Reactions ability only applies to skills that can be used 
+with one foot.
+
+Characters gain only half the bonus (rounded up) to
+climb/jump, running, or swim attempts and half of the
+Hypermovement adjustment unless the character has
+both feet replaced. If the bonuses given by the feet are 
+different, than the character gets the average of the bonuses
+(rounded up) when attempting these maneuvers.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -5986,17 +5903,17 @@ installation difficulty 20; cost 20 (20,000 credits).
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Extra Cybernetic Parts ###
->
-> Characters may include certain additional pieces on themselves. Such 
-> cybernetic equipment includes shoulder, complete leg, tail, tentacle, 
-> eye, ear, nose, heart, scholarchip reader, neural jack, and drug 
-> dispenser. The character automatically gains the
-> Extra Body Part Special Ability. Except for the scholarchip
-> reader, neural jack, and drug dispenser, each additional unit
-> adds 10 to the surgery difficulty. Furthermore, the character is
-> disoriented for a few days after recovering from the surgery (+5
-> to all difficulties), as she adjusts to having the new body part.
+### Extra Cybernetic Parts ###
+
+Characters may include certain additional pieces on themselves. Such 
+cybernetic equipment includes shoulder, complete leg, tail, tentacle, 
+eye, ear, nose, heart, scholarchip reader, neural jack, and drug 
+dispenser. The character automatically gains the
+Extra Body Part Special Ability. Except for the scholarchip
+reader, neural jack, and drug dispenser, each additional unit
+adds 10 to the surgery difficulty. Furthermore, the character is
+disoriented for a few days after recovering from the surgery (+5
+to all difficulties), as she adjusts to having the new body part.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -6142,12 +6059,12 @@ decides to include.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Effects of Character Options ###
->
-> When determining how many Character Points a player
-> needs to improve his character's skills and attributes, ignore
-> any modiﬁers provided by Advantages, Disadvantages, or
-> Special Abilities.
+### Effects of Character Options ###
+
+When determining how many Character Points a player
+needs to improve his character's skills and attributes, ignore
+any modiﬁers provided by Advantages, Disadvantages, or
+Special Abilities.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -6463,20 +6380,20 @@ Points on the same roll.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Alternate Die Rolling Options ###
->
-> Some gamemasters prefer rolling fewer dice. To this
-> end, a die code simpliﬁcation chart has been included in an
-> appendix of this book. It offers two solutions for reducing
-> the number of dice while retaining some of the randomness
-> of rolling dice.
-> 
-> For converting die codes in the middle of a game without
-> referencing the table, multiply the number in front of the "D"
-> by 3 for tasks that ought to fail (such as the damage resistance
-> total of a cannon fodder character) or 4 for actions that
-> ought to succeed (such as something the players' characters
-> are doing).
+### Alternate Die Rolling Options ###
+
+Some gamemasters prefer rolling fewer dice. To this
+end, a die code simpliﬁcation chart has been included in an
+appendix of this book. It offers two solutions for reducing
+the number of dice while retaining some of the randomness
+of rolling dice.
+
+For converting die codes in the middle of a game without
+referencing the table, multiply the number in front of the "D"
+by 3 for tasks that ought to fail (such as the damage resistance
+total of a cannon fodder character) or 4 for actions that
+ought to succeed (such as something the players' characters
+are doing).
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -6587,19 +6504,19 @@ beat by rolling the number of dice in the skill and adding the results.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Game-Enhancing Cards ###
->
-> In this rulebook, you'll occasionally ﬁnd references to"card
-> use." One of the unique features of certain West End Games
-> systems is their game-enhancing card decks. These cards
-> can help players and gamemasters alter outcomes, inﬂuence
-> initiative, and make dramatic scenes even more exciting. You
-> can include one of these decks in your D6 Space games with
-> a little tweaking. The Torg card deck is available as a printed
-> deck on standard playing card stock and (as of this printing)
-> is still sold directly by West End Games. Check the West
-> End Games Web site, www.westendgames.com, for more
-> information, including deck availability.
+### Game-Enhancing Cards ###
+
+In this rulebook, you'll occasionally ﬁnd references to"card
+use." One of the unique features of certain West End Games
+systems is their game-enhancing card decks. These cards
+can help players and gamemasters alter outcomes, inﬂuence
+initiative, and make dramatic scenes even more exciting. You
+can include one of these decks in your D6 Space games with
+a little tweaking. The Torg card deck is available as a printed
+deck on standard playing card stock and (as of this printing)
+is still sold directly by West End Games. Check the West
+End Games Web site, www.westendgames.com, for more
+information, including deck availability.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -6791,97 +6708,68 @@ requirements to perform. The suggested skill to use with each action
 is included at the end of the task's description.
 
 * Bash: Hit an opponent with a blunt weapon. (melee combat)
-
 * Catch: Stop the movement of a thrown or dropped object or person.
-(The catcher must act later in the round than the person doing the
-throwing or dropping. This is one of the few cases where a character
-may "move up" his turn.) (throwing)
-
+  (The catcher must act later in the round than the person doing the
+  throwing or dropping. This is one of the few cases where a character
+  may "move up" his turn.) (throwing)
 * Choke: Grab a person's neck and gripping tightly. (brawling)
-
 * Communicate: Relay plans or exchange complex ideas and information 
-with other characters (more than a few words or one sentence).
-(an interaction skill or only roleplaying)
-
+  with other characters (more than a few words or one sentence).
+  (an interaction skill or only roleplaying)
 * Disarm: Remove an object from an opponent's hand. This action
-is treated as a called shot. (brawling, ﬁrearms, melee combat, missile
-weapons, throwing)
-
+  is treated as a called shot. (brawling, ﬁrearms, melee combat, missile
+  weapons, throwing)
 * Dodge: Actively evade an attack. (dodge)
-
 * Entangle: Throw an entangling weapon at an opponent. (throwing)
-
 * Escape: Break a hold. (lift)
-
 * Grab: Latch onto an opponent. Depending on where the opponent
-was grabbed, he can take other actions. (brawling)
-
+  was grabbed, he can take other actions. (brawling)
 * Kick: Strike out at an opponent with a foot. (brawling)
-
 * Leap: Jump over an opponent, onto a table, or any other such
-maneuver. (climb/jump)
-
+  maneuver. (climb/jump)
 * Lunge: Stab forward with a pointed weapon, such as a sword or a
-knife. (melee combat)
-
+  knife. (melee combat)
 * Move: Maneuver 51% of the character's Move or more around
-the area. The gamemaster should call only for a roll if the terrain is
-challenging or the maneuvering complex. During some rounds, the
-gamemaster may decide that existing factors dictate all movement,
-regardless of length, require an action. (running, swim)
-
+  the area. The gamemaster should call only for a roll if the terrain is
+  challenging or the maneuvering complex. During some rounds, the
+  gamemaster may decide that existing factors dictate all movement,
+  regardless of length, require an action. (running, swim)
 * Parry: Block an opponent's blow. (brawling, melee combat)
-
 * Pin: Trap an opponent by either holding him to the ground or
-tacking a piece of his clothing to a wall or other nearby object. When
-pinning the whole opponent, this is the same concept as tackling. 
-Pinning prevents the victim from using the fastened part. (brawling, melee
-combat, missile weapons, throwing)
-
+  tacking a piece of his clothing to a wall or other nearby object. When
+  pinning the whole opponent, this is the same concept as tackling. 
+  Pinning prevents the victim from using the fastened part. (brawling, 
+  melee combat, missile weapons, throwing)
 * Punch: Strike out at an opponent with a ﬁst. (brawling)
-
 * Push: Forcibly move an opponent. (brawling)
-
 * Ready a Weapon: Draw or reload a gun or bow, unsheathe a knife,
-and similar actions. This generally does not require a skill roll, but the
-gamemaster may chose to require one related to the weapon in question
-for particularly stressful situations.
-
+  and similar actions. This generally does not require a skill roll, but the
+  gamemaster may chose to require one related to the weapon in question
+  for particularly stressful situations.
 * Run Away: Flee from the scene. (running)
-
 * Shoot: Fire a missile or projectile weapon. (ﬁrearms, missile
-weapons)
-
+  weapons)
 * Slash: Swing an edged weapon. (melee combat)
-
 * Switch a Weapon or Equipment's Setting: Although rare, some
-weapons and equipment have more than one damage or effect setting.
-It takes an action to change the setting. This generally does not require
-a skill roll, but the gamemaster may chose to require one related to the
-item in question for particularly stressful situations.
-
+  weapons and equipment have more than one damage or effect setting.
+  It takes an action to change the setting. This generally does not require
+  a skill roll, but the gamemaster may chose to require one related to the
+  item in question for particularly stressful situations.
 * Tackle: Bodily overcome an opponent. Once tackled, the opponent
-can do no other physical actions other than speak or attempt to break
-the attacker's grip. (brawling)
-
-* Throw a Weapon or Object: Toss something at an opponent.
-(throwing)
-
-* Trip: Quickly force one or both of an opponent's legs upward.
-(brawling)
-
+  can do no other physical actions other than speak or attempt to break
+  the attacker's grip. (brawling)
+* Throw a Weapon or Object: Toss something at an opponent. (throwing)
+* Trip: Quickly force one or both of an opponent's legs upward. (brawling)
 * Use a Skill or Ability: Perform a quick action related to a Special
-Ability the character possesses or a skill he wants to use. A character
-may not use a Special Ability he does not have, though he may use a
-skill he has no experience in (possibly at a penalty). Note that some
-skills and Special Abilities take longer than one action or one round to
-perform, so trying to do them in ﬁve seconds incurs penalties.
-
+  Ability the character possesses or a skill he wants to use. A character
+  may not use a Special Ability he does not have, though he may use a
+  skill he has no experience in (possibly at a penalty). Note that some
+  skills and Special Abilities take longer than one action or one round to
+  perform, so trying to do them in ﬁve seconds incurs penalties.
 * Vehicle Maneuver: Perform a stunt in a moving vehicle. (exoskeleton
-operation, piloting, vehicle operation)
-
+  operation, piloting, vehicle operation)
 * Waiting: Watch for a better opportunity to perform an action. This
-does not require a skill roll, but it does take concentration.
+  does not require a skill roll, but it does take concentration.
 
 
 Free Actions
@@ -6893,21 +6781,17 @@ effort. If the gamemaster thinks a task requires concentration (and has a
 possibility of failure, thus requiring a skill roll), it's not a free action.
 
 * speaking a few words to someone nearby
-
 * a quick glance around a room (and possibly a roll of Perception)
-
 * moving 50% or less of the character's Move over an easy area or
-up to a meter over more challenging terrain
+  up to a meter over more challenging terrain
 
 Additionally, the following player actions do not count as character
 actions:
 
 * determining initiative
-
 * rolling to resist damage
-
 * rolling willpower or Knowledge to determine the emotional effects
-of the environment on the character
+  of the environment on the character
 
 
 Related Skills
@@ -7045,18 +6929,18 @@ or highly experienced characters can accomplish them.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Generic Standard Difﬁculties ###
-> 
-> *Name: Difficulty*
->
-> Automatic: 0    
-> Very Easy: 1-5    
-> Easy: 6-10    
-> Moderate: 11-15    
-> Difficult:16-20    
-> Very Difficult: 21-25    
-> Heroic: 26-30    
-> Legendary: 31 or more
+### Generic Standard Difﬁculties ###
+
+*Name: Difficulty*
+
+* Automatic: 0    
+* Very Easy: 1-5    
+* Easy: 6-10    
+* Moderate: 11-15    
+* Difficult:16-20    
+* Very Difficult: 21-25    
+* Heroic: 26-30    
+* Legendary: 31 or more
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -7142,35 +7026,35 @@ the result won't happen as precisely or stylishly as someone with skill.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Generic Difﬁculty Modiﬁers ###
-> 
-> *Modiﬁer: Situational Example*
-> 
-> +16 or more: Overwhelming disadvantage -- Something affects the skill 
-> use in an almost crippling fashion (repairing a vehicle without any 
-> proper tools).
-> 
-> +11-15: Decisive disadvantage -- The skill use is very limited by 
-> circumstance (trying to ﬁnd someone in complete darkness).
-> 
-> +6-10: Signiﬁcant disadvantage -- The skill use is affected negatively 
-> (tracking someone through drizzling rain).
-> 
-> +1-5: Slight disadvantage -- There is an annoying problem (picking a 
-> lock by ﬂashlight).
-> 
-> -1-5: Slight advantage -- A tool or modiﬁcation that makes the skill 
-> use a little easier (small spikes on shoes for climb/jump).
-> 
-> -6-10: Signiﬁcant advantage -- A tool or modiﬁcation that makes the 
-> skill use much easier (rope with knots is used for climb/jump).
-> 
-> -11-15: Decisive advantage -- A tool speciﬁcally designed to make 
-> the job easier (complete language database used for languages).
-> 
-> -16 or more: Overwhelming advantage -- An exceptional tool or 
-> modiﬁcation that speciﬁcally makes the skill use much easier 
-> (wilderness tools and equipment specially designed to help with survival).
+### Generic Difﬁculty Modiﬁers ###
+
+*Modiﬁer: Situational Example*
+
+* +16 or more: Overwhelming disadvantage -- Something affects the skill 
+use in an almost crippling fashion (repairing a vehicle without any 
+proper tools).
+
+* +11-15: Decisive disadvantage -- The skill use is very limited by 
+circumstance (trying to ﬁnd someone in complete darkness).
+
+* +6-10: Signiﬁcant disadvantage -- The skill use is affected negatively 
+(tracking someone through drizzling rain).
+
+* +1-5: Slight disadvantage -- There is an annoying problem (picking a 
+lock by ﬂashlight).
+
+* -1-5: Slight advantage -- A tool or modiﬁcation that makes the skill 
+use a little easier (small spikes on shoes for climb/jump).
+
+* -6-10: Signiﬁcant advantage -- A tool or modiﬁcation that makes the 
+skill use much easier (rope with knots is used for climb/jump).
+
+* -11-15: Decisive advantage -- A tool speciﬁcally designed to make 
+the job easier (complete language database used for languages).
+
+* -16 or more: Overwhelming advantage -- An exceptional tool or 
+modiﬁcation that speciﬁcally makes the skill use much easier 
+(wilderness tools and equipment specially designed to help with survival).
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -7251,43 +7135,43 @@ movement rules suggest.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Result Points and Success ###
->
-> Here are some guidelines for describing different levels
-> of success. Use the result points of the roll -- the difference
-> between the skill total and the difficulty -- to decide on the
-> exact level.
-> 
-> **Minimal (0):** The total was just barely enough. The character hardly 
-> succeeded at all, and only the most minimal effects apply. If "minimal 
-> effects" are not an option, then maybe the action took longer than 
-> normal to succeed.
-> 
-> **Solid (1-4):** The action was performed completely, but without frills.
-> 
-> **Good (5-8):** The results were better than necessary and there may be 
-> added beneﬁts.
-> 
-> **Superior (9-12):** It is almost certain that there are additional beneﬁts 
-> to performing an action this well. The character performed the action 
-> better, faster, or more adeptly than expected.
-> 
-> **Spectacular (13-16):** The performance of the action was
-> deft and expert. Observers would notice the ease or grace with
-> which the action was performed (if applicable).
-> 
-> **Incredible (16 or more):** The skill performance was of 
-> such dazzling quality that, if appropriate to the task, it could
-> become the subject of conversation for some time -- it's at
-> least worth writing home about. Gamemasters should dole
-> out some signiﬁcant bonuses for getting this large of a roll.
-> 
-> Example: *A character who is trying to use the survival
-> skill to forage for food gets a minimal success -- she ﬁnds
-> "subsistence level" food; it's barely better than garbage. The
-> next day she gets a spectacular result -- not only does she
-> ﬁnd good, wholesome food, but she ﬁnds enough for two
-> days instead of one.*
+### Result Points and Success ###
+
+Here are some guidelines for describing different levels
+of success. Use the result points of the roll -- the difference
+between the skill total and the difficulty -- to decide on the
+exact level.
+
+**Minimal (0):** The total was just barely enough. The character hardly 
+succeeded at all, and only the most minimal effects apply. If "minimal 
+effects" are not an option, then maybe the action took longer than 
+normal to succeed.
+
+**Solid (1-4):** The action was performed completely, but without frills.
+
+**Good (5-8):** The results were better than necessary and there may be 
+added beneﬁts.
+
+**Superior (9-12):** It is almost certain that there are additional beneﬁts 
+to performing an action this well. The character performed the action 
+better, faster, or more adeptly than expected.
+
+**Spectacular (13-16):** The performance of the action was
+deft and expert. Observers would notice the ease or grace with
+which the action was performed (if applicable).
+
+**Incredible (16 or more):** The skill performance was of 
+such dazzling quality that, if appropriate to the task, it could
+become the subject of conversation for some time -- it's at
+least worth writing home about. Gamemasters should dole
+out some signiﬁcant bonuses for getting this large of a roll.
+
+Example: *A character who is trying to use the survival
+skill to forage for food gets a minimal success -- she ﬁnds
+"subsistence level" food; it's barely better than garbage. The
+next day she gets a spectacular result -- not only does she
+ﬁnd good, wholesome food, but she ﬁnds enough for two
+days instead of one.*
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -7477,31 +7361,31 @@ willpower skill in an attempt to overcome the fatigue.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Movement Difﬁculty Modiﬁer ###
->
-> *Base Difficulty for Characters: 0 (running); 5 (other movement)*
->
-> *Situation: Modiﬁer*
->
-> Easy terrain (ﬂat surface, smooth water, using a ladder, light breeze, 
-> light rain or fog): 0
->
-> Moderate terrain (uneven surface, small obstacles, choppy water, 
-> climbing a tree, strong winds, heavy rain or fog): +5
->
-> Rough terrain (large but negotiable obstacles, strong undercurrent, 
-> climbing a rough wall, ﬂying near unyielding obstacles such as 
-> pillars or trees): +10
->
-> Very rough terrain (dense and large obstacles, stormy weather, a 
-> few airborne hazards, hail): +15
->
-> Hazardous terrain (mineﬁeld, narrow walkway, many airborne 
-> hazards, large waves, climbing a smooth surface, complete 
-> darkness): +20
->
-> Very hazardous terrain (corridor ﬁlled with falling debris and 
-> explosions, swimming or ﬂying in a hurricane): +25 or more
+### Movement Difﬁculty Modiﬁer ###
+
+*Base Difficulty for Characters: 0 (running); 5 (other movement)*
+
+*Situation: Modiﬁer*
+
+* Easy terrain (ﬂat surface, smooth water, using a ladder, light breeze, 
+light rain or fog): 0
+
+* Moderate terrain (uneven surface, small obstacles, choppy water, 
+climbing a tree, strong winds, heavy rain or fog): +5
+
+* Rough terrain (large but negotiable obstacles, strong undercurrent, 
+climbing a rough wall, ﬂying near unyielding obstacles such as 
+pillars or trees): +10
+
+* Very rough terrain (dense and large obstacles, stormy weather, a 
+few airborne hazards, hail): +15
+
+* Hazardous terrain (mineﬁeld, narrow walkway, many airborne 
+hazards, large waves, climbing a smooth surface, complete 
+darkness): +20
+
+* Very hazardous terrain (corridor ﬁlled with falling debris and 
+explosions, swimming or ﬂying in a hurricane): +25 or more
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -7576,96 +7460,70 @@ character has lost control for one round. If some immovable force doesn't
 stop the vehicle or character during that round, he may attempt to regain
 control (with a base difficulty of 15) on the following round.
 
-If a character wishes to perform any other 
-actions in addition to exoskeleton operation,
-piloting, vehicle operation, or ﬂying/0-G, he must
-make the appropriate skill rolls for all actions,
-reduced by the multi-action penalty, regardless
-of the situation. The base difficulty for normal
-operation becomes 5. Stunts still have their
-established base difficulties.
+If a character wishes to perform any other actions in addition to 
+exoskeleton operation, piloting, vehicle operation, or ﬂying/0-G, he 
+must make the appropriate skill rolls for all actions, reduced by the 
+multi-action penalty, regardless of the situation. The base difficulty 
+for normal operation becomes 5. Stunts still have their established base 
+difficulties.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Stunt Difﬁculties/Modiﬁers ###
->
-> *Stunt: Difficulty*
-> 
-> Docking (water), parking in a speciﬁc spot (land): 6
->
-> Landing (air vehicles): 10
-> 
-> Moving on a straight way: 0
->
-> Regaining control (in situations other than ramming or 
-> sideswiping): 15
->
-> Sideswiping: 10
->
-> Easy turn (less than 45 degrees.from current direction): 5
->
-> Fast 45-degree turn: 9
->
-> Fast 90-degree turn: 15
-> 
-> Fast 180-degree turn: 21
-> 
-> *Condition: Modiﬁer* 
-> 
-> For All Vehicles Moving in reverse: +6
->
-> Ramming: +10
->
-> For Land and Water Vehicles -- Moved or moving over curb or debris: +3
->
-> For Land and Water Vehicles -- Limited parking or docking area: +3
-> 
-> For Land Vehicles Not Designed for Off-Road Conditions Off-road: +6
->
-> For Air Vehicles and Aerial Characters -- Unlimited landing area: -3
-> 
-> For Air Vehicles and Aerial Characters -- Limited landing area: +3
->
-> For Air Vehicles and Aerial Characters -- Almost no landing area: +6
-> 
-> For Air Vehicles and Aerial Characters -- Rough or unsteady landing 
-> area: +3 or more
-> 
-> Climb or dive of 45 degrees or more from current direction: +6 or more
->
->
-> ### Terrain Conditions ###
-> 
-> For modiﬁers due to various terrain conditions, use the
-> "Movement Difficulty Modiﬁers" table.
->
->
-> ### Vehicle Familiarity ###
-> 
-> Use the following table when a character is not familiar
-> with the vehicle she needs to operate. If the character does
-> not have the correct operating skill at all, these difficulties
-> are in addition to the untrained modiﬁer.
->
-> *Vehicle Type: Modiﬁer*
->
-> Very common or simple (car, pickup, bicycle): +3
->
-> Common (farm tractor, motorcycle, motorboat, snowmobile): +6
-> 
-> Moderately common (speedboat, bus): +8
->
-> Uncommon (ultralight plane, tank, hang-glider, unicycle): +11
->
-> Unusual (prop plane, glider): +14
->
-> Rare (jet, submarine): +17
->
-> Exotic (spaceship, powered armor): +20
-> 
-> Has a manual for the vehicle in a language the character 
-> can understand: -3
+### Stunt Difﬁculties/Modiﬁers ###
+
+*Stunt: Difficulty*
+
+* Docking (water), parking in a speciﬁc spot (land): 6
+* Landing (air vehicles): 10
+* Moving on a straight way: 0
+* Regaining control (in situations other than ramming or 
+  sideswiping): 15
+* Sideswiping: 10
+* Easy turn (less than 45 degrees.from current direction): 5
+* Fast 45-degree turn: 9
+* Fast 90-degree turn: 15
+* Fast 180-degree turn: 21
+
+*Condition: Modiﬁer* 
+
+* For All Vehicles Moving in reverse: +6
+* Ramming: +10
+* For Land and Water Vehicles -- Moved or moving over curb or debris: +3
+* For Land and Water Vehicles -- Limited parking or docking area: +3
+* For Land Vehicles Not Designed for Off-Road Conditions Off-road: +6
+* For Air Vehicles and Aerial Characters -- Unlimited landing area: -3
+* For Air Vehicles and Aerial Characters -- Limited landing area: +3
+* For Air Vehicles and Aerial Characters -- Almost no landing area: +6
+* For Air Vehicles and Aerial Characters -- Rough or unsteady landing 
+  area: +3 or more
+* Climb or dive of 45 degrees or more from current direction: +6 or more
+
+
+### Terrain Conditions ###
+
+For modiﬁers due to various terrain conditions, use the
+"Movement Difficulty Modiﬁers" table.
+
+
+### Vehicle Familiarity ###
+
+Use the following table when a character is not familiar
+with the vehicle she needs to operate. If the character does
+not have the correct operating skill at all, these difficulties
+are in addition to the untrained modiﬁer.
+
+*Vehicle Type: Modiﬁer*
+
+* Very common or simple (car, pickup, bicycle): +3
+* Common (farm tractor, motorcycle, motorboat, snowmobile): +6
+* Moderately common (speedboat, bus): +8
+* Uncommon (ultralight plane, tank, hang-glider, unicycle): +11
+* Unusual (prop plane, glider): +14
+* Rare (jet, submarine): +17
+* Exotic (spaceship, powered armor): +20
+* Has a manual for the vehicle in a language the character 
+  can understand: -3
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -7673,22 +7531,18 @@ established base difficulties.
 Ramming and Sideswiping Vehicles
 --------------------------------
 
-Ramming is done with the nose of a vehicle,
-while sideswiping is done with its side. The
-character makes the appropriate vehicle roll,
-including the vehicle's Maneuverability. If the
-character fails the roll, the vehicle misses and
-spins. Land and vehicles turn up to 180 degrees
-and lose power, while space vehicles continuing spinning. 
-The character must then spend
-one round starting it or regaining control and
-another getting back in the right direction.
-Should the character instead succeed, she keeps
-the vehicle reasonably straight and may try for
-another sideswipe or ram on the next turn. The
-pilot of an air vehicle that rams or sideswipes
-another vehicle automatically loses control. About the best she can
-hope for is to make a successful, but rough, landing.
+Ramming is done with the nose of a vehicle, while sideswiping is done 
+with its side. The character makes the appropriate vehicle roll,
+including the vehicle's Maneuverability. If the character fails the 
+roll, the vehicle misses and spins. Land and vehicles turn up to 180 
+degrees and lose power, while space vehicles continuing spinning. 
+The character must then spend one round starting it or regaining 
+control and another getting back in the right direction. Should the 
+character instead succeed, she keeps the vehicle reasonably straight 
+and may try for another sideswipe or ram on the next turn. The pilot 
+of an air vehicle that rams or sideswipes another vehicle automatically 
+loses control. About the best she can hope for is to make a successful, 
+but rough, landing.
 
 Both vehicles take damage (the mechanics of this are explained
 later in this section) in a successful ram or sideswipe.
@@ -7696,43 +7550,39 @@ later in this section) in a successful ram or sideswipe.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Vehicle and Passenger Damage ###
->
-> *Damage Total > Resistance Total By: Vehicle Damage (Passengers Suffer...)*
->
-> 1-3: Very Light (No damage)
->
-> 4-8: Light (1/4 Damage Total)
->
-> 9-12: Heavy (1/2 Damage Total)
-> 
-> 13-15: Severe (3/4 Damage Total)
->
-> 16+: Destroyed (All Damage Total)
->
-> Note: All modiﬁers are cumulative. A vehicle may take an unlimited 
-> number of Very Light and Light levels of damage. At Heavy or above,
-> any additional level of damage above Very Light bumps the damage to 
-> the next level.
->
-> Gamemasters may include or substitute damage to other systems if the 
-> vehicle has them (ex., weapons, navigation, or sensors).
->
-> Very Light: Vehicle loses 1D from Maneuverability for this round 
-> and the next.
->
-> Light: Vehicle loses 1D from Maneuverability or, if at 0D in 
-> Maneuverability, top move speed is decreased by one level. The loss 
-> or modiﬁer remains until repaired.
-> 
-> Heavy: Vehicle loses 2D from Maneuverability or, if at 0D in 
+### Vehicle and Passenger Damage ###
+
+*Damage Total > Resistance Total By: Vehicle Damage (Passengers Suffer...)*
+
+* 1-3: Very Light (No damage)
+* 4-8: Light (1/4 Damage Total)
+* 9-12: Heavy (1/2 Damage Total)
+* 13-15: Severe (3/4 Damage Total)
+* 16+: Destroyed (All Damage Total)
+
+Note: All modiﬁers are cumulative. A vehicle may take an unlimited 
+number of Very Light and Light levels of damage. At Heavy or above,
+any additional level of damage above Very Light bumps the damage to 
+the next level.
+
+Gamemasters may include or substitute damage to other systems if the 
+vehicle has them (ex., weapons, navigation, or sensors).
+
+* Very Light: Vehicle loses 1D from Maneuverability for this round 
+and the next.
+
+* Light: Vehicle loses 1D from Maneuverability or, if at 0D in 
+Maneuverability, top move speed is decreased by one level. The loss 
+or modiﬁer remains until repaired.
+
+* Heavy: Vehicle loses 2D from Maneuverability or, if at 0D in 
 Maneuverability, top move speed is decreased by two levels. The loss 
-> or modiﬁer remains until repaired.
->
-> Severe: Vehicle is out of control, decelerating by two levels each 
-> round until it comes to a stop or crashes into something.
->
-> Destroyed: The vehicle will never operate again.
+or modiﬁer remains until repaired.
+
+* Severe: Vehicle is out of control, decelerating by two levels each 
+round until it comes to a stop or crashes into something.
+
+* Destroyed: The vehicle will never operate again.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -7789,37 +7639,29 @@ for the speed and collision modiﬁers.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Speed Damage Modiﬁer ###
-> 
-> *Speed at which the damaged vehicle is traveling: Damage*
->
-> Stopped: 2D
-> 
-> Cautious: 4D
-> 
-> Cruise: 6D
-> 
-> High: 8D
-> 
-> All-out: 10D
->
->
-> ### Collision Damage Modiﬁer ###
-> 
-> *Situation: Modiﬁer*
->
-> Head-on: +3D
-> 
-> Rear-end, sideswipe: -3D
-> 
-> Nose to side: 0
-> 
-> Into something very hard: 0
-> 
-> Into something yielding: -1D or more
-> 
-> Note: Modiﬁers are cumulative. Situation is the one in which
-> the damaged vehicle is.
+### Speed Damage Modiﬁer ###
+
+*Speed at which the damaged vehicle is traveling: Damage*
+
+Stopped: 2D
+* Cautious: 4D
+* Cruise: 6D
+* High: 8D
+* All-out: 10D
+
+
+### Collision Damage Modiﬁer ###
+
+*Situation: Modiﬁer*
+
+* Head-on: +3D
+* Rear-end, sideswipe: -3D
+* Nose to side: 0
+* Into something very hard: 0
+* Into something yielding: -1D or more
+
+Note: Modiﬁers are cumulative. Situation is the one in which
+the damaged vehicle is.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -7903,6 +7745,7 @@ more privacy and more travel freedom. The characters can often pick
 the departure and arrival timetable, and they don't necessarily have to
 go to popular destinations.
 
+
 ### Booking Passage ###
 
 Depending on the gamemaster's setting, it might be possible to
@@ -7927,7 +7770,6 @@ most travel needs, and guidelines for creating new ones in the "Basic
 Ship Design" chapter near the end of this book.
 
 
-
 Encounters in Space
 -------------------
 
@@ -7935,35 +7777,53 @@ Unless the characters travel well-established routes, plenty of things
 exist in space that can make the trip rather exciting -- whether or not
 a mishap occurs in navigation or drive use.
 
-**Local Space Patrols:** Each planet with interstellar drive capability
+
+### Local Space Patrols ###
+
+Each planet with interstellar drive capability
 generally has its own space navy. In some campaigns, there might also
 be an interstellar police force. Some might turn out to be quite helpful,
 while some prefer to keep all travel under their control.
 
-**Traders:** From owner-operated light freighters to gigantic corporate
+
+### Traders ###
+
+From owner-operated light freighters to gigantic corporate
 and military bulk haulers, the space ways are ﬁlled with folks traveling 
 around the galaxy, hawking their goods or taking things to where
 they're wanted. Traders, legal and illegal, can prove good -- perhaps
 even the only -- sources of information about their destinations, space
 routes, and new jobs.
 
-**Pirates:** Unwilling or unable to make it legitimately, pirates prefer
+
+### Pirates ###
+
+Unwilling or unable to make it legitimately, pirates prefer
 to acquire their goods from other ships. They might prey on the edges
 of populated regions, or they could set up "road blocks" that cause an
 interstellar drive to drop its ship into normal space. Privateers are pirates
 legalized by one or more government to attack certain ships.
 
-**Slavers:** Similar to pirates, slavers look for sentient beings to steal
+
+### Slavers ###
+
+Similar to pirates, slavers look for sentient beings to steal
 and sell. Generally, these go into the service as gladiators or slaves to
 crime lords (some of whom might be legitimate heads of corporations
 or governments).
 
-**Natural Hazards:** Rogue planetoids, gas clouds, immense asteroid
-ﬁelds, energy storms, and other interstellar phenomena can interfere
-with interstellar travel, causing the ship to drop into normal space, take
-damage to systems, or throw the ship off course.
 
-**Unexplored Systems:** Alien civilizations, metal and mineral deposits, 
+### Natural Hazards ###
+
+Rogue planetoids, gas clouds, immense asteroid ﬁelds, energy storms, 
+and other interstellar phenomena can interfere with interstellar travel, 
+causing the ship to drop into normal space, take damage to systems, or 
+throw the ship off course.
+
+
+### Unexplored Systems ###
+
+Alien civilizations, metal and mineral deposits, 
 potentially habitable planets, lost caches of artifacts and technology,
 long-forgotten colonies, and so much more exist in this galaxy, awaiting
 discovery, whether on purpose or by accident.
@@ -7988,18 +7848,15 @@ only generation or automated ships attempt such a journey.
 Here are some rough guidelines for in-system travel times.
 
 * Five minutes to ﬂy from orbit to a safe interstellar transition point.
-
 * Half an hour to ﬂy from a planet to one of its moons.
-
 * Two to six hours to ﬂy from one planet to the nearest planet in
-the system.
-
+  the system.
 * Anywhere from 10 to 48 hours to ﬂy from a star to the outer
-limits of the system, depending upon distance and the presence of
-any hazards such as asteroid belts or gas clouds. As one example, a
-typical system of a single yellow star and less than a dozen signiﬁcant
-planetary bodies would take about 15 hours to reach the outer limit
-from a terrestrial world relatively near the star.
+  limits of the system, depending upon distance and the presence of
+  any hazards such as asteroid belts or gas clouds. As one example, a
+  typical system of a single yellow star and less than a dozen signiﬁcant
+  planetary bodies would take about 15 hours to reach the outer limit
+  from a terrestrial world relatively near the star.
 
 
 ### Interstellar Drives ###
@@ -8039,20 +7896,15 @@ the path, the gamemaster should write it down in his own
 gazetteer.
 
 * Systems are within the same sector: A few days (1D).
-
 * Systems are within the same region but different sectors: Several 
-days (2D).
-
+  days (2D).
 * Systems are in neighboring regions: Several weeks (2D).
-
 * Systems are in regions distant from each other: Several
-months (2D).
-
+  months (2D).
 * Route is well-traveled: Reduce the time by half.
-
 * Route is known to have many random hazards: Add 1D
-of the base time unit (days, weeks, or months) to the time it
-takes to travel it.
+  of the base time unit (days, weeks, or months) to the time it
+  takes to travel it.
 
 
 ### Navigation Computers ###
@@ -8080,58 +7932,47 @@ because of debris and other hazards.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Space Navigation Modiﬁers ###
->
-> *Situation: Modiﬁer*
-> 
-> No navigation computer: +30
-> 
-> Each extra hour added to trip: -1
-> 
-> Each hour saved on trip: +1
-> 
-> Obstacles (gas clouds, large space debris, black holes): +1 or more
-> 
-> 
-> ### Shield Deployment ###
->
-> *Number of Areas: Difficulty*
->
-> 1: 10
->
-> 2: 15
->
-> 3: 20
->
-> 4: 25
->
->
-> ### Space Navigation Results ###
-> 
-> Result Points: Result
->
-> **+5 or more:** Saved an hour on the trip per 5 points over the 
-> difficulty (round down).
->
-> **0 to +4:** Trip occurred without mishap.
->
-> **-1, -2:** A radiation surge or other mishap affects the drive's 
-> performance and damages another system on the ship (gamemaster
-> selects). The characters need to use the appropriate repair skill 
-> with a Moderate difficulty to ﬁx it. The trip is extended
-> by 2D hours.
->
-> **-3, -4:** The calculations were good enough to get the characters 
-> to a destination, just the wrong one (perhaps from a computer 
-> malfunction or an unplotted obstacle).
->
-> **-5, -6:** The interstellar drive cut-out to avoid a collision 
-> with an unplotted obstacle. A Moderate ﬂight systems repair roll is
-> necessary to get the engines back on line. The characters also need 
-> to plot a new course.
->
-> **-7 or more:** The computer refuses the calculation and requires 
-> them to be reﬁgured.
+### Space Navigation Modiﬁers ###
+
+*Situation: Modiﬁer*
+
+* No navigation computer: +30
+* Each extra hour added to trip: -1
+* Each hour saved on trip: +1
+* Obstacles (gas clouds, large space debris, black holes): +1 or more
+
+
+### Shield Deployment ###
+
+*Number of Areas: Difficulty*
+
+* 1: 10
+* 2: 15
+* 3: 20
+* 4: 25
+
+
+### Space Navigation Results ###
+
+*Result Points: Result*
+
+* +5 or more: Saved an hour on the trip per 5 points over the 
+  difficulty (round down).
+* 0 to +4: Trip occurred without mishap.
+* -1, -2: A radiation surge or other mishap affects the drive's 
+  performance and damages another system on the ship (gamemaster
+  selects). The characters need to use the appropriate repair skill 
+  with a Moderate difficulty to ﬁx it. The trip is extended
+  by 2D hours.
+* -3, -4: The calculations were good enough to get the characters 
+  to a destination, just the wrong one (perhaps from a computer 
+  malfunction or an unplotted obstacle).
+* -5, -6: The interstellar drive cut-out to avoid a collision 
+  with an unplotted obstacle. A Moderate ﬂight systems repair roll is
+  necessary to get the engines back on line. The characters also need 
+  to plot a new course.
+* -7 or more: The computer refuses the calculation and requires 
+  them to be reﬁgured.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -8174,7 +8015,7 @@ the navigation calculation.
 * Known systems but best route has not been determined: 30
 minutes.
 
-*  Never been to the system: Several hours.
+* Never been to the system: Several hours.
 
 * Lost because of a miscalculation or unknown obstacle: 1 day.
 
@@ -8257,19 +8098,15 @@ the results on the accompanying chart.
 
 - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-> ### Tractor Beam ###
->
-> *Tractor Beam Roll ≥ Hull Roll By: Target's Max Move*
->
-> 0-3: --
-> 
-> 4-8: 1 level less
-> 
-> 9-12: 2 levels less
-> 
-> 13-15: 3 levels less
-> 
-> 16+: Drives blown
+### Tractor Beam ###
+
+*Tractor Beam Roll ≥ Hull Roll By: Target's Max Move*
+
+* 0-3: --
+* 4-8: 1 level less
+* 9-12: 2 levels less
+* 13-15: 3 levels less
+* 16+: Drives blown
 
 - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
@@ -8368,23 +8205,23 @@ specialization in melee parry.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Noncharacter Combat ###
-> 
-> When characters use exoskeletons or vehicles, the basic
-> combat rules are the same; the difference exists in which skill to
-> use. Vehicles, except exoskeletons, cannot block or parry. The
-> driver may only make defensive maneuvers appropriate for the
-> vehicle (generally "dodge"); he uses his exoskeleton operation,
-> piloting, or vehicle operation plus the vehicle's Maneuverability
-> rating to determine the new combat difficulty. Exoskeleton
-> (or mecha) operators may dodge, block, or parry, but these
-> all use the exoskeleton operation skill.
-> 
-> Similarly, when attacking with a vehicle- or exoskeletonmounted weapon, 
-> the character uses gunnery. Ramming or sideswiping with a vehicle 
-> requires the driver to make an appropriate vehicles roll. To punch, 
-> parry, or use a hand-held close combat weapon, an exoskeleton operator 
-> relies on his exoskeleton operation skill.
+### Noncharacter Combat ###
+
+When characters use exoskeletons or vehicles, the basic
+combat rules are the same; the difference exists in which skill to
+use. Vehicles, except exoskeletons, cannot block or parry. The
+driver may only make defensive maneuvers appropriate for the
+vehicle (generally "dodge"); he uses his exoskeleton operation,
+piloting, or vehicle operation plus the vehicle's Maneuverability
+rating to determine the new combat difficulty. Exoskeleton
+(or mecha) operators may dodge, block, or parry, but these
+all use the exoskeleton operation skill.
+
+Similarly, when attacking with a vehicle- or exoskeletonmounted weapon, 
+the character uses gunnery. Ramming or sideswiping with a vehicle 
+requires the driver to make an appropriate vehicles roll. To punch, 
+parry, or use a hand-held close combat weapon, an exoskeleton operator 
+relies on his exoskeleton operation skill.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -8473,64 +8310,55 @@ attack misses.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Common Combat Difﬁculty Modiﬁers ###
->
-> *Range (Distance to Target): Modiﬁer*
->
-> Point Blank (0-3 meters): -5
->
-> Short (3 meters to ﬁrst value on range listing): 0
->
-> Medium (First to second value on ragnge listing): +5
->
-> Long (Second to third value on range listing): +10
->
->
-> ### Estimating Ranges ###
->
-> Gamemasters who aren't interested in looking up weapon
-> ranges and ﬁguring out the distance to the target can estimate
-> what modiﬁers to use with these guidelines.
->
-> * A target within a few steps of the attacker is a Point Blank range.
->
-> * An attacker ﬁring a riﬂe at a target across a rather large
-> chamber shoots at Short range, while an attacker with a
-> handgun shoots the same target at Medium range.
->
-> * Most projectile combat taking place outdoors is at
-> Medium to Long range.
->
->
-> ### Cover ###
-> 
-> *Situation: Modiﬁer*
->
-> Light smoke/fog: +1D (+3)
-> 
-> Thick smoke/fog: +2D (+6)
-> 
-> Very thick smoke/fog: +4D (+12)
-> 
-> Poor light, twilight: +1D (+3)
-> 
-> Moonlit night: +2D (+6)
-> 
-> Complete darkness: +4D (+12)
-> 
-> Object hides 25% of target: +1D (+3)
-> 
-> Object hides 50% of target: +2D (+6)
-> 
-> Object hides 75% of target: +4D (+12)
-> 
-> Object hides 100% of target: --
->
-> Note: If cover offers protection, the attacker cannot hit the target
-> directly, but damage done to the cover might exceed the Armor
-> Value it provides, and, indirectly, damage the target. Most of
-> the time, the attacker must eliminate the cover before having a
-> chance to hit the target.
+### Common Combat Difﬁculty Modiﬁers ###
+
+*Range (Distance to Target): Modiﬁer*
+
+Point Blank (0-3 meters): -5
+
+Short (3 meters to ﬁrst value on range listing): 0
+
+Medium (First to second value on ragnge listing): +5
+
+Long (Second to third value on range listing): +10
+
+
+### Estimating Ranges ###
+
+Gamemasters who aren't interested in looking up weapon
+ranges and ﬁguring out the distance to the target can estimate
+what modiﬁers to use with these guidelines.
+
+* A target within a few steps of the attacker is a Point Blank range.
+
+* An attacker ﬁring a riﬂe at a target across a rather large
+chamber shoots at Short range, while an attacker with a
+handgun shoots the same target at Medium range.
+
+* Most projectile combat taking place outdoors is at
+Medium to Long range.
+
+
+### Cover ###
+
+*Situation: Modiﬁer*
+
+* Light smoke/fog: +1D (+3)
+* Thick smoke/fog: +2D (+6)
+* Very thick smoke/fog: +4D (+12)
+* Poor light, twilight: +1D (+3)
+* Moonlit night: +2D (+6)
+* Complete darkness: +4D (+12)
+* Object hides 25% of target: +1D (+3)
+* Object hides 50% of target: +2D (+6)
+* Object hides 75% of target: +4D (+12)
+* Object hides 100% of target: --
+
+Note: If cover offers protection, the attacker cannot hit the target
+directly, but damage done to the cover might exceed the Armor
+Value it provides, and, indirectly, damage the target. Most of
+the time, the attacker must eliminate the cover before having a
+chance to hit the target.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -8725,49 +8553,41 @@ modiﬁers.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Damage and Gamemaster Characters ###
->
-> To reﬂect the average gamemaster's character's relative
-> unimportance to the universe, gamemasters may wish to
-> lower their Body Points or Wounds. For pure cannon fodder
-> any damage over a roll of their Strength might cause them
-> to keel over, while the main villain and her most important
-> lieutenants should get the full complement.
-> 
-> ### Miscellaneous Damage ###
->
-> Here is a small selection of various other harmful things
-> that players may encounter during their adventures. Generally, 
-> no attack roll is necessary for any of these to affect a
-> character, though a such roll would be required if a person
-> could somehow attack with it. The gamemaster determines
-> what, if any, beneﬁt armor and similar protection provides.
-> Some equipment may even increase the damage! Damage is
-> otherwise determined as per the combat rules.
-> 
-> Except falling, all damage is done per round of close 
-> contact. The gamemaster may decide that certain types in 
-> certain situations also affect characters at a distance.
-> 
-> *Type: Damage*
->
-> Botulism (severe case): 4D
-> 
-> Cold (extreme): 1D
-> 
-> Cyanide (fatal dose): 8D+2
-> 
-> Electricity (standard wall outlet): 1D
-> 
-> Electricity (major power line): 9D
-> 
-> Falling (for fall of 3 meters or more): 1D per 1.5 meters
-> 
-> Fire (torch-size): 1D
-> 
-> Hydrochloric acid (undiluted, any amount): 2D+1
-> 
-> Radiation (intense): 3D
+### Damage and Gamemaster Characters ###
+
+To reﬂect the average gamemaster's character's relative
+unimportance to the universe, gamemasters may wish to
+lower their Body Points or Wounds. For pure cannon fodder
+any damage over a roll of their Strength might cause them
+to keel over, while the main villain and her most important
+lieutenants should get the full complement.
+
+### Miscellaneous Damage ###
+
+Here is a small selection of various other harmful things
+that players may encounter during their adventures. Generally, 
+no attack roll is necessary for any of these to affect a
+character, though a such roll would be required if a person
+could somehow attack with it. The gamemaster determines
+what, if any, beneﬁt armor and similar protection provides.
+Some equipment may even increase the damage! Damage is
+otherwise determined as per the combat rules.
+
+Except falling, all damage is done per round of close 
+contact. The gamemaster may decide that certain types in 
+certain situations also affect characters at a distance.
+
+*Type: Damage*
+
+* Botulism (severe case): 4D
+* Cold (extreme): 1D
+* Cyanide (fatal dose): 8D+2
+* Electricity (standard wall outlet): 1D
+* Electricity (major power line): 9D
+* Falling (for fall of 3 meters or more): 1D per 1.5 meters
+* Fire (torch-size): 1D
+* Hydrochloric acid (undiluted, any amount): 2D+1
+* Radiation (intense): 3D
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -8813,58 +8633,53 @@ resistance by spending Character Points or a Fate Point on this roll.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Wound Levels ###
-> 
-> Effect (Wounds = Damage Total ≥ Resistance Total By): Body Points Left
-> 
-> Stunned (1-3): 80% - 60%
->
-> Wounded (4-8): 59% - 40%
-> 
-> Severely Wounded (4-8 and already wounded): 39% - 20%
->
-> Incapacitated (9-12): 19% - 10%
->
-> Mortally Wounded (13-15): 1% - 9%
->
-> Dead (16 or more): 0
->
-> Note: Any additional damage less than the character's current 
-> level moves the character up by one level.
-> 
-> This is an optional chart for those using Body Points. The "Body
-> Points Left" column is based on the character's maximum Body Points. 
-> Round so that there is no overlap between levels.
->
-> Penalties imposed by each level are not cumulative and they are not
-> included when determining the stun or damage resistance total or any 
-> total not involving a skill or attribute.
->
-> **Stunned:** Either receives -1D for all remaining actions this round and
-> next round or may only defend or retreat in the next round.
->
-> **Wounded:** -1D to all actions until healed.
->
-> **Severely Wounded:** -2D on all actions until healed.
->
-> **Incapacitated:** The character is severely injured. As a free action
-> before losing consciousness, he may try to stay up with a Moderate (15)
-> stamina or willpower roll. If the character succeeds, he may continue to
-> act, but all actions have a -3D penalty. If he fails, he is knocked out for
-> 10D minutes.
->
-> **Mortally Wounded:** The character is near death and knocked
-> unconscious with no chance to keep up. Roll the character's Strength
-> each round, the character ﬁnally dies if the roll is less than the number
-> of minutes he's been at this level.
->
-> **Dead:** The character is toast. Sorry.
->
-> Fast Combat Option: Gamemasters who wish to give the players'
-> characters and their major opponents an edge in battles, make the
-> game more realistic, or simply save themselves trouble should apply the
-> modiﬁers in the ﬁrst round of combat and then reassess the levels after
-> combat is complete.
+### Wound Levels ###
+
+*Effect (Wounds = Damage Total ≥ Resistance Total By): Body Points Left*
+
+* Stunned (1-3): 80% - 60%
+* Wounded (4-8): 59% - 40%
+* Severely Wounded (4-8 and already wounded): 39% - 20%
+* Incapacitated (9-12): 19% - 10%
+* Mortally Wounded (13-15): 1% - 9%
+* Dead (16 or more): 0
+
+Note: Any additional damage less than the character's current 
+level moves the character up by one level.
+
+This is an optional chart for those using Body Points. The "Body
+Points Left" column is based on the character's maximum Body Points. 
+Round so that there is no overlap between levels.
+
+Penalties imposed by each level are not cumulative and they are not
+included when determining the stun or damage resistance total or any 
+total not involving a skill or attribute.
+
+**Stunned:** Either receives -1D for all remaining actions this round and
+next round or may only defend or retreat in the next round.
+
+**Wounded:** -1D to all actions until healed.
+
+**Severely Wounded:** -2D on all actions until healed.
+
+**Incapacitated:** The character is severely injured. As a free action
+before losing consciousness, he may try to stay up with a Moderate (15)
+stamina or willpower roll. If the character succeeds, he may continue to
+act, but all actions have a -3D penalty. If he fails, he is knocked out for
+10D minutes.
+
+**Mortally Wounded:** The character is near death and knocked
+unconscious with no chance to keep up. Roll the character's Strength
+each round, the character ﬁnally dies if the roll is less than the number
+of minutes he's been at this level.
+
+**Dead:** The character is toast. Sorry.
+
+Fast Combat Option: Gamemasters who wish to give the players'
+characters and their major opponents an edge in battles, make the
+game more realistic, or simply save themselves trouble should apply the
+modiﬁers in the ﬁrst round of combat and then reassess the levels after
+combat is complete.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -8976,26 +8791,27 @@ book or action ﬂick types.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Adjusting the Deadliness ###
-> Changing the Body Points system is fairly obvious: More
-> Body Points lead to longer character life spans, while fewer
-> points bring about the end quicker. Altering the Wound level
-> system is a little more involved and can be handled in a few
-> different ways.
-> 
-> Gamemasters who want to add Wound levels may include
-> additional versions of the same level, similar to the way
-> Wounded and Severely Wounded are handled currently.
-> Alternatively, they may add additional levels between each
-> one by spreading out the points currently needed to reach
-> each level, or even add further point levels between Mortally
-> Wounded and Dead.
-> 
-> Gamemasters who wish to remove Wound levels may
-> include the lower limit of a deleted level in the next level
-> up or the upper limit in the next level down. Or they may
-> simply take levels out of the bottom and shift all remaining
-> levels down.
+### Adjusting the Deadliness ###
+
+Changing the Body Points system is fairly obvious: More
+Body Points lead to longer character life spans, while fewer
+points bring about the end quicker. Altering the Wound level
+system is a little more involved and can be handled in a few
+different ways.
+
+Gamemasters who want to add Wound levels may include
+additional versions of the same level, similar to the way
+Wounded and Severely Wounded are handled currently.
+Alternatively, they may add additional levels between each
+one by spreading out the points currently needed to reach
+each level, or even add further point levels between Mortally
+Wounded and Dead.
+
+Gamemasters who wish to remove Wound levels may
+include the lower limit of a deleted level in the next level
+up or the upper limit in the next level down. Or they may
+simply take levels out of the bottom and shift all remaining
+levels down.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -9081,25 +8897,18 @@ the ﬁrst healer's.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Body Points Healing ###
-> 
-> *Medicine or Strength Total: Body Points Recovered*
-> 
-> 0: 0
-> 
-> 1-5: 2
-> 
-> 6-10: 1D
-> 
-> 11-15: 2D
-> 
-> 16-20: 3D
-> 
-> 21-25: 4D
-> 
-> 26-30: 5D
-> 
-> 30+: 6D
+### Body Points Healing ###
+
+*Medicine or Strength Total: Body Points Recovered*
+
+* 0: 0
+* 1-5: 2
+* 6-10: 1D
+* 11-15: 2D
+* 16-20: 3D
+* 21-25: 4D
+* 26-30: 5D
+* 30+: 6D
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -9142,84 +8951,71 @@ expertise to the ﬁrst healer's.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Wounds Healing -- Natural ###
-> 
-> Stunned: A stunned wound is automatically recovered after one minute
-> (12 rounds) of complete rest.
->
-> *Wounded Strength Roll: Result*
->
-> * Critical Failure: Character worsens to Severely Wounded.
-> 
-> * 2-5: Character remains Wounded.
->
-> * 6+: Character is fully healed.
-> 
-> *Severely Wounded Strength Roll: Result*
-> 
-> * Critical Failure: Character worsens to Incapacitated.
->
-> * 2-5: Character remains Severely Wounded.
->
-> * 6+: Character improves to Wounded.
->
-> *Incapacitated Strength Roll: Result*
->
-> * Critical Failure: Character worsens to Mortally Wounded.
->
-> * 2-7: Character remains Incapacitated.
->
-> * 8+: Character improves to Severely Wounded.
->
-> *Mortally Wounded Strength Roll: Result*
->
-> * Critical Failure: Character dies.
->
-> * 2-7: Character remains Mortally Wounded.
->
-> * 8+: Character improves to Incapacitated.
->
->
-> ### Wounds Healing -- Assisted ###
->
-> *Injury Level: Difficulty*
->
-> * Stunned, unconscious: Easy (10)
->
-> * Wounded, Severely Wounded: Moderate (15)
->
-> * Incapacitated: Difficult (20)
->
-> * Mortally Wounded: Very Difficult (25)
->
->
-> ### Rest Period ###
->
-> *Level of Wound: Rest Period*
-> 
-> * Stunned (Those using Body Points should use this level
-> for characters who have no Wound level.): 1 minute
-> 
-> * Wounded: 3 days
-> 
-> * Severely Wounded: 3 days
-> 
-> * Incapacitated: 2 weeks
-> 
-> * Mortally Wounded: 5 weeks
-> 
->
-> ### Rest Period Example ###
-> 
-> A character at the Stunned Wound level may
-> make a natural healing roll for Body Points or heal
-> the Stunned level once she's rested for a minute.
-> After recovering, should the character get to the
-> Stunned level again, the character may make
-> another natural healing attempt after the minute
-> of rest. However, if the character moves to the
-> Wounded level, she may not make her natural
-> healing roll until she's rested for three days.
+### Wounds Healing -- Natural ###
+
+Stunned: A stunned wound is automatically recovered after one minute
+(12 rounds) of complete rest.
+
+
+*Wounded Strength Roll: Result*
+
+* Critical Failure: Character worsens to Severely Wounded.
+* 2-5: Character remains Wounded.
+* 6+: Character is fully healed.
+
+
+*Severely Wounded Strength Roll: Result*
+
+* Critical Failure: Character worsens to Incapacitated.
+* 2-5: Character remains Severely Wounded.
+* 6+: Character improves to Wounded.
+
+
+*Incapacitated Strength Roll: Result*
+
+* Critical Failure: Character worsens to Mortally Wounded.
+* 2-7: Character remains Incapacitated.
+* 8+: Character improves to Severely Wounded.
+
+
+*Mortally Wounded Strength Roll: Result*
+
+* Critical Failure: Character dies.
+* 2-7: Character remains Mortally Wounded.
+* 8+: Character improves to Incapacitated.
+
+
+### Wounds Healing -- Assisted ###
+
+*Injury Level: Difficulty*
+
+* Stunned, unconscious: Easy (10)
+* Wounded, Severely Wounded: Moderate (15)
+* Incapacitated: Difficult (20)
+* Mortally Wounded: Very Difficult (25)
+
+
+### Rest Period ###
+
+*Level of Wound: Rest Period*
+
+* Stunned (Those using Body Points should use this level
+  for characters who have no Wound level.): 1 minute
+* Wounded: 3 days
+* Severely Wounded: 3 days
+* Incapacitated: 2 weeks
+* Mortally Wounded: 5 weeks
+
+
+### Rest Period Example ###
+
+A character at the Stunned Wound level may make a natural healing 
+roll for Body Points or heal the Stunned level once she's rested for 
+a minute. After recovering, should the character get to the Stunned 
+level again, the character may make another natural healing attempt 
+after the minute of rest. However, if the character moves to the
+Wounded level, she may not make her natural healing roll until 
+she's rested for three days.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -9409,70 +9205,56 @@ depends on the situation and the player's intent.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ## Combat Difﬁculty Modiﬁers ##
-> 
-> ### Firearms ###
->
-> *Option: Difficulty Modiﬁer: Damage Modiﬁer*
-> 
-> * Burst ﬁre as single: 0: -2D
->
-> * Full auto: -2D (-6): +2D
->
-> * Single ﬁre as multi: -1D (-3): +1D (Note: Modiﬁers are per additional 
-> round of ammunition, up to maximum that the weapon holds.)
-> 
-> * Sweep: -2D (-6): -3D
->
->
-> ### Brawling, Melee Combat ###
->
-> *Option: Difficulty Modiﬁer: Damage Modiﬁer*
->
-> * All-out: -2D (-6): +1D
-> 
-> * Grab: +2D (+6): See text for options.
-> 
-> * Lunge: +1D (+3): -1D
-> 
-> * Knockdown, trip: +2D (+6): See text for options.
-> 
-> * Push: +1D (+3): See text for options.
-> 
-> * Sweep: -2D (-6): -3D
-> 
-> * Tackle: +1D (+3): See text for options.
-> 
-> 
-> ### All Attacks ###
-> 
-> *Option: Difficulty Modiﬁer: Damage Modiﬁer*
->
-> * Low gravity: -1D (-3): 0
-> 
-> * No gravity: -2D (-6): 0
-> 
-> * Heavy gravity: +3D (+10): 0
-> 
-> 
-> ### Called Shot ###
->
-> *Target is... : Difficulty Modiﬁer: Damage Modiﬁer*
->
-> * 10 to 50 centimeters long: +1D (+3): See text for options.
-> 
-> * 1 to 10 centimeters long: +4D (+12): See text for options.
->
-> * Less than a centimeter long: +8D (+24): See text for options.
->
->
-> ### Other Modiﬁers ###
->
-> * The attacker is blind or blinded: +4D (+12) to the
-> combat difficulty.
-> 
-> * The target is blind or blinded or attacked from behind:
-> -4D (-12) to the combat difficulty.
+## Combat Difﬁculty Modiﬁers ##
+
+### Firearms ###
+
+*Option: Difficulty Modiﬁer: Damage Modiﬁer*
+
+* Burst ﬁre as single: 0: -2D
+* Full auto: -2D (-6): +2D
+* Single ﬁre as multi: -1D (-3): +1D (Note: Modiﬁers are per additional 
+  round of ammunition, up to maximum that the weapon holds.)
+* Sweep: -2D (-6): -3D
+
+
+### Brawling, Melee Combat ###
+
+*Option: Difficulty Modiﬁer: Damage Modiﬁer*
+
+* All-out: -2D (-6): +1D
+* Grab: +2D (+6): See text for options.
+* Lunge: +1D (+3): -1D
+* Knockdown, trip: +2D (+6): See text for options.
+* Push: +1D (+3): See text for options.
+* Sweep: -2D (-6): -3D
+* Tackle: +1D (+3): See text for options.
+
+
+### All Attacks ###
+
+*Option: Difficulty Modiﬁer: Damage Modiﬁer*
+
+* Low gravity: -1D (-3): 0
+* No gravity: -2D (-6): 0
+* Heavy gravity: +3D (+10): 0
+
+
+### Called Shot ###
+
+*Target is... : Difficulty Modiﬁer: Damage Modiﬁer*
+
+* 10 to 50 centimeters long: +1D (+3): See text for options.
+* 1 to 10 centimeters long: +4D (+12): See text for options.
+* Less than a centimeter long: +8D (+24): See text for options.
+
+
+### Other Modiﬁers ###
+
+* The attacker is blind or blinded: +4D (+12) to the
+  combat difficulty.
+* The target is blind or blinded or attacked from behind:
+  -4D (-12) to the combat difficulty.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -9581,48 +9363,40 @@ need to make an effort to stand, which counts as an action.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Hit Locations Modiﬁers ###
-> 
-> *Option: Difficulty Modiﬁer: Damage Modiﬁer*
-> 
-> **Head:** +1D (+5): +12
-> 
-> **Heart:** +4D (+15): +12
-> 
-> **Chest, abdomen:** 0:** 0
-> 
-> **Left or right arm:**  +1D (+5): -2
-> 
-> **Left or right leg:**  +1D (+5): -1
-> 
-> **Left or right hand:** +4D (+15): -2
-> 
-> 
-> ### Hit Locations Effects ###
->
-> At the gamemaster's discretion, sufficient damage to a particular hit 
-> location can affect the target's ability to use that part. Except for 
-> blows to the chest, the modiﬁer lasts until the character heals that 
-> portion (which typically takes a few days, as Body Points or Wounds 
-> are recovered for the body as a whole, not just a speciﬁc part). 
-> When the medicine skill or a healing effect is applied, it can be 
-> speciﬁed to repair one particular location.
-> 
-> Hit location modiﬁers are in addition to Wound level modiﬁers. If 
-> you are using them instead of the Wound level modiﬁers, then 
-> all -1 modiﬁers increase to -1D modiﬁers.
-> 
-> **Chest:** The character can do no more than passively defend in the next
-> round.
-> 
-> **Foot or leg:** -1 to all acrobatics, sneak, movement, and initiative 
-> totals.
-> 
-> **Hand or arm:** -1 to all acrobatics, brawling, climb/jump, melee combat,
-> missile weapons, sleight of hand, throwing, lift, and any other rolls 
-> involving the hand or arm.
-> 
-> **Head:** -1 to all Knowledge, Perception, and initiative totals.
+### Hit Locations Modiﬁers ###
+
+*Option: Difficulty Modiﬁer: Damage Modiﬁer*
+
+* Head: +1D (+5): +12
+* Heart: +4D (+15): +12
+* Chest, abdomen: 0: 0
+* Left or right arm: +1D (+5): -2
+* Left or right leg: +1D (+5): -1
+* Left or right hand: +4D (+15): -2
+
+
+### Hit Locations Effects ###
+
+At the gamemaster's discretion, sufficient damage to a particular hit 
+location can affect the target's ability to use that part. Except for 
+blows to the chest, the modiﬁer lasts until the character heals that 
+portion (which typically takes a few days, as Body Points or Wounds 
+are recovered for the body as a whole, not just a speciﬁc part). 
+When the medicine skill or a healing effect is applied, it can be 
+speciﬁed to repair one particular location.
+
+Hit location modiﬁers are in addition to Wound level modiﬁers. If 
+you are using them instead of the Wound level modiﬁers, then 
+all -1 modiﬁers increase to -1D modiﬁers.
+
+* Chest: The character can do no more than passively defend in the next
+  round.
+* Foot or leg: -1 to all acrobatics, sneak, movement, and initiative 
+  totals.
+* Hand or arm: -1 to all acrobatics, brawling, climb/jump, melee combat,
+  missile weapons, sleight of hand, throwing, lift, and any other rolls 
+  involving the hand or arm.
+* Head: -1 to all Knowledge, Perception, and initiative totals.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -9717,41 +9491,26 @@ of 10. These would differ if someone targeted just the weapon.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-> ### Scale Chart ###
-> 
-> *Participant Size: Value*
-> 
-> Small moon: 96
-> 
-> Star freighter: 50
-> 
-> Space yacht: 46
-> 
-> Eight-story building: 24
-> 
-> Four-story building: 20
-> 
-> Two-story house: 14
-> 
-> Tank: 10
-> 
-> Average personal transport: 6
-> 
-> Motorcycle: 3
-> 
-> Average Human: 0
-> 
-> Small Human child: 3
-> 
-> Briefcase: 6
-> 
-> Laser pistol: 9
-> 
-> Palm computer: 12
-> 
-> Cred-key: 15
-> 
-> Computer chip: 21
+### Scale Chart ###
+
+*Participant Size: Value*
+
+* Small moon: 96
+* Star freighter: 50
+* Space yacht: 46
+* Eight-story building: 24
+* Four-story building: 20
+* Two-story house: 14
+* Tank: 10
+* Average personal transport: 6
+* Motorcycle: 3
+* Average Human: 0
+* Small Human child: 3
+* Briefcase: 6
+* Laser pistol: 9
+* Palm computer: 12
+* Cred-key: 15
+* Computer chip: 21
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -9848,28 +9607,23 @@ people, and common etiquette.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Information Difﬁculties ###
-> 
-> *Amount of Information: Difficulty*
-> 
-> Basic or common information; unconﬁrmed rumors: 5
-> 
-> Theories; generalities: 10
-> 
-> Complex concepts; moderately detailed information: 15
-> 
-> Professional level; extensive (though not complete)
-> information: 20
-> 
-> Cutting-edge topics; extensive information, including 
-> peripheral details and extrapolations: 30
-> 
-> 
-> *Condition: Modiﬁer*
-> 
-> Age of information (per century in the past): +5
-> 
-> Closely guarded secret: +15
+### Information Difﬁculties ###
+
+*Amount of Information: Difficulty*
+
+* Basic or common information; unconﬁrmed rumors: 5
+* Theories; generalities: 10
+* Complex concepts; moderately detailed information: 15
+* Professional level; extensive (though not complete)
+  information: 20
+* Cutting-edge topics; extensive information, including 
+  peripheral details and extrapolations: 30
+
+
+*Condition: Modiﬁer*
+
+* Age of information (per century in the past): +5
+* Closely guarded secret: +15
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -9918,75 +9672,62 @@ already provide one.
 Interrogation Attempts
 ----------------------
 
-Characters may use intimidation or persuasion to
-get information out of someone. Use the rules for
-mental defenses to determine the difficulty and base
-interaction modiﬁers. Further modify the number by
-how important the information is to the target. (See
-the accompanying chart for suggestions.) A separate
-intimidation roll to scare the target can complement
-an interrogation session.
+Characters may use intimidation or persuasion to get information out of 
+someone. Use the rules for mental defenses to determine the difficulty 
+and base interaction modiﬁers. Further modify the number by how 
+important the information is to the target. (See the accompanying 
+chart for suggestions.) A separate intimidation roll to scare the 
+target can complement an interrogation session.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Mental Defenses ###
-> 
-> In general, the resistance difficulty for many Metaphysics
-> or any interaction skill equals 10. The target cannot actively
-> resist unless he knows that a psychic or interaction skill is
-> being used on him by another character. If the gamemaster
-> decides that the target suspects but does not know for certain
-> that someone is attempting to inﬂuence him, the gamemaster
-> may allow the character to take an action earlier than his turn
-> in the round and roll his willpower or Knowledge to generate
-> a new resistance difficulty. Should the character decide to
-> actively defend against mental intrusion or personal interaction, 
-> he may devote all of his actions for the round to that task
-> and roll his willpower or Knowledge, adding +10 to the score
-> to get the new resistance difficulty. However the interaction
-> resistance difficulty is determined, gamemasters may further
-> modify the number as the situation warrants (such as stress,
-> surprise, or character relationship).
-> 
-> 
-> ### Interaction Modiﬁers ###
-> 
-> *Situation: Modiﬁer*
-> 
-> Target is friendly or trusting: -5
-> 
-> Target is neutral toward character or of equal standing: 0
-> 
-> Target is hostile or has superior standing: +5
-> 
-> Target is an enemy: +10
-> 
-> Target is in weakened position: -10
-> 
-> Request is something target would do anyway or target feels is 
-> of minor importance: 0
-> 
-> Request is illegal or highly dangerous: +10
-> 
-> Target is on guard or actively resisting (Do not include this 
-> modiﬁer if you are using the active mental defense described 
-> in the "Mental Defenses" sidebar.): +10
-> 
-> 
-> ### Interrogation Modiﬁers ###
-> 
-> *Target: Modiﬁer*
-> 
-> Feels information is unimportant: -10
-> 
-> Feels information is of minor importance: 0 
-> 
-> Feels information is important: +5
-> 
-> Feels information is very important: +10
-> 
-> Would rather die than reveal information: +10 or more
+### Mental Defenses ###
+
+In general, the resistance difficulty for many Metaphysics
+or any interaction skill equals 10. The target cannot actively
+resist unless he knows that a psychic or interaction skill is
+being used on him by another character. If the gamemaster
+decides that the target suspects but does not know for certain
+that someone is attempting to inﬂuence him, the gamemaster
+may allow the character to take an action earlier than his turn
+in the round and roll his willpower or Knowledge to generate
+a new resistance difficulty. Should the character decide to
+actively defend against mental intrusion or personal interaction, 
+he may devote all of his actions for the round to that task
+and roll his willpower or Knowledge, adding +10 to the score
+to get the new resistance difficulty. However the interaction
+resistance difficulty is determined, gamemasters may further
+modify the number as the situation warrants (such as stress,
+surprise, or character relationship).
+
+
+### Interaction Modiﬁers ###
+
+*Situation: Modiﬁer*
+
+* Target is friendly or trusting: -5
+* Target is neutral toward character or of equal standing: 0
+* Target is hostile or has superior standing: +5
+* Target is an enemy: +10
+* Target is in weakened position: -10
+* Request is something target would do anyway or target feels is 
+  of minor importance: 0
+* Request is illegal or highly dangerous: +10
+* Target is on guard or actively resisting (Do not include this 
+  modiﬁer if you are using the active mental defense described 
+  in the "Mental Defenses" sidebar.): +10
+
+
+### Interrogation Modiﬁers ###
+
+*Target: Modiﬁer*
+
+* Feels information is unimportant: -10
+* Feels information is of minor importance: 0 
+* Feels information is important: +5
+* Feels information is very important: +10
+* Would rather die than reveal information: +10 or more
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -10010,23 +9751,19 @@ Difficulties" chart as a guideline for how much the character notices.
 If the skill total meets or beats the difficulty, the character gains that
 much information.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Observation Difﬁculties ###
-> 
-> *Situation: Difficulty*
-> 
-> Noticing obvious, generic facts; casual glance: 5
-> 
-> Noticing obvious details (ex. number of people): 10
-> 
-> Noticing a few less obvious details (ex. gist of conversation): 15
-> 
-> Spotting a few speciﬁc details (ex. identities of individuals): 20
-> 
-> Spotting a few obscure details (ex. speciﬁcs of conversation): 25
-> 
-> Noticing many obscure details: 30 or more
+### Observation Difﬁculties ###
+
+*Situation: Difficulty*
+
+* Noticing obvious, generic facts; casual glance: 5
+* Noticing obvious details (ex. number of people): 10
+* Noticing a few less obvious details (ex. gist of conversation): 15
+* Spotting a few speciﬁc details (ex. identities of individuals): 20
+* Spotting a few obscure details (ex. speciﬁcs of conversation): 25
+* Noticing many obscure details: 30 or more
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -10057,30 +9794,18 @@ installing cybernetics with personal equipment repair.
 *Situation: Modiﬁer*
                                           
 * Light repairs or modiﬁcations: 0
-
 * Heavy repairs or modiﬁcations: +5
-
 * Extensive repairs or modiﬁcations: +10 or more
-
 * Previously built or modified the item; intimately familiar 
-with item: -10
-
+  with item: -10
 * Has item's designs: -5
-
 * Common item: 0
-
 * Has seen but not used item: +5
-
 * Has never seen item: +10
-
 * All parts available: 0
-
 * Some parts available: +10
-
 * No parts available: +20
-
 * Correct tools (Tool kits might provide their own bonuses): 0
-
 * Makeshift tools: +15
 
 
@@ -10117,23 +9842,14 @@ times 2 and add the pips.
 *Condition: Modiﬁer*
 
 * Heavy rain or snow: -3
-
 * Dawn, dusk, fog, many trees, large crowd, etc.: -2
-
 * Night: -5
-
 * Inattentive observer: -5
-
 * Dense concealment (thick jungle, crowd of people in costume): -5
-
 * Many distractions (party, parade, combat): -5
-
 * Attentive observer: +6
-
 * Open terrain: +6
-
 * Good lighting: +6
-
 * Several observers +9
 
 
@@ -10169,49 +9885,31 @@ lower than zero.
 *Maneuver: Difficulty*
 
 * Somersault; pirouette: 5
-
 * Handspring; cartwheel; handstand 10
-
 * Swing over a obstacle: 10
-
 * Round-off; backﬂip: 15
-
 * Vaulting over an obstacle: 15
-
 * Bouncing off a surface to reach a speciﬁc destination: 20
-
 * Walking up a wall (*The character may "walk" a maximum of 
-her Move in one round; she must have a ﬂat surface to stop 
-on at the end of her turn or she falls and takes damage from 
-the fall.): 30
+  her Move in one round; she must have a ﬂat surface to stop 
+  on at the end of her turn or she falls and takes damage from 
+  the fall.): 30
 
 
 *Condition: Modiﬁer*
 
 * Flat surface to ﬂat surface: 0
-
 * Unlimited landing area: -3
-
 * Limited landing area: +3
-
 * Almost no landing area: +6
-
 * Rough or unsteady landing area: +3 or more
-
 * High surface to low surface: +3
-
 * Low surface to high surface: +6
-
 * Slippery surface: +3
-
 * Strong wind: +3
-
 * Add a twist of the body (per twist): +3
-
 * Performing the maneuver underwater or backwards: +3
-
 * Performing the maneuver in the air (such as on a trapeze or bars): +9
-
 * Performing the maneuver on a narrow surface: +6
 
 Note: Characters may combine one or more maneuvers in the same
@@ -10234,14 +9932,11 @@ hands, but he may not be able to slip out of the handcuffs unless they
 are improperly secured.
 
 
-*Sample Restraints: Difficulty
+*Sample Restraints: Difficulty*
 
 * Ropes: 13
-
 * Wires, chain: 15
-
 * Handcuffs: 16
-
 * Straitjacket: 18
 
 
@@ -10261,19 +9956,14 @@ about it (such as ﬂaws, alterations, its creator, and the like).
 *Quality of Piece: Difficulty*
 
 * Amateur: 9
-
 * Professional: 15
-
 * Emotionally moving: 18
-
 * Prize-winning: 24
 
 *Complexity of Piece: Modiﬁer*
 
 * Simple; has one or two parts: -5
-
 * Moderate; has a few parts: 0
-
 * Complex; has many parts: +10
 
 
@@ -10302,25 +9992,15 @@ number the Funds roll must meet or exceed.
 *Difference : Price Adjustment*
 
 * -21 or more: 300% of local market value
-
 * -16-20: 200% of local market value
-
 * -11-15: 150% of local market value
-
 * -6-10: 125% of local market value
-
 * -3-5: 110% of local market value
-
 * -2 to +2: At local market value
-
 * +3-5: 90% of local market value
-
 * +6-10: 85% of local market value
-
 * +11-15: 75% of local market value
-
 * +16-20: 65% of local market value
-
 * +21 or more: 50% of local market value
 
 Characters can also employ bargain to"pay" another person to behave
@@ -10336,11 +10016,8 @@ target's attitude toward the bribe.
 *Value of Bribe: Modiﬁer*
 
 * Less than 50% of what is reasonable: +10
-
 * 50% to 90% of what is reasonable: +5
-
 * Larger than expected: -5
-
 * Signiﬁcantly larger than expected:  -10
 
 
@@ -10356,41 +10033,26 @@ or more per round.
 *Climb Condition: Modiﬁer*
 
 * Taking care in climbing: -5
-
 * Less than a 90-degree angle: -3
-
 * Less than a 60-degree angle: -6
-
 * Less than a 45-degree angle: -9
-
 * Prepared for climbing: -6
-
 * Carrying 25% of body weight: +3
-
 * Carrying 50% of body weight: +6
-
 * Carrying 100% of body weight: +15
-
 * Many handholds: -10
+
 
 *Jump Condition: Modiﬁer*
 
 * Flat surface to ﬂat surface: 0
-
 * Unlimited landing area:-5
-
 * Limited landing area:+5
-
 * Almost no landing area:+10
-
 * Rough, slick, or unsteady landing area:+3 or more
-
 * Uphill (more than 30 degrees): +6
-
 * Carrying 50% of own weight:+6
-
 * Carrying 75% of own weight:+9
-
 * Carrying 100% of own weight: +12
 
 
@@ -10419,39 +10081,26 @@ command roll fails, determine initiative and actions individually.
 *Complexity: Difficulty*
 
 * Uncomplicated; imprecise: 3
-
 * Easy; minimal precision required: 7
-
 * Requires effort or precision: 12
-
 * Difficult; requires high degree of precision: 17
-
 * Requires much effort or extreme precision: 22
-
 * Requires care and thoughtfulness, or exacting precision: 28
 
 
 *Team: Modiﬁer*
 
 * All members willing to follow leader's orders no matter what: -20
-
 * All members willing to sacriﬁce life for others: -15
-
 * Trained together frequently to work as unit: -10
-
 * Trained together brieﬂy to work as unit: -5
-
 * Work together regularly, or willing to work together: 0
-
 * Worked together on a few occasions: +5
-
 * Seldom work together: +10
-
 * Never worked together before, or more than half of the members hate 
-each other: +15
-
+  each other: +15
 * No interest in working together, all members despise each other, or 
-members can't communicate with each other: +20
+  members can't communicate with each other: +20
 
 
 Computer Interface/Repair (Technical)
@@ -10462,38 +10111,28 @@ The base difficulty is 10.
 *Computer Use Situation: Modiﬁer*
 
 * Open-access personal computer or mainframe: 0
-
 * Networked computer: 0
-
 * Isolated computer: +3
-
 * Accessible by a few people: +3
-
 * Accessible by owner only: +6
-
 * Password protected: +3
-
 * Firewall protection: +6
-
 * Files encrypted: +3 or more
+
 
 *Programming Situation: Modiﬁer*
 
 * Simple programming language: 0
-
 * Complex programming language: +3
-
 * Encrypting program: +6
-
 * Program designed to accomplish multiple tasks (per task): +3
-
 * Designed to work on multiple operating systems (per additional 
-system): +6
+  system): +6
+
 
 *Condition: Modiﬁer*
 
 * Character unfamiliar with the program's language: +3
-
 * Character experienced with the program's language: -3
 
 
@@ -10519,21 +10158,13 @@ disguise using her own con skill or Perception.
 *Condition: Modiﬁer*
 
 * Speciﬁc person: +15
-
 * Other sex: +6
-
 * Different race or species: +3
-
 * Great age difference: +3
-
 * Much larger build: +5
-
 * Much smaller build: +10
-
 * Resembles the disguise already: -5
-
 * Using skill on another character: +6
-
 * Using skill unaided: +3
 
 
@@ -10558,40 +10189,28 @@ effects. For instance, an explosive set for thin wood won't do much
 good if that's only veneer for reinforced steel.
 
 *Example Result: Modiﬁer*
-
 * Rigging a bomb so a car explodes the next time it starts: 0
-
 * Blowing something open without leaving permanent marks or burns: +5
-
 * Rigging an explosion so its force goes in a speciﬁc direction: +10
-
 * Rigging an explosion so that only a certain, small piece of a much 
-larger object is damaged: +15
-
+  larger object is damaged: +15
 * Extra damage: +5 per +1D
 
 
 *Familiarity with Target: Modiﬁer*
 
 * Very familiar or common (tree, wall): 0
-
 * Familiar (bulkhead, bridge support): +5
-
 * Unfamiliar (building of unknown construction): +10
-
 * Completely unknown item or construction: +20 or more
 
 
 *Object Construction : Toughness*
 
 * Flimsy (plywood door): 1D
-
 * Tough (hard wooden door, most guns): 2D
-
 * Sturdy (bolted steel door, personal safe): 3D
-
 * Very sturdy (a few layers of steel): 4D
-
 * Reinforced (numerous layers of steel): 6D
 
 
@@ -10607,62 +10226,46 @@ has repeatedly succeeded at making similar items in the past.
 *Item Forged: Difficulty*
 
 * Unofficial note or correspondence (Time required: 10 minutes or 
-more): 6
-
+  more): 6
 * Signature (Time required: 5 minutes): 12
-
 * Official document (pilot's license, legal tender) (Time 
-required: 20 minutes or more): 18
+  required: 20 minutes or more): 18
 
 
 *Familiarity with Item: Modiﬁer*
 
 * Intimately familiar or has sample: -10
-
 * Somewhat familiar; has seen it quite often: -5
-
 * Passingly familiar: 0
-
 * Have only had it described: +5
-
 * Guessing blindly: +15
 
 
 *Tools: Modiﬁer*
 
 * Have necessary tools and some special ones: -5
-
 * Have necessary tools:  0
-
 * Have some tools: +5
-
 * Missing important tools: +10 or more
 
 
 *Forgery Inspector -- Familiarity with Item Forged: Difficulty*
 
 * Intimately familiar: 6
-
 * Moderately familiar: 12
-
 * Unfamiliar: 18
-
 * Completely unfamiliar: 24
 
 
 *Forgery Inspector -- Situation: Modiﬁer
 
 * Have sample: -5
-
 * Have special tools for detecting forgeries: -5
-
 * Item poorly forged: 0
-
 * Item well forged: +5
-
 * Item superiorly forged: +10
 
-* Note: The gamemaster may add the number of points above the forging 
+Note: The gamemaster may add the number of points above the forging 
 difﬁculty to the inspector's difficulty instead of using one of these 
 modiﬁers.
 
@@ -10688,25 +10291,21 @@ Investigation (Perception)
 When used to research a topic, a separate roll must be made for each 
 source checked.
 
+
 *Research Situation: Difficulty*
 
 * Common knowledge: 7
-
 * Requires searching through several sources; introductory theories: 12
-
 * Sources are of varying reliability; cutting-edge information; speciﬁc 
-information about harmless individual or event: 18
-
+  information about harmless individual or event: 18
 * Esoteric information; speciﬁc information about dangerous individual 
-or event: 24
+  or event: 24
 
 
 *Condition: Modifier*
 
 * Information closely guarded: +5
-
 * Character unsure of information sought: +5
-
 * Character knows exactly what information is sought: -5
 
 When used to ﬁgure out clues from a scene, the base difficulty 
@@ -10714,40 +10313,30 @@ is 10. The character must use search ﬁrst to ﬁnd the clues or evidence
 (or have them pointed out); investigation helps the character ﬁgure
 out what they mean.
 
+
 *Situation: Modiﬁer*
 
 * Information about subject/event is sketchy: +15
-
 * Information about subject/event is extensive: -15
-
 * Evidence is fairly clear; many clues; familiar objects with 
-expected use:-6 or more
-
+  expected use:-6 or more
 * Evidence is only partly clear; several clues; familiar objects 
-with uncommon use, or unfamiliar objects with common use: 0
-
+  with uncommon use, or unfamiliar objects with common use: 0
 * Evidence is obscure; few clues: +3
-
 * Evidence is unusual or with no apparent signiﬁcance; uncommon 
-objects with uncommon use: +6
-
+  objects with uncommon use: +6
 * Repeatedly commits similar crimes (per crime): -3
-
 * Distance between crimes (per 80 kilometers): +3
-
 * Time between crimes (per 6 months): +3 (up to a maximum of +30)
 
 
 *Roll > Difficulty: Result*
 
 * 0-2: Basic information about the situation (a rope was used, type 
-of weapon).
-
+  of weapon).
 * 3-6: Precise information about situation (probable manufacturing 
-origin of evidence, small details about items in room).
-
+  origin of evidence, small details about items in room).
 * 7-11: Previous results plus how all items in an area were put to use. 
-
 * 12+: Reconstruction of events from the evidence.
 
 
@@ -10777,51 +10366,39 @@ the difficulty to decide how close she came. Characters with a
 specialization in the language they are using who succeed at the skill 
 roll receive a +3 bonus to determining the comprehension level.
 
+
 *Situation: Difficulty*
 
 * Idea is very simple, consisting of a short phrase: 3
-
 * Idea is simple; no slang; children's book: 7
-
 * Idea is of average complexity; most adult nonﬁction: 12
-
 * Idea is complex; slang involved; most adult ﬁction:18
-
 * Idea is very complex; technical jargon involved; academic writing: 24
 
 
 *Situation: Modiﬁer*
 
 * One or two common, basic words: -5
-
 * Has a translating aid (book, computer program, electronic pocket 
-device, hand signals -- Note that translation aids might provide 
-their own bonuses, which are used instead of this.): -5
-
+  device, hand signals -- Note that translation aids might provide 
+  their own bonuses, which are used instead of this.): -5
 * Different dialect of own language: 0
-
 * Language is derived from common root language (ex., understanding 
-Spanish if you understand French): +5
-
+  Spanish if you understand French): +5
 * Completely foreign language (ex., Chinese has nothing in common 
-with English): +10
-
+  with English): +10
 * Obscure language; reading lips: +15
-
 * Language is unique to an uncontacted culture, from a dead culture, 
-or unpronounceable by the character trying to understand: +20
-
+  or unpronounceable by the character trying to understand: +20
 * Language includes many concepts nearly beyond the character's 
-understanding or experience: +25
+  understanding or experience: +25
 
 
 *Roll > Difficulty: Comprehension Level*
 
 * 0-2: Gist of idea; most words understood or conveyed properly; word 
-usage seems stilted
-
+  usage seems stilted
 * 3-6: Literal translation; slang expressed/translated incorrectly
-
 * 7+: Subtle connotations
 
 
@@ -10839,78 +10416,67 @@ roll, her character is too exhausted and must put the object down. If the
 character is doing anything else at the time (other than walking slowly
 or talking), continuing to carry the object counts as a multi- action.
 
-**Abridged Lift Table**
 
-*Weight: Difficulty
+### Abridged Lift Table ###
+
+*Weight: Difficulty*
 
 * 1 kg: 1
-
-* 10 kg:3
-
-* 50 kg:7
-
+* 10 kg: 3
+* 50 kg: 7
 * 100 kg: 12
-
 * 120 kg: 13
-
 * 200 kg: 17
-
 * 250 kg: 18
-
 * 500 kg: 23
+* 750 kg: 28
+* 1000 kg (1 ton): 33
+* 1100-2000 kg: 34-43 (+1 to base of 33 per 100 kg over 1000 kg)
+* 2500-10,000 kg: 44-59 (+1 to base of 43 per 500 kg over 2000 kg)
+* 15,000-100,000 kg: 60-77 (+1 per to base of 59 per 5000 kg over 10,000 kg)
 
-750 kg: 28
-1000 kg (1 ton): 33
-1100-2000 kg: 34-43 (+1 to base of 33 per 100 kg over 1000 kg)
-2500-10,000 kg: 44-59 (+1 to base of 43 per 500 kg over 2000 kg)
-15,000-100,000 kg: 60-77 (+1 per to base of 59 per 5000 kg over 10,000 kg)
 The gamemaster may further subdivide the lift chart if desired to
 include the weights for the difficulties not listed here.
 
-Lift Fatigue Modiﬁer
-Time
-1-6 rounds
-7 rounds to 3 minutes
-3-10 minutes
-10-30 minutes
-30-60 minutes
 
-Skill Modiﬁer
-0
--5
--10
--15
--20
+### Lift Fatigue Modiﬁer ###
+
+*Time: Skill Modiﬁer*
+
+* 1-6 rounds: 0
+* 7 rounds to 3 minutes: -5
+* 3-10 minutes: -10
+* 10-30 minutes: -15
+* 30-60 minutes: -20
 
 Note: After the ﬁrst hour, the character must make a check once per
 hour at the same difficulty as one hour. If the character fails the roll,
 then she must rest for twice as long as she was lifting the weight.
 
+
 Medicine (Technical)
+--------------------
 
 For game mechanics on using medicine to heal damage, see the end
 of the "Healing" chapter.
-Medicine Diagnosing
-Action
-Determine existence of disease or injury
-Time required: 1 round
-Determine toxicity of substance
-Time required: 1 minute
-Determine type of disease, toxin, or injury
-Time required: 1 minute
-Determine medicine, procedure, or antidote required
-Time required: 1 round to 1 hour
-Determine cause
-Time required: 1 day to 1 week
 
-Difficulty
-7
-7
-12
-18
-24
+
+*Medicine Diagnosing Action: Difficulty*
+
+* Determine existence of disease or injury (Time required: 1 round): 7
+* Determine toxicity of substance (Time required: 1 minute): 7
+* Determine type of disease, toxin, or injury (Time required: 1 
+  minute): 12
+* Determine medicine, procedure, or antidote required (Time 
+  required: 1 round to 1 hour): 18
+* Determine cause (Time required: 1 day to 1 week): 24
+
 
 Navigation (Mechanical)
+-----------------------
+
+
+YOU ARE HERE
 
 The base difficulty for a character to ﬁnd his way around a planet
 is 10. See the "Space Travel" chapter for information on how to get
@@ -11412,7 +10978,7 @@ passive application of willpower is not an action.
 
 14
 
-> Metaphysics
+Metaphysics
 What's in this Chapter
 
 This chapter covers the ability to mentally control the energy of the
@@ -11486,7 +11052,7 @@ bargain, command, con, investigation, persuasion, search, Knowledge, or
 Knowledge-related skills; adding additional levels of a Special Ability the
 target already has; giving a target a new Special Ability, Disadvantage, or
 
-> Other Systems
+Other Systems
 Gamemasters allowing characters with mental abilities
 made using other D6 rules sets to be transferred to this one
 may ﬁnd it easier to rely on the rules from that system for those
@@ -11557,7 +11123,7 @@ determined separately and added to the total. All of the effects must
 
 96
 
-> Die Codes
+Die Codes
 Values are cumulative, so, if the effect has a die code of
 3D, the effect's difficulty is 6.
 Difficulty
@@ -11621,7 +11187,7 @@ Metaphysics
 details. The skill total can be modiﬁed by various circumstances; the
 "Situation Modiﬁers" section offers some suggestions.
 
-> Aspects
+Aspects
 Target Size
 Small item or handful of tiny items
 Person
@@ -11747,7 +11313,7 @@ skill. The bonus cannot be transferred to another skill.
 
 Chapter 14
 
-> Components
+Components
 Component is...
 Very common, easily purchased or traded for
 (match, wooden board, candle)
@@ -11760,18 +11326,18 @@ Very rare (rare in most places or expensive)
 Extremely rare (near-priceless gem, plutonium)
 Unique (burial mask of a long-dead king)
 
-> Gestures
+Gestures
 Complexity
 Simple (point ﬁnger, hold out symbol)
 Fairly simple (make circles with ﬁnger, wave hands)
 
-> Incantations
+Incantations
 Complexity
 A few words or sounds
 A complete sentence or lengthy phrase
 Also must be said very loudly
 
-> Concentration Distractions
+Concentration Distractions
 
 Skill
 Modiﬁer
@@ -11816,7 +11382,7 @@ Packed ballroom
 +20
 *Modiﬁer to willpower difficulty.
 
-> Countenance
+Countenance
 
 Skill
 Change in Appearance
@@ -11888,7 +11454,7 @@ metaphysicist may use the manipulation's effect.
 
 Metaphysics
 
-> Link to Target
+Link to Target
 Relationship
 Constant inﬂuence (parents, grandparents, spouse, old friends)
 Recent inﬂuence (friends, roommates, old enemies)
@@ -12057,7 +11623,7 @@ Difficulty: 44
 Effect: search 4D (8), imperceptible (+16)
 Target Size: Group, room (+5)
 
-> Psionics and Manipulations
+Psionics and Manipulations
 If you have the D6 Adventure rulebook, you can use the
 Psionics skills in there to create versions of send thoughts, receive
 thoughts, mind probe, and telekinesis based on those skills.
@@ -12229,7 +11795,7 @@ grasp. (Resisting does not count as an action for the target.)
 
 Chapter 14
 
-> Manipulation Worksheet
+Manipulation Worksheet
 Skill Used: ___________________________________________
 Difﬁculty: ____________________________________________
 Effect: _______________________________________________
@@ -12351,7 +11917,7 @@ Description: _________________________________________
 
 15
 
-> Equipment
+Equipment
 What's in this Chapter
 
 This chapter gives game mechanics for popular equipment, including
@@ -12395,7 +11961,7 @@ bonus of +10 to each of these levels, giving her automatic purchases at
 13 or less, average purchases between 14 and 19, and luxury purchases
 at 20 or more.
 
-> Price Difﬁculties
+Price Difﬁculties
 Cost of Item or Service
 Cheap (several credits or less)
 Inexpensive (less than 200 credits)
@@ -12751,7 +12317,7 @@ Wearing a lot of protective gear can make certain actions challenging.
 Each additional layer of armor increases Agility-based difficulties by
 +4 or more, depending on the joint ﬂexibility of the pieces.
 
-> Armor
+Armor
 Type
 Woven metal fabric (light)
 Hides and fur
@@ -12886,7 +12452,7 @@ them -- and they are perfectly acceptable in the wilderness.
 
 Chapter 15
 
-> Firearms
+Firearms
 Damage
 
 Ammo
@@ -13235,7 +12801,7 @@ actual availability is up to the game-
 
 Firearm Accessories
 
-> Multiple Targets
+Multiple Targets
 
 109
 
@@ -13253,7 +12819,7 @@ who suspects she's being targeted may make a search attempt with a
 +1D bonus to the roll to spot the location of the hidden attacker during
 the round in which the aim takes place. The difficulty is the attacker's
 
-> Special Ammunition
+Special Ammunition
 Slug thrower ammunition comes in a few varieties using
 metallic cases. The cases can be reused by reloading them
 with the slug, powder, and primer. In addition to standard
@@ -13482,11 +13048,11 @@ out of the range, while a character in zone 3 requires only a 15.
 Range
 Difficulty
 
-> Explosives
+Explosives
 
 Muscle-Powered Weapons
 
-> Grenade Targeting
+Grenade Targeting
 
 Types of Explosives
 Concussion grenades create a powerful shock wave when they
@@ -13525,7 +13091,7 @@ Chapter 15
 as a heavy metal pipe or a screwdriver -- will survive the
 battle and continue to be serviceable.
 
-> Missile and Thrown Weapons
+Missile and Thrown Weapons
 Damage
 
 Short
@@ -13635,7 +13201,7 @@ number of crew needed to properly operate the vehicle is one.
 Toughness: This is the vehicle's base damage resistance die code.
 It can also be used as a reasonable measure of the amount of damage
 
-> Melee Weapons
+Melee Weapons
 Type
 Damage
 Price
@@ -13736,7 +13302,7 @@ Blaster Cannon: damage 3D; range 200/500/1500
 Laser Cannon: damage 5D; range 250/750/1750
 Rocket Launcher: damage 6D+2; 400/1500/3000
 
-> Planetary Vehicles
+Planetary Vehicles
 Vehicle Type
 
 Land
@@ -13864,7 +13430,7 @@ meters moved in that round. 2. Includes one crew member (unless otherwise speci�
 
 113
 
-> Basic Ship Design
+Basic Ship Design
 What's in this Chapter
 
 This chapter offers a simple ship design system to get you started on
@@ -13898,7 +13464,7 @@ All ships have inertial compensators. These incredibly sturdy
 machines placed throughout a ship's hull exert a strong but shortwaved gravity ﬁeld in the area. This keeps the ship from being torn
 apart whenever the pilot makes high-g turns -- and it makes life a lot
 
-> Freeform Ship Design
+Freeform Ship Design
 If you think this sort of ship design is too rigid, you should
 feel free to ignore the mathematics and choose whatever
 options you decide best meet the concept of the ship you have
@@ -14023,7 +13589,7 @@ Hallway: Purchased in one-meter-square increments, some ships
 use hallways to separate various rooms and allow their occupants or
 users privacy from others moving about the ship.
 
-> Life-Supporting Modules
+Life-Supporting Modules
 # of
 People
 5
@@ -14209,7 +13775,7 @@ of drives: in-system (or sublight) and interstellar.
 
 In-System Drives
 
-> Cargo Modules
+Cargo Modules
 Module
 Area Units
 Bulk Space
@@ -14275,7 +13841,7 @@ by one additional area unit and two additional tons for each extra 15
 energy units, with a cost increase of 2,000 for each upgrade. Improving
 the power of the drive does not increase the Move.
 
-> Atmosphere Movement Rate
+Atmosphere Movement Rate
 Atmosphere Move
 50
 100
@@ -14370,7 +13936,7 @@ Once you've ﬁgured out where everything's going, you'll need to
 put walls around your collection of modules. Adding a hull does not
 increase the vehicle's size, but it does up its mass.
 
-> Weapons
+Weapons
 Type
 Area Units
 Mass
@@ -14446,7 +14012,7 @@ they will usually only need to be ﬁtted with a few new components.
 Enough damage can overload them, however; see the "Ship Travel"
 chapter for details.
 
-> Hulls
+Hulls
 Mass
 (metric tons)
 10
@@ -15542,13 +15108,13 @@ Character Points.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-> ### Aliens and Human Offshoots ###
-> 
-> You can ﬁnd generic aliens and sample characteristic sets
-> in the Aliens and Human Offshoots section. You can also use the 
-> character packages in those chapters and combine them with the
-> generic people listed here to create alien versions of each
-> profession.
+### Aliens and Human Offshoots ###
+
+You can ﬁnd generic aliens and sample characteristic sets
+in the Aliens and Human Offshoots section. You can also use the 
+character packages in those chapters and combine them with the
+generic people listed here to create alien versions of each
+profession.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -15654,7 +15220,7 @@ a single rat); small size (scale modiﬁer 9 for single rat).
 
 Templates
 
->
+
 
 Page 128
 
@@ -15788,7 +15354,7 @@ SPACE
 
 Templates
 
->
+
 
 Page 129
 
@@ -15924,7 +15490,7 @@ _________________________
 
 Templates
 
->
+
 
 Page 130
 
@@ -16060,7 +15626,7 @@ SPACE
 
 Templates
 
->
+
 
 Page 131
 
@@ -16194,7 +15760,7 @@ _________________________
 
 Templates
 
->
+
 
 Page 132
 
@@ -16325,7 +15891,7 @@ SPACE
 
 Templates
 
->
+
 
 Page 133
 
@@ -16457,7 +16023,7 @@ _________________________
 
 Templates
 
->
+
 
 Page 134
 
@@ -16595,7 +16161,7 @@ SPACE
 
 Templates
 
->
+
 
 Page 135
 
@@ -16736,7 +16302,7 @@ _________________________
 
 Templates
 
->
+
 
 Page 136
 
@@ -16875,7 +16441,7 @@ SPACE
 
 Templates
 
->
+
 
 Page 137
 
@@ -17008,7 +16574,7 @@ _________________________
 
 Templates
 
->
+
 
 Page 138
 
@@ -17147,7 +16713,7 @@ SPACE
 
 Templates
 
->
+
 
 Page 139
 
@@ -17459,30 +17025,30 @@ Combat Summary
 See pages 72-74 and 80-83 for additional information and modiﬁers.
 Determining the Difficulty
 Base combat difficulty = defense total
-> Defense total = (passive defense value or active defense value)
+Defense total = (passive defense value or active defense value)
 plus combat difficulty modiﬁers
-> Passive defense value = 10
-> Active defense value = full or partial defense value
-> Full defense value = any defense skill roll + 10
-> Partial defense value = any defense skill roll
+Passive defense value = 10
+Active defense value = full or partial defense value
+Full defense value = any defense skill roll + 10
+Partial defense value = any defense skill roll
 Determining Success
 If the attacker's combat skill total plus any modiﬁers equals or exceeds
 the target's defense roll, the attack succeeds and may do damage.
 Determining Damage
-> Damage total
-> For attacks that do damage not modiﬁed by strength: damage
+Damage total
+For attacks that do damage not modiﬁed by strength: damage
 total = roll of weapon damage die code plus damage modiﬁers
-> For attacks that do damage modiﬁed by strength: damage total
+For attacks that do damage modiﬁed by strength: damage total
 = roll of weapon damage die code plus character's Strength Damage
 die code plus damage modiﬁers
-> Damage resistance total
-> Body Points: roll of Armor die code plus defense modiﬁers
-> Wounds: roll of Strength plus Armor die code plus defense
+Damage resistance total
+Body Points: roll of Armor die code plus defense modiﬁers
+Wounds: roll of Strength plus Armor die code plus defense
 modiﬁers
-> If the damage total is greater than the damage resistance total,
+If the damage total is greater than the damage resistance total,
 the target was injured. If the damage total is less than or equal to the
 damage resistance total, the target was not injured.
-> If the target was injured, subtract the damage resistance total from
+If the target was injured, subtract the damage resistance total from
 the damage total. Then either subtract this from the target's current Body
 Total or compare the value on the "Wound Level" chart.
 
@@ -17492,38 +17058,26 @@ Total or compare the value on the "Wound Level" chart.
 *Cover Situation: Modiﬁer*
 
 * Light smoke/fog: +1D (+3)
-
 * Thick smoke/fog: +2D (+6)
-
 * Very thick smoke/fog: +4D (+12)
-
 * Poor light, twilight: +1D (+3)
-
 * Moonlit night: +2D (+6)
-
 * Complete darkness: +4D (+12)
-
 * Object hides 25% of target: +1D (+3)
-
 * Object hides 50% of target: +2D (+6)
-
 * Object hides 75% of target: +4D (+12)
-
 * Object hides 100% of target: If cover offers protection, the 
-attacker cannot hit the target directly, but damage done to the 
-cover might exceed the Armor Value it provides, and, indirectly, 
-damage the target. Most of the time, the attacker must eliminate
-the cover before having a chance to hit the target.
+  attacker cannot hit the target directly, but damage done to the 
+  cover might exceed the Armor Value it provides, and, indirectly, 
+  damage the target. Most of the time, the attacker must eliminate
+  the cover before having a chance to hit the target.
 
 
 *Range: Distance to Target: Modiﬁer*
 
 * Point Blank: 0-3 meters: -5
-
 * Short: 3 meters to ﬁrst value in the weapon's range listing: 0
-
 * Medium: First to second value in the weapon's range listing: +5
-
 * Long: Second to third value in the weapon's range listing: +10
 
 
@@ -17553,15 +17107,10 @@ Wounds = Damage Total ≥ Resistance Total By
 *Effect: Wounds: Body Points Left*
 
 * Stunned: 1 to 3: 80% - 60%
-
 * Wounded: 4 to 8: 59% - 40%
-
 * Severely Wounded: 4 to 8 (see note): 39% - 20%
-
 * Incapacitated: 9 to 12: 19% - 10%
-
 * Mortally Wounded: 13 to 15: 1% - 9%
-
 * Dead: 16 or more: 0
 
 
@@ -17606,15 +17155,10 @@ See Damage sectuib for additional information and modiﬁers.
 *Medicine Total: Body Points Recovered: Current Wound Level*
 
 * 1 to 5: 2: None    
-
 * 6 to 10: 1D: Stunned, Unconscious    
-
 * 11 to 15: 2D: Wounded, Severely Wounded    
-
 * 16 to 20: 3D: Incapacitated    
-
 * 21 to 25: 4D: Mortally Wounded    
-
 * 26 to 30: 5D: Dead    
 
 
@@ -17661,109 +17205,60 @@ column, subtract 1 from the die code and multiply the number by
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     
-> ### Die Code Simpliﬁcation ###
-> 
-> *Die Code: 5D: Wild Dice*
-> 
-> 1D: 0: 0
-> 
-> 2D: 0: +4
-> 
-> 3D: 0: +7
-> 
-> 4D: 0: +11
-> 
-> 5D: 0: +14
-> 
-> 6D: +4: +18
-> 
-> 7D: +7: +21
-> 
-> 8D: +11: +25
-> 
-> 9D: +14: +28
-> 
-> 10D: +18: +32
-> 
-> 11D: +21: +35
-> 
-> 12D: +25: +39
-> 
-> 13D: +28: +42
-> 
-> 14D: +32: +46
-> 
-> 15D: +35: +49
-> 
-> 16D: +39: +53
-> 
-> 17D: +42: +56
-> 
-> 18D: +46: +60
-> 
-> 19D: +49: +63
-> 
-> 20D: +53: +67
-> 
-> 21D: +56: +70
-> 
-> 22D: +60: +74
-> 
-> 23D: +63: +77
-> 
-> 24D: +67: +81
-> 
-> 25D: +70: +84
-> 
-> 26D: +74: +88
-> 
-> 27D: +77: +91
-> 
-> 28D: +81: +95
-> 
-> 29D: +84: +98
-> 
-> 30D: +88: +102
-> 
-> 31D: +91: +105
-> 
-> 32D: +95: +109
-> 
-> 33D: +98: +112
-> 
-> 34D: +102: +116
-> 
-> 35D: +105: +119
-> 
-> 36D: +109: +123
-> 
-> 37D: +112: +126
-> 
-> 38D: +116: +130
-> 
-> 39D: +119: +133
-> 
-> 40D: +123: +137
-> 
-> 41D: +126: +140
-> 
-> 42D: +130: +144
-> 
-> 43D: +133: +147
-> 
-> 44D: +137: +151
-> 
-> 45D: +140: +154
-> 
-> 46D: +144: +158
-> 
-> 47D: +147: +161
-> 
-> 48D: +151: +165
-> 
-> 49D: +154: +168
-> 
-> 50D: +158: +172
+### Die Code Simpliﬁcation ###
+
+*Die Code: 5D: Wild Dice*
+
+* 1D: 0: 0
+* 2D: 0: +4
+* 3D: 0: +7
+* 4D: 0: +11
+* 5D: 0: +14
+* 6D: +4: +18
+* 7D: +7: +21
+* 8D: +11: +25
+* 9D: +14: +28
+* 10D: +18: +32
+* 11D: +21: +35
+* 12D: +25: +39
+* 13D: +28: +42
+* 14D: +32: +46
+* 15D: +35: +49
+* 16D: +39: +53
+* 17D: +42: +56
+* 18D: +46: +60
+* 19D: +49: +63
+* 20D: +53: +67
+* 21D: +56: +70
+* 22D: +60: +74
+* 23D: +63: +77
+* 24D: +67: +81
+* 25D: +70: +84
+* 26D: +74: +88
+* 27D: +77: +91
+* 28D: +81: +95
+* 29D: +84: +98
+* 30D: +88: +102
+* 31D: +91: +105
+* 32D: +95: +109
+* 33D: +98: +112
+* 34D: +102: +116
+* 35D: +105: +119
+* 36D: +109: +123
+* 37D: +112: +126
+* 38D: +116: +130
+* 39D: +119: +133
+* 40D: +123: +137
+* 41D: +126: +140
+* 42D: +130: +144
+* 43D: +133: +147
+* 44D: +137: +151
+* 45D: +140: +154
+* 46D: +144: +158
+* 47D: +147: +161
+* 48D: +151: +165
+* 49D: +154: +168
+* 50D: +158: +172
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
