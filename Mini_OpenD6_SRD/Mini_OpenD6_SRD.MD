@@ -1,7 +1,7 @@
 Mini OpenD6 SRD
 ===============
 
-An SRD based on Mini Six, by Antipaladin Games. This SRD contans all
+An SRD based on Mini Six, by Antipaladin Games. This SRD contains all
 the elements that are Open Content under the Open Game License.
 
 
@@ -143,8 +143,6 @@ of damage dealt when striking unarmed.
 * **Charm** represents charisma, resolve, and leadership.
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-
 Skills
 ------
 
@@ -194,8 +192,6 @@ them all into a unified skill named "Melee Combat."
 *Note: Combat skills are not allowed specializations.*
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 Skill Specializations
 ---------------------
 
@@ -222,12 +218,15 @@ and inspiration. The cost listed next to each is in whole skill dice.
 * Dwarf (1): You're long lived, you can see in the dark, you receive
   +2 to smithing or any other craft skill, Your maximum Might is
   5D but your maximum Agility is 3D.
+
 * Elf (2): You're long lived, you can see in the dark, you receive 
   a +1 on all ranged attacks, Your maximum Agility is 5D but your
   maximum Might is only 3D.
+
 * Reptoid (2): You're green and scaly, this gives a +1 Armor Value.
   You also have claw-tipped fingers which grant you +1 damage on
   unarmed attacks. You might also be asexual. Sorry.
+
 * Robot (4): You don't eat, breathe, or sleep. You can have your
   memory wiped. You don't heal but you can be repaired. As long as
   your memory core survives you may be rebuilt if destroyed.
@@ -235,142 +234,143 @@ and inspiration. The cost listed next to each is in whole skill dice.
 
 ### General Perks ###
 
-Attractive (1): Others find the character pleasing to look at. This
-can help reduce suspicions or distract others depending on the
-given situation. Once per session the character can double one
-roll for any action related to their appearance. Examples include
-seduction, a subtle bluff or simply distracting guards.
+* Attractive (1): Others find the character pleasing to look at. This
+  can help reduce suspicions or distract others depending on the
+  given situation. Once per session the character can double one
+  roll for any action related to their appearance. Examples include
+  seduction, a subtle bluff or simply distracting guards.
 
-Daredevil (2): Once per session you may throw caution to the
-wind taking extremely reckless action that may result in your own
-death. Your dodge, block, and parry are reduced by half however
-all Might rolls are doubled when resisting damage for one round.
+* Daredevil (2): Once per session you may throw caution to the
+  wind taking extremely reckless action that may result in your own
+  death. Your dodge, block, and parry are reduced by half however
+  all Might rolls are doubled when resisting damage for one round.
 
-Destiny (2): Characters with Destiny feel they are fated to some
-grand purpose. Once per game session a character may declare a
-failed roll is not part of their Destiny and immediately reroll to get
-a different result.
+* Destiny (2): Characters with Destiny feel they are fated to some
+  grand purpose. Once per game session a character may declare a
+  failed roll is not part of their Destiny and immediately reroll to get
+  a different result.
 
-Favors (1): People owe you. Once per session you can call in one
-of those debts. This can take the form of information, a temporary
-use of equipment (borrowing a truck, plow, pump action shotgun,
-etc.), a place to hide someone or something for a brief time, or any
-similar event.
+* Favors (1): People owe you. Once per session you can call in one
+  of those debts. This can take the form of information, a temporary
+  use of equipment (borrowing a truck, plow, pump action shotgun,
+  etc.), a place to hide someone or something for a brief time, or any
+  similar event.
 
-Lucky (2): Once per session you can declare you are feeling lucky.
-Double the result of your next roll.
+* Lucky (2): Once per session you can declare you are feeling lucky.
+  Double the result of your next roll.
 
-Perceptive (2): The GM may reveal small clues to you that others
-would miss. Once per session a character may announce they are
-studying an object or situation and the GM may reveal something
-that would be impossible for a normal character to determine. If
-nothing is revealed this perk may be used again. "Elementary, my
-dear Watson."
+* Perceptive (2): The GM may reveal small clues to you that others
+  would miss. Once per session a character may announce they are
+  studying an object or situation and the GM may reveal something
+  that would be impossible for a normal character to determine. If
+  nothing is revealed this perk may be used again. "Elementary, my
+  dear Watson."
 
-Recall (1): Any time the character chooses to recall anything he
-has experienced, the GM must tell him the truth in as much detail
-as the character would have been aware.
+* Recall (1): Any time the character chooses to recall anything he
+  has experienced, the GM must tell him the truth in as much detail
+  as the character would have been aware.
 
-Sidekick (3): You have a boon companion willing to join in your
-adventures. This character only gets 10D to spend on attributes
-and 4D to spend on starting skills. They normally only receive 1 to
-3 CP per session, but never as many as their fearless leader.
+* Sidekick (3): You have a boon companion willing to join in your
+  adventures. This character only gets 10D to spend on attributes
+  and 4D to spend on starting skills. They normally only 
+  receive 1 to 3 CP per session, but never as many as their fearless 
+  leader.
 
 
 ### Esoteric Perks ###
 
-Energy Blast (5): You can throw bolts of pure energy. These do
-4D damage and use your Throwing skill.
+* Energy Blast (5): You can throw bolts of pure energy. These do
+  4D damage and use your Throwing skill.
 
-ESP (3): You can read minds. Targets resist using their Charm
-vs. your Wits.
+* ESP (3): You can read minds. Targets resist using their Charm
+  vs. your Wits.
 
-Flying (4): You can fly (at twice your move).
+* Flying (4): You can fly (at twice your move).
 
-Regeneration (3): You heal 1 wound level/hour.
+* Regeneration (3): You heal 1 wound level/hour.
 
-Sorcerer (3): You're magically sensitive. Magic spells actually
-work for you. See the Simple Magic System, page 10.
+* Sorcerer (3): You're magically sensitive. Magic spells actually
+  work for you. See the Simple Magic System, page 10.
 
-Telekinesis (3): You can move stuff with your mind. Make a Wits
-roll and treat it like the Lift skill. People resist using their Might.
+* Telekinesis (3): You can move stuff with your mind. Make a Wits
+  roll and treat it like the Lift skill. People resist using their Might.
 
-X-Ray Vision (3): you can see through 1 foot of material.
-
+* X-Ray Vision (3): you can see through 1 foot of material.
+  
 
 Complications
 -------------
 
-During character creation only, players may select up to
-two complications. These grant no additional skill dice during
-character creation; however, if one comes up in play the character
-earns one CP. Characters may not earn more than one CP per
-complication per session regardless of how often it comes up.
+* During character creation only, players may select up to
+  two complications. These grant no additional skill dice during
+  character creation; however, if one comes up in play the character
+  earns one CP. Characters may not earn more than one CP per
+  complication per session regardless of how often it comes up.
 
-Age: You're either really old or really young. In addition to all the
-social issues caused by your age, the GM might choose to impose
-a penalty to an action based on your character's age. Grandpa
-throws a hip, a weird dude offers you candy on the street, and
-it's hard for either of you to seduce the supermodel at the bar.
-Whenever your age causes you great difficulty receive one CP.
+* Age: You're either really old or really young. In addition to all the
+  social issues caused by your age, the GM might choose to impose
+  a penalty to an action based on your character's age. Grandpa
+  throws a hip, a weird dude offers you candy on the street, and
+  it's hard for either of you to seduce the supermodel at the bar.
+  Whenever your age causes you great difficulty receive one CP.
 
-Crazy: You have issues that are guaranteed to put the therapists'
-kids through college. Could be you're just really paranoid, or
-maybe just a touch too OCD. That fear of most everything could
-also be a problem. Then again maybe you really are Napoleon and
-everyone else is wrong, good luck convincing anyone else since
-you're a lunatic. Hastur, Hastur, Hastur! Take your pills and earn
-one CP any time your psychosis really gets in the way.
+* Crazy: You have issues that are guaranteed to put the therapists'
+  kids through college. Could be you're just really paranoid, or
+  maybe just a touch too OCD. That fear of most everything could
+  also be a problem. Then again maybe you really are Napoleon and
+  everyone else is wrong, good luck convincing anyone else since
+  you're a lunatic. Hastur, Hastur, Hastur! Take your pills and earn
+  one CP any time your psychosis really gets in the way.
 
-Enemies: Someone doesn't like you a at all. And they are a credible
-threat. Maybe they have more friends than you, maybe they're just
-bigger and meaner; either way you have your own personal bully.
-You earn the bonus CP when they complicate your life.
+* Enemies: Someone doesn't like you a at all. And they are a credible
+  threat. Maybe they have more friends than you, maybe they're just
+  bigger and meaner; either way you have your own personal bully.
+  You earn the bonus CP when they complicate your life.
 
-Gremlins: You have a special touch. Specifically the kind that
-breaks machines. You're no good with engines, electronics,
-magical gizmos, or any other trinket. If it's a device, you can't trust
-it. Earn one CP whenever the GM takes his one free shot on you
-this way.
+* Gremlins: You have a special touch. Specifically the kind that
+  breaks machines. You're no good with engines, electronics,
+  magical gizmos, or any other trinket. If it's a device, you can't trust
+  it. Earn one CP whenever the GM takes his one free shot on you
+  this way.
 
-Personal Code: You live by a creed and you will not cross that
-line. Maybe you won't fight an unarmed opponent and always
-make sure they know its coming or maybe you never tell a lie. No
-matter how you define it, your code has to mean something. Some
-caped crusaders won't kill, paladins won't resort to deception,
-and sometimes there is even honor among thieves. Earn one CP
-whenever your code complicates you or friends' success.
+* Personal Code: You live by a creed and you will not cross that
+  line. Maybe you won't fight an unarmed opponent and always
+  make sure they know its coming or maybe you never tell a lie. No
+  matter how you define it, your code has to mean something. Some
+  caped crusaders won't kill, paladins won't resort to deception,
+  and sometimes there is even honor among thieves. Earn one CP
+  whenever your code complicates you or friends' success.
 
-Skeletons in the Closet: You've been a naughty boy. Maybe
-you're a closet smoker. Maybe those hookers buried themselves.
-Maybe that enemy uniform in the closet really isn't yours. Maybe
-the bank really meant to let you take all that money out that day.
-Whatever, the universe doesn't judge. You earn the bonus CP
-whenever your past comes back to haunt you.
+* Skeletons in the Closet: You've been a naughty boy. Maybe
+  you're a closet smoker. Maybe those hookers buried themselves.
+  Maybe that enemy uniform in the closet really isn't yours. Maybe
+  the bank really meant to let you take all that money out that day.
+  Whatever, the universe doesn't judge. You earn the bonus CP
+  whenever your past comes back to haunt you.
 
-Unlucky in Love: Things just don't work out for some guys. Your
-love interest is always dying, being kidnapped, betraying you, or
-even worse dumping you. You earn bonus CP when your love life
-falls apart in a meaningful way.
+* Unlucky in Love: Things just don't work out for some guys. Your
+  love interest is always dying, being kidnapped, betraying you, or
+  even worse dumping you. You earn bonus CP when your love life
+  falls apart in a meaningful way.
 
-Unlucky in Money: You have a hard time holding onto money.
-You earn the bonus CP when you lose a significant amount of
-cash through your own foolishness or bad luck and have nothing
-to show for it.
-
+* Unlucky in Money: You have a hard time holding onto money.
+  You earn the bonus CP when you lose a significant amount of
+  cash through your own foolishness or bad luck and have nothing
+  to show for it.
+  
 
 Gear
 ----
 
-Some games may assume the character has the trappings of a middle 
-class lifestyle, while others may take place in a world of fantasy 
-where only those items in your pack mean the difference between 
-life and death. 
+* Some games may assume the character has the trappings of a middle 
+  class lifestyle, while others may take place in a world of fantasy 
+  where only those items in your pack mean the difference between 
+  life and death. 
 
-Characters might start with one piece of related gear for each skill 
-they allocated dice to during character creation. For example a 
-pistol for the Pistols skill, a medic bag for Medicine, etc. 
-For anything else, beg the GM.
+* Characters might start with one piece of related gear for each skill 
+  they allocated dice to during character creation. For example a 
+  pistol for the Pistols skill, a medic bag for Medicine, etc. 
+  For anything else, beg the GM.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -721,20 +721,13 @@ Wound Levels
 *Wound Level: Dmg Total ≥ Res Total by:*
 
 * Unharmed: 0 or less
-
 * Stunned: 1--3
-
 * Wounded: 4--8
-
 * Severely Wounded: 4--8 (Note: A character is Severely Wounded if 
-the result is between 4 and 8 and he already has the Wounded level.
-
+  the result is between 4 and 8 and he already has the Wounded level.
 * Incapacitated: 9 --12
-
 * Mortally Wounded: 13 -- 15
-
 * Dead: 16+
-
 * Note: Any additional damage less than or equal to the
   character's current level moves him up by one level.
 
@@ -743,41 +736,16 @@ Wound Level Effects
 -------------------
 
 * Stunned: -1D for all remaining actions this round and next round.
-
 * Wounded: -1D to all actions until healed.
-
 * Severely Wounded: -2D on all actions until healed.
-Incapacitated: As a free action before losing consciousness,
-the character may try to stay up with a Moderate (15)
-stamina roll. If successful, he may continue to act, but with a
--3D penalty. If he fails, he is knocked out for 10D minutes.
-
+* Incapacitated: As a free action before losing consciousness, the 
+  character may try to stay up with a Moderate (15) stamina roll. 
+  If successful, he may continue to act, but with a -3D penalty. 
+  If he fails, he is knocked out for 10D minutes.
 * Mortally Wounded: The character is near death and knocked
-unconscious with no chance to keep up. Roll the character's
-Might each round, the character finally dies if the roll is less
-than the number of minutes he's been at this level.
-
-* Dead: The character has perished.
-
-
-Wound Level Effects
--------------------
-
-* Stunned: -1D for all remaining actions this round and next round.
-
-* Wounded: -1D to all actions until healed.
-
-* Severely Wounded: -2D on all actions until healed.
-Incapacitated: As a free action before losing consciousness,
-the character may try to stay up with a Moderate (15)
-stamina roll. If successful, he may continue to act, but with a
--3D penalty. If he fails, he is knocked out for 10D minutes.
-
-* Mortally Wounded: The character is near death and knocked
-unconscious with no chance to keep up. Roll the character's
-Might each round, the character finally dies if the roll is less
-than the number of minutes he's been at this level.
-
+  unconscious with no chance to keep up. Roll the character's
+  Might each round, the character finally dies if the roll is less
+  than the number of minutes he's been at this level.
 * Dead: The character has perished.
 
 
@@ -812,6 +780,7 @@ the hit was successful the character would roll the vehicle's Body
 to resist the damage and consult the following chart to determine
 how severe the damage is:
 
+
 *Damage Rolled: Effect*
 
 * Damage Roll ≥ Body Roll: Temporary Effect (one round)
@@ -821,6 +790,7 @@ how severe the damage is:
 Once the severity of the damage is determined the GM may
 roll randomly on the the following chart or use common sense to
 determine which part is damaged.
+
 
 *Roll 1D: Effect*
 
@@ -879,6 +849,7 @@ Characters may repair vehicles using their skills. The difficulty
 and cost is determined on the following chart. The cost is based
 on the price of a new vehicle.
 
+
 *Dice Lost: Difficulty: Cost: Time Needed*
 
 * 1D: Easy: 10%: 1 hour
@@ -896,6 +867,7 @@ Craft, Aircraft, and Spacecraft. If vehicles of different categories
 must compare speeds, such as a fighter chasing a tank, the faster
 vehicle is granted bonus move dice based on the difference in
 speed factors in the following chart:
+
 
 *Speed Factor: Modifier*
 
@@ -1222,12 +1194,12 @@ Magic Perks
 Characters that are able to learn the Magic skill may also
 purchase the following Perks.
 
-Familiar (1): The character has an imp for a companion. The
+* Familiar (1): The character has an imp for a companion. The
 familiar can fly at a rate of 60 ft each turn, can talk, and has 1D in
 each attribute. He also has 3D in skills. He can't cast spells, but he
 can turn into a black cat or other small animal at will.
 
-Totem Spirit (1): The character has a spiritual advisor that
+* Totem Spirit (1): The character has a spiritual advisor that
 speaks to him in his dreams or visions. This spirit will likely have
 a somewhat alien perspective on matters, and certainly won't
 always just tell the character everything he knows. Totem Spirits
@@ -1242,11 +1214,11 @@ Magic Complications
 The GM may also allow special complications for magic
 capable characters.
 
-Demonic Pact: The character has allied himself with a demon.
+* Demonic Pact: The character has allied himself with a demon.
 It tends to impress all the wrong people. You earn bonus CP any
 time this complicates your life.
 
-White Wizard: You can't harm anyone with your magic. Ever.
+* White Wizard: You can't harm anyone with your magic. Ever.
 Earn 1 bonus CP every session.
 
 
@@ -1259,16 +1231,16 @@ count as an action. When found a sorcerer must attune the item
 before he can use it. This requires the passing of three days while
 keeping the item close.
 
-The Cloak grants +2D to the Magic skill test required to use the
+* The Cloak grants +2D to the Magic skill test required to use the
 Fly and Teleport spells.
 
-The Crystal Ball grants +3D to the Magic skill test required to
+* The Crystal Ball grants +3D to the Magic skill test required to
 use the Clairvoyance and Divination spells.
 
-The Magic Wand grants +1D to any Magic skill test when used
+* The Magic Wand grants +1D to any Magic skill test when used
 for the spell the wand was designed for.
 
-The Spell Staff grants +1D to Magic once each day.
+* The Spell Staff grants +1D to Magic once each day.
 
 
 Making Sorcerer's Tools
@@ -1280,6 +1252,7 @@ must work for twelve hours each day. If any days are skipped all
 effort is lost. At the end of the process he rolls a Magic check vs.
 the TN listed below. If he fails all effort and money is wasted but
 no CP were spent.
+
 
 *Item: Cost: Time: CP: TN*
 
@@ -2976,7 +2949,6 @@ includes Communing, Summoning, and Channeling.
 Varying Starting Skill Dice
 ---------------------------
 
-
 Default starting player characters receive 7 dice to spend on
 skills and perks and can't spend more than 2D on any one skill.
 This represents fledgling heroic level characters. The GM might
@@ -3014,6 +2986,7 @@ the normal price for skill advancement. This sounds more costly
 but isn't because the skills start so much lower.
 
 A sample knight might look like this:
+
 
 ### Knight ###
 
@@ -3428,7 +3401,7 @@ can have three possible effects based on GM fiat;
 2. It is ignored along with the highest normal die rolled.
 3. It causes a complication to the action taken.
 
-Options Used by Traditional OpenD6
+Options Used by Traditional OpenD6:
 
 * Traditional OpenD6 Combat (page 7)
 * Traditional OpenD6 Hero Points (page 19)
@@ -3438,7 +3411,7 @@ Options Used by Traditional OpenD6
 * Complications are called Disadvantages
 
 
-Predition
+Perdition
 =========
 
 "Your great-grandpa's great-grandpa came here in a big ship. It was 
@@ -4161,40 +4134,29 @@ races together under a common banner of prosperity. What felt like an
 eternity of good fortune bred its own peculiar evil. At first none 
 noticed the corruption taking seed in the honored halls of galactic power.
 
-Factions formed in the Senate, each coveting
-what others had amassed. Many senators viewed
-the systems they represented more as personal
-fiefdoms than states within the galactic body.
-Bickering replaced diplomacy. Trade blockades
-and strikes were common threats. The Senate
-was paralyzed. Systems starved as trade stagnated
-denying them goods they needed for survival.
+Factions formed in the Senate, each coveting what others had amassed. 
+Many senators viewed the systems they represented more as personal
+fiefdoms than states within the galactic body. Bickering replaced 
+diplomacy. Trade blockades and strikes were common threats. The Senate
+was paralyzed. Systems starved as trade stagnated denying them goods 
+they needed for survival.
 
-The Galactic Navy, reduced in strength
-after so long a peace, was ordered to act as a
-barrier between individual system Militia Fleets
-but the military power was not up to the task.
-Skirmishes erupted between factions. The final
-blow came when the President of the Senate was
-murdered in the Grand Hall by rivals who feared
-his measured words.
+The Galactic Navy, reduced in strength after so long a peace, was 
+ordered to act as a barrier between individual system Militia Fleets
+but the military power was not up to the task. Skirmishes erupted between 
+factions. The final blow came when the President of the Senate was
+murdered in the Grand Hall by rivals who feared his measured words.
 
-It was the Taurani senator who took center
-stage in the ensuing madness. Gathering the
-still loyal factions of the Commonwealth
-together, convincing them to merge individual
-Militia Fleets with the Galactic Navy. Factories
-producing critical goods were seized by the
-government to save dying worlds. Blockades
-were shattered and trade forcefully reestablished.
-Media was silenced to protect galactic security as
-order was restored.
+It was the Taurani senator who took center stage in the ensuing madness. 
+Gathering the still loyal factions of the Commonwealth together, convincing 
+them to merge individual Militia Fleets with the Galactic Navy. Factories
+producing critical goods were seized by the government to save dying worlds. 
+Blockades were shattered and trade forcefully reestablished. Media was 
+silenced to protect galactic security as order was restored.
 
-In only a dozen years the senator concentrated
-enough power to declare himself Sovereign. At his
-fiery self-coronation the new dictator promised a
-new golden age in a Grand Imperium. Yet not all
-hope was lost.
+In only a dozen years the senator concentrated enough power to declare 
+himself Sovereign. At his fiery self-coronation the new dictator promised 
+a new golden age in a Grand Imperium. Yet not all hope was lost.
 
 
 Character Creation Guidelines
@@ -4332,23 +4294,18 @@ the Inquisition and now hunt for their former brothers in arms.
 Using Magic in the Imperium
 ---------------------------
 
-In the universe of the Imperium there 
-is a supernatural force at work. Characters
-with the perk Sorcerer can access this power.
-Not all spells listed in the magic section are
-appropriate though. By selecting the spells 
-allowed the GM's helps reinforce the way
-magic works in their universe. It is suggested
-that Star Paladins select from the following:
-Beast Tongue, Bless, Charm, Curse, Dark Vision,
-Death Spell, Dispel Magic, Divination, ESP,
-Levitate (see Fly), Hasten, Illusions, Paralysis,
-Resist Elements, See Magic Aura, Slumber, Still
-Mind, and Telekinesis.
+In the universe of the Imperium there is a supernatural force at work. 
+Characters with the perk Sorcerer can access this power. Not all spells 
+listed in the magic section are appropriate though. By selecting the 
+spells allowed the GM's helps reinforce the way magic works in their 
+universe. It is suggested that Star Paladins select from the following:
+Beast Tongue, Bless, Charm, Curse, Dark Vision, Death Spell, Dispel 
+Magic, Divination, ESP, Levitate (see Fly), Hasten, Illusions, Paralysis,
+Resist Elements, See Magic Aura, Slumber, Still Mind, and Telekinesis.
 
-Additional powers can also be created to
-help showcase the unique powers of the Star
-Paladins. For Example:
+Additional powers can also be created to help showcase the unique powers 
+of the Star Paladins. For Example:
+
 
 > Sense Danger (TN: 19)
 > 

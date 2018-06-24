@@ -10475,54 +10475,35 @@ of the "Healing" chapter.
 Navigation (Mechanical)
 -----------------------
 
-
-YOU ARE HERE
-
 The base difficulty for a character to ﬁnd his way around a planet
 is 10. See the "Space Travel" chapter for information on how to get
 around the universe without getting lost (or too lost).
-Planetary Situation
-No idea which way is north
-General idea which way is north
-Familiar with terrain
-Terrain completely foreign
-Completely lost
-Have a compass or similar navigational tools
-Plotting a simple course
-Plotting a complex course
-Plotting a dangerous course
-Determine exact location
 
-Modiﬁer
-+10
-0
-0
-+5
-+10
--5
-0
-+6
-+9
-+15
 
-91
+*Planetary Situation: Modiﬁer*
 
-Chapter 13
+* No idea which way is north: +10
+* General idea which way is north: 0
+* Familiar with terrain: 0
+* Terrain completely foreign: +5
+* Completely lost: +10
+* Have a compass or similar navigational tools: -5
+* Plotting a simple course: 0
+* Plotting a complex course: +6
+* Plotting a dangerous course: +9
+* Determine exact location: +15
 
-Condition
-Have a poorly drawn map
-Have a sketchy but accurate map
-Have a well-drawn map
-Have a misleading or purposely inaccurate map
-(and don't know it)
 
-Skill Modiﬁer
-+1D
-+2D
-+3D
--1D
+*Condition: Skill Modiﬁer*
+
+* Have a poorly drawn map: +1D
+* Have a sketchy but accurate map: +2D
+* Have a well-drawn map: +3D
+* Have a misleading or purposely inaccurate map (and don't know it): -1D
+
 
 Piloting (Mechanical)
+---------------------
 
 See the"Movement" (speciﬁcally the"Vehicles and Aerial Characters"
 section) and "Space Travel" chapters for details on using this skill.
@@ -10534,99 +10515,80 @@ roll against the creature's willpower roll (the gamemaster generates this).
 The character's riding total may be modiﬁed by the attitude of the animal
 toward the character. The character stays in control if she ties or beats
 the beast's roll. If she fails, consult the table below for what occurs.
+
 When attempting to get the beast to perform a special maneuver or
 during events that might frighten it, the character must also roll against
 the animal's Knowledge or willpower. Examples of special maneuvers
-include jumping a fence, crossing a raging river, moving faster, or slowing down quickly. (The success of special maneuvers are determined
+include jumping a fence, crossing a raging river, moving faster, or 
+slowing down quickly. (The success of special maneuvers are determined
 with the animal's attributes or skills.)
+
 A character attacking from the back of a beast takes a multi-action
 penalty for having to both control the mount and use a weapon.
-Animal's Attitude toward Character
-Friendly or trusting
-Neutral
-Hostile or wounded
-Willpower >
-Riding
-1-2
-3-6
-7-11
-12+
 
-Skill Modiﬁer
-+5
-0
--5
 
-Result
-Beast stops and refuses to move for 1 round.
-Beast stops and refuses to move for 2 rounds.
-Beast bolts in a random direction for 1D rounds.
-Beast bucks rider; rider must make a Moderate riding
-roll to avoid being thrown off.
+*Animal's Attitude toward Character: Skill Modiﬁer*
 
-Robot Interface/Repair
-(Technical)
+* Friendly or trusting: +5
+* Neutral: 0
+* Hostile or wounded: -5
+
+
+*Willpower > Riding: Result*
+
+* 1-2: Beast stops and refuses to move for 1 round.
+* 3-6: Beast stops and refuses to move for 2 rounds.
+* 7-11: Beast bolts in a random direction for 1D rounds.
+* 12+: Beast bucks rider; rider must make a Moderate riding roll to 
+  avoid being thrown off.
+
+
+Robot Interface/Repair (Technical)
+----------------------------------
 
 Most robots do not have attributes, though sophisticated ones might.
 Instead, skills and their specializations represent the tasks a robot can
 perform. The programmer must have a means of inputting information
 into the robot, such as a computer terminal or hand computer. The
 time taken depends upon the complexity of the task -- a Very Easy (5)
-program might take only half an hour to program, but a Very Difficult
-(25) one might take days or weeks to program.
+program might take only half an hour to program, but a Very 
+Difficult (25) one might take days or weeks to program.
+
 Once the robot has the basic skill, skill cartridges, scholarchips, or
 additional programming can upgrade it.
-Program
-Specialization of a skill (ﬁrst 1D)
-Additional +1 pip in previously programmed
-specialization
 
-92
 
-Difficulty
-5
-10
+*Program: Difficulty*
 
-Full skill (ﬁrst 1D)
-15
-Additional +1 pip in previously programmed skill
-5
-An attribute (ﬁrst 1D)
-25
-Additional +1 pip in previously programmed
-attribute
-15
-Reformatting main memory (not hardwired memory)
-15
-Situation
-Modiﬁer
-Each additional pip of skill, specialization,
-or attribute programmed at same time
-+2
-Hardwired program
-(cannot be deleted by reformatting)
-+30
-Reprogramming hardwired programs
-+30
-Unfamiliar with robot type
-+5 or more
-Familiar with robot type
--5 or more
-New skill not related to kinds of tasks robot
-designed to undertake
-+15 or more
-New skill somewhat related to kinds of tasks
-robot designed to undertake
-+10
-New skill almost but not quite related to kinds of
-tasks robot designed to undertake
-+5
-Robot has limited memory capacity
-+10 or more
-Robot has large memory capacity
--5 or more
+* Specialization of a skill (ﬁrst 1D): 5
+* Additional +1 pip in previously programmed specialization: 10
+* Full skill (ﬁrst 1D): 15
+* Additional +1 pip in previously programmed skill: 5
+* An attribute (ﬁrst 1D): 25
+* Additional +1 pip in previously programmed attribute: 15
+* Reformatting main memory (not hardwired memory): 15
+
+
+*Situation: Modiﬁer*
+
+* Each additional pip of skill, specialization, or attribute programmed 
+  at same time: +2
+* Hardwired program (cannot be deleted by reformatting): +30
+* Reprogramming hardwired programs: +30
+* Unfamiliar with robot type: +5 or more
+* Familiar with robot type: -5 or more
+* New skill not related to kinds of tasks robot designed to 
+  undertake: +15 or more
+* New skill somewhat related to kinds of tasks robot designed to 
+  undertake: +10
+* New skill almost but not quite related to kinds of tasks robot 
+  designed to undertake: +5
+* Robot has limited memory capacity: +10 or more
+* Robot has large memory capacity: -5 or more
+
 
 Search (Perception)
+-------------------
 
 When used to eavesdrop on or secretly watch an event or another
 character, the skill total indicates the amount of information gained
@@ -10634,43 +10596,40 @@ from the surveillance. Use the "Observation Difficulties" table found at
 the beginning of this chapter. A Critical Failure could mean anything
 from no information obtained to being immediately spotted by the
 character being observed, depending on the situation.
+
 When searching for a hidden object or person, the difficulty is
 generally the hide roll used to conceal the target. Otherwise, the base
 difficulty is 5, modiﬁed by the table below.
+
 See also "Observation Skills" in this chapter for more difficulties
 and modiﬁers for this skill.
-Situation
-Character knows target's exact location
-Character knows target's approximate location
-Character has vague information about
-the target or its location
-Character has only general idea of what she's
-looking for; searching for small objects
-Character has no idea what she's looking for;
-searching for obscure or tiny objects
-Searching for microscopic objects*
 
-Modiﬁer
-0
-+5
-+15
-+20
-+25
-+30
 
-*Might not be possible without special equipment or abilities.
+*Situation: Modiﬁer*
+
+* Character knows target's exact location: 0
+* Character knows target's approximate location: +5
+* Character has vague information about the target or its location: +15
+* Character has only general idea of what she's looking for; searching 
+  for small objects: +20
+* Character has no idea what she's looking for; searching for obscure 
+  or tiny objects:+25
+* Searching for microscopic objects (Might not be possible without 
+  special equipment or abilities.): +30
+
 When attempting to track someone, the base difficulty is 10 or
 the target's sneak roll, if the target is actively trying to hide her trail.
 Characters can also use search to shadow a target.
-Condition
-Trail is a day old
-Trail is a few days old
-Trail is a week old
 
-Modiﬁer
-+3
-+6
-+9
+
+*Condition: Modiﬁer*
+
+* Trail is a day old: +3
+* Trail is a few days old: +6
+* Trail is a week old: +9
+
+YOU ARE HERE
+
 
 Example Skill Difﬁculties
 

@@ -1,4 +1,5 @@
 .*
 *~ 
 !.gitignore
-!.make_pdf_and_html.sh
+!.build_docs.sh
+
