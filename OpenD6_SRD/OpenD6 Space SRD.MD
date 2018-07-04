@@ -10627,272 +10627,212 @@ Characters can also use search to shadow a target.
 * Trail is a day old: +3
 * Trail is a few days old: +6
 * Trail is a week old: +9
+* Tracking during inclement weather: +6
+* Soft dirt, mud, snow: -3
+* Grassland: 0
+* Forest, thin crowd: +3
+* Rain forest, dense crowd: +6
+* Desert, arctic wasteland, hard surface: +9
+* Number of people being tracked (for every 2 people): -3
+* Tracking a wheeled vehicle: -6
+* Per additional vehicle: -3
 
-YOU ARE HERE
-
-
-Example Skill Difﬁculties
-
-Tracking during inclement weather
-Soft dirt, mud, snow
-Grassland
-Forest, thin crowd
-Rain forest, dense crowd
-Desert, arctic wasteland, hard surface
-Number of people being tracked (for every 2 people)
-Tracking a wheeled vehicle
-Per additional vehicle
-
-+6
--3
-0
-+3
-+6
-+9
--3
--6
--3
 
 Security (Technical)
+--------------------
 
-Difficulty
-4
-8
-14
-20
-25
-30
+Opening locks that don't require deftness of hand fall under this 
+skill, as does setting up a defensive perimeter and installing a 
+security system. Security always requires special tools, which might 
+give their own bonus. This skill can complement investigation when 
+trying to survey the security of a building.
+
+
+*Type of System: Difficulty*
+
+* No special protection: 4
+* Regular security system: 8
+* High-quality system: 14
+* Bank: 20
+* High-security complex: 25
+* Cutting-edge security measures: 30
+
 
 Shields (Mechanical)
+--------------------
 
-See the "Space Travel" chapter for details on
-employing this skill.
+See the "Space Travel" chapter for details on employing this skill.
+
 
 Sleight of Hand (Agility)
+-------------------------
 
-The difficulty for a sleight of hand attempt
-is usually the opponent's Perception or search,
-either as a die roll (if the opponent is actively
-watching for tricks) or as a derived value equal
-to the number in front of the "D" in the opponent's attribute or skill
-times 2 and add the pips.
-Situation
-Watchful target; few distractions
-Observant target; light crowd
-Suspicious target
-Challenging act (such as palming a baseball)
-Unobservant target; target constantly jostled;
-major distractions
-Confused or distracted target; crowded
-conditions; minor distractions
-Simple act (such as palming a tiny object or
-sliding a hand into one's own pocket
-unnoticed)
+The difficulty for a sleight of hand attempt is usually the opponent's 
+Perception or search, either as a die roll (if the opponent is actively
+watching for tricks) or as a derived value equal to the number in front 
+of the "D" in the opponent's attribute or skill times 2 and add the pips.
 
-Difficulty
-6
-12
-18
+*Situation: Modiﬁer*
 
-Lock Condition
-Poorly constructed
-Well constructed
-Military or security style
-High security style
-Lock blueprints and diagrams
+* Watchful target; few distractions: +9
+* Observant target; light crowd: +6
+* Suspicious target: +3
+* Challenging act (such as palming a baseball): +6 or more
+* Unobservant target; target constantly jostled; major distractions: -9
+* Confused or distracted target; crowded conditions; minor 
+  distractions:-6
+* Simple act (such as palming a tiny object or sliding a hand into 
+  one's own pocket unnoticed): -6 or more
 
-Modiﬁer
--6
-+2
-+6
-+9
--4
 
-Stamina
-(Strength)
-
-Opening locks that don't require deftness
-of hand fall under this skill, as does setting up
-a defensive perimeter and installing a security
-system. Security always requires special tools,
-which might give their own bonus. This skill can
-complement investigation when trying to survey
-the security of a building.
-Type of System
-No special protection
-Regular security system
-High-quality system
-Bank
-High-security complex
-Cutting-edge security measures
-
-Type of Lock
-Simple key lock
-Complex key lock
-Combination lock
-
-Modiﬁer
-+9
-+6
-+3
-+6 or more
--9
--6
-
--6 or more
 
 Characters also may use sleight of hand to pick locks, but they may
 not attempt to do so without some kind of tools (hairpins, wire coat
 hanger, telekinesis, etc.). Improvised tools do not add to character's
 skill roll, but specialized tools will.
 
-Gamemasters may allow
-a character to make a multiaction stamina roll to complement a strenuous activity,
-such as lifting or running.
-The difficulty equals 5 times
-the current fatigue modiﬁer. The character may add
-one-half (rounded up) of
-the difference between the
-successful stamina roll and
-the difficulty. The strenuous
-activity still receives the
-fatigue modiﬁer.
-Whenever a character
-fails a stamina roll, she is
-fatigued; all actions are
-at -1D for every stamina
-check failed until the character rests for as long as she
-exerted herself.
-Characters can still continue if they are fatigued, until they fail a third stamina check. At this
-point, the character is completely exhausted and must rest for twice
-the amount of time that she exerted herself to remove the penalty.
+
+*Type of Lock: Difficulty*
+
+* Simple key lock: 6
+* Complex key lock: 12
+* Combination lock: 18
+
+
+*Lock Condition: Modiﬁer*
+
+* Poorly constructed: -6
+* Well constructed: +2
+* Military or security style: +6
+* High security style: +9
+* Lock blueprints and diagrams: -4
+
+
+Stamina (Strength)
+------------------
+
+Gamemasters may allow a character to make a multiaction stamina roll 
+to complement a strenuous activity, such as lifting or running.
+The difficulty equals 5 times the current fatigue modiﬁer. The character 
+may add one-half (rounded up) of the difference between the successful 
+stamina roll and the difficulty. The strenuous activity still receives 
+the fatigue modiﬁer.
+
+Whenever a character fails a stamina roll, she is fatigued; all actions 
+are at -1D for every stamina check failed until the character rests for 
+as long as she exerted herself.
+
+Characters can still continue if they are fatigued, until they fail 
+a third stamina check. At this point, the character is completely 
+exhausted and must rest for twice the amount of time that she exerted 
+herself to remove the penalty.
+
 To avoid the effects of a toxin (inhaled, ingested, or absorbed) or disease
 (encountered in any manner), a character makes a stamina roll. Several
 factors ﬁgure into the difficulty of the attempt, including the deadliness
 and dosage of the poison in question. For example, a fatal bout of botulism
 has a difficulty of 9, while a killing dose of cyanide has a difficulty of 42.
 Characters may attempt to counter toxins once per day.
+
 Gamemasters might also call for stamina rolls against falling asleep
 or unconscious. Resisting sleep is a difficulty of 5 per hour beyond the
 normal awake time, modiﬁed by environmental factors (too warm or
 too cold, noise level, etc.). For unconsciousness caused by wounds, see
 the "Wound Levels" table in the "Damage" chapter.
 
+
 Streetwise (Knowledge)
+----------------------
 
-Streetwise helps characters get around urban environments. Some
-situations call for seeking out those living outside the local law, while
+Streetwise helps characters get around urban environments. Some 
+situations call for seeking out those living outside the local law, 
+while others can be handled through upstanding citizens. Generally, 
+the modiﬁers are the same for each situation, but the gamemaster 
+should adjust them depending on the circumstances. It is possible, 
+though generally unlikely, that a character would be well-liked by 
+both upstanding residents and local criminals.
 
-93
-
-Chapter 13
-
-others can be handled through upstanding citizens. Generally, the
-modiﬁers are the same for each situation, but the gamemaster should
-adjust them depending on the circumstances. It is possible, though
-generally unlikely, that a character would be well-liked by both upstanding residents and local criminals.
 Example: *In a village, a character would ﬁnd it easier to gather
-information about a particular person (and thus the city-size modiﬁer would be -15 instead of +15), but he might have a harder time
+information about a particular person (and thus the city-size modiﬁer 
+would be -15 instead of +15), but he might have a harder time
 getting someone to trust him enough to tell him about it (making the
-tolerance modiﬁer +15).
-Seeking...
-Difficulty
-Things that are usually easy to ﬁnd
-4
-(ex., directions to the nearest police station)
-Things that require discretion or careful investigation
-7
-(ex., asking if the local law is straight or crooked)
-Risky services; ﬁnding illegal and well-regulated items
-14
-(ex., ﬁnding out an appropriate bribe for the local law)
-Services of unusual skills; ﬁnding dangerous or
-carefully controlled items
-18
-(ex., seeking a fence or a safecracker)
-A speciﬁc criminal in hiding; ﬁnding items whose
-possession means immediate imprisonment
-28
-Size of City
-Large city (one million or more citizens)
-Small city (several hundred thousand citizens)
-Town (several thousand citizens)
-Village (several hundred citizens)
+tolerance modiﬁer +15).*
 
-Modiﬁer
-0
-+5
-+10
-+15
+*Seeking: Difficulty*
 
-Amount of Law Enforcement
-or Tolerance of Residents
-Modiﬁer
-Martial law or no tolerance for criminals or outsiders
-+15
-Criminal activity overlooked as long as it's discreet;
-slight tolerance of outsiders
-+10
-Criminal activity overlooked as long as it's not
-dangerous to the general public; tolerance of outsiders
-+5
-Criminal activity overlooked as long as it's not
-dangerous to the local government; outsiders welcome
-0
-Anarchy; outsiders given same respect as residents
--10
-Reputation of Seeker
-Never been to the location; no contacts;
-not trusted by local underworld or residents
-Rarely visited; only passing knowledge of
-how the local underworld operates
-Minor contacts; knows what to avoid; criminals or
-residents have no reason not to trust character
-Somewhat favorably known by local underworld
-or residents; several contacts
-Well-known and liked by underworld or residents
+* Things that are usually easy to ﬁnd (ex., directions to the nearest 
+  police station): 4
+* Things that require discretion or careful investigation (ex., asking 
+  if the local law is straight or crooked): 7
+* Risky services; ﬁnding illegal and well-regulated items (ex., ﬁnding 
+  out an appropriate bribe for the local law): 14
+* Services of unusual skills; ﬁnding dangerous or carefully controlled 
+  items (ex., seeking a fence or a safecracker): 18
+* A speciﬁc criminal in hiding; ﬁnding items whose possession means 
+  immediate imprisonment: 28
+
+
+*Size of City: Modiﬁer*
+
+* Large city (one million or more citizens): 0
+* Small city (several hundred thousand citizens): +5
+* Town (several thousand citizens): +10
+* Village (several hundred citizens): +15
+
+
+*Amount of Law Enforcement or Tolerance of Residents: Modiﬁer*
+
+* Martial law or no tolerance for criminals or outsiders: +15
+* Criminal activity overlooked as long as it's discreet; slight 
+  tolerance of outsiders: +10
+* Criminal activity overlooked as long as it's not dangerous to the 
+  general public; tolerance of outsiders: +5
+* Criminal activity overlooked as long as it's not dangerous to the 
+  local government; outsiders welcome: 0
+* Anarchy; outsiders given same respect as residents: -10
+
+
+*Reputation of Seeker: Modiﬁer*
+
+* Never been to the location; no contacts; not trusted by local 
+  underworld or residents: +10 or more
+* Rarely visited; only passing knowledge of how the local underworld 
+  operates: +1 to +9
+* Minor contacts; knows what to avoid; criminals or residents have 
+  no reason not to trust character: 0
+* Somewhat favorably known by local underworld or residents; several 
+  contacts: -1 to -9
+* Well-known and liked by underworld or residents -10 or more
+
 
 Survival (Knowledge)
-
-Modiﬁer
-+10 or more
-+1-9
-0
--1-9
--10 or more
+--------------------
 
 Character can rely on survival to ﬁgure out what to eat, where to
 sleep, how best to deal with native dangers, and other information
 needed to get out of wilderness situation alive. (Use streetwise for help
 in urban situations.)
 
-94
 
-Situation
-Woods
-High mountains, ocean (near ﬂoor)
-Desert, ocean (near surface)
-Polar region
-Different, non-Earth-like dimension or planet
-Space
-Situation
-Has been to this location frequently
-Has been to this location within the past 10 years
-Has never been to this location
+*Situation: Difficulty* 
 
-Difficulty
-4
-12
-15
-18
-25
-35
-Skill Modiﬁer
-+1D
-0
--1D
+* Woods: 4
+* High mountains, ocean (near ﬂoor): 12
+* Desert, ocean (near surface): 15
+* Polar region: 18
+* Different, non-Earth-like dimension or planet: 25
+* Space: 35
+
+
+*Situation:Skill Modiﬁer*
+
+* Has been to this location frequently: +1D
+* Has been to this location within the past 10 years: 0
+* Has never been to this location: -1D
+
 
 Tactics (Knowledge)
+-------------------
 
 Tactics represents a character's skill in deploying military forces
 and maneuvering them for the best advantage. Characters can rely on
@@ -10902,25 +10842,34 @@ complement command and combat rolls for the group the character
 advises. The better the result, the more details a gamemaster should
 give to help the character win the battle. Hints can take the form of
 reminders about different moves the enemy can make, suggestions on
-how to maneuver the character's forces, or (for especially good rolls) risky
-and unanticipated moves that could throw the enemy off guard.
+how to maneuver the character's forces, or (for especially good rolls) 
+risky and unanticipated moves that could throw the enemy off guard.
+
 Nonetheless, characters should keep in mind that tactics might
 suggest a theoretically optimum solution, but the execution might not
 come off as well as planned.
-Tactics difficulties should be based on various factors of complexity within a battle: how many units are involved, the setting (empty
+
+Tactics difficulties should be based on various factors of complexity 
+within a battle: how many units are involved, the setting (empty
 space, asteroid ﬁeld, planetary terrain), and the difference in training
-and equipment between units (battleships versus in-system defenders; trained mercenaries versus primitive natives; space military versus
+and equipment between units (battleships versus in-system defenders; 
+trained mercenaries versus primitive natives; space military versus
 experienced rebels).
 
-Throwing (Agility)
 
-A character's ability to grab projectiles out of the air is enhanced by the
-throwing skill. The difficulty of catching an object is typically the thrower's
-throwing roll. If the thrower wants the catcher to get the object, and thus
-takes care to throw well, reduce the thrower's skill total by 9.
-The "Combat" chapter speciﬁes combat difficulties for this skill.
+Throwing (Agility)
+------------------
+
+A character's ability to grab projectiles out of the air is enhanced by 
+the throwing skill. The difficulty of catching an object is typically the 
+thrower's throwing roll. If the thrower wants the catcher to get the 
+object, and thus takes care to throw well, reduce the thrower's 
+skill total by 9. The "Combat" chapter speciﬁes combat difficulties for 
+this skill.
+
 
 Willpower (Knowledge)
+---------------------
 
 Willpower is generally used to resist interaction attempts and mentally
 damaging attacks. See the "Mental Defense" sidebar at the beginning of
@@ -10935,10 +10884,12 @@ character should be at ease or frightened, the greater the difficulty. Use
 the descriptions of standard difficulties to determine the level. This
 passive application of willpower is not an action.
 
-14
 
 Metaphysics
+===========
+
 What's in this Chapter
+----------------------
 
 This chapter covers the ability to mentally control the energy of the
 universe to bend the laws of the world around a character. Unlike its
@@ -10948,11 +10899,15 @@ to creature a broad range of effects, though at a greater difficulty. The
 Metaphysics skills are available only to characters with the Metaphysics
 Extranormal attribute.
 
-Obtaining Access to Metaphysics
 
-There are only two ways for players' characters to get metaphysical abilities. The ﬁrst is to put dice in the Metaphysics attribute and
+Obtaining Access to Metaphysics
+-------------------------------
+
+There are only two ways for players' characters to get metaphysical 
+abilities. The ﬁrst is to put dice in the Metaphysics attribute and
 skills at character creation, which costs the same as obtaining other
 attributes.
+
 The second is to obtain the gamemaster's permission after play has
 begun. If the player can come up with a reason for the character to learn
 or gain metaphysical abilities (such as they were latent or they appear
@@ -10960,15 +10915,18 @@ at a certain age because of the character's species) and the gamemaster
 agrees, then the player may purchase them for the character. The cost
 to get the initial 1D in Metaphysics is 20 Character Points. After that,
 it is 10 times the number in front of the "D" to improve this attribute
-by one pip. The player must still purchase Metaphysics skill pips separately, though a player may buy one pip in one Metaphysics skill for the
+by one pip. The player must still purchase Metaphysics skill pips 
+separately, though a player may buy one pip in one Metaphysics skill for the
 character at the same time as she initially gets the attribute.
+
 Gamemasters are discouraged from allowing characters to have access
 to multiple Extranormal abilities. However, it is possible, especially if
 the character has several Disadvantages that show up frequently in
 each session.
 
-Learning and Improving
-Metaphysics Skills
+
+Learning and Improving Metaphysics Skills
+-----------------------------------------
 
 Metaphysics skills may be learned between adventures, like regular
 skills. No precise formulae exist for metaphysical manipulations.
@@ -10976,11 +10934,14 @@ Teachers and their techniques help their students open their minds
 further and control their ability to alter reality better.
 The cost for a Metaphysics skill, in Character Points, equals twice
 the normal cost for gaining or improving a normal skill. This cost is
-doubled again if a teacher -- simply another manipulator of the metaphysical with the skill at a higher level -- is not available to instruct
-the character. A character may learn or improve one Metaphysics skill
-after each adventure.
+doubled again if a teacher -- simply another manipulator of the 
+metaphysical with the skill at a higher level -- is not available to 
+instruct the character. A character may learn or improve one Metaphysics 
+skill after each adventure.
+
 
 Metaphysics Skills
+------------------
 
 Attempts to change reality are called manipulations and require one
 of these skills in order to generate them. When using metaphysical forces,
@@ -10988,13 +10949,17 @@ the character generates a Metaphysics skill total and tries to beat the
 manipulation's difficulty. If the skill total equals or exceeds the difficulty,
 then the manipulation's effect works (to a greater or lesser extent).
 
-Channel
+
+### Channel ###
+
 With this skill, a character can focus energy within herself and her
 surroundings to harm others or protect herself and others from harm.
 The most common effects produced with this skill include modifying
 damage or Armor Value or generating a new damage or Armor Value.
 
-Sense
+
+### Sense ###
+
 A character who has learned this skill can detect anything in existence,
 learn about her surroundings, and touch and inﬂuence minds. Some
 effects include: modifying Knowledge and general Perception attempts;
@@ -11002,7 +10967,9 @@ modifying existing or including stand-alone bargain, command, con,
 investigation, persuasion, search, or Knowledge-related skills, especially
 to discern speciﬁc information.
 
-Transform
+
+### Transform ###
+
 This skill allows a character to alter temporarily people and things
 within the universe, including moving something from one location
 to another and changing a target's natural capabilities. Some effects
@@ -11010,21 +10977,6 @@ include: modifying a skill or attribute except general Perception uses,
 bargain, command, con, investigation, persuasion, search, Knowledge, or
 Knowledge-related skills; adding additional levels of a Special Ability the
 target already has; giving a target a new Special Ability, Disadvantage, or
-
-Other Systems
-Gamemasters allowing characters with mental abilities
-made using other D6 rules sets to be transferred to this one
-may ﬁnd it easier to rely on the rules from that system for those
-characters rather than switching to the D6 Space rules.
-However, characters using other psionic rules may not
-rely on the D6 Space rules -- and vice versa. Consider each
-psionics rules set as a different and distinct way special mental
-abilities manifest themselves.
-
-95
-
-Chapter 14
-
 skill; placing new Limitations or Enhancements on an existing Special
 Ability; moving targets; and modifying a target's Move value.
 To move a target, the skill total has to overcome the target's weight
@@ -11036,37 +10988,67 @@ target character). If the transform total is equal to or higher than the
 modiﬁed manipulation difficulty, the character is moved. This goes for
 self-teleportation as well (though the character is not likely to resist).
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Other Systems
+-------------
+
+Gamemasters allowing characters with mental abilities
+made using other D6 rules sets to be transferred to this one
+may ﬁnd it easier to rely on the rules from that system for those
+characters rather than switching to the D6 Space rules.
+
+However, characters using other psionic rules may not
+rely on the D6 Space rules -- and vice versa. Consider each
+psionics rules set as a different and distinct way special mental
+abilities manifest themselves.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 Designing the Manipulation
+--------------------------
 
 At this point, write out what you want the effect to do -- basically.
 What sort of effect are you trying to create? How long will it last?
-What range will you need? Consider all things along these lines. Having some general ideas up front will help you choose the values of the
+What range will you need? Consider all things along these lines. Having 
+some general ideas up front will help you choose the values of the
 various aspects of your effects. You can keep track of your ideas on the
 Manipulation Worksheet included at the end of this chapter.
 
+
 Aspects of a Manipulation
+-------------------------
+
 There are four primary and necessary aspects of a manipulation
 that determine the difficulty to generate it: effect, target size, proximity,
 and duration. The value of the effect decides the base difficulty, while
 size, proximity, and duration modify this number.
 
-Effect and Skill Used
+
+### Effect and Skill Used ###
+
 The ﬁrst step in creating a metaphysical manipulation is to decide
 what it can do. This also helps you generate the initial difficulty. Once
 you decide what the effect will do -- damage, protection, skill bonus,
 and so on -- determine its corresponding value using the "Die Codes"
 table. Here are some guidelines.
+
 Damage effects affect character health (that is, their Body Points or
 Wounds). To hurt someone, 6D (which you can determine, by using
 the "Die Code" table, has a value of 12) is a safe bet. To kill someone
 outright, 10D (which has a value of 20) is usually necessary.
+
 Protection effects work similarly, though, obviously, they reduce the
 amount of damage taken. Checking out weapon damage die codes can help
 you determine the number of dice you need for your manipulation.
+
 Effects that increase, decrease, or otherwise alter attributes or skills
 are determined the same way. For example, taking over someone's
 mind would give the metaphysicist a persuasion of 3D or more with
 a value of at least 6.
+
 Sometimes a Special Ability or a Disadvantage best reﬂects what an
 effect can do. With a Special Ability, the effect's value equals 2 times the
 Special Ability cost times the number of ranks in that Special Ability,
@@ -11074,170 +11056,174 @@ plus the cost of any Enhancements and their ranks, minus the cost of
 any Limitations and their ranks. With a Disadvantage, the effect's value
 equals 2 times the cost of the Disadvantage. Effects generally do not
 provide a target with Advantages or affect the Funds attribute.
+
 Manipulation effects that don't fall into any category should be
 given a difficulty and the circumstance in which the difficulty can be
 beat. The difficulty equals the effect's value.
+
 A manipulation may contain more than one effect. Each effect is
 determined separately and added to the total. All of the effects must
-
-96
-
-Die Codes
-Values are cumulative, so, if the effect has a die code of
-3D, the effect's difficulty is 6.
-Difficulty
-Characteristic Type
-per 1D
-Damage (mental or physical)*
-2
-Protection (mental or physical)*
-2
-Stand-alone die code or non-Extranormal skill
-2
-Non-Extranormal skill modiﬁer
-5
-Non-Extranormal attribute modiﬁer
-6
-Stand-alone Extranormal skill
-6
-Extranormal skill modiﬁer
-7
-Extranormal attribute modiﬁer
-9
-* To protect against or do damage as both mental and physical,
-each type must be purchased separately.
-
 fall under the domain of the same skill. You should also list the skill
 used to create the manipulation at this time. See the skill descriptions
 for suggestions.
 
-Perceptible Versus Imperceptible Effects
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Die Codes
+---------
+
+*Values are cumulative, so, if the effect has a die code of
+3D, the effect's difficulty is 6.*
+
+*Characteristic Type: Difficulty per 1D*
+
+* Damage (mental or physical): 2
+* Protection (mental or physical): 2
+* Stand-alone die code or non-Extranormal skill: 2
+* Non-Extranormal skill modiﬁer: 5
+* Non-Extranormal attribute modiﬁer: 6
+* Stand-alone Extranormal skill: 6
+* Extranormal skill modiﬁer: 7
+* Extranormal attribute modiﬁer: 9
+
+*Mental and physical effects represent seperate skills that each type 
+must be purchased separately.*
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+### Perceptible Versus Imperceptible Effects ###
+
 For nearly all manipulations, the target or the people near the
-metaphysicist should sense the effect in some way, whether it be hearing the character's voice as she attempts to use an augmented skill that
+metaphysicist should sense the effect in some way, whether it be hearing 
+the character's voice as she attempts to use an augmented skill that
 requires vocalization, a glow indicating a blast has just gone off, or an
 aura showing that the character is enhanced. Having a perceivable
 effect neither adds to nor subtracts from the difficulty.
+
 Some effects cannot be detected through taste, physical sensations,
-hearing, sight, or scent. This includes instantaneous location-to-location movement and direct mind-to-mind communication. This adds
+hearing, sight, or scent. This includes instantaneous location-to-location 
+movement and direct mind-to-mind communication. This adds
 4 per die code or every ﬁve points of the effect's value (round up).
 Thus, a manipulation's imperceptible effect with a value of 11 has a
 +12 to the modiﬁer.
+
 The imperceptibility of the effect is in addition to any modiﬁer that
 may further make the application of the manipulation obvious.
 
-Target Size
+
+### Target Size ###
+
 The size and number of targets is another essential element of a
 manipulation. Use the accompanying chart to decide on the desired
 number of targets or a single target's size. Add it to the manipulation's
 difficulty.
+
 Should the metaphysicist wish to affect a group of people or items
 at once, all members of a targeted group must be within a meter of
 another member of that group and they must be of approximately the
 same size. Otherwise, use a smaller difficulty modiﬁer and determine
 the effect on each smaller group separately.
 
-Range
+
+### Range ###
+
 Next, determine how far away you want the metaphysicist to be
 able to affect things with the manipulation. Any manipulation effect
 reaches its target instantly, but if you want to move it, you also must
-
-Metaphysics
-
-details. The skill total can be modiﬁed by various circumstances; the
-"Situation Modiﬁers" section offers some suggestions.
-
-Aspects
-Target Size
-Small item or handful of tiny items
-Person
-Few people, personal vehicle
-Group, small mass transport, room
-Crowd, large mass transport, small building
-Horde, huge mass transport, large building
-Range to Target or Effect
-Touching
-Point Blank (in sight within 3
-meters but not touching); self
-Close (3-100 meters away;
-out of sight but near)
-Long (over 100 meters but less than
-10 kilometers away)
-Extreme (over 10 kilometers but less than
-1,000 kilometers away)
-Atmosphere (over 1,000 kilometers
-away but on same planet/orbiting vessel)
-System (on a different planet/orbiting vessel
-that's in the same star system)
-Sector (in a nearby star system)
-Galactic (in the same galaxy
-but different star systems)
-Duration
-2 rounds
-Each additional round, up to one minute
-Each additional ﬁve minutes, up to one hour
-Each additional hour
-(cumulative with other modiﬁers)
-
-Difficulty
-Modiﬁer
-+1
-+2
-+3
-+5
-+10
-+15
-Difficulty
-Modiﬁer
--2
-0
-+5
-+7
-+10
-+15
-+20
-+30
-+60
-Difficulty
-Modiﬁer
-0
-+1
-+1
-+1
-
 include the range modiﬁer for the distance you want the target to
 travel. (This is in addition to the modiﬁer to get to the target.) Use the
 accompanying chart to pick a level that contains your desired range.
 Add it to the manipulation's difficulty.
 
-Duration
-Finally, decide how long the manipulation will last. Again, the accompanying chart can help you ﬁgure out the modiﬁer to the difficulty.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+### Aspects ###
+
+*Target Size: Difficulty Modiﬁer*
+
+* Small item or handful of tiny items: +1
+* Person: +2
+* Few people, personal vehicle: +3
+* Group, small mass transport, room: +5
+* Crowd, large mass transport, small building: +10
+* Horde, huge mass transport, large building: +15
+
+
+*Range to Target or Effect: Difficulty Modiﬁer*
+
+* Touching: -2
+* Point Blank (in sight within 3 meters but not touching); self: 0
+* Close (3-100 meters away; out of sight but near): +5
+* Long (over 100 meters but less than 10 kilometers away): +7
+* Extreme (over 10 kilometers but less than 1,000 kilometers 
+  away): +10
+* Atmosphere (over 1,000 kilometers away but on same planet/orbiting 
+  vessel):+15
+* System (on a different planet/orbiting vessel that's in the same 
+  star system): +20
+* Sector (in a nearby star system): +30
+* Galactic (in the same galaxy but different star systems): +60
+
+
+*Duration: Difficulty Modiﬁer*
+
+* 2 rounds: 0
+* Each additional round, up to one minute: +1
+* Each additional ﬁve minutes, up to one hour: +1
+* Each additional hour (cumulative with other modiﬁers): +1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+### Duration ###
+
+Finally, decide how long the manipulation will last. Again, the 
+accompanying chart can help you ﬁgure out the modiﬁer to the difficulty.
 Unless otherwise speciﬁed by the manipulation (or the gamemaster),
 a character may rely on a manipulation's effect once per round.
 
+
 Manipulation Difﬁculty
+----------------------
+
 Once you have determined all of the aspects of the manipulation,
 add them together to get the difficulty for using it. The metaphysicist
-rolls the appropriate Metaphysics skill against this difficulty to determine success; see "Releasing the Manipulation" later in this chapter for
+rolls the appropriate Metaphysics skill against this difficulty to 
+determine success; see "Releasing the Manipulation" later in this chapter 
+for details. The skill total can be modiﬁed by various circumstances; the
+"Situation Modiﬁers" section offers some suggestions.
+
 
 Design Time
+-----------
+
 Metaphysical manipulations never require the character to spend
 time designing a manipulation or going through preparations to use it.
-However, characters can improve their ability to create the manipulation by concentrating on their desired effect before releasing it. (See
+However, characters can improve their ability to create the manipulation 
+by concentrating on their desired effect before releasing it. (See
 the concentration modiﬁer later in this chapter for details.)
 
-Situation Modiﬁers
 
-Various situations can change a character's ability to make a manipulation happen. These generic and optional modiﬁers can further affect the
+Situation Modiﬁers
+------------------
+
+Various situations can change a character's ability to make a manipulation 
+happen. These generic and optional modiﬁers can further affect the
 difficulty, generally trading a negative effect on the character for a lower
 difficulty or a higher skill total. Note that none of these modiﬁers are
 required to use any Metaphysics skill, but they can help.
-Community: Unless the gamemaster rules otherwise, characters
+
+* Community: Unless the gamemaster rules otherwise, characters
 with metaphysical skills may help each other, using the game mechanics
 in the"Related Skills" section in the"Game Basics" chapter as guidelines.
 Metaphysicists also may gain aid from characters with certain other
 Extranormal attributes, such as Psionics, though only the Extranormal
 attribute is used and the bonus is one-half of normal (round up).
-Components, Incantations, and Gestures: Metaphysical talents
+
+* Components, Incantations, and Gestures: Metaphysical talents
 only require the power of the brain, although a person can have a
 psychological dependency on a certain sort of item to use his gift more
 effectively. A novice character just beginning his training might require
@@ -11251,9 +11237,11 @@ per skill attempt. See the accompanying charts on the next page for skill
 modiﬁers. This can be combined with a concentration modiﬁer.
 Note that using the skill provided by a manipulation does not count
 as an incantation or gesture.
-Concentration: The character spends time preparing herself before
+
+* Concentration: The character spends time preparing herself before
 releasing her will on the world. For each round in which the character
-concentrates strictly on her upcoming action (with or without performing related incantations or gestures), the player may add a bonus
+concentrates strictly on her upcoming action (with or without performing 
+related incantations or gestures), the player may add a bonus
 of +1 to the skill total. Additionally, add the number of rounds in
 concentration to 6 to get the willpower difficulty, which the character
 rolls at the end of the concentration time. (The gamemaster may adjust
@@ -11262,118 +11250,121 @@ suggestions.) If the character fails the willpower roll, the metaphysical
 attempt fails. A Critical Failure on the willpower roll indicates that
 the character takes any feedback associated with the skill used, even
 though it didn't work.
+
 Example: *Four rounds of concentration gives a +4 bonus with a
-willpower difficulty of 10.
+willpower difficulty of 10.*
+
 The player must specify, before having her character concentrate,
 which Metaphysics skill the bonus will affect and how it will affect that
 skill. The bonus cannot be transferred to another skill.
 
-97
 
-Chapter 14
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Components
-Component is...
-Very common, easily purchased or traded for
-(match, wooden board, candle)
-Common, but must be purchased for reasonable cost
-(lighter, inexpensive clothing, oil, incense)
-Uncommon (rare in some places, common in others;
-gun, computer chip, prescription medicine)
-Very rare (rare in most places or expensive)
-(valuable gem, precious metal, rare drug, exotic herb)
-Extremely rare (near-priceless gem, plutonium)
-Unique (burial mask of a long-dead king)
+### Components ###
 
-Gestures
-Complexity
-Simple (point ﬁnger, hold out symbol)
-Fairly simple (make circles with ﬁnger, wave hands)
+*Component is: Skill Modiﬁer*
 
-Incantations
-Complexity
-A few words or sounds
-A complete sentence or lengthy phrase
-Also must be said very loudly
+* Very common, easily purchased or traded for (match, wooden board, 
+  candle): +2
+* Common, but must be purchased for reasonable cost (lighter, 
+  inexpensive clothing, oil, incense): +3
+* Uncommon (rare in some places, common in others; gun, computer 
+  chip, prescription medicine): +4
+* Very rare (rare in most places or expensive) (valuable gem, precious 
+  metal, rare drug, exotic herb): +5
+* Extremely rare (near-priceless gem, plutonium): +6
+* Unique (burial mask of a long-dead king): +7
 
-Concentration Distractions
 
-Skill
-Modiﬁer
-+2
-+3
-+4
-+5
-+6
-+7
-Skill
-Modiﬁer
-+1
-+2
-Skill
-Modiﬁer
-+1
-+2
-+1
+### Gestures ###
 
-Level of Distraction
-Modiﬁer*
-Completely isolated chamber
-0
-Isolated, but some distractions
-(trees, birds chirping, pictures, white noise)
-+2
-On a park bench, with a few passers-by
-+6
-In a room with a few other people
-who are being quiet
-+8
-Alone in a booth at a sparsely ﬁlled restaurant
-+10
-Alone at a table in the middle of a sparsely ﬁlled restaurant +14
-Alone at a booth in at a busy hour; in a telephone
-booth, with many people passing by
-+16
-At a restaurant booth with a few other people
-who are being quiet
-+18
-Packed ballroom
-+20
-*Modiﬁer to willpower difficulty.
+*Complexity: Skill Modiﬁer*
 
-Countenance
+* Simple (point ﬁnger, hold out symbol): +1
+* Fairly simple (make circles with ﬁnger, wave hands): +2
 
-Skill
-Change in Appearance
-Modiﬁer
-Noticeable (gray pallor, foaming)
-+1
-Extreme (convulsions, prominent illusion)
-+2
-Also permanently disturbs target (per every +5
-to difficulty of future interaction attempts)*
-+1
-*May only be included if target is intelligent and can see the countenance
-change.
 
-98
+### Incantations ###
 
-Countenance: Metaphysicists' bodies can undergo changes
+*Complexity: Skill Modiﬁer*
+
+* A few words or sounds: +1
+* A complete sentence or lengthy phrase: +2
+* Also must be said very loudly: +1
+
+
+### Concentration Distractions ###
+
+*Level of Distraction: Modiﬁer to willpower difficulty*
+
+* Completely isolated chamber: 0
+* Isolated, but some distractions (trees, birds chirping, pictures, 
+  white noise): +2
+* On a park bench, with a few passers-by: +6
+* In a room with a few other people who are being quiet: +8
+* Alone in a booth at a sparsely ﬁlled restaurant: +10
+* Alone at a table in the middle of a sparsely ﬁlled restaurant: +14
+* Alone at a booth in at a busy hour; in a telephone booth, with many 
+  people passing by: +16
+* At a restaurant booth with a few other people who are being 
+  quiet: +18
+* Packed ballroom: +20
+
+
+### Countenance ###
+
+*Change in Appearance: Skill Modiﬁer*
+
+* Noticeable (gray pallor, foaming): +1
+* Extreme (convulsions, prominent illusion): +2
+* Also permanently disturbs target (per every +5 to difficulty 
+  of future interaction attempts. This may only be included if 
+  target is intelligent and can see the countenance change.): +1
+
+
+### Link to Target ###
+
+*Relationship: Skill Modifier*
+
+* Constant inﬂuence (parents, grandparents, spouse, old friends; 
+  known 10+ years): +5
+* Recent inﬂuence (friends, roommates, old enemies; known 5-10 
+  years): +3
+* Newer inﬂuence (friends, acquaintances; known 1-5 years): +2
+* Sporadic inﬂuence (on-and-off relationships): +2
+* New acquaintances (known 2-6 months): 0
+* New faces/only just met, but have talked for a while (at a party 
+  or large function): -2
+* Personal sight and name recognition (have met in person 
+  brieﬂy): -3
+* Distant sight and name recognition (celebrities never met in 
+  person): -5
+* Only a name or only a face: -8
+* Complete strangers and not of the same species: -12
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+* Countenance: Metaphysicists' bodies can undergo changes
 due to side effects of their reality-altering talents. Some go
 pale or even blue with a lack of blood ﬂow to their skin, the
 hair on some stands up as if by static electricity, others shake
 uncontrollably or foam at the mouth, while others get bulging
-eyes or swollen lolling tongues. Illusory changes are also possible, such as glowing eyes or a bright aura. The physical shell
+eyes or swollen lolling tongues. Illusory changes are also possible, 
+such as glowing eyes or a bright aura. The physical shell
 can react in unpredictable ways to the effects of extrasensory
 perception. The corresponding chart lists modiﬁers to the
 Metaphysics skill difficulty.
-Feedback: For every -2 to her damage resistance total, the
+
+* Feedback: For every -2 to her damage resistance total, the
 character receives a +1 to the Metaphysics skill total. Neither
 protective gear nor any type of Special Ability may defend
 against feedback. The damage resistance modiﬁer drops at a
 rate of one-half of a roll of the character's Metaphysics per day,
 with the decrease occurring at the beginning of a new day.
-Link to Target: When a metaphysicist wishes to seek out a
+
+* Link to Target: When a metaphysicist wishes to seek out a
 speciﬁc person, the relationship to that person can affect how
 easy it is to get in touch with the person. Include the Link to
 Target skill total modiﬁer when using the relevant skill (see
@@ -11381,13 +11372,15 @@ accompanying table on the next page). Note that this is different
 than an astral anchor in that the character and her target need
 not have been in recent contact. The gamemaster can also use
 these modiﬁers for honing in on speciﬁc items.
-Other: The gamemaster may allow other modiﬁers to the
+
+* Other: The gamemaster may allow other modiﬁers to the
 skill roll. Refer the "Generic Difficulty Modiﬁers" on page 61 to
 get an idea, though, of course, add to the skill total any modiﬁers
 for circumstances that make creating the manipulation easier,
 but subtract from the skill total any modiﬁers for situations
 that make manipulating reality harder.
-Result Points: The result points (the difference between
+
+* Result Points: The result points (the difference between
 the Metaphysics skill roll and the manipulation's difficulty)
 can help in a future attempt with that skill or by improving
 some application of the current use. Add one-half of the result
@@ -11395,7 +11388,8 @@ points as the bonus to the effect, range, duration, or other
 appropriate feature. (Round fractions up.) The gamemaster
 might also use the result points to determine how effective
 the manipulation was.
-Untrained: Many Metaphysics skills may be used (or
+
+* Untrained: Many Metaphysics skills may be used (or
 rather, "experienced") even if the character has no dice in the
 particular skill. For those who have some training (that is, pips
 or dice in any Metaphysics skill), the difficulty increases by +5
@@ -11404,38 +11398,27 @@ no experience. For those who have no training (that is, no pips
 or dice in any Metaphysics skill but they do have dice in the
 Metaphysics attribute), the difficulty increases by +10.
 
+
 Releasing the Manipulation
+--------------------------
 
 Roll the Metaphysics skill for the manipulation in question
-to get a skill total, adding or subtracting any modiﬁers appropriate for the user's situation. If the total equals or exceeds the
+to get a skill total, adding or subtracting any modiﬁers appropriate 
+for the user's situation. If the total equals or exceeds the
 difficulty number, the manipulation has succeeded and the
 metaphysicist may use the manipulation's effect.
 
-Metaphysics
-
-Link to Target
-Relationship
-Constant inﬂuence (parents, grandparents, spouse, old friends)
-Recent inﬂuence (friends, roommates, old enemies)
-Newer inﬂuence (friends, acquaintances)
-Sporadic inﬂuence (on-and-off relationships)
-New acquaintances
-New faces/only just met, but have talked for a while
-(at a party or large function)
-Personal sight and name recognition (have met in person brieﬂy)
-Distant sight and name recognition
-(celebrities never met in person)
-Only a name or only a face
-Complete strangers and not of the same species
-
 Which skill the manipulation requires is either decided when the
 effect is developed or listed with a precalculated manipulation.
+
 Remember that players may spend Character and Fate Points to make
 sure they have sufficiently high skill totals to generate the manipulation
 in addition to relying on various situational modiﬁers.
+
 The effect is applied differently depending on its purpose. There is
 no design time for creating a manipulation.
-Skill Simulations: Some manipulations provide the target with
+
+* Skill Simulations: Some manipulations provide the target with
 skills or bonuses to skills or attributes. For instance, a manipulation
 that heals would give a character a certain number of dice in medicine,
 and the result of using the manipulation's skill gift would be compared
@@ -11444,165 +11427,168 @@ bonuses affect the skills and specializations under them, and any skill
 bonuses add to the specializations under them (if the target has any).
 Targets use gifted skills and skill and attribute bonuses normally and
 as separate actions from the Metaphysics attempt.
-Protection: Characters using protecting manipulations rely on
+
+* Protection: Characters using protecting manipulations rely on
 their effect just as they would a piece of protective gear.
 General Effects: When the manipulation offers a "general" effect,
 and thus has no targeting or manipulative skill associated with it, the
-gamemaster will have to make up levels of success for that manipulation. A minimal success, with the roll equal to the difficulty, means that
+gamemaster will have to make up levels of success for that manipulation. 
+A minimal success, with the roll equal to the difficulty, means that
 the manipulation was slightly off or less than perfect. A solid success
 of one to ﬁve points over the difficulty usually gets the manipulation
 to do exactly what the user wants the manipulation to do. A superior
 success of six points over the difficulty reveals that the manipulation
 worked better than usual; at this level, the gamemaster might even
 provide a bonus to its use.
-Damage and Targeted Manipulations: If the manipulation focuses
+
+* Damage and Targeted Manipulations: If the manipulation focuses
 on a target (such as a blast or translocation manipulation), the player
 and gamemaster must decide what skill (such as ﬁrearms, melee combat,
 or throwing) to use to hit, if it's not already built into the manipulation
-or described with it, as well as the appropriate defense, if any. (Gamemasters who prefer to keep activation skills within the metaphysical
+or described with it, as well as the appropriate defense, if any. 
+(Gamemasters who prefer to keep activation skills within the metaphysical
 arts could allow a separate channel roll as the targeting skill.) Attack
-
-Years Known
-10+ years
-5-10 years
-1-5 years
-variable
-2-6 months
-
-Skill
-Modiﬁer
-+5
-+3
-+2
-+2
-0
--2
--3
--5
--8
--12
-
-manipulations, for example, would
-use standard combat difficulties and
+manipulations, for example, would use standard combat difficulties and
 modiﬁers for their defense (regardless of the targeting skill). Common
-sense should be used to determine
-which skill and defense to use.
-Example: *With a blast manipulation, the gamemaster decides that
-the metaphysicist has to generate a
-ﬁrearms skill total to hit his target.
-Even though the energy will go where
-he wants it to, there still has to be
-some way to determine whether or
-not anybody is hit by it.
+sense should be used to determine which skill and defense to use.
 
-This keeps effects from being
-automatic "killers." Granted, most
-manipulation won't need this -- a
-manipulation that a character uses
-to take over a target's mind needs
-no "to hit" total; it is instead the effect versus the target's willpower or
-Knowledge.
+Example: *With a blast manipulation, the gamemaster decides that
+the metaphysicist has to generate a ﬁrearms skill total to hit his target.
+Even though the energy will go where he wants it to, there still has to be
+some way to determine whether or not anybody is hit by it.*
+
+This keeps effects from being automatic "killers." Granted, most
+manipulation won't need this -- a manipulation that a character uses
+to take over a target's mind needs no "to hit" total; it is instead the 
+effect versus the target's willpower or Knowledge.
+
 Releasing a manipulation at the same time as using its targeting
 or activation skill is not considered a multi-action. However, if the
 character wishes to release an attack manipulation, which requires a
-targeting skill roll, and ﬁre a gun in the same round, then the multiaction modiﬁer of -1D (for taking two actions in the same round) is
+targeting skill roll, and ﬁre a gun in the same round, then the 
+multiaction modiﬁer of -1D (for taking two actions in the same round) is
 applied to the manipulation activation roll, the manipulation targeting
 roll, and the weapon targeting roll.
+
 For manipulations targeting groups, the metaphysicist applies
 the targeting skill once and that number is compared to each target's
 difficulty to hit it.
+
 In general, any manipulation that works like a weapon requires this
 kind of control, and a few others might. Gamemasters in doubt may
 wish to assign a targeting skill check in addition to the manipulation
 skill difficulty.
 
+
 Reﬂux Option
+------------
+
 At the gamemaster's option, characters who roll a Critical Failure
 with an abysmally small skill total becoming disoriented and lose all of
-their actions in the next round. The universe rejected their manipulation and hit them back.
+their actions in the next round. The universe rejected their 
+manipulation and hit them back.
+
 
 Increasing Resistance Option
+----------------------------
+
 As another option to control metaphysicists, for each additional time
-the character uses the same manipulation on the same target, the difﬁculty goes up by +5. It's possible that the result point bonus will cancel
-this difficulty, but the universe continues to try to resist change.
+the character uses the same manipulation on the same target, the 
+difﬁculty goes up by +5. It's possible that the result point bonus will 
+cancel this difficulty, but the universe continues to try to resist change.
+
 
 Sample Manipulations
+--------------------
 
-These sample manipulations provide a basic idea of what a character can do with the Metaphysics ability. They should be each taken
+These sample manipulations provide a basic idea of what a character 
+can do with the Metaphysics ability. They should be each taken
 as only one example of how such a manipulation of reality could be
 represented.
 
-99
 
-Chapter 14
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+### Psionics and Manipulations ###
+
+If you have the D6 Adventure rulebook, you can use the
+Psionics skills in there to create versions of send thoughts, receive
+thoughts, mind probe, and telekinesis based on those skills.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 
 Channel
-Blast
+-------
 
-Skill Used: Channel
-Difficulty: 15
-Effect: physical damage 4D (8)
-Target Size: Person (+2)
-Range: Close (+5)
-Duration: 2 rounds (0)
-Description: The metaphysicist draws energy from within herself
-or her surroundings and focuses it into a blast at a single target. Damage equals 4D. Add the result point bonus to the amount of damage
+### Blast ###
+
+* Skill Used: Channel
+* Difficulty: 15
+* Effect: physical damage 4D (8)
+* Target Size: Person (+2)
+* Range: Close (+5)
+* Duration: 2 rounds (0)
+* Description: The metaphysicist draws energy from within herself
+or her surroundings and focuses it into a blast at a single target. 
+Damage equals 4D. Add the result point bonus to the amount of damage
 done. She has access to the blast for two rounds, though she may only
 use it once per round.
 
-Mental Shield
-Skill Used: Channel
-Difficulty: 13
-Effect: mental protection 4D (8)
-Target Size: Person (+2)
-Range: Self (0)
-Duration: 5 rounds (+3)
-Description: By hiding his mind behind a curtain of confusing
+
+### Mental Shield ###
+
+* Skill Used: Channel
+* Difficulty: 13
+* Effect: mental protection 4D (8)
+* Target Size: Person (+2)
+* Range: Self (0)
+* Duration: 5 rounds (+3)
+* Description: By hiding his mind behind a curtain of confusing
 thoughts, the metaphysicists prevents mental harm with an Armor
 Value of 4D. The mental shield can also serve in place of willpower in
 interaction attempts or against detect life manipulations. Add the result
 point bonus to the amount of harm or level of interaction resisted.
 
-Personal Physical Shield
-Skill Used: Channel
-Difficulty: 13
-Effect: physical protection 4D (8)
-Target Size: Person (+2)
-Range: Self (0)
-Duration: 5 rounds (+3)
-Description: The metaphysicist gathers energy into an aura that
+
+### Personal Physical Shield ###
+
+* Skill Used: Channel
+* Difficulty: 13
+* Effect: physical protection 4D (8)
+* Target Size: Person (+2)
+* Range: Self (0)
+* Duration: 5 rounds (+3)
+* Description: The metaphysicist gathers energy into an aura that
 absorbs damage with an Armor Value of 4D. Add the result point
 bonus to the amount of damage resisted.
 
+
 Sense
+-----
 
-Clairvoyance
-Skill Used: Sense
-Difficulty: 44
-Effect: search 4D (8), imperceptible (+16)
-Target Size: Group, room (+5)
+### Clairvoyance ###
 
-Psionics and Manipulations
-If you have the D6 Adventure rulebook, you can use the
-Psionics skills in there to create versions of send thoughts, receive
-thoughts, mind probe, and telekinesis based on those skills.
-
-100
-
-Range: Self (for effect) (0); Long (to target location) (+7)
-Duration: 10 rounds (+8)
-Description: By casting her mind out, the metaphysicist can examine
+* Skill Used: Sense
+* Difficulty: 44
+* Effect: search 4D (8), imperceptible (+16)
+* Target Size: Group, room (+5)
+* Range: Self (for effect) (0); Long (to target location) (+7)
+* Duration: 10 rounds (+8)
+* Description: By casting her mind out, the metaphysicist can examine
 one location at a distance. Use the effect's search skill of 4D to determine
 how much information the character gets each round.
 
-Detect Life
-Skill Used: Sense
-Difficulty: 21
-Effect: search: detect life 5D (10)
-Target Size: Few people (+3)
-Range: Close (+5)
-Duration: 5 rounds (+3)
-Description: Knowing that all living creatures radiate a kind of
+
+### Detect Life ###
+
+* Skill Used: Sense
+* Difficulty: 21
+* Effect: search: detect life 5D (10)
+* Target Size: Few people (+3)
+* Range: Close (+5)
+* Duration: 5 rounds (+3)
+* Description: Knowing that all living creatures radiate a kind of
 psychic energy ﬁeld, the metaphysicist uses this manipulation to ﬁnd
 those hiding near her. Each round, the character may look in a new
 direction without having to reactivate the manipulation. (She does need
@@ -11616,268 +11602,191 @@ the one on the Wild Die, and use the results of one level less than that
 total. For totals that would have been minimal, the Critical Failure
 causes the metaphysicist to lose one round of using this manipulation
 due to confusion.
-Result
-1-6
-7-11
-12-13
-14-15
-15-16
 
-Information Gained
-Knows that there are life forms in the target area, but not
-how many
-Knows the number of beings
-Knows whether any of the beings in the area have an
-Extranormal attribute (Metaphysics, Psionics, etc.)
-Knows whether she's met each being before, and if yes,
-who the being is
-Knows the gender and species of the being
+*Result: Information Gained*
 
-Inﬂuence
-Skill Used: Sense
-Difficulty: 15
-Effect: persuasion 5D (10)
-Target Size: Person (+2)
-Range: Self (0)
-Duration: 5 rounds (+3)
-Description: The metaphysicist bends her will to commanding
-that of another. She relies on her new persuasion skill of 5D like a
-normal interaction skill.
+* 1-6: Knows that there are life forms in the target area, but 
+  not how many
+* 7-11: Knows the number of beings
+* 12-13: Knows whether any of the beings in the area have an 
+  Extranormal attribute (Metaphysics, Psionics, etc.)
+* 14-15: Knows whether she's met each being before, and if yes, who 
+  the being is
+* 15-16: Knows the gender and species of the being
 
-Receive Thoughts
-Skill Used: Sense
-Difficulty: 23
-Effect: persuasion 3D (6), imperceptible (+12)
-Target Size: Person (+2)
 
-Metaphysics
+### Inﬂuence ###
 
-Range: Self (for effect) (0); Point
-Blank (to target) (0)
-Duration: 5 rounds (+3)
-Description: The metaphysicist
-can read the surface thoughts and
-feelings of one person. Each round,
-the metaphysicist makes an interaction attempt using the effect's persuasion of 3D to determine how much of
-the target's thoughts she detects.
+* Skill Used: Sense
+* Difficulty: 15
+* Effect: persuasion 5D (10)
+* Target Size: Person (+2)
+* Range: Self (0)
+* Duration: 5 rounds (+3)
+* Description: The metaphysicist bends her will to commanding that of 
+another. She relies on her new persuasion skill of 5D like a normal 
+interaction skill.
 
-remains within range, he receives the
-beneﬁt of the stamina skill at 6D. Using
-the skill gained from this manipulation
-does not count as an action.
 
-Physical Enhancement
-Skill Used: Transform
-Difficulty: 16
-Effect: +1D bonus to any one attribute
-(Agility, Strength, Knowledge, Perception, Mechanical, Technical) (6)
-Target Size: Person (+2)
-Range: Close (+5)
-Duration: 5 rounds (+3)
-Description: The metaphysicist
-improves another character's physical
-or mental abilities. For ﬁve rounds
-and as long as the target character
-remains within range, she gets +1D
-to one attribute of the metaphysicist's
-choosing.
+### Receive Thoughts ###
 
-Send Thoughts
-Skill Used: Sense
-Difficulty: 28
-Effect: persuasion 3D (6), imperceptible (+12)
-Target Size: Person (+2)
-Range: Self (for effect) (0); Close
-(to target) (+5)
-Duration: 5 rounds (+3)
-Description: For ﬁve rounds, the
-metaphysicist can plant thoughts
-in another character's mind. Each
-round, the metaphysicist makes an
-interaction attempt using the effect's
-persuasion of 3D to determine how
-receptive the target is to the thoughts.
+* Skill Used: Sense
+* Difficulty: 23
+* Effect: persuasion 3D (6), imperceptible (+12)
+* Target Size: Person (+2)
+* Range: Self (for effect) (0); Point Blank (to target) (0)
+* Duration: 5 rounds (+3)
+* Description: The metaphysicist can read the surface thoughts and
+feelings of one person. Each round, the metaphysicist makes an 
+interaction attempt using the effect's persuasion of 3D to determine 
+how much of the target's thoughts she detects.
+
+
+### Physical Enhancement ###
+
+* Skill Used: Transform
+* Difficulty: 16
+* Effect: +1D bonus to any one attribute (Agility, Strength, Knowledge, 
+  Perception, Mechanical, Technical) (6)
+* Target Size: Person (+2)
+* Range: Close (+5)
+* Duration: 5 rounds (+3)
+* Description: The metaphysicist improves another character's physical
+or mental abilities. For ﬁve rounds and as long as the target character
+remains within range, she gets +1D to one attribute of the 
+metaphysicist's choosing.
+
+
+###  Send Thoughts ###
+
+* Skill Used: Sense
+* Difficulty: 28
+* Effect: persuasion 3D (6), imperceptible (+12)
+* Target Size: Person (+2)
+* Range: Self (for effect) (0); Close (to target) (+5)
+* Duration: 5 rounds (+3)
+* Description: For ﬁve rounds, the metaphysicist can plant thoughts
+in another character's mind. Each round, the metaphysicist makes an
+interaction attempt using the effect's persuasion of 3D to determine 
+how receptive the target is to the thoughts.
+
 
 Transform
-Heal
+---------
 
-Skill Used: Transform
-Difficulty: 10
-Effect: medicine 5D (10)
-Target Size: Person (+2)
-Range: Touching (-2)
-Duration: 2 rounds (0)
-Description: Through the power of touch, the metaphysicist can
+### Heal ###
+
+* Skill Used: Transform
+* Difficulty: 10
+* Effect: medicine 5D (10)
+* Target Size: Person (+2)
+* Range: Touching (-2)
+* Duration: 2 rounds (0)
+* Description: Through the power of touch, the metaphysicist can
 heal another character as if he had 5D in medicine. She has access to
 this skill for two rounds, though she may only use it once per round.
 
-Ignore Pain
-Skill Used: Transform
-Difficulty: 22
-Effect: stamina 6D (12)
-Target Size: Person (+2)
-Range: Close (+5)
-Duration: 5 rounds (+3)
-Description: The metaphysicist bolsters another's ability to ﬁght
-the pain of injuries. For ﬁve rounds and as long as the target character
 
-Telekinesis
-Skill Used: Transform
-Difficulty: 20
-Effect: Move target of 1 kilogram or
-less (1)
-Target Size: Small Item (+1)
-Range: Close (to target) (+5); Close (range of movement) (+5)
-Duration: 10 rounds (+8)
-Description: The metaphysicist reaches out with her mind and
+### Ignore Pain ###
+
+* Skill Used: Transform
+* Difficulty: 22
+* Effect: stamina 6D (12)
+* Target Size: Person (+2)
+* Range: Close (+5)
+* Duration: 5 rounds (+3)
+* Description: The metaphysicist bolsters another's ability to ﬁght
+the pain of injuries. For ﬁve rounds and as long as the target character
+remains within range, he receives the beneﬁt of the stamina skill 
+at 6D. Using the skill gained from this manipulation does not count 
+as an action.
+
+
+### Telekinesis ###
+
+* Skill Used: Transform
+* Difficulty: 20
+* Effect: Move target of 1 kilogram or less (1)
+* Target Size: Small Item (+1)
+* Range: Close (to target) (+5); Close (range of movement) (+5)
+* Duration: 10 rounds (+8)
+* Description: The metaphysicist reaches out with her mind and
 grasps a small object within 100 meters of her. She can bring it to her.
 (To also use the object at a distance, she would need to give herself the
 appropriate skill, as a separate manipulation attempt.)
 
-Translocation
-Skill Used: Transform
-Difficulty: 31
-Effect: Move target of 100 kilograms or less (12); imperceptible
-(+12)
-Target Size: Person (+2)
-Range: Self (to target) (0); Close (to destination) (+5)
-Duration: 2 rounds (0)
-Description: The metaphysicist shifts herself out of time and space
+
+### Translocation ###
+
+* Skill Used: Transform
+* Difficulty: 31
+* Effect: Move target of 100 kilograms or less (12); imperceptible (+12)
+* Target Size: Person (+2)
+* Range: Self (to target) (0); Close (to destination) (+5)
+* Duration: 2 rounds (0)
+* Description: The metaphysicist shifts herself out of time and space
 to another location within 100 meters of where she started. It takes one
 round to dematerialize and one round to rematerialize. Note: When
 adjusting this manipulation to work on another character, unwilling
-characters get a chance to resist, adding a roll of their lift or Strength to
-the base difficulty of the manipulation, making themselves harder to
-grasp. (Resisting does not count as an action for the target.)
+characters get a chance to resist, adding a roll of their lift or 
+Strength to the base difficulty of the manipulation, making themselves 
+harder to grasp. (Resisting does not count as an action for the target.)
 
-101
 
-Chapter 14
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Manipulation Worksheet
-Skill Used: ___________________________________________
-Difﬁculty: ____________________________________________
-Effect: _______________________________________________
-Target Size: __________________________________________
+### Manipulation Worksheet ###
 
-Manipulation Worksheet
-Total the vales for each aspect and put
-the number on the correct line. Id you do
-not use an aspect, put 0 on its line.
+* Skill Used: 
+* Difficulty: 
+* Effect:
+* Target Size:
+* Range:
+* Duration:
+* Skill Modifiers: 
+* Component:
+* Gesture:
+* Incantation:
+* Concentration:
+* Feedback:
+* Link to Target:
+* Other:
+* Total Skill Modifers:
+* Description:
 
-Difficulty Calculation
-Effect
+Total the vales for each aspect and put the number on the correct 
+line. Id you do not use an aspect, put 0 on its line.
 
-+ _____
+*Difficulty Calculation*
 
-Target Size
+* Effect: +
+* Target Size: +
+* Range: + 
+* Duration: +
+* Modiﬁers: + 
+* Total (Difficulty): 
 
-+ _____
+*Skill Modiﬁers Calculation*
 
-Range
+* Component: +
+* Gesture: +
+* Incantation: + 
+* Countenance: + 
+* Link to Target: +
+* Feedback: + 
+* Other: + 
+* Other: + 
+* Other: + 
+* Total: 
 
-+ _____
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Skill Modiﬁers:________________________________________
-
-Duration
-
-+ _____
-
-Component: __________________________________________
-
-Modiﬁers
-
-+ _____
-
-Gesture: _____________________________________________
-
-Total (Difficulty)
-
-Incantation: __________________________________________
-
-Skill Modiﬁers Calculation
-
-Concentration:________________________________________
-
-Component
-
-+ _____
-
-Gesture
-
-+ _____
-
-Incantation
-
-+ _____
-
-Countenance
-
-+ _____
-
-Link to Target: ________________________________________
-
-Feedback
-
-+ _____
-
-Other: _______________________________________________
-
-Link to Target
-
-+ _____
-
-Other
-
-+ _____
-
-Other
-
-+ _____
-
-Other
-
-+ _____
-
-Range: ______________________________________________
-Duration: ____________________________________________
-
-Countenance: ________________________________________
-Feedback: ___________________________________________
-
-____________________________________________________
-____________________________________________________
-Total Skill Modiﬁers: ___________________________________
-
-Total
-
-_____
-
-_____
-
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-
-SPACE
-102
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Description: _________________________________________
-
-15
 
 Equipment
+=========
+
 What's in this Chapter
+----------------------
 
 This chapter gives game mechanics for popular equipment, including
 gear, armor, and weapons, plus how to purchase them. Game effects
@@ -11885,7 +11794,9 @@ for various weapon types are also included. Gamemasters will need
 to decide what's suitable for their particular settings. All equipment
 described herein is of the basic variety.
 
+
 Purchasing Equipment
+--------------------
 
 Each piece of equipment has a price difficulty associated with it
 that expresses how challenging it is for a character to obtain that
@@ -11900,183 +11811,166 @@ roll or value (such as local law, relationship of buyer and seller, and so
 on). Likewise, gamemasters may allow players' characters to help each
 other obtain particularly expensive items (such as spaceships) through
 complementary Funds rolls.
+
 If the Funds total equals or exceeds the price difficulty, the character
 gets the item.
+
 Any item with a price difficulty equal to or less than the number in
-front of the "D" in the character's Funds attribute is an automatic purchase. A character may make several automatic purchases per day.
+front of the "D" in the character's Funds attribute is an automatic 
+purchase. A character may make several automatic purchases per day.
+
 Any item with a price difficulty greater than the number in front
 of the "D" in the character's Funds attribute but less than or equal to
 3 times that number is an average purchase. A character may make
 one average purchase per day.
+
 Any item with a price difficulty greater than 3 times the number in
 front of the "D" in the character's Funds attribute is a luxury purchase.
 A character may make one luxury purchase every seven days.
 When deciding on the type of purchase, include in the difficulty
 breakdowns any modiﬁers due to an Advantage or Disadvantage.
-Example: *A character has 3D+2 in her Funds attribute. Her automatic purchases have a difficulty of 3 or less. Her average purchases
+
+Example: *A character has 3D+2 in her Funds attribute. Her automatic 
+purchases have a difficulty of 3 or less. Her average purchases
 have a difficulty of 4 to 9. Her luxury purchases have a difficulty of
 10 or more. If the character also had Wealth (R1), she would add her
 bonus of +10 to each of these levels, giving her automatic purchases at
 13 or less, average purchases between 14 and 19, and luxury purchases
-at 20 or more.
+at 20 or more.*
 
-Price Difﬁculties
-Cost of Item or Service
-Cheap (several credits or less)
-Inexpensive (less than 200 credits)
-Nominally expensive
-(hundreds of credits)
-Somewhat expensive
-(a few thousand credits)
-Expensive (several thousand credits)
+Failure on a Funds roll means that the character didn't have the money for
+some reason (maxing out a credit line, forgetting to transfer money to 
+the correct account, leaving the wallet at home, etc.). Except when the 
+total is abysmal, the character may roll again after a short period of 
+time and attempting to ﬁx the problem (switching credit cards, moving 
+money, getting money from the safe, etc.).
 
-Difficulty
-Level
-Very Easy
-(VE)
-Easy (E)
-Moderate (M)
+Unless the gamemaster decides otherwise, players may not spend 
+Character and Fate Points on Funds rolls.
 
-Difficult (D)
-Very Difficult
-(VD)
-Very Expensive (tens of thousands of credits) Heroic
-(H)
-Costly* (a few hundred thousand credits)
-Legendary
-(L)
-*"Costly" is hardly the top end, and gamemasters should
-continue adding to the difficulty for higher prices.
-Minimum
-Item or Service Is...
-Modiﬁer
-Common; average quality
-0
-Very common; local market is ﬂooded;
-of slightly lower technological complexity
-than commonly available
--5
-In high demand; limited availability;
-of slightly higher technological complexity
-than commonly available
-+5
-Not generally available to the public;
-of signiﬁcantly higher technological
-complexity than commonly available
-+15
-Out of season or from a distant location
-+15
-or more
-Unusually high quality
-+5
-Damaged or low quality
--5
-Relationship with Seller
-Bargain Modiﬁer
-Has dealt with rarely or never
-0
-Pays on time; frequent customer;
-no complaints by seller
--1
-or more
-Rarely pays on time; problem buyer
-+1
-or more
+The price difficulties given in the equipment descriptions in this 
+chapter are suitable for most science ﬁction settings. They do not take 
+into account any modiﬁers the gamemaster may wish to include.
 
-103
 
-Chapter 15
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Failure on a Funds roll means that
-the character didn't have the money for
-some reason (maxing out a credit line,
-forgetting to transfer money to the correct account, leaving the wallet at home,
-etc.). Except when the total is abysmal,
-the character may roll again after a
-short period of time and attempting
-to ﬁx the problem (switching credit
-cards, moving money, getting money
-from the safe, etc.).
-Unless the gamemaster decides
-otherwise, players may not spend Character and Fate Points on Funds rolls.
-The price difficulties given in the
-equipment descriptions in this chapter
-are suitable for most science ﬁction
-settings. They do not take into account
-any modiﬁers the gamemaster may
-wish to include.
+### Price Difﬁculties ###
+
+*Cost of Item or Service: Difficulty Level*
+
+* Cheap (several credits or less): Very Easy (VE)
+* Inexpensive (less than 200 credits): Easy (E)
+* Nominally expensive (hundreds of credits): Moderate (M)
+* Somewhat expensive (a few thousand credits): Difficult (D)
+* Expensive (several thousand credits): Very Difficult (VD)
+* Very Expensive (tens of thousands of credits): Heroic (H)
+* Costly (a few hundred thousand credits; "Costly" is hardly the top 
+  end, and gamemasters should continue adding to the difficulty for 
+  higher prices.): Legendary (L)
+
+
+*Item or Service Is: Minimum Modiﬁer*
+
+* Common; average quality: 0
+* Very common; local market is ﬂooded; of slightly lower technological 
+  complexity than commonly available: -5
+* In high demand; limited availability; of slightly higher technological 
+  complexity than commonly available: +5
+* Not generally available to the public; of signiﬁcantly higher 
+  technological complexity than commonly available: +15
+* Out of season or from a distant location: +15 or more
+* Unusually high quality: +5
+* Damaged or low quality: -5
+
+
+*Relationship with Seller: Bargain Modiﬁer*
+
+* Has dealt with rarely or never: 0
+* Pays on time; frequent customer; no complaints by seller: -1 or more
+* Rarely pays on time; problem buyer: +1 or more
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 
 Gear
+----
 
-Binoculars: +1D bonus to sightbased rolls for viewing objects beyond
+* Binoculars: +1D bonus to sightbased rolls for viewing objects beyond
 seven feet in the daylight and twilight.
 Cost: Easy.
-Comlink: The standard unit of communication equipment, comlinks come in a number of different forms. The most common is the
+
+* Comlink: The standard unit of communication equipment, comlinks 
+come in a number of different forms. The most common is the
 handset, which has an effective range of 10 kilometers and is widely
 available on the open market. These also can be purchased as headsets.
 Cost: Easy.
-Military comlinks have a greater range (approximately 25 kilometers), and are frequently belt units or built into enviro-suit helmets, to
-allow the soldier to keep her hands free for combat. Cost: Moderate.
-Many high-tech worlds feature communications satellites that allow
-comlink signals to reach anywhere on the planet.
-Cred-key: A small plastic card that, when placed in a cred-key
+
+    * Military comlinks have a greater range (approximately 25 kilometers), 
+    and are frequently belt units or built into enviro-suit helmets, to
+    allow the soldier to keep her hands free for combat. Cost: Moderate.
+    Many high-tech worlds feature communications satellites that allow
+    comlink signals to reach anywhere on the planet.
+
+* Cred-key: A small plastic card that, when placed in a cred-key
 receiver, can perform all banking functions. Cred-keys are used by
 virtually all high-tech worlds, though not all worlds have compatible
 banking systems. Many frontier worlds do not have the equipment
 necessary to read the cards and so will only accept hard currency.
-Standard cred-keys contain the name of the bearer and a personal
-identiﬁcation number. Megacorporate-issued cred-keys usually feature
-the name of the ﬁrm and a code for it as well. Military officers, who
-may have extensive credit limits owing to their status, carry cards with
-their DNA pattern encoded on them for ease of identiﬁcation.
-Cred-keys are not common on worlds with extensive smuggling,
-piracy, or other criminal activities -- they are too hard to steal and
-use. A character must be able to generate a forgery, a personal equipment repair, and a computer interface/repair skill total of at least 21
-each to forge or strip a civilian cred-key. (Military and megacorp keys
-are harder to do this to.) Even then, decent detection equipment (not
-usually found in stores and bars, but common in banks and large-purchase retail outlets) will probably be able to detect the forgery. Cost:
 
-104
+    * Standard cred-keys contain the name of the bearer and a personal
+    identiﬁcation number. Megacorporate-issued cred-keys usually feature
+    the name of the ﬁrm and a code for it as well. Military officers, who
+    may have extensive credit limits owing to their status, carry cards with
+    their DNA pattern encoded on them for ease of identiﬁcation.
 
-Very Easy to set one up; some fees
-to transfer money.
-Crowbar: Gives a +1D bonus to
-prying attempts, or does Strength
-Damage +2 in damage with bashing
-attacks. Cost: Very Easy.
-Enviro-suit: The basic environmental protection gear, the
-enviro-suit is designed for use in
-hostile climates or worlds whose
+    * Cred-keys are not common on worlds with extensive smuggling,
+    piracy, or other criminal activities -- they are too hard to steal and
+    use. A character must be able to generate a forgery, a personal equipment 
+    repair, and a computer interface/repair skill total of at least 21
+    each to forge or strip a civilian cred-key. (Military and megacorp keys
+    are harder to do this to.) Even then, decent detection equipment (not
+    usually found in stores and bars, but common in banks and large-purchase 
+    retail outlets) will probably be able to detect the forgery. 
+    Cost: Very Easy to set one up; some fees to transfer money.
+
+* Crowbar: Gives a +1D bonus to prying attempts, or does Strength
+Damage +2 in damage with bashing attacks. Cost: Very Easy.
+
+* Enviro-suit: The basic environmental protection gear, the
+enviro-suit is designed for use in hostile climates or worlds whose
 atmosphere is unsafe. The envirosuit features a helmet and full body
-suit (the helmet is detachable). Air
-is recycled by the mechanisms in the
+suit (the helmet is detachable). Air is recycled by the mechanisms in the
 suit and bodily moisture is also ﬁltered, to be stored in pouches inside
-the suit. Straws run up the suit and
-into the helmet to allow the user to
+the suit. Straws run up the suit and into the helmet to allow the user to
 take a drink.
-Enviro-suits commonly have
-comlink units built into the helmet
-and the belt. A small indicator light in
-the helmet ﬂashes when in the presence of another comlink trained to
-the same frequency. An enviro-suit
-maintains a constant temperature
-around its wearer that can be adjusted via controls on the belt.
-A standard enviro-suit offers only a single layer of protection (Armor
-Value +1), which, if torn or pierced, renders the entire suit inoperative. More expensive suits offer two layers of protection, with a liquid
-sealant stored between the interior and the exterior. Damage done to
-the exterior layer can be sealed within one round (Armor Value +2).
-However, extensive damage rapidly exhausts the supply of sealant. (The
-average outﬁt comes with enough sealant to repair 20 small tears or 10
-large ones.)
-Enviro-suits can hold enough air, food, and recycled water for several
-days to several weeks of use; about two weeks is standard. They can be
-reﬁlled off of shipboard supplies (deducting the life support from the
-ship's life support) or they can be reﬁlled at stations and similar places
-for 10% of the base cost of the suit. Cost of suit: Moderate.
-Flashlight: Small ﬂashlights reduces darkness modiﬁers by 2D in
-a cone-shaped area up to ﬁve meters from the user. The internal batteries can be recharged off any local current (the base includes several
-adapters). Cost: Very Easy.
-Hand Comp: Portable and easy to use, hand computers feature rapid
+
+* Enviro-suits commonly have comlink units built into the helmet
+and the belt. A small indicator light in the helmet ﬂashes when in the 
+presence of another comlink trained to the same frequency. An enviro-suit
+maintains a constant temperature around its wearer that can be adjusted 
+via controls on the belt.
+
+    * A standard enviro-suit offers only a single layer of protection (Armor
+    Value +1), which, if torn or pierced, renders the entire suit inoperative. 
+    More expensive suits offer two layers of protection, with a liquid 
+    sealant stored between the interior and the exterior. Damage done to
+    the exterior layer can be sealed within one round (Armor Value +2).
+    However, extensive damage rapidly exhausts the supply of sealant. (The
+    average outﬁt comes with enough sealant to repair 20 small tears or 10
+    large ones.)
+
+    * Enviro-suits can hold enough air, food, and recycled water for several
+    days to several weeks of use; about two weeks is standard. They can be
+    reﬁlled off of shipboard supplies (deducting the life support from the
+    ship's life support) or they can be reﬁlled at stations and similar places
+    for 10% of the base cost of the suit. Cost of suit: Moderate.
+    Flashlight: Small ﬂashlights reduces darkness modiﬁers by 2D in
+    a cone-shaped area up to ﬁve meters from the user. The internal 
+    batteries can be recharged off any local current (the base includes 
+    several adapters). Cost: Very Easy.
+
+* Hand Comp: Portable and easy to use, hand computers feature rapid
 processing power, including high quantities of high-speed memory and
 high capacity, multifunctional chip drives. Most come with a port for
 connection to a neural jack, as well as cable interfaces for connecting to
@@ -12084,12 +11978,12 @@ larger terminals. Smaller computers have slots for a few scholarchips,
 while larger ones have room for several. Cost: Moderate.
 Handcuffs: Low-tech metal adjustable restraints require the key or
 a Moderate sleight of hand roll to remove; 18 Body Points/2 Wound
-levels; damage resistance total 15. Key comes with purchase of handcuffs. Cost: Very Easy.
+levels; damage resistance total 15. Key comes with purchase of handcuffs. 
+Cost: Very Easy.
 
-Equipment
-
-Hand Scanner: A portable sensor device, the hand scanner has an
-effective range of 10 kilometers. It can be set to pick up motion, particular types of matter, and even indications of power generation. They are
+* Hand Scanner: A portable sensor device, the hand scanner has an
+effective range of 10 kilometers. It can be set to pick up motion, particular 
+types of matter, and even indications of power generation. They are
 standard equipment for scouts and are frequently used by miners.
 Use of a scanner provides a +1D to sensors. Use the "Information
 Difficulties" or "Observation Difficulties" charts in the "Example Skill
@@ -12098,7 +11992,10 @@ scanners can only be blocked by cover over three solid meters thick
 (several thick concrete walls or the bulkhead of a ship will usually
 block scanner readings, but only the most dense of forests or jungles
 will have any effect at all). Cost: Moderate.
-Holo-vid Player: This device provides holographic images drawn
+
+YOU ARE HERE
+
+* Holo-vid Player: This device provides holographic images drawn
 from data chips for entertainment or informational purposes. Holovids can also be connected to comlinks to provide for audio and visual
 contact between parties. Some holo-vids have the capability to jack
 into hand computers, projecting the information on scholarchips out
