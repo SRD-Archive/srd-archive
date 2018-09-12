@@ -11945,11 +11945,11 @@ suit and bodily moisture is also ﬁltered, to be stored in pouches inside
 the suit. Straws run up the suit and into the helmet to allow the user to
 take a drink.
 
-* Enviro-suits commonly have comlink units built into the helmet
-and the belt. A small indicator light in the helmet ﬂashes when in the 
-presence of another comlink trained to the same frequency. An enviro-suit
-maintains a constant temperature around its wearer that can be adjusted 
-via controls on the belt.
+    * Enviro-suits commonly have comlink units built into the helmet
+    and the belt. A small indicator light in the helmet ﬂashes when in the 
+    presence of another comlink trained to the same frequency. An enviro-suit
+    maintains a constant temperature around its wearer that can be adjusted 
+    via controls on the belt.
 
     * A standard enviro-suit offers only a single layer of protection (Armor
     Value +1), which, if torn or pierced, renders the entire suit inoperative. 
@@ -11993,70 +11993,74 @@ scanners can only be blocked by cover over three solid meters thick
 block scanner readings, but only the most dense of forests or jungles
 will have any effect at all). Cost: Moderate.
 
-YOU ARE HERE
-
 * Holo-vid Player: This device provides holographic images drawn
-from data chips for entertainment or informational purposes. Holovids can also be connected to comlinks to provide for audio and visual
+from data chips for entertainment or informational purposes. Holovids 
+can also be connected to comlinks to provide for audio and visual
 contact between parties. Some holo-vids have the capability to jack
 into hand computers, projecting the information on scholarchips out
 for all to read. Cost: Moderate.
-Life-Support Reﬁlls: These are "tanks" of atmosphere and food
+
+* Life-Support Reﬁlls: These are "tanks" of atmosphere and food
 supplies that can be attached to an environment suit and some portable
 shelters. They last roughly two weeks and weigh less than 10 kilograms.
 Cost: Moderate.
-Lockpicking Tools: +1D bonus to lockpicking attempts only if
+
+* Lockpicking Tools: +1D bonus to lockpicking attempts only if
 the user has the sleight of hand skill. Cost: Easy.
-Med-kit: An assortment of medical supplies collected into a lightweight container that allows for easy transport. Med-kits normally
+
+* Med-kit: An assortment of medical supplies collected into a lightweight 
+container that allows for easy transport. Med-kits normally
 contain antibiotic patches, a compressed-air hypodermic injector, three
 doses of pain killers, bandages, and tape. Use of a standard med-kit
 provides a +1D bonus to medicine skill checks. Cost: Easy.
-Rope, Heavy (braided plastic): Inﬂicts Strength Damage +2
-when used in choking attacks; 10
-Body Points/1 Wound level; damage
-resistance total 5. Cost: Very Easy.
-Rope, Light (braided nylon):
-Inﬂicts Strength Damage +1 when
-used in choking attacks; 6 Body
-Points/1 Wound level; damage resistance total 3. Cost: Very Easy.
-Scholarchips: Computer chips
-intended for use with both hand units
-and larger terminals. These contain
-available information on sectors,
-planets, some alien species, equipment,
-ships, personal data, business transactions, and so on. Use of a computer with
-a standard scholarchip in place allows
-the operator to roll as if he possessed a
-scholar or appropriate Knowledge-based
-skill in the subject detailed on the chip.
-Of course, the broader the range of
-information, and the more encrypted
-it is, the harder it is to get at what the
-character needs. Cost: Very Easy for
-base die code of 1D, +1 to the price
-for each additional +1D.
 
-Shovel: Add 1D to digging attempts, or does Strength Damage
+* Rope, Heavy (braided plastic): Inﬂicts Strength Damage +2
+when used in choking attacks; 10 Body Points/1 Wound level; damage
+resistance total 5. Cost: Very Easy.
+
+* Rope, Light (braided nylon): Inﬂicts Strength Damage +1 when
+used in choking attacks; 6 Body Points/1 Wound level; damage resistance 
+total 3. Cost: Very Easy.
+
+* Scholarchips: Computer chips intended for use with both hand units 
+and larger terminals. These contain available information on sectors,
+planets, some alien species, equipment, ships, personal data, business 
+transactions, and so on. Use of a computer with a standard scholarchip 
+in place allows the operator to roll as if he possessed a scholar or 
+appropriate Knowledge-based skill in the subject detailed on the chip.
+Of course, the broader the range of information, and the more encrypted
+it is, the harder it is to get at what the character needs. Cost: Very 
+Easy for base die code of 1D, +1 to the price for each additional +1D.
+
+* Shovel: Add 1D to digging attempts, or does Strength Damage
 +2 in damage with bashing attacks. Cost: Very Easy.
-Signal Locator: This device, which has a restricted distribution,
+
+* Signal Locator: This device, which has a restricted distribution,
 monitors the signals of tracking devices. It includes a small display to
 show direction of movement. Pricier ones can pinpoint the location
 on an electronic map. Cost: Moderate.
-Thermo-disk: Useful gear when traveling in a wilderness area,
+
+* Thermo-disk: Useful gear when traveling in a wilderness area,
 thermo-disks are spheroid plasticene items, roughly the size of the average
 Human's ﬁst. They contain storage batteries that, when switched on, give
 off heat in a 25-meter radius. As they do not provide light, they can be
 used in hostile areas without betraying of one's presence. Cost: Easy.
-Tool Kit: Contains tools (and possibly parts or storage containers)
+
+* Tool Kit: Contains tools (and possibly parts or storage containers)
 necessary to accomplish basic related tasks. Add 1D to relevant skill
 attempts only if the user has the appropriate skill (usually some version
 of repair, but investigation in the case of an evidence or archaeologist's
 kit, con: disguise in the case of a disguise kit, or certain applications of
 artist or forgery with artistic supplies). Cost: Very Easy to Moderate.
-Tracking Device: Used with a signal locator, this miniature transmitter allows whatever is attached to it to be electronically located over
+
+* Tracking Device: Used with a signal locator, this miniature transmitter 
+allows whatever is attached to it to be electronically located over
 a distance. Active devices emit a signal, while passive ones wait for a
 signal to come to it before sending out a response. Cost: Moderate.
 
+
 Robots
+------
 
 Robots are nonsentient automatons with a programmed algorithm
 they must follow. They can be used for maintenance, security -- just
@@ -12064,187 +12068,158 @@ about anything. Interaction skills have no effect on them.
 Movement may be provided by legs, wheels, treads, hoverjets, or
 something similar and appropriate for the medium the robot most
 likely travels through or on.
-A robot is preprogrammed
-for each task it can do; its skills
+
+A robot is preprogramme for each task it can do; its skills
 represent this programming. Furthermore, most robots don't have
-dice in attributes, though highly
-sophisticated ones might.
-Most robots can only attempt
-action they have skills for.Any action
-that requires a skill the mechanical
-construct does not have cannot be
+dice in attributes, though highly sophisticated ones might.
+
+Most robots can only attempt action they have skills for. Any action
+that requires a skill the mechanical construct does not have cannot be
 done. Robots with any of the attributes can adapt to circumstances
-covered by that attribute and make
-limited decisions not necessarily
-dealt with by their programming
-(that is, their listed skills). For robots
-that can do this, skill attempts that
-default to the attribute are at +7.
-This accounts for the robot being
-smart but not terribly creative.
-Example: *A character and
-a robot (with no attributes) are
+covered by that attribute and make limited decisions not necessarily
+dealt with by their programming (that is, their listed skills). For robots
+that can do this, skill attempts that default to the attribute are at +7.
+This accounts for the robot being smart but not terribly creative.
+
+Example: *A character and a robot (with no attributes) are
 challenged with repairing a damaged laser pistol. If neither has the
-
-105
-
-Chapter 15
-
 ﬁrearms repair skill, the character gets to attempt to roll her Technical
 with +5 to the difficulty of the task. The simply programmed robot
 would not be able to repair the damaged weapon at all, because it
-doesn't know how.
+doesn't know how.*
+
 A robot can never perform con, willpower, or Metaphysics or other
 Extranormal attribute actions. Robots use their dodge or search to
 determine initiative; if they have neither, they go last.
 
+
 Maintenance Robot
+-----------------
+
 This little robot comes packed with a variety of tools and diagnostic
 equipment to perform maintenance on just about anything. Its locking
 wheels allow it scoot across most relatively ﬂat surfaces, though it can't
 increase its rate beyond its base.
+
 Skills: exoskeleton repair 3D, ﬁrearms repair 3D, ﬂight systems
 repair 3D, gunnery repair 3D, personal equipment repair 3D, robot
 interface/repair: damage only 3D, vehicle repair 3D. Move: 8. Size: 2
 meters. Equipment: Various repair and diagnostic tools, plus parts; laser
 welder (damage 4D if improperly used). Cost: Very Difficult.
 
+
 Robotic Servitor
+----------------
+
 Generally humanoid in appearance, robotic servitors perform a variety
 of tasks around the house. Though they come with a general program for
 tidiness, the owner should make certain to deﬁne any limits immediately,
 or she could ﬁnd herself with a domicile that's too clean.
+
 Skills: artist: cooking 4D, cultures 3D, know-how: housecleaning
 7D, languages 3D, scholar 2D. Move: 10. Size: 1.2 meters. Equipment:
 cleaning supplies and tools stored in various compartments built into
 body. Cost: Very Difficult.
 
+
 Security Robot
-The most basic and popular security robots can identify a preprogrammed list of visitors; anyone not on that list is turned away. Those
+--------------
+
+The most basic and popular security robots can identify a preprogrammed 
+list of visitors; anyone not on that list is turned away. Those
 who refuse receive a stunning blast. Some crime lords alter the basic
 model with deadly force.
-Skills: ﬁrearms 5D, dodge 6D, intimidation 5D, running 4D. Move:
-11. Size: 1.7 meters. Equipment: stun gun in arm (damage 6D stun
+
+Skills: ﬁrearms 5D, dodge 6D, intimidation 5D, running 4D. Move: 11. 
+Size: 1.7 meters. Equipment: stun gun in arm (damage 6D stun
 only). Cost: Heroic.
 
-Protective Gear
 
-Combining Protective Gear
+Protective Gear
+---------------
+
+### Combining Protective Gear ###
+
 A character cannot wear two suits of the same type, though he could
 combine some types. The listing herein indicates what armor may be
 worn with what other armor and the kind of bonus it can provide.
-Of course, layering armor assumes that the two pieces ﬁt together
--- a character couldn't wear two helmets, even if they were made of
-different materials. For protective gear not listed here, use the type
-that the armor in question most closely resembles to determine what
-it can be combined with.
+Of course, layering armor assumes that the two pieces ﬁt 
+together -- a character couldn't wear two helmets, even if they were 
+made of different materials. For protective gear not listed here, use 
+the type that the armor in question most closely resembles to determine 
+what it can be combined with.
+
 Except armor providing less than a full die of protection, any allowed
 combination offers the character the complete armor bonus for both
 layers, up to any maximums dictated by the gamemaster.
 
-106
-
-Hides and Fur; Bone and Hide: May be worn over any other type
+* Hides and Fur; Bone and Hide: May be worn over any other type
 of armor. May not be worn under anything. Adds a maximum of 1 to
 the Armor Value of the total combination.
-Soft Leather, Canvas, Heavy Khaki, Syntheleather: May be worn
+
+* Soft Leather, Canvas, Heavy Khaki, Syntheleather: May be worn
 over or under any other type of armor. Adds a maximum of 1 to the
 Armor Value of the total combination.
-Padded Leather/Flying Jacket, Syntheleather Mesh, Woven
+
+* Padded Leather/Flying Jacket, Syntheleather Mesh, Woven
 Metal Fabric: May be worn under any type of armor or over soft leather,
 canvas, heavy khaki, syntheleather, chain mail, plastovar, syntheleather
 mesh, padded, or metal fabric (though two armors of the same type
 may not be combined).
-Chain Mail: May be worn over or under any other type of armor.
+
+* Chain Mail: May be worn over or under any other type of armor.
 Reﬂec: A reﬂective material layered on a thin plastic base, this may
 be worn over any other armor or over or under clothes.
-Plastovar: May be worn under soft leather, canvas, heavy khaki,
+
+* Plastovar: May be worn under soft leather, canvas, heavy khaki,
 syntheleather, or syntheleather mesh, or over padded, syntheleather
 mesh, or woven metal fabric.
-Plasteel: May be worn over soft leather, canvas, heavy khaki, padded,
+
+* Plasteel: May be worn over soft leather, canvas, heavy khaki, padded,
 or syntheleather, or under syntheleather mesh or woven metal fabric.
 Plate Mail, Bulletproof Vest, Flak Jacket, Light Kevlar, Heavy
 Kevlar, Ceramic Armor: May not be worn under anything. May be
 worn over soft leather, canvas, heavy khaki, metallic woven fabric, or
 chain mail.
 
-Encumbrance Option
+
+### Encumbrance Option ###
+
 Wearing a lot of protective gear can make certain actions challenging.
 Each additional layer of armor increases Agility-based difficulties by
 +4 or more, depending on the joint ﬂexibility of the pieces.
 
-Armor
-Type
-Woven metal fabric (light)
-Hides and fur
-Bone and hide
-Soft leather, canvas, heavy khaki
-Syntheleather
-Padded leather, ﬂying jacket
-Woven metal fabric (heavy)
-Syntheleather mesh
-Hard leather
-Plastovar
-Plasteel
-Chain mail
-Light Kevlar
-Plate mail
-Bulletproof vest
-Reﬂec (against energy only)
-Flak jacket
-Heavy Kevlar
-Ceramic armor
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Armor Value
-+1
-+2
-+3
-+2
-+2
-+1D
-+1D
-+1D
-+1D+1
-+1D+1
-+1D+2
-+2D
-+2D+1
-+3D
-+3D
-+3D
-+3D+1
-+3D
-+3D+1
+### Armor ###
 
-Price
-E
---
---
-VE-E
-M
-E
-M
-M
-E
-D
-D
-E
-D
-M
-M
-H
-M
-D
-H
+*Type: Armor Value: Price*
 
-Equipment
+* Woven metal fabric (light): +1: E
+* Hides and fur: +2: --
+* Bone and hide: +3: --
+* Soft leather, canvas, heavy khaki: +2: VE-E
+* Syntheleather: +2: M
+* Padded leather, ﬂying jacket: +1D: E
+* Woven metal fabric (heavy): +1D: M
+* Syntheleather mesh: +1D: M
+* Hard leather: +1D+1: E
+* Plastovar: +1D+1: D
+* Plasteel: +1D+2: D
+* Chain mail: +2D: E
+* Light Kevlar: +2D+1: D
+* Plate mail: +3D: M
+* Bulletproof vest: +3D: M
+* Reﬂec (against energy only): +3D: H
+* Flak jacket: +3D+1: M
+* Heavy Kevlar: +3D: D
+* Ceramic armor: +3D+1: H
 
-Maximum Damage Resistance
-Total Option
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Ammunition: The number of bullets or projectiles that the weapon
-holds. The entries for explosives or weapons used in close combat don't
-need or include this.
+
+### Maximum Damage Resistance Total Option ###
+
 
 Some characters carry around their own protection, so it doesn't
 make much sense to add more to it. The maximum damage resistance
@@ -12254,22 +12229,24 @@ gear and abilities, and other modiﬁers. Any Armor Value above this
 is ignored. Gamemasters may adjust this depending on how effective
 they want protective gear to be.
 
-Categories of Firearms
 
 Weapons
+-------
 
-Handguns
+### Terminology ###
 
-Terminology
 Damage: Damage is the amount of harm a weapon does. Melee,
-thrown, and those missile weapons relying a person's strength to determine their power are enhanced by the character's Strength Damage (see
+thrown, and those missile weapons relying a person's strength to determine 
+their power are enhanced by the character's Strength Damage (see
 page 74 to determine the die code). Weapons affected by strength have
 a "+" in front of their damage die code. Note that the damage is based
 on the weapon ﬁring a single shot (bullet, bolt, etc.). See the "Combat
 Options" chapter for guidelines on other rates of ﬁre.
+
 Range: This factor takes into account that the weapon will be
 less effective the farther it is from the target. The values given are the
 maximums, in meters, for Short, Medium, and Long ranges.
+
 For generated values, roll the character's Strength or lift. The modiﬁer
 after "STR" indicates the number to take from or add onto the total.
 These totals, in meters, determines the ranges the character can throw
@@ -12278,253 +12255,114 @@ the character cannot throw the item to that range. (Gamemaster who
 prefer straight values should multiply the die code in Strength or lift
 by 4, then add the pips to get the "STR" value.)
 
+Ammunition: The number of bullets or projectiles that the weapon
+holds. The entries for explosives or weapons used in close combat don't
+need or include this.
+
+
+Categories of Firearms
+----------------------
+
 There are a lot of weapons listed here. Why would you not simply
 select the weapon with the highest damage score? In addition to the
 social ramiﬁcations, a weapon's range, its ammo use and capacity, and
 its various "ﬁre options" are all things an adventurer needs to consider.
 The following explanations should help.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Firearms ###
+
+*Type: Damage: Ammo: Short Range: Medium Range: Long Range: Price (Ammo Price)*
+
+**Handguns (slug-throwers)**
+
+* Light semi-automatic: 3D+2: 6: 10: 25: 50: E (VE)
+* Medium semi-automatic: 4D: 17: 8: 13: 35: D (E)
+* Heavy semi-automatic: 5D+1: 8: 45: 450: 600: M (E)
+
+**Riﬂes (slug-throwers)**
+
+* Short range (1 shot per round): 5D+1: 1: 15: 50: 150: E (VE)
+* Standard (1 shot per round): 5D+1: 6: 20: 75: 200: E (VE)
+* Hunting (semi-automatic): 5D+2: 6: 30: 60: 120: M (E)
+
+**Shotguns (slug-throwers)**
+
+* Single shot (12 gauge): 5D+1: 2: 25: 50: 75: E (VE)
+* Semi-automatic (12 gauge): 5D+1: 5: 25: 50: 75: M (E)
+* Sawed-off double-barrel (12 gauge) 5D+1: 2: 10: 20: 40: E (VE)
+
+**Submachine Guns (slug-throwers)**
+
+* Light: 4D+2: 20: 10: 25: 80: M (E)
+* Medium: 5D: 30: 15: 40: 100: M (E)
+* Heavy: 5D+2: 50: 15: 25: 60: M (E)
+* Assault Riﬂe (slug-thrower): 6D: 30: 20: 50: 200: D (E)
+* Machine pistol: 4D+1: 32: 15: 25: 50: M (E)
+
+**Machine Guns (slug-throwers)**
+
+* Light: 6D+2: 20: 100: 500: 1k: M (VE)
+* Medium: 7D+1: 11: 250: 1k: 2k: M (VE)
+
+**Energy Weapons**
+
+* Personal blaster (1 shot per round) 3D: 6: 4: 8: 12: E (VE)
+* Blaster pistol: 5D: 12: 20: 50: 150: M (E)
+* Blaster riﬂe: 7D: 30: 25: 150: 300: M (E)
+* Stun pistol: 4D stun only: 20: 15: 30: 45: E (VE)
+* Laser pistol: 4D: 15: 25: 75: 175: M (E)
+* Laser riﬂe: 4D+2: 20: 30: 250: 1000: M (E)
+* Plasma pistol: 5D: 20: 10: 25: 40: M (E)
+* Plasma riﬂe: 5D: 50: 25: 150: 300: M (E)
+
+**Miscellaneous Weapons**
+
+* Gyrojet pistol: 5D: 8: 20: 50: 150: M (M)
+* Gyrojet riﬂe: 7D: 20: 25: 150: 300: D (M)
+* Needler pistol: 3D: 50: 25: 75: 150: E (VE)
+* Needler riﬂe: 4D: 200: 25: 150: 300: M (E)
+
+Notes: Range values given in meters. Ammo prices are for 50 rounds of 
+ammunition or one energy cell. See ﬁrearm type descriptions for details 
+on ﬁring settings.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+### Handguns ###
+
 Handguns are small and comparatively light, and usually easily
 concealable. In most game settings, pistols are readily available and
 not illegal. In fact, in most modern game settings, they will be the
 weapon of choice for most adventurers -- carrying a handgun is a lot
 less conspicuous than a submachine gun or an assault riﬂe.
+
 These weapons are for close-up work. Even though most pistol
 rounds will travel a good distance with a high-impact velocity, most
 pistols have a fairly short effective range.
+
 Most pistols hold between six and 15 rounds. Pistols may always
 ﬁre once per round, and twice if they are semi-automatic and the user
 shoots at the same target (with the single ﬁre as multi combat option).
 Pistols cannot ﬁre full auto -- a pistol that can do that is classiﬁed as
 a submachine gun in these rules.
 
-Riﬂes
+
+### Riﬂes ###
+
 Single-shot riﬂes, such as most hunting riﬂes, are also common, and
 not overly regulated on most worlds. True, they attract considerable
 attention in cities, but most small towns don't have a problem with
 them -- and they are perfectly acceptable in the wilderness.
 
-107
-
-Chapter 15
-
-Firearms
-Damage
-
-Ammo
-
-Range
-Medium
-
-Long
-Price (Ammo Price)
-Handguns (slug-throwers)
-Light semi-automatic
-3D+2
-6
-10
-25
-50
-E (VE)
-Medium semi-automatic
-4D
-17
-8
-13
-35
-D (E)
-Heavy semi-automatic
-5D+1
-8
-45
-450
-600
-M (E)
-Riﬂes (slug-throwers)
-Short range (1 shot per round)
-5D+1
-1
-15
-50
-150
-E (VE)
-Standard (1 shot per round)
-5D+1
-6
-20
-75
-200
-E (VE)
-Hunting (semi-automatic)
-5D+2
-6
-30
-60
-120
-M (E)
-Shotguns (slug-throwers)
-Single shot (12 gauge)
-5D+1
-2
-25
-50
-75
-E (VE)
-Semi-automatic (12 gauge)
-5D+1
-5
-25
-50
-75
-M (E)
-Sawed-off double-barrel (12 gauge) 5D+1
-2
-10
-20
-40
-E (VE)
-Assault Riﬂe (slug-thrower)
-6D
-30
-20
-50
-200
-D (E)
-Submachine Guns (slug-throwers)
-Light
-4D+2
-20
-10
-25
-80
-M (E)
-Medium
-5D
-30
-15
-40
-100
-M (E)
-Heavy
-5D+2
-50
-15
-25
-60
-M (E)
-Machine pistol
-4D+1
-32
-15
-25
-50
-M (E)
-Machine Guns (slug-throwers)
-Light
-6D+2
-20
-100
-500
-1k
-M (VE)
-Medium
-7D+1
-11
-250
-1k
-2k
-M (VE)
-Energy Weapons
-Personal blaster (1 shot per round) 3D
-6
-4
-8
-12
-E (VE)
-Blaster pistol
-5D
-12
-20
-50
-150
-M (E)
-Blaster riﬂe
-7D
-30
-25
-150
-300
-M (E)
-Stun pistol
-4D stun only
-20
-15
-30
-45
-E (VE)
-Laser pistol
-4D
-15
-25
-75
-175
-M (E)
-Laser riﬂe
-4D+2
-20
-30
-250
-1000
-M (E)
-Plasma pistol
-5D
-20
-10
-25
-40
-M (E)
-Plasma riﬂe
-5D
-50
-25
-150
-300
-M (E)
-Miscellaneous Weapons
-Gyrojet pistol
-5D
-8
-20
-50
-150
-M (M)
-Gyrojet riﬂe
-7D
-20
-25
-150
-300
-D (M)
-Needler pistol
-3D
-50
-25
-75
-150
-E (VE)
-Needler riﬂe
-4D
-200
-25
-150
-300
-M (E)
-Notes: Range values given in meters. Ammo prices are for 50 rounds of ammunition or one energy cell. See ﬁrearm type descriptions for details on ﬁring settings.
-
 Riﬂes tend to have longer effective ranges than any other weapon
 (barring the machine gun), and they have slightly better damage die
 codes than pistols, mainly because (in general) they maintain better
 velocities over distance and are capable of ﬁring larger rounds.
+
 While some riﬂes only hold single bullets, most adventurers will
 have riﬂes that hold six, nine, or even 15 rounds. Usually, higher damage
 score riﬂes hold fewer rounds, since the bullets are larger.
@@ -12532,91 +12370,62 @@ As with pistols, riﬂes may ﬁre once per round or twice if they are
 semi-automatic (using the single ﬁre as multi combat option). They
 cannot ﬁre on full auto, since that is the province of assault riﬂes.
 
-108
 
-Short
+### Shotguns ###
 
-Shotguns
 Like riﬂes, shotguns are considered "civilian" weapons and are
 not usually overly regulated. They attract a lot of attention in highly
 populated areas, but only if they are out in the open.
+
 The range on a shotgun is less than that of a riﬂe, but shotguns are
 slightly better"up-close" weapons. They usually shoot a spray of pellets,
 rather than a single round. So, they are more accurate at shorter ranges
 and they do quite a bit of damage as well. However, because the spray of
 pellets scatters quickly, they do not have the range of regular riﬂes.
 
-Equipment
-
 There are many single-shot and pump-action shotguns available.
 The "double-barrel" shotgun can gain the single ﬁre as multi bonus by
 ﬁring both barrels at once.
 
-Submachine Guns
+
+### Submachine Guns ###
+
 These ﬁrearms fall into the "military/criminal" area. Submachine
 guns are illegal in most populated areas, and they attract attention
 anywhere. They are very effective weapons for adventurers, but can
 often cause more trouble than they are worth.
+
 While most submachine guns hold around 20 or 30 rounds, their
 rate of ﬁre is so high that they unload themselves quickly. A burst
 ﬁres about one-ﬁfth of the weapon's magazine, while a full auto shot
 discharges the whole clip. Even so, a full auto shot usually settles most
 differences between parties quite quickly.
+
 Submachine guns may ﬁre at up to three targets per round.
 
-Assault Riﬂes
-Seldom available in many populated areas, they are heavily regulated and usually only brandished by military organizations. They are
+
+### Assault Riﬂes ###
+Seldom available in many populated areas, they are heavily regulated 
+and usually only brandished by military organizations. They are
 marginally more acceptable than submachine guns (since they are less
-concealable), but they cause the same types of problems. Their ammunition is usually expensive and harder to get than normal riﬂe ammo.
+concealable), but they cause the same types of problems. Their 
+ammunition is usually expensive and harder to get than normal riﬂe ammo.
 These weapons are like a mix between submachine guns and riﬂes.
+
 They are larger and heavier than either type of weapon, making them
 bulky to carry, but also more accurate than submachine guns over longer
 ranges. Characters may ﬁre them in bursts of three to ﬁve rounds (burst
 ﬁre as single), single-shot, full auto, or single ﬁre as multi. They may ﬁre
 at up to three targets per round.
 
-Machine Guns
 
-master.) They also generally have the beneﬁt of a light, disposable or
-rechargeable clip, versus the slug thrower's need for large amounts of
-individual projectiles.
-The ranges of energy weapons are comparable to their solid projectile
-counterparts, sometimes longer, sometimes shorter depending on the
-design. Those relying on integrated power packs offer three or more
-times as many shots than a similar nonenergy weapon. Handguns and
-riﬂes may ﬁre single shot (at up to three targets) or single ﬁre as multi,
-unless otherwise noted in their description.
-
-Types of Energy Weapons
-Blaster pistols and riﬂes strip particles from their barrels and hyperaccelerate them toward their target. Their distinctive reports come from
-the sonic boom of the particles, and the results are messy. The barrel
-must be replaced about once for every ﬁve power pack replacements.
-Personal blasters may only ﬁre once per round (having a longer than
-normal recharging time).
-Accelerated and focused photons form the ﬁrepower of the large
-class of weapons known as lasers, which cause damage through the
-application of intense heat.
-Plasma riﬂes and pistols ﬁre a bust of super-heated gas. The clip
-contains the gas and a disposable battery to charge the electromagnetic
-pulse of the weapon. These weapons may ﬁre single shot, single ﬁre as
-multi, or full auto.
-
-Miscellaneous Firearms
-Some science ﬁction settings also offer a few other unusual pieces
-of ranged weaponry. Generally, most places consider these to be illegal
-or, at minimum, deserving of extreme regulation.
-Gyrojet riﬂes and pistols ﬁre miniature rockets with explosive
-warheads. The propellant is in the tiny rocket itself, which gives them
-a long range and high damage from impact and explosion.
-Needler riﬂes and pistols use electromagnetism to ﬁre tiny steel
-darts at hypersonic speeds. They do not do as much damage as some
-other weapons, but have huge ammunition capacities. These weapons
-may also ﬁre single shot, single ﬁre as multi, or full auto.
+###Machine Guns ###
 
 These are truly"military only" weapons. A character with a machine
 gun had better keep it under wraps everywhere except the wilderness.
 It causes trouble and attention. Machine guns are usually hard to get,
 expensive, and their ammunition is not readily available.
+
 These are heavy weapons usually ﬁred from a vehicle mount or
 a bi- or tripod. A single character seldom can ﬁre the weapon while
 holding it. As a result, reverse the range difficulties when using a
@@ -12624,49 +12433,95 @@ machine gun (so that Point Blank is +10, Short is +5, Medium is 0,
 and Long is -5), since they are hard to swing around in a tight arc to
 Here is a sampling of ﬁrearm accessories that can make certain
 "bring to bear" on a close, dodging target. They may ﬁre at up to three
-weapons more effective.
 targets per round.
-Gyrostabilization: This can be built into any personal or heavy
-Machine guns are almost always belt or drum-fed, meaning they
-weapon (except hand grenades) and provides synchronized stabilizacan hold hundreds of rounds. However, many machine guns have cyclic
-tion for the wielder. The unit supplies that small amount of extra
-rates of over 500 rounds per minute. They seldom ﬁre on anything but
-bracing that often makes the difference
-full auto, unless they are loaded with only
-between a hit and a miss (+1D to hit at
-one round. (Because of their long range
-any range). This gyrostabilization bonus
-and high damage die codes, they are often
-is not used if the character aims ﬁrst;
-used by snipers).
-aiming provides better stabilization than
-Users of weapons that may ﬁre at multiple
-the gyro can. Cost: 10% of base weapon
-targets in a round do not gain the damage bonus
-Energy Weapons
-cost or +1 to the price difficulty.
-related to the weapon setting when ﬁring at
-In most science-ﬁction settings, energy
-Laser Sight: This can be mounted on
-multiple targets.
-weapons are easier to come by than their
-almost any projectile- or energy-ﬁring
-slug-throwing counterparts. (Of course,
-weapon (hand grenades are out). The
-actual availability is up to the game-
 
-Firearm Accessories
+Machine guns are almost always belt or drum-fed, meaning they
+can hold hundreds of rounds. However, many machine guns have cyclic
+rates of over 500 rounds per minute. They seldom fire on anything but
+full auto, unless they are loaded with only one round. (Because of their 
+long range and high damage die codes, they are often used by snipers).
+
+
+### Energy Weapons ###
+
+In most science-fiction settings, energy weapons are easier to come by 
+than their slug-throwing counterparts. (Of course, actual availability 
+is up to the game master.) They also generally have the beneﬁt of a 
+light, disposable or rechargeable clip, versus the slug thrower's need 
+for large amounts of individual projectiles.
+
+The ranges of energy weapons are comparable to their solid projectile
+counterparts, sometimes longer, sometimes shorter depending on the
+design. Those relying on integrated power packs offer three or more
+times as many shots than a similar nonenergy weapon. Handguns and
+riﬂes may ﬁre single shot (at up to three targets) or single ﬁre as multi,
+unless otherwise noted in their description.
+
+
+### Types of Energy Weapons ###
+
+Blaster pistols and riﬂes strip particles from their barrels and 
+hyperaccelerate them toward their target. Their distinctive reports come 
+from the sonic boom of the particles, and the results are messy. The barrel
+must be replaced about once for every ﬁve power pack replacements.
+Personal blasters may only ﬁre once per round (having a longer than
+normal recharging time).
+
+Accelerated and focused photons form the ﬁrepower of the large
+class of weapons known as lasers, which cause damage through the
+application of intense heat.
+
+Plasma riﬂes and pistols ﬁre a bust of super-heated gas. The clip
+contains the gas and a disposable battery to charge the electromagnetic
+pulse of the weapon. These weapons may ﬁre single shot, single ﬁre as
+multi, or full auto.
+
+
+### Miscellaneous Firearms ###
+
+Some science ﬁction settings also offer a few other unusual pieces
+of ranged weaponry. Generally, most places consider these to be illegal
+or, at minimum, deserving of extreme regulation.
+
+Gyrojet riﬂes and pistols ﬁre miniature rockets with explosive
+warheads. The propellant is in the tiny rocket itself, which gives them
+a long range and high damage from impact and explosion.
+
+Needler riﬂes and pistols use electromagnetism to ﬁre tiny steel
+darts at hypersonic speeds. They do not do as much damage as some
+other weapons, but have huge ammunition capacities. These weapons
+may also ﬁre single shot, single ﬁre as multi, or full auto.
+
 
 Multiple Targets
+----------------
 
-109
+Users of weapons that may fire at multiple targets in a round do not 
+gain the damage bonus related to the weapon setting when firing at
+multiple targets.
 
-Chapter 15
 
-laser sight projects a small, coherent spot of light that can be seen by
-the weapon's user, though after 100 meters, the character using the
-weapon must be equipped with binoculars or other visual aids (like
-the telescopic sight). The spot helps the character ﬁring the weapon to
+Firearm Accessories
+--------------------
+
+Here is a sampling of firearm accessories that can make certain weapons 
+more effective.
+
+* Gyrostabilization: This can be built into any personal or heavy
+weapon (except hand grenades) and provides synchronized stabilization 
+for the wielder. The unit supplies that small amount of extra
+bracing that often makes the difference between a hit and a 
+miss (+1D to hit at any range). This gyrostabilization bonus is not 
+used if the character aims ﬁrst; aiming provides better stabilization 
+than the gyro can. Cost: 10% of base weapon cost or +1 to the price 
+difficulty.
+
+* Laser Sight: This can be mounted on almost any projectile or 
+energy-ﬁring weapon (hand grenades are out). The laser sight projects 
+a small, coherent spot of light that can be seen by the weapon's user, 
+though after 100 meters, the character using the weapon must be 
+equipped with binoculars or other visual aids (like the telescopic 
+sight). The spot helps the character ﬁring the weapon to
 see where the round is going to go (+1D to ﬁrearms roll).
 There are only two disadvantages to the laser sight: (1) certain gases
 can refract the beam and (2) if the character uses the sight to aim, the
@@ -12674,74 +12529,21 @@ target may see the little laser-light as well and be alerted. (Someone
 who suspects she's being targeted may make a search attempt with a
 +1D bonus to the roll to spot the location of the hidden attacker during
 the round in which the aim takes place. The difficulty is the attacker's
-
-Special Ammunition
-Slug thrower ammunition comes in a few varieties using
-metallic cases. The cases can be reused by reloading them
-with the slug, powder, and primer. In addition to standard
-bullets, there are two other types.
-Flechette rounds are small, tightly packed slivers of metal
-designed to damage armor, including dermal plate. When using
-ﬂechette rounds, add 2 to the damage of the weapon.
-AP bullets are used to pierce armor. When a character is
-using AP rounds against a target wearing armor with an armor
-value of +2 or more, increase the damage of the AP round by
-+4. If the character is not wearing the minimum armor requirement, then subtract 2 from the damage of the round.
-
-Reloading
-Reloading a case requires the ﬁrearms repair skill, and it
-cannot be done untrained (at least one additional pip in the
-skill). With proper equipment, a character can reload about
-50 rounds every hour. When a character attempts to reload a
-bullet, he generates one total per clip (Character Points may
-be spent). The standard difficulty number is 13.
-Reloading has both beneﬁts and drawbacks. It is possible,
-by adding an extra measure of propellant or two, to improve
-damage value or accuracy of a bullet. Bonuses to accuracy are
-added to the ﬁrearms skill total when in combat. The process
-can also increase the likelihood of misﬁres.
-When generating the total, consult the following chart
-to determine the effects, which relate to all bullets reloaded
-in the same clip.
-Reloading Success Chart
-Skill Roll >
-Difficulty Bonus
-0-4
-None
-5-10
-11-15
-16+
-
-110
-
-+2 accuracy OR
-+2 damage
-+1D accuracy OR
-+1D damage
-+1D+1 accuracy OR
-+1D+1 damage
-
-Drawback
-Misﬁre on 1, 2, or 3
-on the Wild Die
-Misﬁre on 1 or 2 on
-the Wild Die
-Misﬁre on Critical
-Failure
-None
-
 attempt to hide.) When using this sight to ﬁre at anything other than
 Point-Blank or Short range, the character must take an action to aim
 or forfeit the bonus of the laser sight. (The character gets the aiming
 bonus.) It is simply too hard to see the "dot" at Medium or Long range
 with a "quick shot." Cost: Easy.
-Quick-Draw Holster: A favorite among gunslingers, the springloaded quick-draw holster is only available for nonbulky pistol weapons
+
+* Quick-Draw Holster: A favorite among gunslingers, the springloaded 
+quick-draw holster is only available for nonbulky pistol weapons
 or melee weapons. With this holster, drawing the weapon does not count
 as an action, so characters may perform it in the same turn as using the
 weapon without penalty. In addition, when the character engages in a
 "quick-draw" contest, she can add 1D to her initiative. It does not provide
 any special initiative bonus during normal combat. Cost: Easy.
-Telescopic Sight: Only an advantage at Medium or Long range,
+
+* Telescopic Sight: Only an advantage at Medium or Long range,
 the standard telescopic sight is equipped to make seeing the weapon's
 target at those ranges much easier (+2 to hit at Medium and Long
 ranges). Individual scopes are ﬁtted to different weapons -- so a weapon
@@ -12751,19 +12553,77 @@ but the maximum range is always just a little more than the weapon's
 maximum effective range. When using this sight on a weapon, the
 character must aim to get the bonus (though the character also gets
 the aiming bonus as well). Cost: Easy.
-UV Sight and Scope: Much more expensive, this "SNS" combination is also much more deadly than the laser sight. The character using
+
+* UV Sight and Scope: Much more expensive, this "SNS" combination is 
+also much more deadly than the laser sight. The character using
 the weapon has a UV scope mounted on the weapon (or, less likely, is
-wearing ultraviolet goggles) and can see the UV laser dot (+1D to ﬁrearms roll). No one else can (unless they, also, are so equipped). The UV
+wearing ultraviolet goggles) and can see the UV laser dot (+1D to 
+ﬁrearms roll). No one else can (unless they, also, are so equipped). The UV
 scope can also be used to track the dot at long distances. This sighting
 combination only affects shots taken at Medium or Long range, and
 only if the character takes the time to aim the weapon. The character
 gets the aiming bonus as well. Cost: Moderate.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Special Ammunition ###
+
+Slug thrower ammunition comes in a few varieties using
+metallic cases. The cases can be reused by reloading them
+with the slug, powder, and primer. In addition to standard
+bullets, there are two other types.
+
+* Flechette rounds are small, tightly packed slivers of metal
+designed to damage armor, including dermal plate. When using
+ﬂechette rounds, add 2 to the damage of the weapon.
+
+* AP bullets are used to pierce armor. When a character is
+using AP rounds against a target wearing armor with an armor
+value of +2 or more, increase the damage of the AP round by
++4. If the character is not wearing the minimum armor requirement, 
+then subtract 2 from the damage of the round.
+
+### Reloading ###
+
+Reloading a case requires the ﬁrearms repair skill, and it
+cannot be done untrained (at least one additional pip in the
+skill). With proper equipment, a character can reload about
+50 rounds every hour. When a character attempts to reload a
+bullet, he generates one total per clip (Character Points may
+be spent). The standard difficulty number is 13.
+
+Reloading has both beneﬁts and drawbacks. It is possible,
+by adding an extra measure of propellant or two, to improve
+damage value or accuracy of a bullet. Bonuses to accuracy are
+added to the ﬁrearms skill total when in combat. The process
+can also increase the likelihood of misﬁres.
+
+When generating the total, consult the following chart
+to determine the effects, which relate to all bullets reloaded
+in the same clip.
+
+
+### Reloading Success Chart ###
+
+*Skill Roll > Difficulty: Bonus: Drawback*
+
+* 0-4: None: Misﬁre on 1, 2, or 3 on the Wild Die
+* 5-10: +2 accuracy OR +2 damage: Misﬁre on 1 or 2 on the Wild Die
+* 11-15: +1D accuracy OR +1D damage: Misﬁre on Critical Failure
+* 16+: +1D+1 accuracy OR +1D+1 damage: None
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 Explosives
+----------
+
 Explosives, the most well known of which are grenades, are one-use
 weapons that bear the same stigma as the machine gun, but they are
 easier to conceal. However, using or brandishing a grenade or explosive
 will always attract unwanted attention.
+
 Using an explosive can get tricky. Even though a thrown grenade
 uses the throwing skill to hit, the character using the grenade should
 not actually be aiming at a person but, rather, a place. Grenades do not,
@@ -12771,256 +12631,200 @@ typically, explode on contact -- they explode after their fuse (usually
 three seconds) burns up and they damage anything in a given area. When
 throwing at a speciﬁc area, refer to the "Grenade Targeting" chart. If the
 grenade misses, the gamemaster determines where it lands.
+
 Ranges for explosives and grenades represent how far they can be
 thrown, which is based on the Strength or lift of the character modiﬁed
 by an additional value. As with other weapons, accuracy decreases as
 the distance to the target location increases.
+
 Explosives also have an additional game mechanic: the burst radius.
 Anyone caught within the burst radius must take damage; the farther
 a character is from the center of the blast, the less damage she takes.
+
 Three values, in meters, are given for each burst radius. Compare the
 attack roll to target the explosive against the defense total of characters
 not at ground zero; those who have a defense total greater than the
-
-Equipment
-
-Plastic explosives can be formed
-like putty. The explosive is inert until
-an electrical current runs through
-it (which means that an electrical
-Range
-blasting cap is needed to set it off ).
-Damage
-Short
-Medium
-Long
-Price
-Plastic explosives are small (and
-Concussion grenade
-6D (stun)
-STR-4
-STR-3
-STR+3†
-E
-Dynamite (per stick)
-5D
-STR-3
-STR-2
-STR+1†
-VE
-easily transportable), and can be
-Fragmentation grenade
-6D
-STR-4
-STR-3
-STR+3†
-E
-used to open an otherwise reluctant
-Plastic explosive
-5D
-1
---
---
-E
-door (such as to a safe). About two
-Smoke grenade, tear gas
-‡
-STR-4
-STR-3
-STR+3†
-E
-ounces generates the damage for
-White phosphorus grenade
-6D+2
-STR-4
-STR-3
-STR+3†
-E
-plastic explosives.
-†
-Tear gas and smoke grenades do
-Range equals the total in meters. Modiﬁer is added or subtracted from the total generated. ‡Smoke
-grenades and tear gas give all within burst area a -1D penalty to all Agility, Mechanical, and sight-based
-not explode. Instead, they release
-Perception rolls.
-their contents through holes in
-a canister. The cloud they create
-Explosive Burst Radius
-quickly ﬁlls an area of 9.5 square
-Distance from Explosive*
-meters. Armor provides no proZone 1
-Zone 2
-Zone 3
-tection against this kind of attack,
-Dynamite
-0-2
-2-5
-5-10
-though a gas mask will. Both tear gas
-Grenade (any except smoke/tear) 0-3
-3-8
-8-16
-and smoke grenades give all within
-Plastic explosive
-0-3
--
--
-the blast area a -1D penalty to all
-Smoke grenade, tear gas
-‡
-Agility, Mechanical, and sight-based
-*All values given in meters. ‡Smoke grenades and tear gas have a burst radius of 9.5 square meters.
-Perception rolls.
-White phosphorus grenades
-create intense heat when they
-explode. Not only do they do a base damage, they also ignite all ﬂamtargeting roll managed to dive for cover or protect themselves from the
-mable material in the area of effect, doing an additional 4D in damage
+targeting roll managed to dive for cover or protect themselves from the
 burst. Characters between zero and the ﬁrst value take full damage. Those
-each round it continues to burn (which can last several rounds).
 between the ﬁrst and second values take half damage. Anyone between
 the second and third values take quarter damage. (Round all fractions
 up.) Characters farther away than the third value are relatively safe.
+
 Characters who haven't taken their turn yet have a chance of getting
-Muscle-powered weapons include all those that depend upon a
 out of the way of the blast. (Here's another instance of being able to
-character's strength to get them to their target. Instead of having their
 move up a turn.) Technically, normal movement might do it, but this
-damage die codes listed as a single number, muscle-powered weapons
 is a combat situation -- the grenade thrower is timing his throw to
-have damage adds.
 catch a target in the blast radius.
+
 The target has to beat a difficulty to get out of the blast radius of an
-Missile and Thrown Weapons
 explosive. The base difficulty is 15 versus a dodge or Agility roll, but the
-One beneﬁt of missile and thrown weapons is their quiet operation
 character has to get out of up to three zones of the blast radius.
-and fewer government regulations on ownership. All such weapons
+
 A character who meets the difficulty exactly moves one blast radius
 zone away from where the explosive landed or was set off. For every
 four points above the difficulty, the character moves one more blast
 radius zone away. So, a character at ground zero (and thus in zone 1)
 of a grenade explosion needs to beat a difficulty of 23 to get completely
 out of the range, while a character in zone 3 requires only a 15.
-Range
-Difficulty
 
-Explosives
-
-Muscle-Powered Weapons
-
-Grenade Targeting
 
 Types of Explosives
-Concussion grenades create a powerful shock wave when they
-explode, designed to stun targets.
+-------------------
+
+Concussion grenades create a powerful shock wave when they explode, 
+designed to stun targets. 
+
 Dynamite is commonly used in mining, road construction, and other
 places where relatively cheap, quick destruction is needed. A blasting
 cap, fuse, or timing device is needed to set off this nitroglycerin-based
 explosive. Dynamite comes in sticks.
+
 When fragmentation grenades explode, they send shrapnel out in
 all directions.
 
-Point Blank
-Short
-Medium
-Long
-Condition
-Character cannot directly see target area
-Target area is not "even ground"
-Target area is very hard (grenade will bounce)
-Target area is very soft (grenade will sink)
+Plastic explosives can be formed like putty. The explosive is inert until
+an electrical current runs through it (which means that an electrical
+blasting cap is needed to set it off ). Plastic explosives are small (and
+easily transportable), and can be used to open an otherwise reluctant
+door (such as to a safe). About two ounces generates the damage for
+plastic explosives.
 
-0
-10
-15
-20
-Modiﬁer
-+6
-+4
-+4
--4
+Tear gas and smoke grenades do not explode. Instead, they release
+their contents through holes in a canister. The cloud they create
+quickly ﬁlls an area of 9.5 square meters. Armor provides no 
+protection against this kind of attack, though a gas mask will. Both 
+tear gas and smoke grenades give all within the blast area a -1D 
+penalty to all Agility, Mechanical, and sight-based Perception rolls.
 
-111
+White phosphorus grenades create intense heat when they explode. Not 
+only do they do a base damage, they also ignite all ﬂammable material 
+in the area of effect, doing an additional 4D in damage each round it 
+continues to burn (which can last several rounds).
 
-Chapter 15
 
-as a heavy metal pipe or a screwdriver -- will survive the
-battle and continue to be serviceable.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Explosives ###
+
+*Damage: Short Range (in meters): Medium Range: Long Range: Price*
+
+* Concussion grenade: 6D (stun): STR-4: STR-3: STR+3†: E
+* Dynamite (per stick): 5D: STR-3: STR-2: STR+1†: VE
+* Fragmentation grenade: 6D: STR-4: STR-3: STR+3†: E
+* Plastic explosive: 5D: 1: --: --: E
+* Smoke grenade, tear gas: ‡: STR-4: STR-3: STR+3†: E
+* White phosphorus grenade: 6D+2: STR-4: STR-3: STR+3†: E
+
+Range equals the total in meters. Modiﬁer is added or subtracted from 
+the total generated. 
+
+Smoke grenades and tear gas give all within burst area a -1D penalty 
+to all Agility, Mechanical, and sight-based Perception rolls.
+
+
+### Explosive Burst Radius ###
+
+*Type: Zone 1 (Distance in meters): Zone 2: Zone 3*
+
+* Dynamite: 0-2: 2-5: 5-10
+* Grenade (any except smoke/tear) 0-3: 0-3: 3-8: 8-16
+* Plastic explosive: 0-3: none: none
+* Smoke grenade, tear gas: Smoke grenades and tear gas have a 
+  burst radius of 9.5 square meters.
+
+
+### Grenade Targeting ###
+
+*Range: Difficulty*
+
+* Point Blank: 0
+* Short: 10
+* Medium: 15
+* Long: 20
+
+*Condition: Modifer*
+
+* Character cannot directly see target area: +6
+* Target area is not "even ground": +4
+* Target area is very hard (grenade will bounce): +4
+* Target area is very soft (grenade will sink): -4
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Muscle-Powered Weapons
+----------------------
+
+Muscle-powered weapons include all those that depend upon a
+character's strength to get them to their target. Instead of having 
+their damage die codes listed as a single number, muscle-powered 
+weapons have damage adds.
+
 
 Missile and Thrown Weapons
-Damage
+--------------------------
 
-Short
-
-Range
-Med.
-
-Long
-
-Price
-
-Missile Weapons
-Blowgun and dart
-1D2
-10
-40
-100
-VE1
-Bow, composite and arrow +3D+1
-10
-60
-250
-M1
-Crossbow,
-wrist-mounted and dart
-4D
-10
-25
-50
-M1
-Thrown Weapons
-Dart
-+0
-STR STR+1 STR+2 VE
-Throwing dagger
-+1D
-5
-10
-15
-E
-Throwing star (shuriken)
-+1D
-5
-10
-15
-VE
-1. Price is for ﬁring part of weapon; arrows, bolts, or darts priced separately.
-2. Blowguns commonly shoot poison darts; poison damage is in addition to
-damage listed above.
-
+One beneﬁt of missile and thrown weapons is their quiet operation
+and fewer government regulations on ownership. All such weapons
 take an action to reload, either to notch another arrow or pull out
 another dart. Generally, characters may reload in the same round as
 ﬁring or throwing, except crossbows, which require bolt placement
 and string cranking.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Missile and Thrown Weapons ###
+
+*Missle Weapon: Damage: Short (Range): Medium: Long: Price*
+
+* Blowgun and dart: 1D2: 10: 40: 100: VE
+* Bow, composite and arrow +3D+1: 10: 60: 250: M
+* Crossbow,: wrist-mounted and dart: 4D: 10: 25: 50: M
+
+
+*Thrown Weapon: Damage: Short (Range): Medium: Long: Price*
+
+* Dart: +0: STR STR+1 STR+2 VE
+* Throwing dagger: +1D: 5: 10: 15: E
+* Throwing star (shuriken): +1D: 5: 10: 15: VE
+
+Price is for ﬁring part of weapon; arrows, bolts, or darts priced 
+separately.
+
+Blowguns commonly shoot poison darts; poison damage is in addition to
+damage listed above.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 Melee Weapons
+-------------
+
 Most muscle-powered weapons are melee weapons. Swords, knives,
 brass knuckles, and clubs are all examples. All of these weapons require
 melee combat to use. Gamemasters may allow such simple ones as sticks
 to be used untrained with only the Agility attribute.
+
 Edged or pointed weapons do half damage when used to bludgeon
 instead of cut.
 
+
 Improvised Weapons
+------------------
+
 When a character's up against something ugly and angry, and his
 favorite gun's back at his hideout, he grabs whatever he can to get the
 job done.
+
 That means that gamemasters aren't always going to ﬁnd established
 game mechanics for what their players want to use as weapons. When
-this happens, the best way to handle the situation is use the mechanics of something similar. Most items will either be like a dagger (such
+this happens, the best way to handle the situation is use the mechanics 
+of something similar. Most items will either be like a dagger (such
 as a broken bottle) or a club (such as a table leg). Then modify the
 damage based on how sharp or heavy the improvised weapon is to the
 comparison weapon.
+
 Improvised weapons always use either melee combat or throwing,
 and they always receive an improvised weapon modiﬁer to the combat
 difficulty of +5 or more. On a card-played setback or a rolled Critical
@@ -13029,13 +12833,54 @@ user hurts himself, or both -- the greater the roll fails, the worse the
 situation is. (If the user ends up hurting himself, use only the weapon
 bonus -- do not include the user's Strength Damage -- to determine
 the amount of damage done.)
+
 Generally, improvised weapons may only be relied on a few times
 before they break (regardless of whether a Critical Failure or a setback
 occurred while using it), though ones designed to take abuse -- such
+as a heavy metal pipe or a screwdriver -- will survive the
+battle and continue to be serviceable.
 
-112
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Melee Weapons ###
+
+*Type: Damage: Price*
+
+* Awl, screwdriver, wire cutters: +2: VE
+* Arrow, crossbow bolt, dart: +0: VE
+* Axe (large): +3D+1: E
+* Baton: +1D+1: E
+* Blackjack: +2: VE
+* Brass Knuckles: +1D+1: VE
+* Bullwhip (large): +1D: E
+* Club, large stick (large): +1D+1: VE
+* Hatchet: +1D+1: VE
+* Katana (large): +3D: M
+* Knife (survival), dagger: +1D: VE-E
+* Machete: +1D+2: E
+* Manrikigusari (large): +1D+2: E
+* Nunchaku (large): +1D+2: VE
+* Quarterstaff: +1D+2: E
+* Rapier: +2D: E
+* Sai: +1D+1: E
+* Sword, broad (large): +2D+2: E
+* Sword, energized broad (large): +4D: D
+* Sword, short: +1D+2: E
+* Sword, two-handed (large): +3D+1: E
+* Tonfa: +1D+2: E
+
+Large weapons are longer than 60 centimeters and thus
+incur the unwieldy weapon modiﬁer of +5 (if using that).
+
+Note: The quarterstaff allows user to attack at Point Blank or up 
+to 2 meters away at Short range; incurs unwieldy weapon modiﬁer of +5.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 Planetary Vehicles
+------------------
 
 The table lists a number of conveyances commonly found
 on planets and moons. With land vehicles, the prices are
@@ -13047,247 +12892,94 @@ at the cost of a higher initial price and greater maintenance
 difficulty (+3 to all vehicle repair difficulties). Both wheeled
 and hovercraft have the same move; the difference is in how
 well they can travel over different terrain.
+
 This section introduces a few terms unique to means
 of conveyance:
 
-Move: This is approximately cruising speed.
-Passengers: The number of people, including the crew,
-that the vehicle can carry. Unless otherwise speciﬁed, the
-number of crew needed to properly operate the vehicle is one.
-Toughness: This is the vehicle's base damage resistance die code.
-It can also be used as a reasonable measure of the amount of damage
+* Move: This is approximately cruising speed.
+* Passengers: The number of people, including the crew,
+  that the vehicle can carry. Unless otherwise speciﬁed, the
+  number of crew needed to properly operate the vehicle is one.
+* Toughness: This is the vehicle's base damage resistance die code.
+  It can also be used as a reasonable measure of the amount of damage
+  it can inﬂect. It may not be modiﬁed by spending Character or Fate
+  Points on it.
+*  Maneuverability: An indication of how easy the vehicle is to handle.
+  Stunts are easier to perform in vehicles with higher die codes than in
+  those with lower ones. The Maneuverability die code is added to the
+  driver's or pilot's appropriate skill total when that person is
+  attempting to do something fancy. (Vehicle stunts are further 
+  explained in the "Movement" chapter.)
 
-Melee Weapons
-Type
-Damage
-Price
-Awl, screwdriver, wire cutters
-+2
-VE
-Arrow, crossbow bolt, dart
-+0
-VE
-Axe (large)*
-+3D+1
-E
-Baton
-+1D+1
-E
-Blackjack
-+2
-VE
-Brass Knuckles
-+1D+1
-VE
-Bullwhip*
-+1D
-E
-Club, large stick*
-+1D+1
-VE
-Hatchet
-+1D+1
-VE
-Katana*
-+3D
-M
-Knife (survival), dagger
-+1D
-VE-E
-Machete
-+1D+2
-E
-Manrikigusari*
-+1D+2
-E
-Nunchaku*
-+1D+2
-VE
-Quarterstaff†
-+1D+2
-E
-Rapier
-+2D
-E
-Sai
-+1D+1
-E
-Sword, broad*
-+2D+2
-E
-Sword, energized broad*
-+4D
-D
-Sword, short
-+1D+2
-E
-Sword, two-handed*
-+3D+1
-E
-Tonfa
-+1D+2
-E
-*Starred weapons are longer than 60 centimeters and thus
-incur the unwieldy weapon modiﬁer of +5 (if using that).
-†
-Allows user to attack at Point Blank or up to 2 meters away
-at Short range; incurs unwieldy weapon modiﬁer of +5.
-
-Equipment
-
-it can inﬂect. It may not be modiﬁed by spending Character or Fate
-Points on it.
-Maneuverability: An indication of how easy the vehicle is to handle.
-Stunts are easier to perform in vehicles with higher die codes than in
-those with lower ones. The Maneuverability die code is added to the
-driver's or pilot's appropriate skill total when that person is attempting to do something fancy. (Vehicle stunts are further explained in the
-"Movement" chapter.)
 
 Vehicle Weapons
+---------------
+
 Occasionally, characters might ﬁnd it necessary to mount or have
 mounted weapons on their planetary vehicles. All of these weapons
 require the gunnery skill to use them properly. Additionally, a character
 who must ﬁre a weapon and maneuver the vehicle incurs a multi-action
 penalty.
+
 Each weapon may ﬁre once per round, because they need some
 time to recharge.
+
 All weapons increase the cost by +5 to the price difficulty. For an
 additional cost, the vehicle can be installed with a weapons computer
 that improves the gunnery roll by +1D for each +3 increase in cost.
-Blaster Cannon: damage 3D; range 200/500/1500
-Laser Cannon: damage 5D; range 250/750/1750
-Rocket Launcher: damage 6D+2; 400/1500/3000
 
-Planetary Vehicles
-Vehicle Type
+* Blaster Cannon: damage 3D; range 200/500/1500
+* Laser Cannon: damage 5D; range 250/750/1750
+* Rocket Launcher: damage 6D+2; 400/1500/3000
 
-Land
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Motorcycle, small street
-Motorcycle, large
-Personal ground vehicle, small
-Personal ground vehicle, mid-size
-Personal ground vehicle, large
-Personal ground vehicle, sports
-Ground vehicle, small mass transport
-Ground vehicle, delivery
-SUV limo
+### Planetary Vehicles ###
 
-Move1
+*Vehicle Type: Move: Passengers: Toughness: Maneuverability: Price*
 
-Passengers2
+Movement is in meters per round (kilometers per hour). For entries 
+indicating a roll, roll the skill and use that as the number of
+meters moved in that round.
 
-Toughness
+Passenger number includes one crew member (unless otherwise speciﬁed).
 
-Maneuverability
 
-Price
+**Land**
 
-84 (60 kph)
-98 (70 kph)
-49 (35 kph)
-70 (50 kph)
-70 (50 kph)
-107 (75 kph)
-63 (45 kph)
-63 (45 kph)
-70 (50 kph)
+* Motorcycle, small street: 84 (60 kph): 1-2:3D+2: +3D+1: D
+* Motorcycle, large:98 (70 kph): 1-2: 4D: +2D+1: D
+* Personal ground vehicle, small: 49 (35 kph): 3-4: 4D+1: +2D+2: D
+* Personal ground vehicle, mid-size:70 (50 kph): 5-6: 4D+2: +1D+1: VD
+* Personal ground vehicle, large: 70 (50 kph): 6-8: 5D: +1D: VD
+* Personal ground vehicle, sports:107 (75 kph): 2-4: 4D+1: +3D+2: VD
+* Ground vehicle, small mass transport: 63 (45 kph): 15: 5D+2: +1: H
+* Ground vehicle, delivery: 63 (45 kph): 2-3 (cab): 6D: -1D: H
+* SUV limo: 70 (50 kph): 8: 5D+2: +1D: H
 
-1-2
-1-2
-3-4
-5-6
-6-8
-2-4
-15
-2-3 (cab)
-8
 
-3D+2
-4D
-4D+1
-4D+2
-5D
-4D+1
-5D+2
-6D
-5D+2
+**Water**
 
-+3D+1
-+2D+1
-+2D+2
-+1D+1
-+1D
-+3D+2
-+1
--1D
-+1D
+* Canoe:Strength or lift roll: 4: 2D: +1D: E-M
+* Sailboat, small: Wind + 25% of vehicle op. total: 2: 4D: +2D: D
+* Sailboat, large: Wind + 50% of vehicle op. total: 6-18 (2 crew): 6D: +1D: VD
+* Powerboat, medium: 42 (30 kph): 9: 4D+2: +1D: H
 
-D
-D
-D
-VD
-VD
-VD
-H
-H
-H
 
-2D
-4D
-6D
-4D+2
+**Air**
 
-+1D
-+2D
-+1D
-+1D
+* Helicopter, civilian: 126 (90 kph): 5: 6D+1: +3D: L
+* Hoverplane, personal: 98 (70 kph): 4-8 (1-2 crew): 5D: +1D: L
+* Small jet: 308 (220 kph): 8-20 (2 crew): 6D+1: 0: L
 
-E-M
-D
-VD
-H
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Water
-Canoe
-Sailboat, small
-Sailboat, large
-Powerboat, medium
-
-Strength or lift roll
-4
-Wind + 25% of vehicle op. total
-2
-Wind + 50% of vehicle op. total 6-18 (2 crew)
-42 (30 kph)
-9
-
-Air
-Helicopter, civilian
-126 (90 kph)
-5
-6D+1
-+3D
-L
-Hoverplane, personal
-98 (70 kph)
-4-8 (1-2 crew)
-5D
-+1D
-L
-Small jet
-308 (220 kph)
-8-20 (2 crew)
-6D+1
-0
-L
-1. First entry is meters per round, followed by kilometers per hour. For entries indicating a roll, roll the skill and use that as the number of
-meters moved in that round. 2. Includes one crew member (unless otherwise speciﬁed).
-
-113
 
 Basic Ship Design
+=================
+
 What's in this Chapter
+----------------------
 
 This chapter offers a simple ship design system to get you started on
 creating your own space-faring vessels, including three example ships.
@@ -13303,11 +12995,31 @@ of this chapter), go through each section, marking your decisions on the
 log. The worksheets on the right side of the page can help you ﬁgure out
 the ﬁnal totals for various important aspects of the ship.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Freeform Ship Design ###
+
+If you think this sort of ship design is too rigid, you should
+feel free to ignore the mathematics and choose whatever
+options you decide best meet the concept of the ship you have
+in mind. (If you're a player, you should get your gamemaster's
+permission before attempting this -- just in case she has some
+other ideas in mind.)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 Determining the Price Difﬁculty
-After you have found the total cost of all components you're including in the ship, divide the number by 10,000 (round up) and add 20
+-------------------------------
+
+After you have found the total cost of all components you're including 
+in the ship, divide the number by 10,000 (round up) and add 20
 to determine the price difficulty.
 
+
 Shape and Size
+--------------
 
 For purposes of introducing this system, all ships are ellipsoid, or
 ﬂattened egg-shaped, vessels several meters deep and about twice as
@@ -13316,25 +13028,15 @@ you can create just about anything from a ﬁghter to a pleasure yacht.
 A nearly inﬁnite number of variations on putting modules together
 exists, and those who become comfortable with designing basic models
 should move on to adding complexity to their creations.
+
 All ships have inertial compensators. These incredibly sturdy
-machines placed throughout a ship's hull exert a strong but shortwaved gravity ﬁeld in the area. This keeps the ship from being torn
+machines placed throughout a ship's hull exert a strong but shortwaved 
+gravity ﬁeld in the area. This keeps the ship from being torn
 apart whenever the pilot makes high-g turns -- and it makes life a lot
-
-Freeform Ship Design
-If you think this sort of ship design is too rigid, you should
-feel free to ignore the mathematics and choose whatever
-options you decide best meet the concept of the ship you have
-in mind. (If you're a player, you should get your gamemaster's
-permission before attempting this -- just in case she has some
-other ideas in mind.)
-
-114
-
-16
-
 easier for the crew as well. Perceived gravity is simply an extra function
 of the system that simulates normal Human gravity forces (things will
 fall toward the ﬂoor area when you drop them).
+
 For ellipsoid vehicles, add together the number of area units of all
 of your modules and divide by 2. Should you wish to arrange your
 modules in some other fashion, use graph paper and designate each
@@ -13343,23 +13045,29 @@ wish, making sure that each one takes up the required number of units
 and that each module connects directly to another module. Count the
 squares from one end to another to determine the length.
 
+
 Module Descriptions
+-------------------
 
 Using this modularized list, you should be able to quickly create a
 ship that suits the needs of your crew and any passengers.
+
 Each square meter of the vessel's interior is assumed to be three
 meters high -- enough room for most sentient species to stand upright
 (this, by the way, includes ceiling and ﬂoor panels, cables, and conduits,
 so the actual "open space" is a little less -- about 2.5 meters).
+
 Figure that each square meter of life-supported area masses one
 half of a metric ton. This approximation is a good average between
 empty areas (which should have very little mass) and more complex
 areas like the heating and cooling, oxygen and water recycling, and
 food-producing equipment.
+
 If you need larger area, simply buy the module several more times to
 accommodate the desired number of people. For instance, some ships
 will want a bridge large enough for the entire crew. If the number of
 crewmen is ﬁve, then buy the standard bridge ﬁve times.
+
 Buying additional modules also serves as a good way to increase the
 luxuriousness of your vessel. The modules described herein are created
 with the least amount of wasted space possible. If you want your crew
@@ -13367,206 +13075,201 @@ to have plenty of area to move around and stretch their legs, simply
 design the ship as if you wanted to support more people. For instance,
 you could buy two "one-person rooms" to make a single "state room"
 with a couch, chair, personal entertainment system, etc.
+
 The accompanying table lists each type of module, the number of
 people it supports, the number of area units it requires, its mass, and
 its cost. All ﬁgures are per inclusion of that type of module.
 
+
 Life Support Equipment
+----------------------
+
 The modules do not include supplies (just the hardware); the ship's
 owner needs to purchase them separately. The accompanying chart
 provides information about the cost of supplies. Initial installation
 costs ﬁve credits per 0.2 area added.
-
-Basic Ship Design
 
 To get the correct ﬁgure for breathable atmosphere, add the number
 of people that the total number of modules support (regardless of
 whether people will be in those rooms all of the time), then multiply
 that by the values for the breathable atmosphere unit. Multiply this
 by the number of months' worth of atmosphere needed.
+
 For food processing, multiply the number of people in the crew
 plus the maximum number of additional passengers (not the total
 number of people the modules could hold) by the values for the food
 processing unit. Multiply this by the number of months' worth of
 food required.
+
 The exact nature of the breathable atmosphere and food depends
 on the type of crew the ship has.
 
+
 Life-Supporting Modules
-Airlock: The airlocks on cargo freighters and the like are generally
+-----------------------
+
+### Airlock ###
+
+The airlocks on cargo freighters and the like are generally
 provided so that a crew can go extra-vehicular without forcing everyone
 inside to put on environmental suits. Most are little more than two
 meters square and are sealed with doors of the same basic Toughness
 as the ship itself. Note that airlocks are not designed to be lived in
 -- they can hold and support up to ﬁve people (per unit), but they do
 not provide food and water or sleeping areas.
-Bridge/Duty Station: The standard bridge or duty station contains
+
+
+### Bridge/Duty Station ###
+
+The standard bridge or duty station contains
 a cushioned swivel chair bolted to the ﬂoor with a computer interface
 and display panel in front of it. Additional duty stations may be included
 by adding this module for the appropriate number of people.
+
 The captain commands the ship's crew from the bridge. In ships
 with only one crew, the captain serves all duties and runs the entire
+ship from the bridge. In larger ships, the duty stations that control
+various functions (such as sensors or weapons) may be within the
+bridge, scattered throughout the ship, or both.
 
-Area
-Units
-4
-4
-20
-1
-18
-30
-36
-6
-10
-14
-10
-Area
-Units*
+Most bridges and duty stations come with rations of food and water
+(in processors) for crew members who want to live or spend considerable 
+time at their station. The chairs recline slightly so that the crew
+can sleep at their stations.
 
-Bridge/Duty Station Upgrades to Sensors and Communications:
-Even the most primitive spaceships have some sort of sensor equipment -- even if that equipment amounts to a window. In most cases,
+
+### Bridge/Duty Station Upgrades to Sensors and Communications ###
+
+Even the most primitive spaceships have some sort of sensor 
+equipment -- even if that equipment amounts to a window. In most cases,
 the ship has scanners and programs of differing quality. Similarly, a
 ship's communication equipment can vary greatly depending on the
 components installed.
+
 The bridge and duty stations come with basic equipment that
 gives no aid to the user's basic abilities. Sensors and communication
 equipment take up no additional space (it's already ﬁgured into the
 design), but they do require a bridge or duty station module. To
 provide better sensor or processing programs, see "Module Upgrades"
 later in this chapter.
-Bunks, Communal: These are four bunks stacked two high with
+
+
+### Bunks, Communal ###
+
+These are four bunks stacked two high with
 a minimum of space between each set. The room also features a single
 toilet room and a sectional storage cabinet for personal effects on the
 opposite side. The room has ration processors.
-Coldsleep Module: Coldsleep modules are self-contained, selfpowered, computer-regulated"sleeper-coffins." A unit of cold-coffins can
-usually operate for 25 years after the ship's power is shut down. The beds
-provide nutrients (at a reduced rate) directly into the sleeper's system.
-Hallway: Purchased in one-meter-square increments, some ships
+
+
+### Coldsleep Module ###
+
+Coldsleep modules are self-contained, selfpowered, computer-regulated 
+"sleeper-coffins." A unit of cold-coffins can usually operate for 25 
+years after the ship's power is shut down. The beds provide 
+nutrients (at a reduced rate) directly into the sleeper's system.
+
+
+### Hallway ###
+
+Purchased in one-meter-square increments, some ships
 use hallways to separate various rooms and allow their occupants or
 users privacy from others moving about the ship.
 
-Life-Supporting Modules
-# of
-People
-5
-1
-5
-1
-3
-5
-5
-4
-1
-2
-5
-#of
-People
 
-ship from the bridge. In larger ships, the duty stations that control
-various functions (such as sensors or weapons) may be within the
-bridge, scattered throughout the ship, or both.
-Most bridges and duty stations come with rations of food and water
-(in processors) for crew members who want to live or spend considerable time at their station. The chairs recline slightly so that the crew
-can sleep at their stations.
+### Inﬁrmary ###
 
-Mass
-(tons)
-2
-2
-10
-0.5
-9
-15
-18
-3
-5
-7
-5
-Mass
-(tons)
-
-Module
-Cost
-Airlock
-300
-Bridge
-100
-Bunks, communal
-900
-Coldsleep module
-200
-Inﬁrmary
-1,500
-Lounge, basic
-1,500
-Lounge, deluxe
-3,000
-Passenger seating
-300
-Room, one-person
-500
-Room, two-person
-700
-Workroom
-3000
-Life Support
-Equipment
-Cost
-Breathable atmosphere
-(per month)
-1
-0.2
-0.1
-100
-Food processor
-(per month)
-1
-0.2
-0.1
-100
-*When determining area of life support equipment, multiply
-0.2 by the number of units (any combination), rounding down. It's
-otherwise integrated into the life-supporting modules.
-
-Inﬁrmary: This fully equipped two-bed hospital has an array of
+This fully equipped two-bed hospital has an array of
 medications and medical equipment, including computerized health
 monitors and equipment for performing surgeries.
-Lounge, Basic: The basic lounge is simply a long table and chairs
-for the crew with a little space to stretch or have discussions. It does not
+
+
+### Lounge, Basic ###
+
+The basic lounge is simply a long table and chairs for the crew 
+with a little space to stretch or have discussions. It does not
 include entertainment systems or the like, though there is room to mount
 small units in the walls if desired. Food processing is standard.
-Lounge, Deluxe: As above but the deluxe lounge includes audio and
-visual entertainment system, snack processor, and any other amenities
-the crew desires.
-Passenger Seating: This area contains four seats designed to hold
+
+
+### Lounge, Deluxe ###
+
+As above but the deluxe lounge includes audio and visual entertainment 
+system, snack processor, and any other amenities the crew desires.
+
+
+### Passenger Seating ###
+
+This area contains four seats designed to hold
 passengers for short hops (less than 10 hours). The module also has a
 large view screen (the contents of which the captain controls), a limited
 snack dispenser, and a single-person toilet room.
-Room, Two-Person: This dormitory-style room contains two
+
+### Room, Two-Person ###
+
+This dormitory-style room contains two
 bunked beds, a single toilet room, two small desks, and two narrow
 lockers. Food processors are standard. Noncoms usually share twoperson rooms.
-Room, One-Person: As above but designed for a single person.
+
+
+### Room, One-Person ###
+
+As above but designed for a single person.
 Officers, the captain, or high-ranking crew who spend a lot of time
 on board usually have a room of their own.
 
-115
+### Workroom ###
 
-Chapter 16
-
-Workroom: This is a generic term for any sort of area dedicated to
+This is a generic term for any sort of area dedicated to
 such things as repair rooms, kitchens (for nonprocessed food), or even
-laundry services. Note that the number of people is the amount of persons that can reasonably work in this area, though it may service many,
+laundry services. Note that the number of people is the amount of persons 
+that can reasonably work in this area, though it may service many,
 many more. Workrooms are sometimes equipped with food processors
 and sleeping areas (especially on independent ships), though this is not
 standard (the cost remains, however, virtually the same).
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+### Life-Supporting Modules ###
+
+*Module: Cost: Number of People: Area Units: Mass (tons)*
+
+* Airlock: 300: 5: 4: 2
+* Bridge: 100: 1: 4: 2
+* Bunks, communal: 900: 5: 20: 10
+* Coldsleep module: 200: 1: 1: 0.5
+* Inﬁrmary: 1,500: 3: 18: 9
+* Lounge, basic: 1,500: 5: 30: 15
+* Lounge, deluxe: 3,000: 5: 36: 18
+* Passenger seating: 300: 4: 6:3
+* Room, one-person: 500: 1: 10: 5
+* Room, two-person: 700: 2: 14: 7
+* Workroom: 3000: 5: 10: 5
+
+
+*Life Support Equipment: Area Units: Mass (tons): Cost
+
+* Breathable atmosphere (per month): 1: 0.2: 0.1: 100
+* Food processor (per month): 1: 0.2: 0.1: 100
+
+When determining area of life support equipment, multiply 0.2 by 
+the number of units (any combination), rounding down. It's
+otherwise integrated into the life-supporting modules.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 Cargo Modules
+-------------
+
 Cargo space covers all extra open areas within a spaceship. This
 includes areas for portage and equipment, parking for vehicles or small
 ships, and so on. Life support must be purchased separately, at a rate
 equivalent to one person for every four area units (round up).
 Basic sections: They may have walls, doors, and power couplings,
-but basic sections are mostly designed for holding large amounts of everchanging goods in many different sizes and masses. Most freighters and
+but basic sections are mostly designed for holding large amounts of 
+everchanging goods in many different sizes and masses. Most freighters and
 interplanetary haulers have thousands of tons of basic cargo space.
 Segmented: This cargo space is generally designed for ships that
 will be hauling the same kinds of cargo repeatedly. Ships that haul
@@ -13574,12 +13277,14 @@ livestock, vehicles (that don't require power), or other stock most
 often have segmented cargo compartments. When building a ship, the
 designer should be able to divide up the cargo area as he sees ﬁt, within
 reason. This can include multiple gantries and walkways, cranes and
-lift systems, etc. Automated systems for off loading and more sophisticated devices will have to be paid for, but portable lifts and simpler
+lift systems, etc. Automated systems for off loading and more sophisticated 
+devices will have to be paid for, but portable lifts and simpler
 equipment are standard.
 Specialized: These cargo areas include vehicle launch platforms,
 hangars, automatic ammo bays, or any other space dedicated to a speciﬁc
 function. These are by far the most complex and costliest cargo spaces,
-and always include multiple power coupling systems, terminals connected to the ship's computer, and any other amenities that contribute
+and always include multiple power coupling systems, terminals connected 
+to the ship's computer, and any other amenities that contribute
 to the section's purpose..
 Bulk Space (basic): Empty cargo areas are termed bulk space. They
 include simple power outlets and cables for bolting down stock.
@@ -13630,6 +13335,8 @@ gamemaster wants to describe the technology. Ships have two types
 of drives: in-system (or sublight) and interstellar.
 
 In-System Drives
+
+
 
 Cargo Modules
 Module
