@@ -13267,11 +13267,19 @@ Cargo space covers all extra open areas within a spaceship. This
 includes areas for portage and equipment, parking for vehicles or small
 ships, and so on. Life support must be purchased separately, at a rate
 equivalent to one person for every four area units (round up).
-Basic sections: They may have walls, doors, and power couplings,
+
+
+### Basic sections ###
+
+They may have walls, doors, and power couplings,
 but basic sections are mostly designed for holding large amounts of 
 everchanging goods in many different sizes and masses. Most freighters and
 interplanetary haulers have thousands of tons of basic cargo space.
-Segmented: This cargo space is generally designed for ships that
+
+
+### Segmented ###
+
+This cargo space is generally designed for ships that
 will be hauling the same kinds of cargo repeatedly. Ships that haul
 livestock, vehicles (that don't require power), or other stock most
 often have segmented cargo compartments. When building a ship, the
@@ -13280,42 +13288,76 @@ reason. This can include multiple gantries and walkways, cranes and
 lift systems, etc. Automated systems for off loading and more sophisticated 
 devices will have to be paid for, but portable lifts and simpler
 equipment are standard.
-Specialized: These cargo areas include vehicle launch platforms,
+
+
+### Specialized ###
+
+These cargo areas include vehicle launch platforms,
 hangars, automatic ammo bays, or any other space dedicated to a speciﬁc
 function. These are by far the most complex and costliest cargo spaces,
 and always include multiple power coupling systems, terminals connected 
 to the ship's computer, and any other amenities that contribute
-to the section's purpose..
-Bulk Space (basic): Empty cargo areas are termed bulk space. They
+to the section's purpose.
+
+
+### Bulk Space (basic) ###
+
+Empty cargo areas are termed bulk space. They
 include simple power outlets and cables for bolting down stock.
-Hangar (specialized): A hangar holds a ﬁghter-sized craft and takes
+
+
+### Hangar (specialized) ###
+
+A hangar holds a ﬁghter-sized craft and takes
 up about 60 cubic meters. It includes room for minor maintenance.
-Launch Bay (specialized): This bay can launch a single ship at a
+
+
+### Launch Bay (specialized) ###
+
+This bay can launch a single ship at a
 time and takes up 255 cubic meters. It includes ﬂight control booths,
+terminals, guidance systems, exterior doorways, and all other devices
+necessary to send and receive spacecraft.
 
-116
 
-Livestock Bay (segmented): Ten large animals (up to half a ton
+### Livestock Bay (segmented) ###
+
+Ten large animals (up to half a ton
 each) can live comfortably in this 90-cubic-meter bay. This includes
 perceived gravity and atmospheric controls.
-Pod Bay (specialized): An escape pod, which can hold up ﬁve
-people, takes up about 12 cubic meters of space with all of its dedicated terminals and rescue-courier launchers. The escape pod includes
+
+
+### Pod Bay (specialized) ###
+
+An escape pod, which can hold up ﬁve
+people, takes up about 12 cubic meters of space with all of its dedicated 
+terminals and rescue-courier launchers. The escape pod includes
 a distress beacon and enough food and breathable atmosphere to
 keep the occupants alive for six weeks. It has not controls. (Food and
 breathable atmosphere need on be purchased separately, and they
 cannot be upgraded.)
-Vehicle Bay (specialized): This is a small (24 cubic meters) garage
+
+
+### Vehicle Bay (specialized) ###
+
+This is a small (24 cubic meters) garage
 designed to house and secure a normal-sized land vehicle. The crew
 should buy additional tools and fuels as desired.
 
+
 Energy Unit Requirements
+------------------------
+
 Add together the total metric tonnage of the modules, including
 the tonnage from life-support equipment. Divide this number by 5
 and round up. This is the number of energy units these areas need to
 ﬁlter and recycle oxygen, provide heat and light, and generate artiﬁcial
 and perceived gravity.
 
+
 Module Upgrades
+---------------
+
 Ships can offer a variety of computer programs that enhance their
 crew members' innate skills. Likewise, workrooms and vehicle bays
 may have built-in equipment to help with maintenance, diagnostics, or
@@ -13323,78 +13365,52 @@ whatever function the room is designed to serve. These upgrades give
 their users a +1 pip bonus to the relevant skill use with an installation
 cost of 500 credits and a energy unit draw of one per pip. (Remember
 that a bonus of three pips equals a bonus of +1D.)
+
 Those with neural-jacked crew can accommodate them by including
 a cyber interface. For a cost of 2,000 credits per interface, this allows a
 character with a neural jack to directly connect to the computer. The
 captain may restrict access to select users.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Cargo Modules ###
+
+*Module: Area Units: Mass (tons): Cost*
+
+* Bulk Space: 1: 0.5: 25
+* Hangar (1 ﬁghter): 20: 24: 6,000
+* Launch Bay (1 ﬁghter): 85: 103: 25,000
+* Livestock Bay (10 animals): 30: 39: 9,100
+* Pod Bay (1 pod): 4: 5: 1,200
+* Vehicle Bay: 8: 5: 600
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 Drives
+------
 
 Drives power the ship and move it through space, however the
 gamemaster wants to describe the technology. Ships have two types
 of drives: in-system (or sublight) and interstellar.
 
+
 In-System Drives
-
-
-
-Cargo Modules
-Module
-Area Units
-Bulk Space
-1
-Hangar
-(1 ﬁghter)
-20
-Launch Bay
-(1 ﬁghter)
-85
-Livestock Bay
-(10 animals)
-30
-Pod Bay (1 pod)
-4
-Vehicle Bay
-8
-
-terminals, guidance systems, exterior doorways, and all other devices
-necessary to send and receive spacecraft.
-
-Mass (tons)
-0.5
-
-Cost
-25
-
-24
-
-6,000
-
-103
-
-25,000
-
-39
-5
-5
-
-9,100
-1,200
-600
+----------------
 
 Though the bulk of the in-system drive is housed in a single section
 of the ship, a series of maneuvering jets and retros along the ship allow
-it to turn in frictionless space. A basic system provides 0D in Maneuverability. Better or additional thrusters increase the Maneuverability.
+it to turn in frictionless space. A basic system provides 0D in Maneuverability. 
+Better or additional thrusters increase the Maneuverability.
 Each thruster takes up 0.5 area units and weighs one ton, whether
 additional or upgrading an existing one. Each unit or upgrade costs
 300 credits. They must be bought in pairs. Each set or improvement
 adds one pip to the Maneuverability rating, with an energy draw of
 two units. (Remember that there are three pips in one die.)
+
 The smallest in-system drive covers ﬁve area units, has a mass of ﬁve
 metric tons, and has a cost of 6,000 credits. It gives a space Move of
-
-Basic Ship Design
-
 one space unit per round with an energy unit draw of three. It provides
 25 energy units to the ship. (This does not include the Move energy
 requirements; those are taken from this pool.) For each additional
@@ -13404,26 +13420,37 @@ by one additional area unit and two additional tons for each extra 15
 energy units, with a cost increase of 2,000 for each upgrade. Improving
 the power of the drive does not increase the Move.
 
-Atmosphere Movement Rate
-Atmosphere Move
-50
-100
-150
-200
-250
-300
-350
-400
-450
-500
-550
-600
-650
-700
-750
-800
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Atmosphere Movement Rate ###
+
+
+*Atmosphere Move: Kilometers per Hour*
+
+* 50: 130
+* 100: 260
+* 150: 430
+* 200: 560
+* 250: 750
+* 300: 850
+* 350: 1,000
+* 400: 1,150
+* 450: 1,300
+* 500: 1,450
+* 550: 1,600
+* 600: 1,750
+* 650: 1,850
+* 700: 2,000
+* 750: 2,150
+* 800: 2,300
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 Atmospheric Capability
+----------------------
+
 A ship's atmospheric speed generally equals its capabilities in space.
 To determine the base atmospheric Move, multiply the ship's space
 Move by 50. Then use the table to translate that value to kilometers
@@ -13431,12 +13458,17 @@ per hour. Find the closest atmosphere speed to get the corresponding
 number of kilometers per hour. Gamemasters may decide that ships
 over a certain number of modules may never enter the atmosphere.
 
+
 Interstellar Drives
+-------------------
+
 Perhaps the least understood and most internally valuable of a
-starship's components is its interstellar drive. This drive allows spacefaring vessels to make the miraculous leaps of distance that can shape
+starship's components is its interstellar drive. This drive allows 
+spacefaring vessels to make the miraculous leaps of distance that can shape
 the universe. Some gamemasters may disallow these drives, preferring
 instead to focus adventures on a single system. For everyone else, here
 are guidelines for adding them to the ship.
+
 The interstellar drive must be located next to the in-system drive,
 because the interstellar drive is actually an extension of that system,
 drawing on the same power source but using it in a vastly different way
@@ -13448,44 +13480,48 @@ credits. It takes up two area units, with a mass of ﬁve tons and an energy
 requirement of 10. For each additional 0.1 in rating, add one area unit,
 three tons of mass, 10 energy units, and 5,000 credits to the price.
 
+
 Weapons
+-------
 
 Nearly every ship the players' characters encounter in a science-ﬁction
 universe has intership weapons on board. Indeed, most space-faring vessels
 of any signiﬁcant tonnage at all have at least one weapon built in.
+
 Ship weapons are huge versions, in most cases, of personal and
 heavy weapons. The list provides a few of the most common kinds.
 Use the accompanying chart for various game characteristics for some
 common weapons. The weapon's arc (forward, port side, starboard side,
-
-Kilometers per Hour
-130
-260
-430
-560
-750
-850
-1,000
-1,150
-1,300
-1,450
-1,600
-1,750
-1,850
-2,000
-2,150
-2,300
-
 or rear) needs to be designated. A weapon can be swivel mounted, for
 an extra 200 credits and one additional energy unit per additional ﬁre
-arc (so, to ﬁre in four directions costs 600 credits -- three extra arcs
--- and another three energy units).
+arc (so, to ﬁre in four directions costs 600 credits -- three extra 
+arcs -- and another three energy units).
+
 A ship's computer can aid with ﬁring a weapon. See the "Modules
 Upgrade" section for details on improving the ship's computer.
 Note that weapons cannot lock on anything less than one space
 unit away from the targeting vessel.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Weapons ###
+
+*Type: Area Units: Mass: Energy: Cost: Ammo: Range (space units): Damage*
+
+* Blaster cannon, small: 1: 2: 13: 10,000: --: 8/25/40: 3D+2
+* Laser cannon, medium: 2: 6: 13: 15,000: --: 3/12/25: 7D
+* Torpedo launcher: 2: 3: 2: 5,000: 1: 1/3/7: 9D
+* Tractor beam projector: 7: 15: 10: 8,000: --: 5/15/30: 2D
+
+Note: Replacement torpedoes cost 1,000 credits; they have negligible mass.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 Tractor Beam
+------------
+
 A tractor beam allows one ship to pull another one closer to it. (A
 small ship can pull itself closer to a large one, while a large one can pull
 a smaller one in.) It costs 8,000 credits to install the base module, which
@@ -13493,164 +13529,79 @@ takes up seven area units, draws 10 energy units, and offers a tractor
 beam "damage" of 2D. For each additional +1D to the beam, add 4,000
 credits, another seven area units, and another 10 energy units.
 
+
 Hull
+----
 
 Once you've ﬁgured out where everything's going, you'll need to
 put walls around your collection of modules. Adding a hull does not
 increase the vehicle's size, but it does up its mass.
 
-Weapons
-Type
-Area Units
-Mass
-Energy
-Cost
-Blaster cannon, small
-1
-2
-13
-10,000
-Laser cannon, medium
-2
-6
-13
-15,000
-Torpedo launcher
-2
-3
-2
-5,000
-Tractor beam projector
-7
-15
-10
-8,000
-Note: Replacement torpedoes cost 1,000 credits; they have negligible mass.
-
-Ammo
--
--
-1
--
-
-Range (space units)
-8/25/40
-3/12/25
-1/3/7
-5/15/30
-
-Damage
-3D+2
-7D
-9D
-2D
-
-117
-
-Chapter 16
-
 The mass of the bulkheads equals half the mass of the modules for
 life support, cargo, life support, drives, and weapons combined (round
 up). To ﬁgure out the cost of the bulkheads, multiply the bulkhead
 mass by 500 credits.
+
 Then, use the bulkhead's mass to determine its base Toughness by
 reading the ﬁgure on the accompanying chart. Round the number of
 kilograms down when ﬁguring hull toughness. A ship with a hull mass
 of 105 tons has a hull Toughness of 2D+2, not 3D.
 
+
 Armor
+-----
+
 Adding armor to the hull means riveting plates on the outside, using
-better materials for the exterior, reinforcing bulkheads, and improving the supports. Use the "Hulls" chart to determine how much each
+better materials for the exterior, reinforcing bulkheads, and improving 
+the supports. Use the "Hulls" chart to determine how much each
 additional pip of armor costs. The maximum amount of armor a ship
 can have equals the hull Toughness. (Remember that there are three
 pips in one die.) Armor draws no energy. It add a number of kilograms
 equal to its cost.
+
 Hull armor (which includes the structure of the ship) needs to be
 repaired -- or, more likely, replaced -- when it is damaged.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Hulls ###
+
+Mass (metric tons): Toughness: Cost per Extra Armor Pip
+* 10: 1D: 1,000
+* 15: 1D+1: 1,500
+* 25: 1D+2: 2,500
+* 40: 2D: 4,000
+* 60: 2D+1: 6,000
+* 100: 2D+2: 10,000
+* 150: 3D: 15,000
+* 250: 3D+1: 25,000
+* 400: 3D+2: 40,000
+* 600: 4D: 60,000
+* 1000: 4D+1: 100,000
+* 1500: 4D+2: 150,000
+* 2500: 5D: 250,000
+* 4000: 5D+1: 400,000
+* 6000: 5D+2: 600,000
+* 10,000: 6D: 1 million
+* 15,000: 6D+1: 1.5 million
+* 25,000: 6D+2: 2.5 million
+* 40,000: 7D:4 million
+* 100,000: 7D+1:10 million
+* 150,000: 7D+2:15 million
+* 250,000 or more: 8D: 30 million
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 Shields
+-------
+
 Space vessel shields work very much like hull armor, but have
 an additional advantage -- unless the whole system is blown away,
 they will usually only need to be ﬁtted with a few new components.
 Enough damage can overload them, however; see the "Ship Travel"
 chapter for details.
-
-Hulls
-Mass
-(metric tons)
-10
-15
-25
-40
-60
-100
-150
-250
-400
-600
-1000
-1500
-2500
-4000
-6000
-10,000
-15,000
-25,000
-40,000
-100,000
-150,000
-250,000 or more
-
-118
-
-Toughness
-1D
-1D+1
-1D+2
-2D
-2D+1
-2D+2
-3D
-3D+1
-3D+2
-4D
-4D+1
-4D+2
-5D
-5D+1
-5D+2
-6D
-6D+1
-6D+2
-7D
-7D+1
-7D+2
-8D
-
-Cost per Extra
-Armor Pip
-1,000
-1,500
-2,500
-4,000
-6,000
-10,000
-15,000
-25,000
-40,000
-60,000
-100,000
-150,000
-250,000
-400,000
-600,000
-1 million
-1.5 million
-2.5 million
-4 million
-10 million
-15 million
-30 million
 
 Energy shields are cyclotronic magnetic "bottles" that surround a
 ship. The units work in conjunction to form this bubble.
@@ -13659,140 +13610,138 @@ pip, but there is no maximum. (A three-pip increase equals one die.)
 They have an energy requirement of one unit per pip. Divide the cost
 by 10,000 to get the number of tons and by 20,000 (round up) to get
 the number of area units.
+
 Shield modules do not add to the ship tonnage when determining
 the hull Toughness.
 
+
 Example Ships
+-------------
 
 In these descriptions, "areas" refers to area units, "eu" stands for
 "energy units," and "cr" means "credits."
 
-In-System Defender
+
+### In-System Defender ###
+
 In one form or another, nearly every high-tech worlds have these
 small ships darting about their planets or battlecruisers.
-Modules (10 energy units)
-Life Supporting: bridge (4 areas, 2 tons, 100 cr); upgrades: sensors
-+1D (1,500 cr), comm +1D (1,500 cr), gunnery +1D (1,500 cr); no
-food processor; 1 oxygen unit (0.1 tons, 1-month supply, 100 cr)
-Cargo Bay: 0
-In-System Drive (9 areas, 13 tons, 21,000 cr)
-Move: 8 (space), 400 (atmosphere, 1,150 kph), 24 eu
-Maneuverability: +2D (12 eu, 3 areas, 6 tons, 1,800 cr)
-Energy Units: 85
-Interstellar Drive: none
-Weapons (26 eu, 2 areas, 4 tons, 20,000 cr)
-2 small blaster cannons (each: damage 3D, range 8/25/40, forward
-arc)
-Hull Toughness: 1D (13 tons, 6,500 cr)
-Armor: 0
-Shields: +2D (6 eu, 1 area, 0.9 tons, 9,000 cr)
-Length: 9.5 meters
-Total Tonnage: 39
-Crew: 1
-Passengers: 0
-Total Cost (new): 61,500 credits/Price Difficulty: 27
 
-Light Freighter
+* Modules (10 energy units) 
+  Life Supporting: bridge (4 areas, 2 tons, 100 cr); 
+  upgrades: sensors +1D (1,500 cr), comm +1D (1,500 cr), 
+  gunnery +1D (1,500 cr); 
+  no food processor; 
+  1 oxygen unit (0.1 tons, 1-month supply, 100 cr);
+  Cargo Bay: 0
+* In-System Drive (9 areas, 13 tons, 21,000 cr);
+  Move: 8 (space), 400 (atmosphere, 1,150 kph), 24 eu;
+  Maneuverability: +2D (12 eu, 3 areas, 6 tons, 1,800 cr);
+  Energy Units: 85
+* Interstellar Drive: none
+* Weapons (26 eu, 2 areas, 4 tons, 20,000 cr)
+  2 small blaster cannons (each: damage 3D, range 8/25/40, forward
+  arc)
+* Hull Toughness: 1D (13 tons, 6,500 cr)
+* Armor: 0
+* Shields: +2D (6 eu, 1 area, 0.9 tons, 9,000 cr)
+* Length: 9.5 meters
+* Total Tonnage: 39
+* Crew: 1
+* Passengers: 0
+* Total Cost (new): 61,500 credits/Price Difficulty: 27
+
+
+### Light Freighter ###
+
 The workhorse of the mercantile industry, light freighters make
 short runs between established and colony worlds. Add some nice paint
 to the interior and a ﬂashy name, and this sample ship serves well as
 a small yacht. Stock the ship with survey equipment and long-term
 supplies, and it becomes a scout ship.
-Modules (24 energy units)
-Life Supporting: bridge (4 areas, 2 tons, 100 cr) with gunnery +1 (500
-cr); duty station (4 areas, 2 tons, 100 cr) with sensors +1D+1 (2,000
-cr); duty station (4 areas, 2 tons, 100 cr) with comm +2 (1,000 cr); 2
-two-person rooms (28 areas, 14 tons, 1,400 cr), 1 one-person room
-(10 areas, 5 tons, 500 cr); basic lounge (30 areas, 15 tons, 1,500 cr) with
-food processor (6 areas, 3 tons, 6-month/5-person supply, 3,150 cr);
-13 oxygen units (15 areas, 7.8 tons, 6-month supply, 78,390 cr)
 
-Basic Ship Design
+* Modules (24 energy units)
+  Life Supporting: bridge (4 areas, 2 tons, 100 cr) with gunnery +1 (500
+  cr); duty station (4 areas, 2 tons, 100 cr) with sensors +1D+1 (2,000
+  cr); duty station (4 areas, 2 tons, 100 cr) with comm +2 (1,000 cr); 2
+  two-person rooms (28 areas, 14 tons, 1,400 cr), 1 one-person room
+  (10 areas, 5 tons, 500 cr); basic lounge (30 areas, 15 tons, 1,500 cr) with
+  food processor (6 areas, 3 tons, 6-month/5-person supply, 3,150 cr);
+  13 oxygen units (15 areas, 7.8 tons, 6-month supply, 78,390 cr)
+* Cargo: bulk (25 areas, 12.5 tons, 625 cr) with 7
+  breathable atmosphere units (8 areas, 4.2 tons, 6month supply, 4,410 cr)
+* In-System Drive (12 areas, 19 tons, 26,000 cr)
+  Move: 7 (space), 350 (atmosphere, 1,000 kph), 21 eu
+* Maneuverability: 0
+* Energy Units: 130
+* Interstellar Drive: 0.5 (50 eu, 9 areas, 17 tons, 25,000 cr)
+* Weapons (16 eu, 1 area, 2 tons, 20,600 cr)
+  1 small blaster cannon (damage 3D, range 8/25/40,
+  on top-mounted turret with four arcs)
+* Hull Toughness: 2D (53 tons, 26,500 cr)
+* Armor: 0
+* Shields: +1D (3 eu, 1 area, 1.8 tons, 18,000 cr)
+* Length: 78.5 meters
+* Total Tonnage: 161.2
+* Crew: 3
+* Passengers: 2
+* Total Cost (new): 209,875 credits/Price Difficulty: 41
 
-Cargo: bulk (25 areas, 12.5 tons, 625 cr) with 7
-breathable atmosphere units (8 areas, 4.2 tons, 6month supply, 4,410 cr)
-In-System Drive (12 areas, 19 tons, 26,000 cr)
-Move: 7 (space), 350 (atmosphere, 1,000 kph),
-21 eu
-Maneuverability: 0
-Energy Units: 130
-Interstellar Drive: 0.5 (50 eu, 9 areas, 17 tons,
-25,000 cr)
-Weapons (16 eu, 1 area, 2 tons, 20,600 cr)
-1 small blaster cannon (damage 3D, range 8/25/40,
-on top-mounted turret with four arcs)
-Hull Toughness: 2D (53 tons, 26,500 cr)
-Armor: 0
-Shields: +1D (3 eu, 1 area, 1.8 tons, 18,000 cr)
-Length: 78.5 meters
-Total Tonnage: 161.2
-Crew: 3
-Passengers: 2
-Total Cost (new): 209,875 credits/Price Difficulty:
-41
 
-Shuttlecraft
-Used for short jaunts between planets and space
-stations and other orbiting vessels, shuttlecraft can
-transport people and cargo safely, even if not comfortably. Add an additional small blaster cannon and
-improve the sensors, and this small ship works well
-for asteroid mining.
-Modules (3 energy units)
-Life Supporting: bridge (4 areas, 2 tons, 100 cr)
-with gunnery +1 (500 cr); duty station (4 areas, 2
-tons, 100 cr) with sensors +2 (1,000 cr) and comm
-+2 (1,000 cr); passenger area with seating for 8 (12
-areas, 6 tons, 600 cr) with food processor (2 areas, 1
-ton, 1-month/10-person supply, 1,000 cr); 10 oxygen
-units (2 areas, 1 tons, 1-month supply, 1,000 cr)
-Cargo: bulk (10 areas, 5 tons, 250 cr) with 3
-breathable atmosphere units (0.3 tons, 1-month
-supply, 300 cr)
-In-System Drive (7 areas, 9 tons, 13,000 cr)
-Move: 7 (space), 350 (atmosphere, 1,000 kph),
-21 eu
-Maneuverability: 0
-Energy Units: 55
-Interstellar Drive: none
-Weapons (13 eu, 1 area, 2 tons, 20,000 cr)
-1 small blaster cannon (each: damage 3D, range
-8/25/40, forward arc)
-Hull Toughness: 1D+2 (15 tons, 7,500 cr)
-Armor: 0
-Shields: +2 (2 eu, 1 area, 0.45 tons, 7,500 cr)
-Length: 21.5 meters
+### Shuttlecraft ###
 
-Total Tonnage: 43.75
-Crew: 2
-Passengers: 8
-Total Cost (new): 53,850 credits/Price Difficulty: 26
+Used for short jaunts between planets and space stations and other 
+orbiting vessels, shuttlecraft can transport people and cargo safely, 
+even if not comfortably. Add an additional small blaster cannon and
+improve the sensors, and this small ship works well for asteroid mining.
 
-119
+* Modules (3 energy units)
+  Life Supporting: bridge (4 areas, 2 tons, 100 cr)
+  with gunnery +1 (500 cr); duty station (4 areas, 2
+  tons, 100 cr) with sensors +2 (1,000 cr) and comm
+  +2 (1,000 cr); passenger area with seating for 8 (12
+  areas, 6 tons, 600 cr) with food processor (2 areas, 1
+  ton, 1-month/10-person supply, 1,000 cr); 10 oxygen
+  units (2 areas, 1 tons, 1-month supply, 1,000 cr)
+* Cargo: bulk (10 areas, 5 tons, 250 cr) with 3
+  breathable atmosphere units (0.3 tons, 1-month
+  supply, 300 cr)
+* In-System Drive (7 areas, 9 tons, 13,000 cr)
+  Move: 7 (space), 350 (atmosphere, 1,000 kph), 21 eu
+* Maneuverability: 0
+* Energy Units: 55
+* Interstellar Drive: none
+* Weapons (13 eu, 1 area, 2 tons, 20,000 cr)
+  1 small blaster cannon (each: damage 3D, range
+  8/25/40, forward arc)
+* Hull Toughness: 1D+2 (15 tons, 7,500 cr)
+* Armor: 0
+* Shields: +2 (2 eu, 1 area, 0.45 tons, 7,500 cr)
+* Length: 21.5 meters
+* Total Tonnage: 43.75
+* Crew: 2
+* Passengers: 8
+* Total Cost (new): 53,850 credits/Price Difficulty: 26
 
-Ship Design Log
-Name: __________________________________________________________
-Module
-Areas
-Tons
-Cost
-1. ____________________________________________________________
-2. ____________________________________________________________
-3. ____________________________________________________________
-4. ____________________________________________________________
-5. ____________________________________________________________
-6. ____________________________________________________________
-7. ____________________________________________________________
-8. ____________________________________________________________
-9. ____________________________________________________________
-10. ____________________________________________________________
-Total Energy Required: ____________________________________________
-In-System Drive
-Move (Space)
-Energy
-Areas
-Tons
-Cost
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+### Ship Design Log ###
+
+* Name:
+* Module: Areas: Tons: Cost
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+    6. 
+    7. 
+    8. 
+    9. 
+    10.
+* Total Energy Required: 
+* In-System Drive
+* Move (Space): Energy: Areas: Tons: Cost
 Design Worksheets
 Areas
 
@@ -16470,137 +16419,109 @@ See Choosing Difficulties section for examples.
 Situation Helps/ Hinders Character...
 
 * Slightly: +/- 1 to 5 modifier
-
 * Signiﬁcantly: +/- 6 to 10 modifier
-
 * Decisively: +/- 11 to 15 modifier
-
 * Overwhelmingly: +/- 16 or more
 
 
 Interaction Difﬁculty Modiﬁers
 ------------------------------
 
-See pages 84-85 for additional information and modiﬁers.
 Base Difficulty: 10 or target's Knowledge or willpower
-Situation
-Modiﬁer
-Target is friendly or trusting
--5
-Target is neutral toward character
-or of equal standing
-0
-Target is hostile or has superior standing
-+5
-Target is an enemy
-+10
-Target is in weakened position
--10
-Request is something target would do anyway
-or target feels is of minor importance
-0
-Request is illegal or highly dangerous
-+10
-Target is on guard or actively resisting*
-+10
-*Do not include this modiﬁer if you are using the active mental
-defense described in the "Mental Defenses" sidebar on page 85.
+
+*Situation: Modiﬁer*
+
+* Target is friendly or trusting: -5
+* Target is neutral toward character or of equal standing: 0
+* target is hostile or has superior standing: +5
+* Target is an enemy: +10
+* Target is in weakened position: -10
+* Request is something target would do anyway or target feels is of 
+  minor importance: 0
+* Request is illegal or highly dangerous: +10
+* Target is on guard or actively resisting (Do not include this modiﬁer 
+  if you are using the active mental defense described in the "Mental 
+  Defenses" sidebar.): +10
+
 
 Information Difﬁculties
-See page 84 for additional information and modiﬁers.
-Amount of Information
-Basic or common information; unconﬁrmed rumors
-Theories; generalities
-Complex concepts; moderately detailed information
-Professional level; extensive (though not complete)
-information
-Cutting-edge topics; extensive information,
-including peripheral details and extrapolations
-Condition
-Age of information (per century in the past)
-Closely guarded secret
+-----------------------
 
-Difficulty
-5
-10
-15
-20
-30
-Modiﬁer
-+5
-+15
+*Amount of Information: Difficulty*
+
+* Basic or common information; unconﬁrmed rumors: 5
+* Theories; generalities: 10
+* Complex concepts; moderately detailed information: 15
+* Professional level; extensive (though not complete) information: 20
+* Cutting-edge topics; extensive information, including peripheral 
+  details and extrapolations: 30
+
+*Condition: Modiﬁer*
+
+* Age of information (per century in the past): +5
+* Closely guarded secret: + 15
+
 
 Observation Difﬁculties
-See page 84 for additional information and modiﬁers.
-Situation
-Noticing obvious, generic facts; casual glance
-Noticing obvious details
-(ex. number of people)
-Noticing a few less obvious details
-(ex. gist of conversation)
-Spotting a few speciﬁc details
-(ex. identities of individuals)
-Spotting a few obscure details
-(ex. speciﬁcs of conversation)
-Noticing many obscure details
+-----------------------
 
-Difficulty
-5
-10
-15
-20
-25
-30 or more
+*Situation: Difficulty*
+
+* Noticing obvious, generic facts; casual glance: 5
+* Noticing obvious details (ex. number of people): 10
+* Noticing a few less obvious details (ex. gist of conversation): 15
+* Spotting a few speciﬁc details (ex. identities of individuals): 20
+* Spotting a few obscure details (ex. speciﬁcs of conversation): 25
+* Noticing many obscure details: 30 or more
+
 
 Movement Difﬁculty Modiﬁers
-See pages 63-65 for additional information and modiﬁers.
-Base Difficulty for Characters: 0 (running); 5 (other movement)
-Situation
-Modiﬁer
-Easy terrain (ﬂat surface, smooth water,
-using a ladder, light breeze, light rain or fog)
-0
-Moderate terrain (uneven surface, small obstacles,
-choppy water, climbing a tree, strong winds,
-heavy rain or fog)
-+5
-Rough terrain (large but negotiable obstacles, strong
-undercurrent, climbing a rough wall, ﬂying near
-unyielding obstacles such as pillars or trees)
-+10
-Very rough terrain (dense and large obstacles,
-stormy weather, a few airborne hazards, hail)
-+15
-Hazardous terrain (mineﬁeld, narrow walkway,
-many airborne hazards, large waves, climbing a
-smooth surface, complete darkness)
-+20
-Very hazardous terrain (corridor ﬁlled with falling
-debris and explosions, swimming or ﬂying in
-a hurricane)
-+25 or more
+---------------------------
 
-SPACE
+Base Difficulty for Characters: 0 (running); 5 (other movement)
+
+*Situation: Modiﬁer*
+
+* Easy terrain (ﬂat surface, smooth water, using a ladder, light 
+  breeze, light rain or fog): 0
+* Moderate terrain (uneven surface, small obstacles, choppy water, 
+  climbing a tree, strong winds, heavy rain or fog): +5
+* Rough terrain (large but negotiable obstacles, strong undercurrent, 
+  climbing a rough wall, ﬂying near unyielding obstacles such as 
+  pillars or trees): +10
+* Very rough terrain (dense and large obstacles, stormy weather, a 
+  few airborne hazards, hail): +15
+* Hazardous terrain (mineﬁeld, narrow walkway, many airborne hazards, 
+  large waves, climbing a smooth surface, complete darkness): +20
+* Very hazardous terrain (corridor ﬁlled with falling debris and 
+  explosions, swimming or ﬂying in a hurricane): +25 or more
+
 
 Combat Summary
 --------------
 
-See pages 72-74 and 80-83 for additional information and modiﬁers.
-Determining the Difficulty
-Base combat difficulty = defense total
-Defense total = (passive defense value or active defense value)
-plus combat difficulty modiﬁers
-Passive defense value = 10
-Active defense value = full or partial defense value
-Full defense value = any defense skill roll + 10
-Partial defense value = any defense skill roll
-Determining Success
+### Determining the Difficulty ###
+
+* Base combat difficulty = defense total
+* Defense total = (passive defense value or active defense value)
+  plus combat difficulty modiﬁers
+* Passive defense value = 10
+* Active defense value = full or partial defense value
+  * Full defense value = any defense skill roll + 10
+  * Partial defense value = any defense skill roll
+
+
+### Determining Success ###
+
 If the attacker's combat skill total plus any modiﬁers equals or exceeds
 the target's defense roll, the attack succeeds and may do damage.
-Determining Damage
-Damage total
-For attacks that do damage not modiﬁed by strength: damage
-total = roll of weapon damage die code plus damage modiﬁers
+
+
+### Determining Damage ###
+
+* Damage total
+  * For attacks that do damage not modiﬁed by strength: damage
+    total = roll of weapon damage die code plus damage modiﬁers
 For attacks that do damage modiﬁed by strength: damage total
 = roll of weapon damage die code plus character's Strength Damage
 die code plus damage modiﬁers
