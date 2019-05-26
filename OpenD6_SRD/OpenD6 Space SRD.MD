@@ -14426,17 +14426,13 @@ success not covered by the scenario, and you shouldn't penalize them
 for their creativity. Instead you'll have to use your judgment to run the
 remainder of the adventure.
 
-If the players feel that they never
-have a choice, that you have predetermined what their characters will
-do and say -- and therefore, how the
-adventure will turn out -- they're not
-going to have any interest in playing.
-Part of the fun of a roleplaying game
-is the almost unlimited possible
-reactions to any given situation. Take
-that away, and you've lost much of
-the reason for participating in this
-type of game.
+If the players feel that they never have a choice, that you have 
+predetermined what their characters will do and say -- and therefore, 
+how the adventure will turn out -- they're not going to have any 
+interest in playing. Part of the fun of a roleplaying game is the 
+almost unlimited possible reactions to any given situation. Take
+that away, and you've lost much of the reason for participating in 
+this type of game.
 
 Sometimes the characters will
 have only a few choices -- or at least, a
@@ -14447,12 +14443,10 @@ an attempt by you as the gamemaster
 to dictate their characters' paths.
 
 Reward creativity. Give the players a reason to exercise their brains.
-The more freedom they believe they
-have, the more they'll enjoy the
-adventure. When their characters
-make a mistake, they have no one
-else to blame it on, and when their
-characters succeed, they feel a genuine sense of accomplishment.
+The more freedom they believe they have, the more they'll enjoy the
+adventure. When their characters make a mistake, they have no one
+else to blame it on, and when their characters succeed, they feel 
+a genuine sense of accomplishment.
 
 
 The Subtle Art of Misdirection
@@ -14631,1752 +14625,1112 @@ profession.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
-Adventure Tips
+Generic Characters
+------------------
 
-Generic
-Characters
-People
+### People ###
 
-Bounty Hunter: Agility 3D,
-brawling 3D+2, dodge 3D+1,
-firearms 3D+2, melee combat
-3D+1, Strength 3D, Knowledge
-3D, survival 3D+1, Perception
-3D, investigation 3D, sneak 3D,
-Mechanical 3D, Technical. 3D
-Move: 10. Strength Damage: 2D.
-Fate Points: 0. Character Points: 2.
-Body Points: 14/Wound levels: 2.
-Equipment: knife (damage +1D);
-blaster pistol (damage 5D); protective vest (Armor Value +2).
-Law Enforcement Officer:
-Agility 3D+2, ﬁrearms 4D+2,
-dodge 4D+1, melee combat 4D,
-Strength 3D, Knowledge 3D,
-bureaucracy 3D+1, security
-regulations 4D, Perception 3D,
-investigation 3D+1, search 3D+1, Mechanical 2D+2, Technical 2D+2,
-security 3D. Move: 10. Strength Damage: 2D. Fate Points: 0. Character
-Points: 2. Body Points: 13/Wound levels: 2. Equipment: blaster pistol
-(damage 5D); body armor (Armor Value +1D).
-Merchant: Agility 3D, Strength 2D+2, Knowledge 3D+1,
-bureaucracy 3D+2, business 3D+2, cultures 3D+2, languages 3D+2,
-Perception 3D+1, bargain 4D, con 3D+2, Mechanical 2D+2, vehicle
-operation 3D, Technical 3D. Move: 10. Strength Damage: 1D. Fate Points:
-0. Character Points: 2. Body Points: 12/Wound levels: 2. Equipment: ﬁne
-clothing; hand comp; various currency; goods for sale.
-Soldier: Agility 3D+2, brawling 4D, dodge 4D, ﬁrearms 5D+2,
-Strength 3D+1, Knowledge 2D+2, security regulations 3D, Perception
-3D, search 3D+1, Mechanical 2D+2, Technical 2D+2, demolitions
-3D+2. Move: 10. Strength Damage: 2D. Fate Points: 0. Character Points: 2.
-Body Points: 14/Wound levels: 2. Equipment: blaster pistol (damage 5D);
-grenades (damage 6D; 2 units); protective vest (Armor Value +2).
-Thug: Agility 3D, brawling 4D, ﬁrearms 3D+1, dodge 3D+2,
-melee combat 3D, Strength 3D, lift 4D, stamina 3D+2, Knowledge
-3D, intimidation 3D+2, streetwise 3D+2, Perception 3D, Mechanical 1D, Technical 1D. Move: 10. Strength Damage: 2D. Fate Points: 0.
-Character Points: 2. Body Points: 13/Wound levels: 2. Equipment: energy
-knife (damage +1D); protective vest (Armor Value +2).
+* Bounty Hunter: Agility 3D, brawling 3D+2, dodge 3D+1,
+  firearms 3D+2, melee combat 3D+1, Strength 3D, Knowledge 3D, 
+  survival 3D+1, Perception 3D, investigation 3D, sneak 3D,
+  Mechanical 3D, Technical. 3D Move: 10. Strength Damage: 2D.
+  Fate Points: 0. Character Points: 2. Body Points: 14 / 
+  Wound levels: 2. Equipment: knife (damage +1D); 
+  blaster pistol (damage 5D); protective vest (Armor Value +2).
 
-Animals
+* Law Enforcement Officer: Agility 3D+2, ﬁrearms 4D+2,
+  dodge 4D+1, melee combat 4D, Strength 3D, Knowledge 3D,
+  bureaucracy 3D+1, security regulations 4D, Perception 3D,
+  investigation 3D+1, search 3D+1, Mechanical 2D+2, Technical 2D+2,
+  security 3D. Move: 10. Strength Damage: 2D. Fate Points: 0. Character
+  Points: 2. Body Points: 13/Wound levels: 2. Equipment: blaster pistol
+  (damage 5D); body armor (Armor Value +1D).
+
+* Merchant: Agility 3D, Strength 2D+2, Knowledge 3D+1,
+  bureaucracy 3D+2, business 3D+2, cultures 3D+2, languages 3D+2,
+  Perception 3D+1, bargain 4D, con 3D+2, Mechanical 2D+2, vehicle
+  operation 3D, Technical 3D. Move: 10. Strength Damage: 1D. Fate 
+  Points: 0. Character Points: 2. Body Points: 12/Wound levels: 2. 
+  Equipment: ﬁne clothing; hand comp; various currency; goods for sale.
+
+* Soldier: Agility 3D+2, brawling 4D, dodge 4D, ﬁrearms 5D+2,
+  Strength 3D+1, Knowledge 2D+2, security regulations 3D, Perception
+  3D, search 3D+1, Mechanical 2D+2, Technical 2D+2, demolitions
+  3D+2. Move: 10. Strength Damage: 2D. Fate Points: 0. Character 
+  Points: 2. Body Points: 14/Wound levels: 2. Equipment: 
+  blaster pistol (damage 5D); grenades (damage 6D; 2 units); 
+  protective vest (Armor Value +2).
+
+* Thug: Agility 3D, brawling 4D, ﬁrearms 3D+1, dodge 3D+2,
+  melee combat 3D, Strength 3D, lift 4D, stamina 3D+2, Knowledge 3D, 
+  intimidation 3D+2, streetwise 3D+2, Perception 3D, Mechanical 1D, 
+  Technical 1D. Move: 10. Strength Damage: 2D. Fate Points: 0.
+  Character Points: 2. Body Points: 13/Wound levels: 2. 
+  Equipment: energy knife (damage +1D); protective vest (Armor Value +2).
+
+
+### Animals ###
+
 Characters may also interact with animals from time to time.
 Remember that, although clever, most animals are not as intelligent
+as Humans are. They don't actively use skills, though they may have 
+some to represent their unconscious use of them, such as willpower to 
+resist being told what to do. They may have Technical attribute of 0D. 
+A Mechanical attribute of 1D indicates that the animal has the
+capacity to be trained to push buttons. Animals usually decide on the 
+best course of action that will lead to their own survival, unless they 
+are trained otherwise.
 
-as Humans are. They don't actively use
-skills, though they may have some to
-represent their unconscious use of them,
-such as willpower to resist being told
-what to do. They may have Technical
-attribute of 0D. A Mechanical attribute
-of 1D indicates that the animal has the
-capacity to be trained to push buttons.
-Animals usually decide on the best
-course of action that will lead to their
-own survival, unless they are trained
-otherwise.
-Cat, Domestic: Agility 3D, brawling
-4D, dodge 4D, running 3D, Strength
-1D, climb/jump 4D, Knowledge 1D,
-willpower 3D, Perception 2D, search 3D,
-sneak 4D, Mechanical 1D, Technical 0D.
-Move: 20. Strength Damage 1D. Body
-Points: 10/Wound levels: 1. Natural Abilities: claws (damage +2), teeth (damage
-+2); small size (scale modiﬁer 6).
-Cat, Large (Lion, Tiger, Puma):
-Agility 4D, brawling 5D, dodge 5D,
-running 5D, Strength 4D, climb/jump
-5D, Knowledge 1D, intimidation 5D, willpower 3D, Perception 2D,
-search 3D, sneak 5D, Mechanical 1D, Technical 0D. Move: 30. Body
-Points: 18/Wound levels: 2. Strength Damage: 2D. Natural Abilities:
-thick fur (armor value +2), claws (damage +1D), teeth (damage +1D).
-Note: Large cats can leap up to 30 feet horizontally or six feet vertically;
-small size (scale modiﬁer 2).
-Dog, Domestic: Agility 3D, brawling 4D, dodge 4D, running
-4D, Strength 3D, Knowledge 1D, intimidation 3D, willpower 2D+1,
-Perception 2D, search 4D, Mechanical 1D, Technical 0D. Move: 25.
-Strength Damage: 2D. Body Points: 14/Wound levels: 1. Natural Abilities:
-teeth (damage +1D); small size (scale modiﬁer 5).
-Dog, Guard: Agility 3D, brawling 5D, dodge 6D, running 4D,
-Strength 4D, Knowledge 1D, intimidation 5D, willpower 4D, Perception 2D, search 4D, Mechanical 1D, Technical 0D. Move: 25. Strength
-Damage: 2D. Body Points: 18/Wound levels: 2. Natural Abilities: teeth
-(damage +1D); small size (scale modiﬁer 4).
-Rats: Agility 3D, acrobatics 3D+1, brawling 4D, dodge 3D, running
-3D+2, Strength 1D, climb/jump 3D, swim 1D+2, Knowledge 1D,
-willpower 2D, Perception 2D, hide: self only 4D, search 3D, Mechanical 1D, Technical 0D. Move: 3. Strength Damage: 1D. Body Points:
-6/Wound levels: 1. Natural Abilities: teeth (Strength Damage only);
-swarm attack (roll a single brawling total for entire group of rats, adding
-+5 to the total for every 10 creatures involved; if using the optional
-damage bonus, add the bonus for this roll to the Strength Damage of
-a single rat); small size (scale modiﬁer 9 for single rat).
+* Cat, Domestic: Agility 3D, brawling 4D, dodge 4D, running 3D, 
+  Strength 1D, climb/jump 4D, Knowledge 1D, willpower 3D, Perception 2D, 
+  search 3D, sneak 4D, Mechanical 1D, Technical 0D. Move: 20. Strength 
+  Damage 1D. Body Points: 10/Wound levels: 1. Natural Abilities: 
+  claws (damage +2), teeth (damage +2); small size (scale modiﬁer 6).
 
-127
+* Cat, Large (Lion, Tiger, Puma): Agility 4D, brawling 5D, dodge 5D,
+  running 5D, Strength 4D, climb/jump 5D, Knowledge 1D, intimidation 5D, 
+  willpower 3D, Perception 2D,search 3D, sneak 5D, Mechanical 1D, 
+  Technical 0D. Move: 30. Body Points: 18/Wound levels: 2. Strength 
+  Damage: 2D. Natural Abilities: thick fur (armor value +2), 
+  claws (damage +1D), teeth (damage +1D). Note: Large cats can leap up 
+  to 30 feet horizontally or six feet vertically; small size (scale 
+  modiﬁer 2).
+
+*  Dog, Domestic: Agility 3D, brawling 4D, dodge 4D, running
+  4D, Strength 3D, Knowledge 1D, intimidation 3D, willpower 2D+1,
+  Perception 2D, search 4D, Mechanical 1D, Technical 0D. Move: 25.
+  Strength Damage: 2D. Body Points: 14/Wound levels: 1. Natural 
+  Abilities: teeth (damage +1D); small size (scale modiﬁer 5).
+
+*  Dog, Guard: Agility 3D, brawling 5D, dodge 6D, running 4D,
+  Strength 4D, Knowledge 1D, intimidation 5D, willpower 4D, 
+  Perception 2D, search 4D, Mechanical 1D, Technical 0D. Move: 25. 
+  Strength Damage: 2D. Body Points: 18/Wound levels: 2. Natural 
+  Abilities: teeth (damage +1D); small size (scale modiﬁer 4).
+
+* Rats: Agility 3D, acrobatics 3D+1, brawling 4D, dodge 3D, running
+  3D+2, Strength 1D, climb/jump 3D, swim 1D+2, Knowledge 1D,
+  willpower 2D, Perception 2D, hide: self only 4D, search 3D, 
+  Mechanical 1D, Technical 0D. Move: 3. Strength Damage: 1D. Body 
+  Points: 6/Wound levels: 1. Natural Abilities: teeth (Strength 
+  Damage only); swarm attack (roll a single brawling total for entire 
+  group of rats, adding +5 to the total for every 10 creatures involved; 
+  if using the optional damage bonus, add the bonus for this roll to 
+  the Strength Damage of a single rat); small size (scale modiﬁer 9 
+  for single rat).
+
 
 Templates
-
-
-
-Page 128
-
-Character Name: _________________________________________
-Player Name: ____________________________________________
-Occupation: Communications/Cultures Expert ___________________
-Species: Human _____________________ Gender:______________
-Age: ___________Height: _____________ Weight: ______________
-Physical Description: ______________________________________
-_______________________________________________________
-Agility ______________ 2D+2
-brawling __________________
-dodge ____________________
-ﬁrearms___________________
-running ___________________
-sleight of hand ______________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Strength _____________ 2D+1
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Knowledge ______________ 3D
-aliens ____________________
-bureaucracy ________________
-business __________________
-cultures ___________________
-intimidation _______________
-languages _________________
-scholar ___________________
-streetwise _________________
-willpower _________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Metaphysics _____________ 1D
-channel ___________________
-sense _____________________
-transform _________________
-
-Mechanical _____________ 3D
-comm ____________________
-navigation _________________
-sensors ___________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Perception ___________ 3D+2
-bargain ___________________
-command _________________
-con ______________________
-forgery ___________________
-gambling __________________
-hide _____________________
-investigation _______________
-persuasion _________________
-search ____________________
-sneak ____________________
-_________________________
-_________________________
-_________________________
-Technical ____________ 2D+1
-comp. interface/repair ________
-medicine __________________
-personal equip. repair _________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Fate Points _______________ 1
-Character Points __________ 5
-
-Advantages: Cultures (R1), you have a knack for
-drawing parallels between known and unusual
-cultures
-Disadvantages: Handicap: Trick Shoulder (R1),
-+1 to melee combat, climb/jump, and throwing
-difficulties
-Special Abilities: None
-Equipment: Hand computer with communication
-link; data wands with information about numerous
-languages and cultures (+1D to aliens, cultures, and
-languages attempts); personal blaster (damage 3D;
-range 4/8/12; ammo 6) with 2 spare energy cells
-(ammo 6 each); cred-key
-Description: With a shoulder that never quite worked
-correctly, you focused on the softer side of life, learning how ﬁnd common ground with anyone, no matter
-what part of the galaxy they're from.
-
-Funds _____________________________3D
-Credits ___________________________ 525
-Strength Damage ______ 1D Move _____ 10
-Body Points ________________________ 26
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
-
-Body Points Range
-15-20
-10-14
-5-9
-2-4
-1
-0
-
-SPACE
-
-Templates
-
-
-
-Page 129
-
-Character Name: _________________________________________
-Player Name: ____________________________________________
-Occupation: Con Artist ____________________________________
-Species: Human _____________________ Gender:______________
-Age: ___________Height: _____________ Weight: ______________
-Physical Description: ______________________________________
-_______________________________________________________
-
-Strength ________________ 2D
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Knowledge ______________ 3D
-aliens ____________________
-astrography ________________
-bureaucracy ________________
-business __________________
-cultures ___________________
-languages _________________
-scholar ___________________
-streetwise _________________
-survival ___________________
-willpower _________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Metaphysics _____________ 1D
-channel ___________________
-sense _____________________
-transform _________________
-
-Mechanical _____________ 3D
-navigation _________________
-vehicle operation ____________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Perception ___________ 3D+2
-bargain ___________________
-con ______________________
-forgery ___________________
-gambling __________________
-hide _____________________
-investigation _______________
-persuasion _________________
-sneak ____________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Technical _______________ 2D
-comp. interface/repair ________
-medicine __________________
-personal equip. repair _________
-security ___________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Fate Points _______________ 1
-Character Points __________ 5
-
-Advantages: Equipment (R1), con game props add
-2 to any con attempts when using them
-Disadvantages: Quirk (R1), you tend to forget your
-cons are cons and sometimes get caught in your own
-lies
-Special Abilities: None
-Equipment: Various decks of cards and manipulatable
-games of chances; Plastovar armor decorated to look
-like a ﬂashy outﬁt (Armor Value +1D+1); personal
-blaster (damage 3D; range 4/8/12; ammo 6) with
-1 spare energy cell (ammo 6); hidden holster; 1,000
-credits in various types and denominations (not usable
-on all worlds); props for con games
-Description: Life is an opportunity to be exploited
-to its fullest. You like to think of yourself as wandering the universe, revealing the wonders of the ages to
-the uniformed, hoping to move happiness from one
-corner of the galaxy to another.
-
-Funds _____________________________3D
-Credits ___________________________ 525
-Strength Damage ______ 1D Move _____ 10
-Body Points ________________________ 25
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
-
-Body Points Range
-15-20
-10-14
-5-9
-2-4
-1
-0
-
-SPACE
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Agility ______________ 3D+1
-brawling __________________
-dodge ____________________
-sleight of hand ______________
-running ___________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-
-Templates
-
-
-
-Page 130
-
-Character Name: _________________________________________
-Player Name: ____________________________________________
-Occupation: Cyberchopper __________________________________
-Species: Human _____________________ Gender:______________
-Age: ___________Height: _____________ Weight: ______________
-Physical Description: ______________________________________
-_______________________________________________________
-Agility ______________ 3D+2
-brawling __________________
-dodge ____________________
-ﬁrearms___________________
-melee combat ______________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Strength ________________ 3D
-lift ______________________
-stamina ___________________
-_________________________
-_________________________
-_________________________
-Knowledge ___________ 2D+2
-aliens ____________________
-business __________________
-intimidation _______________
-languages _________________
-scholar ___________________
-streetwise _________________
-willpower _________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Metaphysics _____________ 0D
-_________________________
-_________________________
-_________________________
-
-Mechanical __________ 3D+1
-comm ____________________
-sensors ___________________
-shields____________________
-vehicle operation ____________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Perception ___________ 2D+1
-bargain ___________________
-con ______________________
-hide _____________________
-investigation _______________
-persuasion _________________
-search ____________________
-sneak ____________________
-_________________________
-_________________________
-_________________________
-_________________________
-Technical _______________ 3D
-armor repair _______________
-comp. interface/repair ________
-ﬁrearms repair ______________
-ﬂight sys. repair _____________
-medicine __________________
-personal equip. repair _________
-robot interface/repair _________
-security ___________________
-vehicle repair _______________
-_________________________
-_________________________
-_________________________
-_________________________
-Fate Points _______________ 1
-Character Points __________ 5
-
-Advantages: None
-Disadvantages: Debt (R2), you need to pay protection
-to keep yourself out of prison; Enemy (R2), you're
-a known cyberjacker and thief, suspected of worse
-crimes, and wanted by most police
-Special Abilities: See cybernetics equipment
-Equipment: SuperSight (Enhanced Sense: Sight
-(R1), +1 to sight-based rolls); cyberarm (Increased
-Attribute (R2), +2 to Strength with Limitation Ability
-Loss (R1), right arm only); blaster pistol (damage 5D;
-range 20/50/150; ammo 12) with 2 spare energy cells
-(ammo 12 each); med-kit with cybertools (+1D to
-medicine rolls and allows performance of Cybernetics
-surgery; includes spare supplies); cred-key
-Description: You used to zipyank other steelskins and
-taking the goods back to the chopshop. Then the cutter
-got slagged, and they were gonna close you down. But
-you got new skills fast and now you're the cutter.
-
-Funds _____________________________3D
-Credits ___________________________ 525
-Strength Damage ______ 2D Move _____ 10
-Body Points ________________________ 31
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
-
-Body Points Range
-18-24
-12-17
-6-11
-3-5
-1-2
-0
-
-SPACE
-
-Templates
-
-
-
-Page 131
-
-Character Name: _________________________________________
-Player Name: ____________________________________________
-Occupation: Demolitions Expert ______________________________
-Species: Human (mutant) ______________ Gender:______________
-Age: ___________Height: _____________ Weight: ______________
-Physical Description: ______________________________________
-_______________________________________________________
-
-Strength ________________ 3D
-climb/jump ________________
-_________________________
-_________________________
-_________________________
-_________________________
-Knowledge ___________ 2D+2
-bureaucracy ________________
-business __________________
-intimidation _______________
-security regulations __________
-streetwise _________________
-survival ___________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Metaphysics _____________ 0D
-_________________________
-_________________________
-_________________________
-
-Mechanical _____________ 2D
-comm ____________________
-exoskeleton operation_________
-gunnery __________________
-navigation _________________
-piloting ___________________
-sensors ___________________
-shields____________________
-vehicle operation ____________
-_________________________
-Perception ___________ 3D+2
-artist _____________________
-bargain ___________________
-command _________________
-con ______________________
-forgery ___________________
-gambling __________________
-hide _____________________
-investigation _______________
-know-how _________________
-persuasion _________________
-search ____________________
-sneak ____________________
-Technical ____________ 3D+2
-armor repair _______________
-comp. interface/repair ________
-demolitions ________________
-exoskeleton repair ___________
-ﬁrearms repair ______________
-ﬂight sys. repair _____________
-gunnery repair ______________
-medicine __________________
-personal equip. repair _________
-robot interface/repair _________
-security ___________________
-vehicle repair _______________
-_________________________
-Fate Points _______________ 1
-Character Points __________ 5
-
-Advantages: None
-Disadvantages: Quirk (R3), you're talkative and
-every round you need to be quiet is a Very Difficult
-willpower roll (does not count as an action)
-Special Abilities: Fast Reactions (R1), +1D to Perception when determining initiative and get 1 additional
-action 3 times per adventure
-Equipment: Malleable explosive with timing chips
-(damage 6D; 10 uses); syntheleather jacket (Armor
-Value +2 ); work laser tool (damage 1D); connecting
-wires; cred-key
-Description: Something about your heritage makes
-you little different from other members of your species.
-Maybe it's because you're good at blowing things up,
-but others contend it's because you talk too much.
-
-Funds _____________________________3D
-Credits ___________________________ 525
-Strength Damage ______ 2D Move _____ 10
-Body Points ________________________ 32
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
-
-Body Points Range
-19-25
-12-18
-9-11
-3-8
-1-2
-0
-
-SPACE
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Agility _________________ 3D
-brawling __________________
-dodge ____________________
-ﬁrearms___________________
-running ___________________
-sleight of hand ______________
-throwing __________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-
-Templates
-
-
-
-Page 132
-
-Character Name: _________________________________________
-Player Name: ____________________________________________
-Occupation: Hard Warrior __________________________________
-Species: Human _____________________ Gender:______________
-Age: ___________Height: _____________ Weight: ______________
-Physical Description: ______________________________________
-_______________________________________________________
-Agility _________________ 4D
-brawling __________________
-dodge ____________________
-ﬁrearms___________________
-ﬂying/0-G _________________
-melee combat ______________
-running ___________________
-throwing __________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Strength ________________ 4D
-climb/jump ________________
-lift ______________________
-stamina ___________________
-swim _____________________
-_________________________
-Knowledge ___________ 2D+1
-aliens ____________________
-astrography ________________
-intimidation _______________
-languages _________________
-scholar ___________________
-streetwise _________________
-survival ___________________
-willpower _________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Metaphysics _____________ 0D
-_________________________
-_________________________
-_________________________
-
-Mechanical __________ 2D+2
-comm ____________________
-exoskeleton operation_________
-gunnery __________________
-navigation _________________
-piloting ___________________
-sensors ___________________
-shields____________________
-vehicle operation ____________
-_________________________
-_________________________
-Perception ___________ 2D+2
-command _________________
-persuasion _________________
-search ____________________
-sneak ____________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Technical ____________ 2D+1
-armor repair _______________
-comp. interface/repair ________
-demolitions ________________
-exoskeleton repair ___________
-ﬁrearms repair ______________
-ﬂight sys. repair _____________
-gunnery repair ______________
-medicine __________________
-personal equip. repair _________
-vehicle repair _______________
-_________________________
-_________________________
-Fate Points _______________ 1
-Character Points __________ 5
-
-Advantages: None
-Disadvantages: None
-Special Abilities: None
-Equipment: Serrated combat knife (damage +1D+2)
-with compass in handle; plasteel breastplate (Armor
-Value +1D+2); makeshift greaves on arms and legs
-(Armor Value +1); medium semi-automatic (damage 4D; range 8/13/35; ammo 17); med-kit (+1D
-to medicine rolls; includes spare supplies); cred-key;
-miscellaneous supplies and keepsakes
-Description: From war zone to gang to battleﬁeld,
-you know nothing but ﬁghting. You take the money
-to keep yourself in ammo and medical supplies, but
-you give no one loyalty except yourself.
-
-Funds _____________________________3D
-Credits ___________________________ 525
-Strength Damage ______ 2D Move _____ 10
-Body Points ________________________ 35
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
-
-Body Points Range
-21-28
-15-20
-7-14
-3-6
-1-2
-0
-
-SPACE
-
-Templates
-
-
-
-Page 133
-
-Character Name: _________________________________________
-Player Name: ____________________________________________
-Occupation: Medic ________________________________________
-Species: Human _____________________ Gender: ______________
-Age: ___________Height: _____________ Weight: ______________
-Physical Description: ______________________________________
-_______________________________________________________
-
-Strength _____________ 2D+1
-lift ______________________
-stamina ___________________
-_________________________
-_________________________
-_________________________
-Knowledge ___________ 3D+2
-aliens ____________________
-bureaucracy ________________
-cultures ___________________
-languages _________________
-scholar ___________________
-survival ___________________
-willpower _________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Metaphysics _____________ 0D
-_________________________
-_________________________
-_________________________
-
-Mechanical __________ 2D+1
-comm ____________________
-navigation _________________
-sensors ___________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Perception ______________ 3D
-bargain ___________________
-command _________________
-con ______________________
-hide _____________________
-investigation _______________
-persuasion _________________
-search ____________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Technical _______________ 4D
-comp. interface/repair ________
-medicine __________________
-personal equip. repair _________
-robot interface/repair _________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Fate Points _______________ 1
-Character Points __________ 5
-
-Advantages: None
-Disadvantages: Quirk (R1), you can't resist adding
-a little ﬂair to anything you do
-Special Abilities: Skill Bonus: Upbeat (R1), +1 bonus
-to bargain, con, and persuasion totals
-Equipment: Med-kit (+1D to medicine ﬁrst-aid attempts; ﬁve uses); personal blaster (damage 3D; range
-4/8/12; ammo 6) with 2 spare energy cells (ammo
-6 each); medical reader (+1D to medicine diagnostic
-attempts); cred-key
-Description: With an irresistible personality, most
-people ﬁnd it hard not to give you your way. That's
-often come in handy with reluctant patients, especially
-the macho types with serious injuries.
-
-Funds _____________________________3D
-Credits ___________________________ 525
-Strength Damage ______ 1D Move _____ 10
-Body Points ________________________ 27
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
-
-Body Points Range
-16-22
-10-15
-5-9
-2-4
-1
-0
-
-SPACE
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Agility ______________ 2D+2
-dodge ____________________
-ﬁrearms___________________
-running ___________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-
-Templates
-
-
-
-Page 134
-
-Character Name: _________________________________________
-Player Name: ____________________________________________
-Occupation: Megacorp Contract Negotiator ______________________
-Species: Human _____________________ Gender:______________
-Age: ___________Height: _____________ Weight: ______________
-Physical Description: ______________________________________
-_______________________________________________________
-Agility ______________ 3D+2
-brawling __________________
-dodge ____________________
-ﬁrearms___________________
-ﬂying/0-G _________________
-melee combat ______________
-running ___________________
-throwing __________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Strength ________________ 2D
-climb/jump ________________
-lift ______________________
-stamina ___________________
-swim _____________________
-_________________________
-Knowledge ___________ 3D+1
-aliens ____________________
-astrography ________________
-bureaucracy ________________
-business __________________
-cultures ___________________
-intimidation _______________
-languages _________________
-scholar ___________________
-security regulations __________
-streetwise _________________
-survival ___________________
-willpower _________________
-_________________________
-_________________________
-_________________________
-Metaphysics _____________ 0D
-_________________________
-_________________________
-_________________________
-
-Mechanical _____________ 3D
-comm ____________________
-exoskeleton operation_________
-gunnery __________________
-navigation _________________
-piloting ___________________
-sensors ___________________
-shields____________________
-vehicle operation ____________
-_________________________
-_________________________
-Perception ______________ 3D
-bargain ___________________
-con ______________________
-forgery ___________________
-hide _____________________
-investigation _______________
-persuasion _________________
-search ____________________
-sneak ____________________
-_________________________
-_________________________
-Technical _______________ 3D
-armor repair _______________
-comp. interface/repair ________
-demolitions ________________
-exoskeleton repair ___________
-ﬁrearms repair ______________
-ﬂight sys. repair _____________
-gunnery repair ______________
-medicine __________________
-personal equip. repair _________
-robot interface/repair _________
-security ___________________
-vehicle repair _______________
-_________________________
-_________________________
-Fate Points _______________ 1
-Character Points __________ 5
-
-Advantages: Cultures (R4), you've got extensive knowledge about many cultures, enough to help you ﬁt in
-and make ﬁrst contact go smoother; Patron (R4), your
-employer keeps you well informed and supplied
-Disadvantages: Advantage Flaw (R1), your employer
-often lies to get you to take a job; Employed (R3), your
-employer dictates your assignments; Infamy (R2), you
-are well known and rarely well liked by those in other
-corporations and in many local space ﬂeets; Quirk (R2),
-you're a snob to people working for other corporations
--- unless you need them for something
-Special Abilities: None
-Equipment: Slick-looking Plastovar suit (Armor Value
-+1D+1); medium semi-automatic (damage 4D; range
-8/13/35; ammo 17) plus 2 extra clips (ammo 10 each);
-armored briefcase (damage resistance total 21) with blank
-contracts; cred-key; corporate contacts might help you
-get other items needed for the job at hand
-Description: Working for a multi-planetary organization, your life is fast paced, complicated, and, aside from
-the steady pay, unpredictable. One day your negotiating
-a contract; the next you're quelling a dispute.
-
-Funds _____________ 3D Credits ____ 525
-Strength Damage ______ 2D Move _____ 10
-Body Points ________________________ 27
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
-
-Body Points Range
-16-22
-10-15
-5-9
-2-4
-1
-0
-
-SPACE
-
-Templates
-
-
-
-Page 135
-
-Character Name: _________________________________________
-Player Name: ____________________________________________
-Occupation: Old Scout _____________________________________
-Species: Human _____________________ Gender:______________
-Age: ___________Height: _____________ Weight: ______________
-Physical Description: ______________________________________
-_______________________________________________________
-
-Strength _____________ 2D+1
-climb/jump ________________
-lift ______________________
-stamina ___________________
-_________________________
-_________________________
-Knowledge ___________ 3D+2
-aliens ____________________
-astrography ________________
-intimidation _______________
-languages _________________
-security regulations __________
-survival ___________________
-tactics ____________________
-willpower _________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Metaphysics _____________ 0D
-_________________________
-_________________________
-_________________________
-
-Mechanical __________ 3D+2
-comm ____________________
-gunnery __________________
-navigation _________________
-piloting ___________________
-sensors ___________________
-shields____________________
-vehicle operation ____________
-_________________________
-_________________________
-Perception ___________ 2D+2
-command _________________
-con ______________________
-investigation _______________
-search ____________________
-sneak ____________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Technical _______________ 3D
-armor repair _______________
-comp. interface/repair ________
-exoskeleton repair ___________
-ﬁrearms repair ______________
-ﬂight sys. repair _____________
-gunnery repair ______________
-medicine __________________
-personal equip. repair _________
-vehicle repair _______________
-_________________________
-_________________________
-_________________________
-_________________________
-Fate Points _______________ 1
-Character Points __________ 5
-
-Advantages: Ship (R4), you have the use of a space
-service ship
-Disadvantages: Age (R1), you're almost past your prime;
-Advantage Flaw (R3), your ship has problems -- see the
-equipment description; Employed (R2), you only get the
-use of the ship while you remain in service
-Special Abilities: Iron Will (R1), +1D to willpower
-rolls and +2 to default interaction difficulties
-Equipment: Military scout ship (owned by the military;
-less-than-mint condition; on any Critical Failure with ship
-system, the ship shuts down and requires a repair roll for
-that system against a difficulty of 16 to get it running
-again); worn Plastovar armor (Armor Value +1D+1);
-laser pistol (damage 4D; range 25/75/150; ammo 15);
-standard comlink; standard enviro-suit; cred-key
-Description: It seems like you've been a scout for years,
-with no an end in sight. You're heartily sick of regs and
-reports, but you know you'd be worse off at a desk job
-or in the brig. You do your job just enough to keep from
-getting kicked out (and losing the few perks), but you
-concentrate on your many different "sidelines."
-
-Funds _____________________________3D
-Credits ___________________________ 525
-Strength Damage ______ 1D Move _____ 10
-Body Points ________________________ 28
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
-
-Body Points Range
-16-22
-11-15
-5-10
-2-4
-1
-0
-
-SPACE
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Agility ______________ 2D+2
-brawling __________________
-dodge ____________________
-ﬁrearms___________________
-ﬂying/0-G _________________
-melee combat ______________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-
-Templates
-
-
-
-Page 136
-
-Character Name: _________________________________________
-Player Name: ____________________________________________
-Occupation: Security Expert _________________________________
-Species: Human _____________________ Gender:______________
-Age: ___________Height: _____________ Weight: ______________
-Physical Description: ______________________________________
-_______________________________________________________
-Agility _________________ 3D
-brawling __________________
-dodge ____________________
-ﬁrearms___________________
-ﬂying/0-G _________________
-melee combat ______________
-running ___________________
-sleight of hand ______________
-throwing __________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Strength ________________ 3D
-climb/jump ________________
-lift ______________________
-stamina ___________________
-_________________________
-_________________________
-Knowledge ___________ 3D+2
-bureaucracy ________________
-business __________________
-cultures ___________________
-intimidation _______________
-languages _________________
-security regulations __________
-streetwise _________________
-tactics ____________________
-willpower _________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Metaphysics _____________ 0D
-_________________________
-_________________________
-_________________________
-
-Mechanical _____________ 2D
-comm ____________________
-gunnery __________________
-navigation _________________
-piloting ___________________
-sensors ___________________
-shields____________________
-vehicle operation ____________
-_________________________
-_________________________
-_________________________
-_________________________
-Perception ______________ 3D
-command _________________
-con ______________________
-forgery ___________________
-hide _____________________
-investigation _______________
-persuasion _________________
-search ____________________
-sneak ____________________
-_________________________
-_________________________
-_________________________
-_________________________
-Technical ____________ 3D+1
-comp. interface/repair ________
-demolitions ________________
-ﬁrearms repair ______________
-personal equip. repair _________
-robot interface/repair _________
-security ___________________
-vehicle repair _______________
-_________________________
-_________________________
-_________________________
-_________________________
-Fate Points _______________ 1
-Character Points __________ 5
-
-Advantages: None
-Disadvantages: Enemy (R1), you stumbled across some
-information you shouldn't have (you're not sure what),
-and someone wants to make sure you never reveal it; Advantage Flaw: Skills (R3), you must spend a round doing
-nothing else but concentrating before using your security,
-demolitions, or computer interface/repair skills (do not get
-preparing bonus)
-Special Abilities: Skill Minimum (R1), your skill totals for
-security, demolitions, and computer interface/repair will always
-be a minimum of 3 times the number before the D
-Equipment: Hand computer with communication link,
-various connectors as well as data wands containing common security protocols and cracking programs (+1D to
-security and security regulations attempts); personal blaster
-(damage 3D; range 4/8/12; ammo 6) with 2 spare energy
-cells (ammo 6 each); cred-key
-Description: You've always had a knack for breaking and
-entering -- and preventing others from doing the same.
-Unfortunately, ever since you stumbled across someone's
-deep, dark secret, you always get nervous before attempting
-any security procedures.
-
-Funds _____________________________3D
-Credits ___________________________ 525
-Strength Damage ____ 2D Move _______ 10
-Body Points ________________________ 29
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
-
-Body Points Range
-17-23
-11-16
-5-10
-2-4
-1
-0
-
-SPACE
-
-Templates
-
-
-
-Page 137
-
-Character Name: _________________________________________
-Player Name: ____________________________________________
-Occupation: Technical Wiz __________________________________
-Species: Human _____________________ Gender: ______________
-Age: ___________Height: _____________ Weight: ______________
-Physical Description: ______________________________________
-_______________________________________________________
-
-Strength ________________ 2D
-climb/jump ________________
-lift ______________________
-_________________________
-_________________________
-_________________________
-Knowledge ______________ 3D
-astrography ________________
-business __________________
-intimidation _______________
-languages _________________
-scholar ___________________
-security regulations __________
-streetwise _________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-Metaphysics _____________ 0D
-_________________________
-_________________________
-_________________________
-
-Mechanical _____________ 3D
-comm ____________________
-gunnery __________________
-piloting ___________________
-sensors ___________________
-shields____________________
-vehicle operation ____________
-_________________________
-_________________________
-_________________________
-Perception ___________ 3D+1
-bargain ___________________
-con ______________________
-forgery ___________________
-gambling __________________
-hide _____________________
-investigation _______________
-persuasion _________________
-search ____________________
-sneak ____________________
-_________________________
-_________________________
-_________________________
-Technical _______________ 4D
-armor repair _______________
-comp. interface/repair ________
-demolitions ________________
-exoskeleton repair ___________
-ﬁrearms repair ______________
-ﬂight sys. repair _____________
-gunnery repair ______________
-personal equip. repair _________
-robot interface/repair _________
-security ___________________
-vehicle repair _______________
-_________________________
-_________________________
-Fate Points _______________ 1
-Character Points __________ 5
-
-Advantages: None
-Disadvantages: Age (R1), you are slightly younger
-than typical, so people don't always take you seriously
-Special Abilities: Skill Bonus: Observant (R1), +1
-to investigation, search, and sensors totals
-Equipment: Repair and diagnostic kit (+1D to repair
-attempts; one use per skill); blaster pistol (damage
-5D; range 20/50/150; ammo 12) with 1 spare energy
-cell (ammo 12); syntheleather jacket (Armor Value
-+2); cred-key
-Description: Quick to spot and diagnose a problem,
-you can ﬁx anything. You're always looking for new
-jobs that can help you keep up on the latest technology or improve older versions.
-
-Funds _____________________________3D
-Credits ___________________________ 525
-Strength Damage ______ 1D Move _____ 10
-Body Points ________________________ 25
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
-
-Body Points Range
-15-20
-10-14
-5-9
-2-4
-1
-0
-
-SPACE
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Agility ______________ 2D+2
-brawling __________________
-dodge ____________________
-ﬁrearms___________________
-ﬂying/0-G _________________
-melee combat ______________
-sleight of hand ______________
-throwing __________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-_________________________
-
-Templates
-
-
-
-Page 138
-
-Character Name: _________________________________________
-Player Name: ____________________________________________
-Occupation: _____________________________________________
-Species: ___________________________ Gender:______________
-Age: ___________Height: _____________ Weight: ______________
-Physical Description: ______________________________________
-_______________________________________________________
-Agility ___________________
-acrobatics _________________
-brawling __________________
-dodge ____________________
-ﬁrearms___________________
-ﬂying/0-G _________________
-melee combat ______________
-missile weapons _____________
-riding ____________________
-running ___________________
-sleight of hand ______________
-throwing __________________
-_________________________
-_________________________
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Strength __________________
-climb/jump ________________
-lift ______________________
-stamina ___________________
-swim _____________________
-_________________________
-Knowledge ________________
-aliens ____________________
-astrography ________________
-bureaucracy ________________
-business __________________
-cultures ___________________
-intimidation _______________
-languages _________________
-scholar ___________________
-security regulations __________
-streetwise _________________
-survival ___________________
-tactics ____________________
-willpower _________________
-_________________________
-_________________________
-Metaphysics _______________
-channel ___________________
-sense _____________________
-transform _________________
-
-Mechanical ________________
-comm _____________________
-exoskeleton operation__________
-gunnery ___________________
-navigation __________________
-piloting ____________________
-sensors ____________________
-shields_____________________
-vehicle operation _____________
-__________________________
-__________________________
-Perception _________________
-artist ______________________
-bargain ____________________
-command __________________
-con _______________________
-forgery ____________________
-gambling ___________________
-hide ______________________
-investigation ________________
-know-how __________________
-persuasion __________________
-search _____________________
-sneak _____________________
-__________________________
-__________________________
-Technical __________________
-armor repair ________________
-comp. interface/repair _________
-demolitions _________________
-exoskeleton repair ____________
-ﬁrearms repair _______________
-ﬂight sys. repair ______________
-gunnery repair _______________
-medicine ___________________
-personal equip. repair __________
-robot interface/repair __________
-security ____________________
-vehicle repair ________________
-__________________________
-
-Advantages: __________________________
-____________________________________
-____________________________________
-____________________________________
-____________________________________
-Disadvantages: ________________________
-____________________________________
-____________________________________
-____________________________________
-____________________________________
-____________________________________
-Special Abilities: _______________________
-____________________________________
-____________________________________
-____________________________________
-____________________________________
-____________________________________
-Funds _______________________________
-Credits _____________________________
-Fate Points ___________________________
-Character Points ______________________
-Strength Damage ________ Move_________
-Body Points __________________________
-Wound Level
-Stunned
-Wounded
-Severely Wounded
-Incapacitated
-Mortally Wounded
-Dead
-
-Body Points Range
-__________
-__________
-__________
-__________
-__________
-0
-
-SPACE
-
-Templates
-
-
-
-Page 139
-
-Character Name: ______________________________________
-
-AV
-
-Notes
-
-Other Equipment
-Type
-Notes
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-Weapons
-Type
-
-________________________________________
-Dmg.
-
-Range: S/M/L
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-Ammo:
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-Ammo:
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-Ammo:
-
-________________________________________
-
-________________________________________
-
-Personality: _____________________________
-________________________________________
-________________________________________
-
-________________________________________
-Ammo:
-Cybernetics
-Type
-
-Notes
-
-________________________________________
-
-Objectives: _______________________________
-________________________________________
-________________________________________
-
-________________________________________
-
-Native Language: __________________________
-
-________________________________________
-
-Other Information: ________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-________________________________________
-
-SPACE
-
-Permission is hereby granted to photocopy this page for personal use. Copyright 2004 Purgatory Publishing Inc., www.westendgames.com.
-
-Armor
-Type
-
-Templates
-
+---------
+
+### Communications/Cultures Expert ###
+
+* Character Name:
+* Player Name:
+* Occupation: Communications/Cultures Expert
+* Species: Human
+* Gender:
+* Age:
+* Height:
+* Weight:
+* Physical Description:
+* Agility: 2D+2
+    * brawling 
+    * dodge 
+    * ﬁrearms
+    * running 
+    * sleight of hand 
+* Strength  2D+1
+* Knowledge  3D
+    * aliens 
+    * bureaucracy 
+    * business 
+    * cultures 
+    * intimidation 
+    * languages 
+    * scholar 
+    * streetwise 
+    * willpower 
+* Metaphysics  1D
+    * channel 
+    * sense 
+    * transform 
+* Mechanical  3D
+    * comm 
+    * navigation 
+    * sensors 
+* Perception  3D+2
+    * bargain 
+    * command 
+    * con 
+    * forgery 
+    * gambling 
+    * hide 
+    * investigation 
+    * persuasion 
+    * search 
+    * sneak 
+* Technical  2D+1
+    * comp. interface/repair 
+    * medicine 
+    * personal equip. repair 
+* Fate Points  1
+* Character Points  5
+* Advantages: Cultures (R1), you have a knack for
+  drawing parallels between known and unusual
+  cultures
+* Disadvantages: Handicap: Trick Shoulder (R1), +1 
+  to melee combat, climb/jump, and throwing
+  difficulties
+* Special Abilities: None
+* Equipment: Hand computer with communication
+  link; data wands with information about numerous
+  languages and cultures (+1D to aliens, cultures, and
+  languages attempts); personal blaster (damage 3D;
+  range 4/8/12; ammo 6) with 2 spare energy cells
+  (ammo 6 each); cred-key
+* Description: With a shoulder that never quite worked
+  correctly, you focused on the softer side of life, learning 
+  how ﬁnd common ground with anyone, no matter what part of 
+  the galaxy they're from.
+* Funds 3D
+* Credits  525
+* Strength Damage  1D 
+* Move  10
+* Body Points  26
+* Wound Level: Body Points Range
+    * Stunned: 15-20
+    * Wounded: 10-14
+    * Severely Wounded: 5-9
+    * Incapacitated: 2-4
+    * Mortally Wounded: 1
+    * Dead: 0
+
+
+### Con Artist ###
+
+* Character Name: 
+* Player Name: 
+* Occupation: Con Artist 
+* Species: Human  
+* Gender:
+* Age: 
+* Height:  
+* Weight: 
+* Physical Description: 
+* Agility  3D+1
+    * brawling 
+    * dodge 
+    * sleight of hand 
+    * running 
+* Strength  2D
+* Knowledge  3D
+    * aliens 
+    * astrography 
+    * bureaucracy 
+    * business 
+    * cultures 
+    * languages 
+    * scholar 
+    * streetwise 
+    * survival 
+    * willpower 
+* Metaphysics  1D
+    * channel 
+    * sense 
+    * transform 
+* Mechanical  3D
+    * navigation 
+    * vehicle operation 
+* Perception  3D+2
+    * bargain 
+    * con 
+    * forgery 
+    * gambling 
+    * hide 
+    * investigation 
+    * persuasion 
+    * sneak 
+* Technical  2D
+    * comp. interface/repair 
+    * medicine 
+    * personal equip. repair 
+    * security 
+* Fate Points  1
+* Character Points  5
+* Advantages: Equipment (R1), con game props add 2 to 
+  any con attempts when using them.
+* Disadvantages: Quirk (R1), you tend to forget your
+  cons are cons and sometimes get caught in your own lies.
+* Special Abilities: None
+* Equipment: Various decks of cards and manipulatable
+  games of chances; Plastovar armor decorated to look
+  like a ﬂashy outﬁt (Armor Value +1D+1); personal
+  blaster (damage 3D; range 4/8/12; ammo 6) with 1 
+  spare energy cell (ammo 6); hidden holster; 1,000
+  credits in various types and denominations (not usable
+  on all worlds); props for con games
+* Description: Life is an opportunity to be exploited
+  to its fullest. You like to think of yourself as wandering 
+  the universe, revealing the wonders of the ages to
+  the uniformed, hoping to move happiness from one
+  corner of the galaxy to another.
+* Funds 3D
+* Credits  525
+* Strength Damage  1D 
+* Move  10
+* Body Points  25
+* Wound Level: Body Points Range
+* Stunned: 15-20
+* Wounded: 10-14
+* Severely Wounded: 5-9
+* Incapacitated: 2-4
+* Mortally Wounded: 1
+* Dead: 0
+
+
+### Cyberchopper ###
+
+Character Name: 
+* Player Name: 
+* Occupation: Cyberchopper 
+* Species: Human  
+* Gender:
+* Age: 
+* Height:  
+* Weight: 
+* Physical Description: 
+* Agility  3D+2
+    * brawling 
+    * dodge 
+    * ﬁrearms
+    * melee combat 
+* Strength  3D
+    * lift 
+    * stamina 
+* Knowledge  2D+2
+    * aliens 
+    * business 
+    * intimidation 
+    * languages 
+    * scholar 
+    * streetwise 
+    * willpower 
+* Metaphysics  0D
+* Mechanical  3D+1
+    * comm 
+    * sensors 
+    * shields
+    * vehicle operation 
+* Perception  2D+1
+    * bargain 
+    * con 
+    * hide 
+    * investigation 
+    * persuasion 
+    * search 
+    * sneak 
+* Technical  3D
+    * armor repair 
+    * comp. interface/repair 
+    * ﬁrearms repair 
+    * ﬂight sys. repair 
+    * medicine 
+    * personal equip. repair 
+    * robot interface/repair 
+    * security 
+    * vehicle repair 
+* Fate Points  1
+* Character Points  5
+* Advantages: None
+* Disadvantages: Debt (R2), you need to pay protection
+  to keep yourself out of prison; Enemy (R2), you're
+  a known cyberjacker and thief, suspected of worse
+  crimes, and wanted by most police
+* Special Abilities: See cybernetics equipment
+* Equipment: SuperSight (Enhanced Sense: Sight (R1), +1 
+  to sight-based rolls); cyberarm (Increased 
+  Attribute (R2), +2 to Strength with Limitation Ability
+  Loss (R1), right arm only); blaster pistol (damage 5D;
+  range 20/50/150; ammo 12) with 2 spare energy cells
+  (ammo 12 each); med-kit with cybertools (+1D to
+  medicine rolls and allows performance of Cybernetics
+  surgery; includes spare supplies); cred-key
+* Description: You used to zipyank other steelskins and
+  taking the goods back to the chopshop. Then the cutter
+  got slagged, and they were gonna close you down. But
+  you got new skills fast and now you're the cutter.
+* Funds 3D
+* Credits  525
+* Strength Damage  2D 
+* Move  10
+* Body Points  31
+* Wound Level: Body Points Range
+    * Stunned: 18-24
+    * Wounded: 12-17
+    * Severely Wounded: 6-11
+    * Incapacitated: 3-5
+    * Mortally Wounded: 1-2
+    * Dead: 0
+
+
+### Demolitions Expert ###
+
+* Character Name: 
+* Player Name: 
+* Occupation: Demolitions Expert 
+* Species: Human (mutant)  
+* Gender:
+* Age: 
+* Height:  
+* Weight: 
+* Physical Description: 
+* Agility  3D
+    * brawling 
+    * dodge 
+    * ﬁrearms
+    * running 
+    * sleight of hand 
+    * throwing 
+* Strength  3D
+    * climb/jump 
+* Knowledge  2D+2
+    * bureaucracy 
+    * business 
+    * intimidation 
+    * security regulations 
+    * streetwise 
+    * survival 
+* Metaphysics  0D
+* Mechanical  2D
+    * comm 
+    * exoskeleton operation
+    * gunnery 
+    * navigation 
+    * piloting 
+    * sensors 
+    * shields
+    * vehicle operation 
+* Perception  3D+2
+    * artist 
+    * bargain 
+    * command 
+    * con 
+    * forgery 
+    * gambling 
+    * hide 
+    * investigation 
+    * know-how 
+    * persuasion 
+    * search 
+    * sneak 
+* Technical  3D+2
+    * armor repair 
+    * comp. interface/repair 
+    * demolitions 
+    * exoskeleton repair 
+    * ﬁrearms repair 
+    * ﬂight sys. repair 
+    * gunnery repair 
+    * medicine 
+    * personal equip. repair 
+    * robot interface/repair 
+    * security 
+    * vehicle repair 
+* Fate Points  1
+* Character Points  5
+* Advantages: None
+* Disadvantages: Quirk (R3), you're talkative and
+  every round you need to be quiet is a Very Difficult
+  willpower roll (does not count as an action)
+* Special Abilities: Fast Reactions (R1), +1D to Perception 
+  when determining initiative and get 1 additional
+  action 3 times per adventure
+* Equipment: Malleable explosive with timing chips
+  (damage 6D; 10 uses); syntheleather jacket (Armor
+  Value +2 ); work laser tool (damage 1D); connecting
+  wires; cred-key
+* Description: Something about your heritage makes
+  you little different from other members of your species.
+  Maybe it's because you're good at blowing things up,
+  but others contend it's because you talk too much.
+* Funds 3D
+* Credits  525
+* Strength Damage  2D 
+* Move  10
+* Body Points  32
+* Wound Level: Body Points Range
+    * Stunned: 19-25
+    * Wounded: 12-18
+    * Severely Wounded: 9-11
+    * Incapacitated: 3-8
+    * Mortally Wounded: 1-2
+    * Dead: 0
+
+
+### Hard Warrior ###
+
+* Character Name: 
+* Player Name: 
+* Occupation: Hard Warrior 
+* Species: Human  
+* Gender:
+* Age: 
+* Height:  
+* Weight: 
+* Physical Description: 
+* Agility  4D
+    * brawling 
+    * dodge 
+    * ﬁrearms
+    * ﬂying/0-G 
+    * melee combat 
+    * running 
+    * throwing 
+* Strength  4D
+    * climb/jump 
+    * lift 
+    * stamina 
+    * swim 
+* Knowledge  2D+1
+    * aliens 
+    * astrography 
+    * intimidation 
+    * languages 
+    * scholar 
+    * streetwise 
+    * survival 
+    * willpower 
+* Metaphysics  0D
+* Mechanical  2D+2
+    * comm 
+    * exoskeleton operation
+    * gunnery 
+    * navigation 
+    * piloting 
+    * sensors 
+    * shields
+    * vehicle operation 
+* Perception  2D+2
+    * command 
+    * persuasion 
+    * search 
+    * sneak 
+* Technical  2D+1
+    * armor repair 
+    * comp. interface/repair 
+    * demolitions 
+    * exoskeleton repair 
+    * ﬁrearms repair 
+    * ﬂight sys. repair 
+    * gunnery repair 
+    * medicine 
+    * personal equip. repair 
+    * vehicle repair 
+* Fate Points  1
+* Character Points  5
+* Advantages: None
+* Disadvantages: None
+* Special Abilities: None
+* Equipment: Serrated combat knife (damage +1D+2)
+  with compass in handle; plasteel breastplate (Armor
+  Value +1D+2); makeshift greaves on arms and legs
+  (Armor Value +1); medium semi-automatic (damage 4D; 
+  range 8/13/35; ammo 17); med-kit (+1D
+  to medicine rolls; includes spare supplies); cred-key;
+  miscellaneous supplies and keepsakes
+* Description: From war zone to gang to battleﬁeld,
+  you know nothing but ﬁghting. You take the money
+  to keep yourself in ammo and medical supplies, but
+  you give no one loyalty except yourself.
+* Funds 3D
+* Credits  525
+* Strength Damage  2D 
+* Move  10
+* Body Points  35
+* Wound Level: Body Points Range
+    * Stunned: 21-28
+    * Wounded: 15-20
+    * Severely Wounded: 7-14
+    * Incapacitated: 3-6
+    * Mortally Wounded: 1-2
+    * Dead:0
+
+
+### Medic ###
+
+* Character Name: 
+* Player Name: 
+* Occupation: Medic 
+* Species: Human  
+* Gender: 
+* Age: 
+* Height:  
+* Weight: 
+* Physical Description: 
+* Agility  2D+2
+    * dodge 
+    * ﬁrearms
+    * running 
+* Strength  2D+1
+    * lift 
+    * stamina 
+* Knowledge  3D+2
+    * aliens 
+    * bureaucracy 
+    * cultures 
+    * languages 
+    * scholar 
+    * survival 
+    * willpower 
+* Metaphysics  0D
+* Mechanical  2D+1
+    * comm 
+    * navigation 
+    * sensors 
+* Perception  3D
+    * bargain 
+    * command 
+    * con 
+    * hide 
+    * investigation 
+    * persuasion 
+    * search 
+* Technical  4D
+    * comp. interface/repair 
+    * medicine 
+    * personal equip. repair 
+    * robot interface/repair 
+* Fate Points  1
+* Character Points  5
+* Advantages: None
+* Disadvantages: Quirk (R1), you can't resist adding
+  a little ﬂair to anything you do
+* Special Abilities: Skill Bonus: Upbeat (R1), +1 bonus
+  to bargain, con, and persuasion totals
+* Equipment: Med-kit (+1D to medicine ﬁrst-aid attempts; 
+  ﬁve uses); personal blaster (damage 3D; range 4/8/12; 
+  ammo 6) with 2 spare energy cells (ammo 6 each); medical 
+  reader (+1D to medicine diagnostic attempts); cred-key
+* Description: With an irresistible personality, most
+  people ﬁnd it hard not to give you your way. That's
+  often come in handy with reluctant patients, especially
+  the macho types with serious injuries.
+* Funds 3D
+* Credits  525
+* Strength Damage  1D 
+* Move  10
+* Body Points  27
+* Wound Level: Body Points Range
+    * Stunned: 16-22
+    * Wounded: 10-15
+    * Severely Wounded: 5-9
+    * Incapacitated: 2-4
+    * Mortally Wounded: 1
+    * Dead: 0
+
+
+### Megacorp Contract Negotiator ###
+
+* Character Name: 
+* Player Name: 
+* Occupation: Megacorp Contract Negotiator 
+* Species: Human  
+* Gender:
+* Age: 
+* Height:  
+* Weight: 
+* Physical Description: 
+* Agility  3D+2
+    * brawling 
+    * dodge 
+    * ﬁrearms
+    * ﬂying/0-G 
+    * melee combat 
+    * running 
+    * throwing 
+* Strength  2D
+    * climb/jump 
+    * lift 
+    * stamina 
+    * swim 
+* Knowledge  3D+1
+    * aliens 
+    * astrography 
+    * bureaucracy 
+    * business 
+    * cultures 
+    * intimidation 
+    * languages 
+    * scholar 
+    * security regulations 
+    * streetwise 
+    * survival 
+    * willpower 
+* Metaphysics  0D
+* Mechanical  3D
+    * comm 
+    * exoskeleton operation
+    * gunnery 
+    * navigation 
+    * piloting 
+    * sensors 
+    * shields
+    * vehicle operation 
+* Perception  3D
+    * bargain 
+    * con 
+    * forgery 
+    * hide 
+    * investigation 
+    * persuasion 
+    * search 
+    * sneak 
+* Technical  3D
+    * armor repair 
+    * comp. interface/repair 
+    * demolitions 
+    * exoskeleton repair 
+    * ﬁrearms repair 
+    * ﬂight sys. repair 
+    * gunnery repair 
+    * medicine 
+    * personal equip. repair 
+    * robot interface/repair 
+    * security 
+    * vehicle repair 
+* Fate Points  1
+* Character Points  5
+* Advantages: Cultures (R4), you've got extensive knowledge 
+  about many cultures, enough to help you ﬁt in
+  and make ﬁrst contact go smoother; Patron (R4), your
+  employer keeps you well informed and supplied
+* Disadvantages: Advantage Flaw (R1), your employer
+  often lies to get you to take a job; Employed (R3), your
+  employer dictates your assignments; Infamy (R2), you
+  are well known and rarely well liked by those in other
+  corporations and in many local space ﬂeets; Quirk (R2),
+  you're a snob to people working for other corporations -- 
+  unless you need them for something
+* Special Abilities: None
+* Equipment: Slick-looking Plastovar suit (Armor Value +1D+1); 
+  medium semi-automatic (damage 4D; range 8/13/35; ammo 17) 
+  plus 2 extra clips (ammo 10 each); armored briefcase (damage 
+  resistance total 21) with blank contracts; cred-key; corporate 
+  contacts might help you get other items needed for the job at hand
+* Description: Working for a multi-planetary organization, 
+  your life is fast paced, complicated, and, aside from
+  the steady pay, unpredictable. One day your negotiating
+  a contract; the next you're quelling a dispute.
+* Funds  3D 
+* Credits  525
+* Strength Damage  2D 
+* Move  10
+* Body Points  27
+* Wound Level: Body Points Range
+    * Stunned: 16-22
+    * Wounded: 10-15
+    * Severely Wounded: 5-9
+    * Incapacitated: 2-4
+    * Mortally Wounded: 1
+    * Dead: 0
+
+
+### Old Scout ###
+
+* Character Name: 
+* Player Name: 
+* Occupation: Old Scout 
+* Species: Human  
+* Gender:
+* Age: 
+* Height:  
+* Weight: 
+* Physical Description: 
+* Agility  2D+2
+    * brawling 
+    * dodge 
+    * ﬁrearms
+    * ﬂying/0-G 
+    * melee combat 
+* Strength  2D+1
+    * climb/jump 
+    * lift 
+    * stamina 
+* Knowledge  3D+2
+    * aliens 
+    * astrography 
+    * intimidation 
+    * languages 
+    * security regulations 
+    * survival 
+    * tactics 
+    * willpower 
+* Metaphysics  0D
+* Mechanical  3D+2
+    * comm 
+    * gunnery 
+    * navigation 
+    * piloting 
+    * sensors 
+    * shields
+    * vehicle operation 
+* Perception  2D+2
+    * command 
+    * con 
+    * investigation 
+    * search 
+    * sneak 
+* Technical  3D
+    * armor repair 
+    * comp. interface/repair 
+    * exoskeleton repair 
+    * ﬁrearms repair 
+    * ﬂight sys. repair 
+    * gunnery repair 
+    * medicine 
+    * personal equip. repair 
+    * vehicle repair 
+* Fate Points  1
+* Character Points  5
+* Advantages: Ship (R4), you have the use of a space
+  service ship
+* Disadvantages: Age (R1), you're almost past your prime;
+  Advantage Flaw (R3), your ship has problems -- see the
+  equipment description; Employed (R2), you only get the
+  use of the ship while you remain in service
+* Special Abilities: Iron Will (R1), +1D to willpower
+  rolls and +2 to default interaction difficulties
+* Equipment: Military scout ship (owned by the military;
+  less-than-mint condition; on any Critical Failure with ship
+  system, the ship shuts down and requires a repair roll for
+  that system against a difficulty of 16 to get it running
+  again); worn Plastovar armor (Armor Value +1D+1);
+  laser pistol (damage 4D; range 25/75/150; ammo 15);
+  standard comlink; standard enviro-suit; cred-key
+* Description: It seems like you've been a scout for years,
+  with no an end in sight. You're heartily sick of regs and
+  reports, but you know you'd be worse off at a desk job
+  or in the brig. You do your job just enough to keep from
+  getting kicked out (and losing the few perks), but you
+  concentrate on your many different "sidelines."
+* Funds 3D
+* Credits  525
+* Strength Damage  1D 
+* Move  10
+* Body Points  28
+* Wound Level: Body Points Range
+    * Stunned: 16-22
+    * Wounded: 11-15
+    * Severely Wounded: 5-10
+    * Incapacitated: 2-4
+    * Mortally Wounded: 1
+    * Dead: 0
+ 
+
+### Security Expert ###
+
+* Character Name: 
+* Player Name: 
+* Occupation: Security Expert 
+* Species: Human  
+* Gender:
+* Age: 
+* Height:  
+* Weight: 
+* Physical Description: 
+* Agility  3D
+    * brawling 
+    * dodge 
+    * ﬁrearms
+    * ﬂying/0-G 
+    * melee combat 
+    * running 
+    * sleight of hand 
+    * throwing 
+* Strength  3D
+    * climb/jump 
+    * lift 
+    * stamina 
+* Knowledge  3D+2
+    * bureaucracy 
+    * business 
+    * cultures 
+    * intimidation 
+    * languages 
+    * security regulations 
+    * streetwise 
+    * tactics 
+    * willpower 
+* Metaphysics  0D
+* Mechanical  2D
+    * comm 
+    * gunnery 
+    * navigation 
+    * piloting 
+    * sensors 
+    * shields
+    * vehicle operation 
+* Perception  3D
+    * command 
+    * con 
+    * forgery 
+    * hide 
+    * investigation 
+    * persuasion 
+    * search 
+    * sneak 
+* Technical  3D+1
+    * comp. interface/repair 
+    * demolitions 
+    * ﬁrearms repair 
+    * personal equip. repair 
+    * robot interface/repair 
+    * security 
+    * vehicle repair 
+* Fate Points  1
+* Character Points  5
+* Advantages: None
+* Disadvantages: Enemy (R1), you stumbled across some
+  information you shouldn't have (you're not sure what),
+  and someone wants to make sure you never reveal it; 
+  Advantage Flaw: Skills (R3), you must spend a round doing
+  nothing else but concentrating before using your security,
+  demolitions, or computer interface/repair skills (do not get
+  preparing bonus)
+* Special Abilities: Skill Minimum (R1), your skill totals for
+  security, demolitions, and computer interface/repair will always
+  be a minimum of 3 times the number before the D
+* Equipment: Hand computer with communication link,
+  various connectors as well as data wands containing common 
+  security protocols and cracking programs (+1D to security 
+  and security regulations attempts); personal blaster
+  (damage 3D; range 4/8/12; ammo 6) with 2 spare energy
+  cells (ammo 6 each); cred-key
+* Description: You've always had a knack for breaking and
+  entering -- and preventing others from doing the same.
+  Unfortunately, ever since you stumbled across someone's
+  deep, dark secret, you always get nervous before attempting
+  any security procedures.
+* Funds 3D
+* Credits  525
+* Strength Damage  2D 
+* Move  10
+* Body Points  29
+* Wound Level: Body Points Range
+    * Stunned: 17-23
+    * Wounded: 11-16
+    * Severely Wounded: 5-10
+    * Incapacitated: 2-4
+    * Mortally Wounded: 1
+    * Dead:0
+
+
+### Technical Wiz ###
+
+* Character Name: 
+* Player Name: 
+* Occupation: Technical Wiz 
+* Species: Human  
+* Gender: 
+* Age: 
+* Height:  
+* Weight: 
+* Physical Description: 
+* Agility  2D+2
+    * brawling 
+    * dodge 
+    * ﬁrearms
+    * ﬂying/0-G 
+    * melee combat 
+    * sleight of hand 
+    * throwing 
+* Strength  2D
+    * climb/jump 
+    * lift 
+* Knowledge  3D
+    * astrography 
+    * business 
+    * intimidation 
+    * languages 
+    * scholar 
+    * security regulations 
+    * streetwise 
+* Metaphysics  0D
+* Mechanical  3D
+    * comm 
+    * gunnery 
+    * piloting 
+    * sensors 
+    * shields
+    * vehicle operation 
+* Perception  3D+1
+    * bargain 
+    * con 
+    * forgery 
+    * gambling 
+    * hide 
+    * investigation 
+    * persuasion 
+    * search 
+    * sneak 
+* Technical  4D
+    * armor repair 
+    * comp. interface/repair 
+    * demolitions 
+    * exoskeleton repair 
+    * ﬁrearms repair 
+    * ﬂight sys. repair 
+    * gunnery repair 
+    * personal equip. repair 
+    * robot interface/repair 
+    * security 
+    * vehicle repair 
+* Fate Points  1
+* Character Points  5
+* Advantages: None
+* Disadvantages: Age (R1), you are slightly younger
+  than typical, so people don't always take you seriously
+* Special Abilities: Skill Bonus: Observant (R1), +1
+  to investigation, search, and sensors totals
+* Equipment: Repair and diagnostic kit (+1D to repair
+  attempts; one use per skill); blaster pistol (damage 5D; 
+  range 20/50/150; ammo 12) with 1 spare energy cell (ammo 12); 
+  syntheleather jacket (Armor Value +2); cred-key
+* Description: Quick to spot and diagnose a problem,
+  you can ﬁx anything. You're always looking for new
+  jobs that can help you keep up on the latest technology 
+  or improve older versions.
+* Funds 3D
+* Credits  525
+* Strength Damage  1D 
+* Move  10
+* Body Points  25
+* Wound Level: Body Points Range
+    * Stunned: 15-20
+    * Wounded: 10-14
+    * Severely Wounded: 5-9
+    * Incapacitated: 2-4
+    * Mortally Wounded: 1
+    * Dead: 0
+
+
+### Templates ###
+
+* Character Name: 
+* Player Name: 
+* Occupation: 
+* Species:  
+* Gender:
+* Age: 
+* Height:  
+* Weight: 
+* Physical Description: 
+* Agility 
+    * acrobatics 
+    * brawling 
+    * dodge 
+    * ﬁrearms
+    * ﬂying/0-G 
+    * melee combat 
+    * missile weapons 
+    * riding 
+    * running 
+    * sleight of hand 
+    * throwing 
+* Strength 
+    * climb/jump 
+    * lift 
+    * stamina 
+    * swim 
+* Knowledge 
+    * aliens 
+    * astrography 
+    * bureaucracy 
+    * business 
+    * cultures 
+    * intimidation 
+    * languages 
+    * scholar 
+    * security regulations 
+    * streetwise 
+    * survival 
+    * tactics 
+    * willpower 
+* Metaphysics 
+    * channel 
+    * sense 
+    * transform 
+* Mechanical 
+    * comm 
+    * exoskeleton operation
+    * gunnery 
+    * navigation 
+    * piloting 
+    * sensors 
+    * shields
+    * vehicle operation 
+* Perception 
+    * artist 
+    * bargain 
+    * command 
+    * con 
+    * forgery 
+    * gambling 
+    * hide 
+    * investigation 
+    * know-how 
+    * persuasion 
+    * search 
+    * sneak 
+* Technical 
+    * armor repair 
+    * comp. interface/repair 
+    * demolitions 
+    * exoskeleton repair 
+    * ﬁrearms repair 
+    * ﬂight sys. repair 
+    * gunnery repair 
+    * medicine 
+    * personal equip. repair 
+    * robot interface/repair 
+    * security 
+    * vehicle repair 
+* Advantages: 
+* Disadvantages: 
+* Special Abilities: 
+* Funds 
+* Credits 
+* Fate Points 
+* Character Points 
+* Strength Damage  
+* Move
+* Body Points 
+* Wound Level: Body Points Range
+    * Stunned: 
+    * Wounded: 
+    * Severely Wounded: 
+    * Incapacitated: 
+    * Mortally Wounded: 
+    * Dead: 
+
+
+### Weapons and Equipment Template ###
+
+* Character Name: 
+* Armor
+    * Type: AV (Notes)
+* Weapons
+    * Type: Dmg.: Range (S/M/L)
+    * Ammo
+* Cybernetics
+    * Type (Notes)
+* Other Equipment
+    * Type (Notes)
+* Personality: 
+* Objectives: 
+* Native Language: 
+* Other Information: 
 
 
 D6 Reference Sheet

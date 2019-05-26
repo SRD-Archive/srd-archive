@@ -203,114 +203,56 @@ populace of the planet, which can be a useful place to start.
 Likewise, the "Travel and Combat" chapter of that book contains a 
 bounty of ideas for space-faring, authorities and regulations.
 
-
-
-
-
-
-
-species, go through thet'Character Options” chapter selec ' .
-
-
-
-
-
-
-
-LUM
-
-”all"!!! your 0W1]
-SBBBiBS Packages
-
-
-
-
-Step 2: Once you have several key features for your new"
-
+Step 2: Once you have several key features for your new
+species, go through the "Character Options” chapter selecting
 Disadvantages, Advantages, and Special Abilities.
-'
+
 Step 3: Determine the species package cost. first, add
-together the ranks in the Disadvantages. Then, total the ranks:
-
-of the Advantages and total point cost of the Special Ab'
-ties. Then, subtract the Disadvantages from the total of the
-Advantages and Special Abilities. If the final number is zer
-the package has no cost. If the final number is more than 26
+together the ranks in the Disadvantages. Then, total the ranks
+of the Advantages and total point cost of the Special Abties. 
+Then, subtract the Disadvantages from the total of the
+Advantages and Special Abilities. If the final number is zero,
+the package has no cost. If the final number is more than zero,
 than this is how many creation points or skill dice the packs
-costs. If the number is less than zero, then this is how man}?
-
+costs. If the number is less than zero, then this is how many
 extra creation points or skill dice the character starts with.
-The packages created for this book considered Special Ab
-ties as uncommon (and thus having each additional ranks cost
-same as the first). This is recommended to prevent some ab,
-ofthe species packages. Ifthe gamemas
-chooses to have common Special Ali
+
+The packages created for this book considered Special Abilities
+as uncommon (and thus having each additional ranks cost
+same as the first). This is recommended to prevent some abuse
+ofthe species packages. 
+
+If the gamemaster chooses to have common Special Alities (where 
+additional ranks cost a mere one point each), he sholbe certain 
+that the Disadvantages come up frequently during adventures. (The 
+gamemaster also it need to refigure any published package costs.)
 
 
-
-ties (where additional ranks cost
-
-
-
-a mere one point each), he sho
-
-
-
-be certain that the Disadvanta
-
-
-
-
-come up frequentlyduringaclv
-tures. (The gamemaster also it
-need to refigure any publish
-package costs.)
-
-
-Step 4: If desired, add arts-s
-bute minimums or maximum
-recommended skills, recommen
-
-
-
-optional Disadvantages, Adv
-
-
-
-
-
-rages, and Special Abilities, a 
-
-
-
-force some uniformity in membe IV
-Remember that, unless othem'
-specified, all characters attribut
-
-
-
-
-any other desired notes. This
-an optional step, but one that cats
-
-must have at least 1D (0D f
-Extranormal attributes), a
-a maximum of 5D; attribut ?
-
-,
-
-.°.
-
-
-
-sented by the lncreasedAttribu
-
-
-
+Step 4: If desired, add artribute minimums or maximums, recommended 
+skills, recommended optional Disadvantages, Advantages, and Special 
+Abilities, a any other desired notes. This an optional step, but 
+one that can force some uniformity in membeers. Remember that, unless 
+otherwise specified, all characters attribut must have at least 1D 
+(0D for Extranormal attributes), and a maximum of 5D; attributes 
+greather than this should be represnted by the Increased Attributes
 Special Ability.
 
-Accessing: Ili Space Aliensj file EB
-Hates: Better take notes.
+
+Hyposapient Species
+===================
+
+Bassilisks
+----------
+
+When the basilisks were first discovered on their home planet, 
+explorersscoffed and called them nothing more than a large 
+six-legged crocodile or a horse with scales. But its mundane 
+apperance his a hinaque adapatioan that makes it a deadly predator.
+
+
+
+
+
 
 The creature's mysterious radiation emitter
 and physical weapons make it especially prized in
