@@ -1,4 +1,4 @@
-# Knave in Markdown
+# Knave
 
 This is a markdown adaptation of Ben Milton's Knave (cc-by).
 
