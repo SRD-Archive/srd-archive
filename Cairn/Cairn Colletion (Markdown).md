@@ -1,4 +1,4 @@
-# Cairn Complete - Markdown
+# Cairn Collection (Markdown)
 
 A markdown conversion abd compilation of Cairn, the Cairn Beastiary,
 Simple Backgrounds, all by Yochai Gal (CC-BY-SA 4.0 found at
