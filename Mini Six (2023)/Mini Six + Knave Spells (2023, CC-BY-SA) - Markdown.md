@@ -49,12 +49,9 @@ For example:
 
 1. Distribute 11 dice between the four attributes. No attribute may
 have less than one nor more than four dice assigned to it.
-
 2. Distribute 7 dice to skills and perks. No skill may have more than
 two dice assigned to it at character creation.
-
 3. Select Complications.
-
 4. Choose gear.
 
 ## Attributes
@@ -142,15 +139,12 @@ inspiration. The cost listed next to each is in whole skill dice.
 * Dwarf (1): You’re long lived, you can see in the dark, you receive +2
 to smithing or any one other craft skill. Your maximum Might is 5d6 but
 your maximum Agility is 3d6.
-
 * Elf (2): You’re long lived, you can see in the dark, you receive a +1
 on all ranged attacks, Your maximum Agility is 5d6 but your maximum
 Might is only 3d6.
-
 * Reptoid (2): You’re green and scaly, this gives a +1 Armor Value.You
 also have claw-tipped fingers which grant you +1 damage on unarmed
 attacks.
-
 * Robot (4): You don’t eat, breathe, or sleep. You can have your memory
 wiped. You don’t heal but you can be repaired. As long as your memory
 core survives you may be rebuilt if destroyed.
@@ -162,35 +156,28 @@ can help reduce suspicions or distract others depending on the given
 situation. Once per session, the character can double one roll for any
 action related to their appearance. Examples include seduction, a
 subtle bluff or simply distracting guards.
-
 * Daredevil (2): Once per session you may throw caution to the wind
 taking extremely reckless action that may result in your own death.
 Your dodge, block, and parry are reduced by half however your Soak
 score is doubled when resisting damage for one round.
-
 * Destiny (2): Characters with Destiny feel they are fated to some
 grand purpose. Once per game session a character may declare a failed
 roll is not part of their destiny and immediately reroll to get a
 different result.
-
 * Favors (1): People owe you. Once per session, you can call in one of
 those debts. This can take the form of information, temporary use of
 equipment (borrowing a truck, plow, pump action shotgun, etc.), a place
 to hide someone or something for a brief time, or any similar event.
-
 * Lucky (2): Once per session you can declare you are feeling lucky.
 Double the result of your next roll.
-
 * Perceptive (2): The GM may reveal small clues to you that others
 would miss. Once per session, a character may announce they are
 studying an object or situation and the GM may reveal something that
 would be impossible for a normal character to determine. If nothing is
 revealed this perk may be used again.
-
 * Recall (1): Any time the character chooses to recall anything he has
 experienced, the GM must tell him the truth in as much detail as the
 character would have been aware.
-
 * Sidekick (3): You have a boon companion willing to join in your
 adventures. This character only gets 9d6 to spend on attributes and 4d6
 to spend on starting skills. They normally only receive 1 to 3 XP per
@@ -200,20 +187,14 @@ session, but never as many as their fearless leader.
 
 * Energy Blast (5): You can throw bolts of pure energy. These do 4d6
 damage and use your Throwing skill.
-
 * ESP (3): You can read minds. Targets resist using their Charm against
 your Wits.
-
 * Flying (4): You can fly (at twice your move).
-
 * Regeneration (3): You heal 1 wound level/hour.
-
 * Sorcerer (3): You’re magically sensitive. Magic spells really work
 for you.
-
 * Telekinesis (3): You can move stuff with your mind. Make a Wits roll
 and treat it like the Lift skill. People resist using their Might.
-
 * X-Ray Vision (3): you can see through 1 foot of material.
 
 ## Complications
@@ -224,45 +205,45 @@ creation; however, anytime one comes up in play the character earns one
 XP. Characters may not earn more than one XP per complication per
 session regardless of how often it comes up.
 
-* Age: You’re either really old or really young. In addition to all the
-social issues caused by your age, the GM might choose to impose a
-penalty to an action based on your character’s age. Grandpa throws a
-hip, a weird dude offers you candy on the street, and it's hard for
-either of you to seduce the supermodel at the bar. Whenever your age
+**Age:** You’re either really old or really young. In addition to all 
+the social issues caused by your age, the GM might choose to impose a 
+penalty to an action based on your character’s age. Grandpa throws a 
+hip, a weird dude offers you candy on the street, and it's hard for 
+either of you to seduce the supermodel at the bar. Whenever your age 
 causes you great difficulty receive one XP.
 
-* Crazy: You have issues that are guaranteed to put the therapist’s
-kids through college. Could be you’re just really paranoid, or maybe
-just a touch too OCD. That fear of almost everything could also be a
-problem. Then again maybe you really are Napoleon and everyone else is
-wrong, good luck convincing anyone else since you're a lunatic. Earn
+**Crazy:** You have issues that are guaranteed to put the therapist’s 
+kids through college. Could be you’re just really paranoid, or maybe 
+just a touch too OCD. That fear of almost everything could also be a 
+problem. Then again maybe you really are Napoleon and everyone else is 
+wrong, good luck convincing anyone else since you're a lunatic. Earn 
 one XP any time your psychosis really gets in the way.
 
-* Enemies: Someone doesn’t like you at all. And they are a credible
-threat. Maybe they have more friends than you, or maybe they’re just
-bigger and meaner. Either way, you have your own personal bully. You
+**Enemies:** Someone doesn’t like you at all. And they are a credible 
+threat. Maybe they have more friends than you, or maybe they’re just 
+bigger and meaner. Either way, you have your own personal bully. You 
 earn the bonus XP when they complicate your life.
 
-* Gremlins: You have a special touch. Specifically, the kind that
-breaks machines. You’re no good with engines, electronics, magical
-gizmos, or any other trinket. If it’s a device, you can’t trust it.
+**Gremlins:** You have a special touch. Specifically, the kind that 
+breaks machines. You’re no good with engines, electronics, magical 
+gizmos, or any other trinket. If it’s a device, you can’t trust it. 
 Earn one XP whenever the GM takes his one free shot on you this way.
 
-* Personal Code: You live by a creed and you will not cross that line.
-Maybe you won’t fight an unarmed opponent and always make sure they
-know it's coming or maybe you never tell a lie. No matter how you
-define it, your code has to mean something. Some caped crusaders won’t
-kill, paladins won’t resort to deception, and sometimes there is even
-honor among thieves. Earn one XP whenever your code complicates your or
+**Personal Code:** You live by a creed and you will not cross that 
+line. Maybe you won’t fight an unarmed opponent and always make sure 
+they know it's coming or maybe you never tell a lie. No matter how you 
+define it, your code has to mean something. Some caped crusaders won’t 
+kill, paladins won’t resort to deception, and sometimes there is even 
+honor among thieves. Earn one XP whenever your code complicates your or 
 your friends’ success.
 
-* Skeletons in the Closet: You earn the bonus XP whenever your past
+**Skeletons in the Closet:** You earn the bonus XP whenever your past 
 comes back to haunt you.
 
-* Unlucky in Love: Things just don’t work out for some folks. You earn
+**Unlucky in Love:** Things just don’t work out for some folks. You earn
 bonus XP when your love life falls apart in a meaningful way.
 
-* Unlucky in Money: You have a hard time holding onto money. You earn
+**Unlucky in Money:** You have a hard time holding onto money. You earn
 the bonus XP when you lose a significant amount of cash through your
 own foolishness or bad luck and have nothing to show for it.
 
@@ -546,22 +527,23 @@ The Target Number, or TN, is the number needed to successfully hit the
 target. The base target number of an attack is based on the target’s
 Defense score.
 
-* Range: Add the range modifier to the Target Number in all cases
-(Point Blank / Hand-to-Hand -5, Short +0, Medium +5, Long +10). See the
+**Range:** Add the range modifier to the Target Number in all cases 
+(Point Blank / Hand-to-Hand -5, Short +0, Medium +5, Long +10). See the 
 sample gear list for ranges.
 
-Cover: If the target is behind at least 50% cover, add +5 to the Target
-Number. Add +10 for 75% cover. It’s impossible to hit a target behind
-100% cover. Darkness can also be considered as cover at the GM’s whim.
+**Cover:** If the target is behind at least 50% cover, add +5 to the 
+Target Number. Add +10 for 75% cover. It’s impossible to hit a target 
+behind 100% cover. Darkness can also be considered as cover at the GM’s 
+whim.
 
 ## Defenses
 
-Characters calculate their Dodge, Block, and Parry prior to the game.
-This static number becomes the attacker’s TN modified as noted above.
-To calculate each, multiply the number of dice a character has in the
-relevant skill by 3 and add any plusses to the total. Then note it down
-on the character sheet. For example, Sir Baelen has a Sword skill of
-5D+1. His static Parry score would become 16 ((5 x 3)+1) when armed
+Characters calculate their Dodge, Block, and Parry prior to the game. 
+This static number becomes the attacker’s TN modified as noted above. 
+To calculate each, multiply the number of dice a character has in the 
+relevant skill by 3 and add any plusses to the total. Then note it down 
+on the character sheet. For example, Sir Baelen has a Sword skill of 
+5D+1. His static Parry score would become 16 ((5 x 3)+1) when armed 
 with a sword.
 
 * Block = (Brawling skill dice x 3) + plusses.
@@ -571,8 +553,8 @@ with a sword.
 magical, super-tech, or other armor bonus. (These bonuses will depend
 on the setting or game. None are detailed in Bare Knuckle Edition.)
 
-Full Dodge: If the character does nothing except dodge until his next
-turn they will add 10 to their Dodge score, and apply range and cover
+Full Dodge: If the character does nothing except dodge until his next 
+turn they will add 10 to their Dodge score, and apply range and cover 
 as usual. This result is useful against any number of attacks.
 
 ## Resisting Damage
@@ -662,12 +644,10 @@ is damaged.
 
 * Maneuverability: Each time this is affected the vehicle loses 1d6.
 This can go negative becoming a penalty to the driver’s skill roll.
-
 * System Damaged: Randomly select a vehicle’s system and it either
 becomes broken or loses 1d6 from its rating (if applicable). Examples
 include communications/radio, sensors, shielding, sail, rigging, armor,
 etc.
-
 * Structural Damage: The vehicle receives one wound level. Treat these
 like character wound levels. Mortally wounded vehicles stop functioning
 and “dead” vehicles are considered destroyed.
