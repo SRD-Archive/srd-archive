@@ -1,21 +1,23 @@
 # Mini Cairn Player's Guide
 
+**Cairn** is an adventure game for one facilitator (the **Warden**) and 
+at least one other player. Players act as hardened adventurers 
+exploring a dark & mysterious Wood filled with strange folk, hidden 
+treasure, and unspeakable monstrosities.
+
+## Acknowledgements
+
 **Cairn** is licensed under CC-BY-SA 4.0 by Yochai Gal. 
 https://github.com/yochaigal/cairn. **Classic Classes** by Danger is 
 Real is licensed under CC-BY-SA 4.0 
 https://dangerisreal.itch.io/classic-classes-for-cairn. **Leveling Up** 
 and **Advanced Combat Options** by Adam Hensley, from the Cairn 
-Adventurer's Guide licensed under CC-BY-SA 4.0. Any rules marked 
-*Optional:* are my own additions to the oridinal text.
+Adventurer's Guide licensed under CC-BY-SA 4.0. 
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and
-at least one other player.
+Any rules marked *Optional:* additions new to the Cairn Player's 
+Handbook.
 
-Players act as hardened adventurers exploring a dark & mysterious Wood
-filled with strange folk, hidden treasure, and unspeakable
-monstrosities.
-
-## Character Creation
+# Character Creation
 
 **Name, Background & Traits**
 
@@ -43,24 +45,24 @@ STR**, **12 DEX** and **13** **WIL**.
 
 ## Hit Protection
 
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which
-reflects their ability to avoid damage in combat. HP does not indicate
-a character's health or fortitude; nor do they lose it for very long
-(see **Healing**). If an attack takes a PC's HP exactly to 0, the
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which 
+reflects their ability to avoid damage in combat. HP does not indicate 
+a character's health or fortitude; nor do they lose it for very long 
+(see **Healing**). If an attack takes a PC's HP exactly to 0, the 
 player must roll on the **Scars** table.
 
 ## Inventory
 
-Characters have a total of 10 inventory slots: a backpack with six
-slots, one slot for each hand, and two slots for their upper body (such
-as the belt, chest, or head). The backpack can also double as an
+Characters have a total of 10 inventory slots: a backpack with six 
+slots, one slot for each hand, and two slots for their upper body (such 
+as the belt, chest, or head). The backpack can also double as an 
 emergency sleeping bag but only if emptied of its contents.
 
-Most items take up one slot, and small items can be bundled together.
+Most items take up one slot, and small items can be bundled together. 
 Slots are abstract and can be rearranged per the Warden's discretion.
 
-**Bulky** items take up two slots and are typically two-handed or
-awkward to carry. Anyone carrying a full inventory (e.g. filling all 10
+**Bulky** items take up two slots and are typically two-handed or 
+awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 
 slots) is reduced to 0 HP.
 
 A PC cannot carry more items than their inventory allows. Carts (which
@@ -169,7 +171,7 @@ list of *Optional Gear Packages*.
 
 * 1-3: None
 * 4-14: Brigandine
-* 5-19: Chasinmail
+* 5-19: Chainmail
 * 20: Plate
 
 **Helmets & Shields**
@@ -219,7 +221,7 @@ list of *Optional Gear Packages*.
 6. Cook Pots
 7. Crowbar
 8. Drill (Manual)
-9. FishingRod
+9. Fishing Rod
 10. Glue
 
 **Trinkets**
@@ -257,7 +259,7 @@ Roll d100 and compare to *100 Spells* section.
 * Chainmail (2 Armor, bulky): 40
 * Plate (3 Armor, bulky): 60
 
-#### Weapons
+**Weapons**
 
 * Dagger, Cudgel, Sickle, Staff, etc. (d6 damage): 5
 * Spear, Sword, Mace, Axe, Flail, etc. (d8 damage): 10
@@ -266,7 +268,7 @@ Roll d100 and compare to *100 Spells* section.
 * Bow (d6 damage, bulky): 20
 * Crossbow (d8 damage, bulky): 30
 
-#### Gear & Tools
+**Gear & Tools**
 
 * Air Bladder: 5
 * Bellows: 10
@@ -338,20 +340,20 @@ lifting gates, bending bars, resisting poison, etc.
 * **Dexterity (DEX):** Used for saves requiring poise, speed, and
 reflexes like dodging, climbing, sneaking, balancing, etc.
 
-* **Willpower (WIL):** Used for saves to persuade, deceive, interrogate,
-intimidate, charm, provoke, manipulate spells, etc.
+* **Willpower (WIL):** Used for saves to persuade, deceive, 
+interrogate, intimidate, charm, provoke, manipulate spells, etc.
 
 **Saves**
 
-A save is a roll to avoid bad outcomes from risky choices and
-circumstances. PCs roll a d20 for an appropriate ability score. If they
-roll_equal to or under that ability score_, they pass. Otherwise, they
+A save is a roll to avoid bad outcomes from risky choices and 
+circumstances. PCs roll a d20 for an appropriate ability score. If they 
+roll_equal to or under that ability score_, they pass. Otherwise, they 
 fail. A 1 is always a success, and a 20 is always a failure.
 
-**Example:** _Bea encounters a group of heavily-armed Goblins standing
-guard before a tunnel entrance. Her player carefully plots a course,
-recognizing that her 13 DEX makes sneaking past the guards the best
-option. She rolls a d20, and resulting in a 10 – a success!_
+**Example:** *Bea encounters a group of heavily-armed Goblins standing 
+guard before a tunnel entrance. Her player carefully plots a course, 
+recognizing that her 13 DEX makes sneaking past the guards the best 
+option. She rolls a d20, and resulting in a 10 – a success!*
 
 **Advantage and Disadvantage**
 
@@ -364,11 +366,26 @@ roll) or **disadvantage** (where a character rolls two d20 and uses the
 lower roll), it can be used by wardens to provide easy nuance to to 
 saves.
 
-**Deprivation & Fatigue**
+**Deprivation & Fatigue** 
 
-A PC **deprived** of a crucial need (such as food or rest) is unable to
-recover HP or ability scores. Anyone deprived for more than a day adds
-**Fatigue## Advanced Combat Options
+A PC **deprived** of a crucial need (such as food or rest) is unable to 
+recover HP or ability scores. Anyone deprived for more than a day adds 
+**Fatigue** to their inventory, one for each day. Each Fatigue occupies 
+one slot and lasts until they are able to recuperate (such as a full 
+night's rest in a safe spot).  
+
+PCs can also gain Fatigue by **casting spells** or through events in 
+the fiction.
+
+**Healing**  
+
+Resting for a few moments and having a drink of water restores lost HP 
+but leaves the party exposed. Ability loss can usually be restored with 
+a week's rest facilitated by a healer or other appropriate source of 
+expertise. Some of these services may be free, while more expedient or 
+magical means of recovery may come at a cost.
+
+## Advanced Combat Options
 
 **Healing**
 
@@ -376,7 +393,10 @@ Resting for a few moments and having a drink of water restores lost HP
 but leaves the party exposed. Ability loss can usually be restored with
 a week's rest facilitated by a healer or other appropriate source of
 expertise. Some of these services may be free, while more expedient or
-magical means of recovery may come at a cost.
+magical means of recovery may come at a cost. 
+
+Optional: For one stat, one level of ability loss can be restored if a 
+player passes a corresponding save.
 
 **Armor**
 
@@ -517,11 +537,15 @@ to account for Bea's leather armor, leaving Bea with 2 HP remaining.*
 If multiple attackers target the same foe, roll all damage dice and
 keep the single highest result.
 
+Optional: For any attacker whose roll is not used, they may roll an 
+approprate save (STR for melee, DEX for ranged, WIL for magic) to add a 
++1 to the damage.
+
 **Attack Modifiers**
 
 If fighting from a position of weakness (such as through cover or with
 bound hands), the attack is **impaired** and the attacker must roll 1d4
-damage_regardless_of the attacks damage die.
+damage regardless of the attacks damage die.
 
 If fighting from a position of advantage (such as against a helpless
 foe or through a daring maneuver), the attack is **enhanced** ,
@@ -629,10 +653,11 @@ to account for the extra effect.
 * Cold: On a hit, target makes a STR save or next attack is impaired.
 * Thunder: On a hit, target makes a DEX save or can’t move next turn.
 * Necrotic: On a hit, target makes a WIL save or loses next turn.
-* Poison: On a hit, target makes a STR save or 1d4 damage for 1d4 rounds.
+* Poison: On a hit, target makes a STR save or 1d4 damage for 1d4 
+rounds.
 * Disintegration: On a hit, target makes a DEX save vs instant 
-obliteration and the wielder takes 1 fatigue. Exceptionally powerful and 
-rare.
+obliteration and the wielder takes 1 fatigue. Exceptionally powerful 
+and rare.
 
 **Special Materials**
 
@@ -958,7 +983,9 @@ paint. This paint is only visible to you, and can be seen at any
 distance, even through solid objects.
 100. X-Ray Vision: You gain X-Ray vision.
 
-# Simple Backgrounds
+# Advanced Rules
+
+## Simple Backgrounds
 
 **Dwellers of the Underground**
 
@@ -992,10 +1019,7 @@ Fortunately you can consume nearly anything if you have to.
 * Blood Brothers: Being surrounded by at least two other trusted
 warriors bolsters your battle sense, and you always go first.
 
-# Classic Classes for Cairn
-
-Classic Classes is by Danger is Real (CC-BY-SA
-4.0) found at https://dangerisreal.itch.io/classic-classes-for-cairn.
+# Classes
 
 ## Fighter
 
@@ -1231,7 +1255,6 @@ current score, increase that Ability Score by 1.
 Optional: Players gain a point of **Perseverance**, which can be used 
 to remove one **Fatigue**. **Perseverance** is restored when a player 
 recuperates to regain their fatigue. 
-
 
 # Character Sheet
 
