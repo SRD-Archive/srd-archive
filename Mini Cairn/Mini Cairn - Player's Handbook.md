@@ -1,20 +1,20 @@
 # Mini Cairn Player's Guide
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and 
-at least one other player. Players act as hardened adventurers 
-exploring a dark & mysterious Wood filled with strange folk, hidden 
+**Cairn** is an adventure game for one facilitator (the **Warden**) and
+at least one other player. Players act as hardened adventurers
+exploring a dark & mysterious Wood filled with strange folk, hidden
 treasure, and unspeakable monstrosities.
 
 ## Acknowledgements
 
-**Cairn** is licensed under CC-BY-SA 4.0 by Yochai Gal. 
-https://github.com/yochaigal/cairn. **Classic Classes** by Danger is 
-Real is licensed under CC-BY-SA 4.0 
-https://dangerisreal.itch.io/classic-classes-for-cairn. **Leveling Up** 
-and **Advanced Combat Options** by Adam Hensley, from the Cairn 
-Adventurer's Guide licensed under CC-BY-SA 4.0. 
+**Cairn** is licensed under CC-BY-SA 4.0 by Yochai Gal.
+https://github.com/yochaigal/cairn. **Classic Classes** by Danger is
+Real is licensed under CC-BY-SA 4.0
+https://dangerisreal.itch.io/classic-classes-for-cairn. **Leveling Up**
+and **Advanced Combat Options** by Adam Hensley, from the Cairn
+Adventurer's Guide licensed under CC-BY-SA 4.0.
 
-Any rules marked *Optional:* additions new to the Cairn Player's 
+Any rules marked *Optional:* additions new to the Cairn Player's
 Handbook.
 
 # Character Creation
@@ -45,24 +45,24 @@ STR**, **12 DEX** and **13** **WIL**.
 
 ## Hit Protection
 
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which 
-reflects their ability to avoid damage in combat. HP does not indicate 
-a character's health or fortitude; nor do they lose it for very long 
-(see **Healing**). If an attack takes a PC's HP exactly to 0, the 
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which
+reflects their ability to avoid damage in combat. HP does not indicate
+a character's health or fortitude; nor do they lose it for very long
+(see **Healing**). If an attack takes a PC's HP exactly to 0, the
 player must roll on the **Scars** table.
 
 ## Inventory
 
-Characters have a total of 10 inventory slots: a backpack with six 
-slots, one slot for each hand, and two slots for their upper body (such 
-as the belt, chest, or head). The backpack can also double as an 
+Characters have a total of 10 inventory slots: a backpack with six
+slots, one slot for each hand, and two slots for their upper body (such
+as the belt, chest, or head). The backpack can also double as an
 emergency sleeping bag but only if emptied of its contents.
 
-Most items take up one slot, and small items can be bundled together. 
+Most items take up one slot, and small items can be bundled together.
 Slots are abstract and can be rearranged per the Warden's discretion.
 
-**Bulky** items take up two slots and are typically two-handed or 
-awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 
+**Bulky** items take up two slots and are typically two-handed or
+awkward to carry. Anyone carrying a full inventory (e.g. filling all 10
 slots) is reduced to 0 HP.
 
 A PC cannot carry more items than their inventory allows. Carts (which
@@ -340,49 +340,49 @@ lifting gates, bending bars, resisting poison, etc.
 * **Dexterity (DEX):** Used for saves requiring poise, speed, and
 reflexes like dodging, climbing, sneaking, balancing, etc.
 
-* **Willpower (WIL):** Used for saves to persuade, deceive, 
+* **Willpower (WIL):** Used for saves to persuade, deceive,
 interrogate, intimidate, charm, provoke, manipulate spells, etc.
 
 **Saves**
 
-A save is a roll to avoid bad outcomes from risky choices and 
-circumstances. PCs roll a d20 for an appropriate ability score. If they 
-roll_equal to or under that ability score_, they pass. Otherwise, they 
+A save is a roll to avoid bad outcomes from risky choices and
+circumstances. PCs roll a d20 for an appropriate ability score. If they
+roll_equal to or under that ability score_, they pass. Otherwise, they
 fail. A 1 is always a success, and a 20 is always a failure.
 
-**Example:** *Bea encounters a group of heavily-armed Goblins standing 
-guard before a tunnel entrance. Her player carefully plots a course, 
-recognizing that her 13 DEX makes sneaking past the guards the best 
+**Example:** *Bea encounters a group of heavily-armed Goblins standing
+guard before a tunnel entrance. Her player carefully plots a course,
+recognizing that her 13 DEX makes sneaking past the guards the best
 option. She rolls a d20, and resulting in a 10 – a success!*
 
 **Advantage and Disadvantage**
 
-Optional: Cairn likes to keep things simple for saves, where if a 
-character is likely to succeed you let them succeed, and if something 
-is impossible it can’t be done. But there is a lot of space between 
-impossible and inevitable, so while nothing in Cairn incorporates 
-**advantage** (where a character rolls two d20 and uses the higher 
-roll) or **disadvantage** (where a character rolls two d20 and uses the 
-lower roll), it can be used by wardens to provide easy nuance to to 
+Optional: Cairn likes to keep things simple for saves, where if a
+character is likely to succeed you let them succeed, and if something
+is impossible it can’t be done. But there is a lot of space between
+impossible and inevitable, so while nothing in Cairn incorporates
+**advantage** (where a character rolls two d20 and uses the higher
+roll) or **disadvantage** (where a character rolls two d20 and uses the
+lower roll), it can be used by wardens to provide easy nuance to to
 saves.
 
-**Deprivation & Fatigue** 
+**Deprivation & Fatigue**
 
-A PC **deprived** of a crucial need (such as food or rest) is unable to 
-recover HP or ability scores. Anyone deprived for more than a day adds 
-**Fatigue** to their inventory, one for each day. Each Fatigue occupies 
-one slot and lasts until they are able to recuperate (such as a full 
-night's rest in a safe spot).  
+A PC **deprived** of a crucial need (such as food or rest) is unable to
+recover HP or ability scores. Anyone deprived for more than a day adds
+**Fatigue** to their inventory, one for each day. Each Fatigue occupies
+one slot and lasts until they are able to recuperate (such as a full
+night's rest in a safe spot).
 
-PCs can also gain Fatigue by **casting spells** or through events in 
+PCs can also gain Fatigue by **casting spells** or through events in
 the fiction.
 
-**Healing**  
+**Healing**
 
-Resting for a few moments and having a drink of water restores lost HP 
-but leaves the party exposed. Ability loss can usually be restored with 
-a week's rest facilitated by a healer or other appropriate source of 
-expertise. Some of these services may be free, while more expedient or 
+Resting for a few moments and having a drink of water restores lost HP
+but leaves the party exposed. Ability loss can usually be restored with
+a week's rest facilitated by a healer or other appropriate source of
+expertise. Some of these services may be free, while more expedient or
 magical means of recovery may come at a cost.
 
 ## Advanced Combat Options
@@ -393,10 +393,10 @@ Resting for a few moments and having a drink of water restores lost HP
 but leaves the party exposed. Ability loss can usually be restored with
 a week's rest facilitated by a healer or other appropriate source of
 expertise. Some of these services may be free, while more expedient or
-magical means of recovery may come at a cost. 
+magical means of recovery may come at a cost.
 
-Optional: For one stat, one level of ability loss can be restored if a 
-player passes a corresponding save.
+Optional: One level of ability loss can be restored if a player passes 
+a corresponding save after a rest.
 
 **Armor**
 
@@ -537,8 +537,8 @@ to account for Bea's leather armor, leaving Bea with 2 HP remaining.*
 If multiple attackers target the same foe, roll all damage dice and
 keep the single highest result.
 
-Optional: For any attacker whose roll is not used, they may roll an 
-approprate save (STR for melee, DEX for ranged, WIL for magic) to add a 
+Optional: For any attacker whose roll is not used, they may roll an
+approprate save (STR for melee, DEX for ranged, WIL for magic) to add a
 +1 to the damage.
 
 **Attack Modifiers**
@@ -617,31 +617,31 @@ save, as well as a safe destination to run to.
 
 **Weapon Traits**
 
-Below are some optional traits a magical or good quality weapon might 
-have. Sweep, parry, and reach are traits any weapon of that type can 
-have. Any of the other traits should be limited to 1 per rare, special, 
+Below are some optional traits a magical or good quality weapon might
+have. Sweep, parry, and reach are traits any weapon of that type can
+have. Any of the other traits should be limited to 1 per rare, special,
 or magic weapon.
 
-* Sweep: (2 handed weapons only) Make a second attack against an enemy 
-within reach if you roll for maximum damage or your attack reduces the 
+* Sweep: (2 handed weapons only) Make a second attack against an enemy
+within reach if you roll for maximum damage or your attack reduces the
 targets HP to zero or lower.
-* Parry: (swords and daggers only) Melee damage of 1-2 is harmlessly 
+* Parry: (swords and daggers only) Melee damage of 1-2 is harmlessly
 parried away.
-* Reach: (polearms only) When attacked with a melee weapon without 
-reach, the attacker must roll half or higher on their damage roll or 
+* Reach: (polearms only) When attacked with a melee weapon without
+reach, the attacker must roll half or higher on their damage roll or
 else you get to attack them first.
 * Enchanted: (magic weapons) Damage ignores armor.
-* Brutal: (magic bludgeoning weapons; 2h only) Critical Damage 
-resulting from a Damage roll of 8 or more from this weapon is an 
+* Brutal: (magic bludgeoning weapons; 2h only) Critical Damage
+resulting from a Damage roll of 8 or more from this weapon is an
 instant kill, and forces a morale Save on the enemy.
 * Deadly: (magic weapons; rare) Re-roll on max damage and add to total.
-* Vorpal: (magic blades; rare) Damage immediately bypasses HP, going 
+* Vorpal: (magic blades; rare) Damage immediately bypasses HP, going
 straight to STR and requiring a save against Critical Damage
-* Blood-Thirsty: (cursed magic weapons; rare) On max damage, upgrade 
-dice type. 6>8>10. 10 on a d10 will reset the weapon to its base dice 
-and the weapon will need 2d6 hours to recharge. Should have some type 
+* Blood-Thirsty: (cursed magic weapons; rare) On max damage, upgrade
+dice type. 6>8>10. 10 on a d10 will reset the weapon to its base dice
+and the weapon will need 2d6 hours to recharge. Should have some type
 of curse or drawback.
-* Shield Splintering: Players can opt to absorb all damage and effects 
+* Shield Splintering: Players can opt to absorb all damage and effects
 from an attack in exchange for their shield breaking.
 
 **Magic Damage Types**
@@ -653,10 +653,10 @@ to account for the extra effect.
 * Cold: On a hit, target makes a STR save or next attack is impaired.
 * Thunder: On a hit, target makes a DEX save or can’t move next turn.
 * Necrotic: On a hit, target makes a WIL save or loses next turn.
-* Poison: On a hit, target makes a STR save or 1d4 damage for 1d4 
+* Poison: On a hit, target makes a STR save or 1d4 damage for 1d4
 rounds.
-* Disintegration: On a hit, target makes a DEX save vs instant 
-obliteration and the wielder takes 1 fatigue. Exceptionally powerful 
+* Disintegration: On a hit, target makes a DEX save vs instant
+obliteration and the wielder takes 1 fatigue. Exceptionally powerful
 and rare.
 
 **Special Materials**
@@ -1224,26 +1224,67 @@ Starting Gear:
 * Choose a Weapon.
 * Roll the rest as usual.
 
+# Cantrips (Optional)
+
+Clerics and Wizards know 2 cantrips. Cantrips can be cast without 
+gaining fatigue if the caster makes a WIL save.
+
+1. Create Water: Create 2 gallons of water.
+2. Detect Alignment: Concentrate for 1 round in direction and sense 
+alignment specified in 150x10 ft.
+3. Detect Magic: Concentrate for 1 round in direction to sense magic in 
+varying degrees of strength in a 50x10 ft area. Passes through thin 
+barriers.
+4. Detect Poison: Detect whether one target has been poisoned/is 
+poisonous.
+5. Endure Elements: Ignore intense weather conditions for 24 hours.
+6. Ghost Sounds: Create any type of sound up no louder than 4 humans 
+within 150 ft.
+7. Light: Make an object within 150 ft. light a 30ft radius.
+8. Purify Food and Drink: Make food eatable.
+9. Detect Animals/Nature: Concentrate for 1 round in direction to 
+natural animals/nature in varying degrees of strength in a 50x10 ft 
+area. Passes through thin barriers.
+10. Know Direction: Immediately know where North is.
+11. Arcane Mark: Leave visible/invisible message. 
+12. Mage Hand: Lift something 5 lbs 15 ft any direction/rnd. Lasts 10 
+min.
+13. Mending: Fix breaks in a mundane non-complex item you can touch.  
+14. Message: Caster can whisper to target in sight as if at ear.
+15. Prestidigitation: Witin 10 ft. you can magically: 1) create a 
+harmless sensory effect. 2) light or snuff out a fire. 3) clean or soil 
+a small object. 4) chill, warm something. 5) make a color, a small 
+mark, or a symbol appear on an object or a sujrface for 1 hour. 6) 
+create a nonmagical trinket or an illusory image that can fit in your 
+hand and that lasts until the end of your next turn.
+16. Ray of Frost: 1d6 damage OR target makes a STR save or next attack 
+is impaired.
+17. Shocking Grasp: Your next melee attack is Enhanced.
+18. Acid Splash: 1d6 damage Blast that can hit two targets.
+19. Poison Spray: 10 ft range. 1d12 damage if the target fails a STR 
+save.
+20. Fire Bolt: 1d8 damage. Can light things on fire.
+
 # Leveling Up
 
-From CairnAdventurer’s Guide by Adam Hensley. Text licensed under 
-CC-BY-SA 4.0 
+From CairnAdventurer’s Guide by Adam Hensley. Text licensed under
+CC-BY-SA 4.0
 
 **Experience Points (XP)**
 
-Gain a new level every 1,000 XP. Optionally increase the XP needed each 
+Gain a new level every 1,000 XP. Optionally increase the XP needed each
 level. A good place to start is adding between 500-1,000 XP each level.
 
 **Gaining XP**
 
-Experience points are gained at a rate of 1 XP for every 1 gold (or 
-your game’s standard currency) retrieved and returned to the safety of 
+Experience points are gained at a rate of 1 XP for every 1 gold (or
+your game’s standard currency) retrieved and returned to the safety of
 a town or your base of operations.
 
-Optional: Characters level up after playing a certain number of 
-adventures at their current level, and this number of adventures is 
-soften some multiple of their current level. For example, if your 
-multiple was 5, a character would go from being level 2 to level 3 
+Optional: Characters level up after playing a certain number of
+adventures at their current level, and this number of adventures is
+soften some multiple of their current level. For example, if your
+multiple was 5, a character would go from being level 2 to level 3
 after playing about 10 adventures at level 2.
 
 Increasing HP and Ability Scores each time you level up:
@@ -1252,9 +1293,11 @@ Increasing HP and Ability Scores each time you level up:
 * Re-roll each Ability Score with 3d6. If a result is higher than your
 current score, increase that Ability Score by 1.
 
-Optional: Players gain a point of **Perseverance**, which can be used 
-to remove one **Fatigue**. **Perseverance** is restored when a player 
-recuperates to regain their fatigue. 
+Optional: Players gain a point of **Perseverance**, which can be used
+to remove one **Fatigue**. **Perseverance** is restored when a player
+recuperates to regain their fatigue.
+
+
 
 # Character Sheet
 
@@ -1289,7 +1332,7 @@ Armor:
 * Max:
 * Current:
 
-Deprived: 
+Deprived:
 
 **Coin**
 
