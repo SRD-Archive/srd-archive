@@ -5,7 +5,7 @@ at least one other player. Players act as hardened adventurers
 exploring a dark & mysterious Wood filled with strange folk, hidden
 treasure, and unspeakable monstrosities.
 
-## Acknowledgements
+## Acknowledgments
 
 **Cairn** is licensed under CC-BY-SA 4.0 by Yochai Gal.
 https://github.com/yochaigal/cairn. **Classic Classes** by Danger is
