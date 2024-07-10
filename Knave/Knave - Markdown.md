@@ -1,7 +1,3 @@
-# Knave
-
-This is a markdown adaptation of Ben Milton's Knave (cc-by).
-
 # Knave: OLD SCHOOL FANTASY RPG
 
 KNAVE is a rules toolkit created by Ben Milton for running old school
