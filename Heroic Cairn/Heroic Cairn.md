@@ -9,7 +9,7 @@ treasure, and unspeakable monstrosities.
 
 **Heroic Cairn** consolidates and updates Cairn rules for ancestries,
 classes, combat and spell modifiers, and includes additional spells.
-Heroic Ciarn is licensed CC-BY-SA 4.0
+Heroic Ciarn is licensed CC-BY-SA 4.0 by Senator Bix.
 
 ## Acknowledgments
 
@@ -1169,7 +1169,7 @@ after playing about 10 adventures at level 2.
 
 Increasing HP and Ability Scores each time you level up:
 
-* Roll 1d6 and add to your HP total.
+* Roll 1d3 and add to your HP total.
 * Re-roll each Ability Score with 3d6. If a result is higher than your
 current score, increase that Ability Score by 1.
 * Players gain a point of **Perseverance** every level up, which can be
