@@ -1,0 +1,234 @@
+24XX SYSTEM REFERENCE DOCUMENT (SRD)
+Version 1.41
+Text CC BY Jason Tocci
+
+RULES
+
+Play: Players describe what their characters do. The GM advises when their action is impossible, demands a cost or extra steps, or presents a risk. Players can revise plans before committing so as to change goal/stakes. Only roll to avoid risk.
+
+Rolling: Roll a skill die — d6 by default, higher with a relevant skill, or d4 if hindered by injury or circumstances. If helped by circumstances, roll an extra d6; if helped by an ally, they roll their skill die and share the risk. Take the highest die.
+
+1–2	Disaster. Suffer the full risk. GM decides if you succeed at all. If risking death, you die.
+3–4	Setback. A lesser consequence or partial success. If risking death, you’re injured.
+5+	Success. The higher the roll, the better.
+
+If success can’t get you what you want (you make the shot, but it’s bulletproof!), you’ll at least get useful info or set up an advantage.
+
+Load: Carry as much as makes sense, but more than one bulky item may hinder you at times.
+
+Advancement: After a job, each character increases a skill (none⮕d8⮕d10⮕d12) and gains d6 credits (₡).
+
+Defense: Say how one of your items breaks to turn a hit into a brief hindrance. Broken gear is useless until repaired.
+
+Harm: Injuries take time and/or medical attention to heal. If killed, make a new character to introduce ASAP. Favor inclusion over realism.
+
+GM: Describe characters in terms of behaviors, risks, and obstacles, not skill dice. Lead the group in setting lines not to cross in play. Fast-forward, pause, or rewind/redo for pacing and safety; invite players to do likewise. Present dilemmas you don’t know how to solve. Move spotlight to give all time to shine. Test as needed for bad luck (e.g., run out of ammo, or into guards) — roll a die to check for (1– 2) trouble or (3–4) signs of it. Improvise rulings to cover gaps in rules; on a break, revise unsatisfactory rulings as a group.
+
+CHARACTERS
+
+// SRD design notes start with two slashes, like this. Other paragraphs are player/GM-facing text.
+
+// Characters start with 6ish skill increases and/or credits’ in items, possibly combining “specialty” and “origin” (or “3 skill increases” as a stand-in).
+
+> Choose your character’s specialty.
+
+Face: Skilled in Reading People (d8), Deception (d8). Take an extensive disguise wardrobe.
+
+Muscle: Skilled in Intimidation (d8) and either Hand-to-hand (d8) or Shooting (d8). Take a sword, firearm, or cyber-arm.
+
+Psychic: Skilled in Telepathy (d8, sense surface thoughts), Telekinesis (d8, as strong as your arms), or pick one at d10. Take a bottle of PsychOut (amplify powers; addictive).
+
+Medic: Skilled in Medicine (d8), Electronics (d8). Take a medkit and cyber-surgery tools (bulky).
+
+Sneak: Skilled in Climbing (d8), Stealth (d8). Take climbing gear and night vision goggles.
+
+Tech: Skilled in Hacking (d8), Electronics (d8). Take repair tools and a custom computer (bulky).
+
+>  Choose your character’s origin.
+
+Alien: Invent 2 traits, like electric current, wings, natural camouflage, or six-limbed.
+
+Android: You have an upgrade-ready cyber-body. Take synth skin (looks human) or a case (break harmlessly for defense). Increase 1 skill.
+
+Human: Apply 3 skill increases (from no skill ⮕d8⮕d10⮕d12). You can take new skills and/or increase skills you already have.
+
+>  Choose or invent skills (if prompted by origin).
+
+Climbing, Connections, Deception, Electronics, Engines, Explosives, Hacking, Hand-to-hand, Intimidation, Labor, Persuasion, Piloting, Running, Shooting, Spacewalking, Stealth, Tracking
+
+// Characters who start with broader skills should start with fewer skills, or with less useful skills.
+
+GEAR
+
+// If an item costs less than a new video game system, the only cost is the time it takes to get it.
+
+> Take a comm (smartphone) and ₡2. Most items and upgrades cost ₡1 each. Ignore microcredit transactions like a knife or a meal.
+
+Armor: Vest (break once for defense), battle armor (₡2, bulky, break up to 3×), hardsuit (₡3, bulky, break up to 3×, vacuum-rated, mag boots).
+
+Cybernetics: Cyber-ear (upgrade with echolocation, vocal stress detector), cyber-eye (upgrade with infrared, telescopic, x-ray), cyber-limb (upgrade with fast, strong, compartments, tool or weapon implant), cranial jack (upgrade with sensory data backup, skill increase), healing nanobots, toxin filter, voice mimic.
+
+Tools: Flamethrower (bulky), low-G jetpack, med scanner, mini drone, repair tools, survey pack (climbing gear, flare gun, tent; bulky).
+
+Weapons: Grenades (4, any of fragmentation, flashbang, smoke, EMP), pistol, rifle (bulky), shotgun (bulky), stun baton, tranq gun.
+
+> Starships have basic versions of these functions; upgrades cost ₡10 each. In an emergency, players pick a function to do or help with.
+
+Comms: Upgrade with eavesdropper, jammer, tachyon burst (no lag in-system).
+
+Crafts: Comes with escape pod. Upgrade with fighter, shuttle (reentry-rated).
+
+Drive: FTL jump and sublight speeds. Upgrade with longer jumps, faster speed, greater agility.
+
+Equipment: Vac suits for crew. Upgrade with armory, heavy loader, mining gear, tow cable.
+
+Hull armor: Break harmlessly for defense. Upgrade with reentry-rated, sun shielding.
+
+Sensors: Upgrade with deep-space, life-sign scan, planetary survey, tactical vessel scan. 
+
+Weapons: Deflector turrets. Upgrade with laser cutter, military-grade turret, torpedos. 
+
+DETAILS
+
+// Additional character and setting details often need to be customized for specific settings (especially when aliens and fashion are involved). Feel free to draw from these options, which should work in a range of sci-fi settings.
+
+> Invent or roll for personal details.
+
+Surname
+
+1	Acker
+2	Black
+3	Cruz
+4	Dallas
+5	Engel
+6	Fox
+7	Gee
+8	Haak
+9	Iyer
+10	Joshi
+11	Kask
+12	Lee
+13	Moss
+14	Nash
+15	Park
+16	Qadir
+17	Singh
+18	Tran
+19	Ueda
+20	Zheng
+
+Nickname
+
+1	Ace
+2	Bliss
+3	Crater
+4	Dart
+5	Edge
+6	Fuse
+7	Gray
+8	Huggy
+9	Ice
+10	Jinx
+11	Killer
+12	Lucky
+13	Mix
+14	Nine
+15	Prof
+16	Red
+17	Sunny
+18	Treble
+19	V8
+20	Zero
+
+Demeanor
+
+1	Anxious
+2	Appraising
+3	Blunt
+4	Brooding
+5	Calming
+6	Casual
+7	Cold
+8	Curious
+9	Dramatic
+10	Dry
+11	Dull
+12	Earnest
+13	Formal
+14	Gentle
+15	Innocent
+16	Knowing
+17	Prickly
+18	Reckless
+19	Terse
+20	Weary
+
+Ship name
+
+1	Arion
+2	Blackjack
+3	Caleuche
+4	Canary
+5	Caprice
+6	Chance
+7	Darter
+8	Falkor
+9	Highway Star
+10	Moonshot
+11	Morgenstern
+12	Phoenix
+13	Peregrine
+14	Restless
+15	Silver Blaze
+16	Stardust
+17	Sunchaser
+18	Swift
+19	Thunder Road
+20	Wayfarer
+
+// THE PREMISE: Explain the basics of the setting. If it’s not made clear elsewhere, give a reason for the characters to stick together, and hint at what they’ll spend their time doing.
+
+// THE BACK PAGE: If you’d like to mimic the style of the original micro RPGs this SRD is based on, the back page (or the left half of one side of a letter-sized sheet of paper) can fit 4 tables of 20 items each. A GM can use these to generate ideas for an improvised session, like, “[Name] has hired you for [Job] at [Location], but there’s a [Twist]!” An example table is offered below. 
+
+// ADDING TO RULES: This SRD is very brief, with the hope experienced RPG players will fill in the gaps confidently, and RPG newcomers will be free of too many preconceived notions. Anything left vague is deliberately open to interpretation. (Like: Can you get help dice from an ally AND circumstances on one roll? Your call!) Expand or clarify as needed. My own principles for new rules are to minimize addition and subtraction, avoid too much bookkeeping (on top of tracking credits, hindrances, number of bulky items, and which items are broken), and strive to use terms either self-evident in meaning or invitingly vague.
+
+> Roll d20 for a contact, client, rival, or target
+
+1	Arcimboldo, quirky tech dealer & tinkerer
+2	Aurora, wealthy collector of unique items
+3	Blackout, quiet evidence removal specialist
+4	Bleach, wry janitor android turned assassin
+5	Bron, dour security chief with a metal arm
+6	Bullet, no-nonsense android gun runner
+7	Carryout, cocky courier with fast cyber-legs
+8	Fisher, eager street kid looking for a crew
+9	Ginseng, people-loving drug dealer
+10	Hot Ticket, extremely cautious fence
+11	Kaiser, grinning loan shark in a silver suit
+12	Osiris, tired, street-level sawbones
+13	Powder Blue, android fixer, generous rates
+14	Reacher, sharp mercenary tac squad leader
+15	Rhino, thickheaded, bighearted bodyguard
+16	Sam, plucky journalist, likely to get killed
+17	Shifter, hard-working chop-shop owner
+18	Walleye, businesslike information broker
+19	Whistler, smiling cabbie/getaway driver
+20	“X,” unflappable broker for an unnamed corp
+
+>  Roll d6 to try to find a job. Spend ₡1 to re-roll.
+
+1–2	Nothing. Owe somebody to get in on a job.
+3–4	Found a job, but something seems off.
+5–6	Choose between 2 jobs.
+
+// FINDING JOBS: Many teams don’t need to look for paying work (e.g., military units). If your game does use this setup, though, dangerous jobs should pay more to cover 1–3 credits in “expenses” for medical treatment, fixing/replacing broken gear, re-rolling unsavory jobs, or getting through dry spells with no jobs. Also, in the table above, the phrase “owe somebody” is intentionally vague, but may be worth clarifying or alluding to elsewhere (e.g., put a loan shark in your “Contacts” table).
+
+// JOBS: The list of jobs (or missions, situations, quests, etc.) should be tailored for your setting, and suggest scenarios where every character’s skills will be useful. Common job templates include “deal with an unusual threat,” “investigate something seemingly inexplicable,” or “retrieve a thing from a location for a person.” They serve as “gameable lore” — elements that hint at a setting, ready-made for use in play.
+
+// LICENSE: This SRD is released under a Creative Commons Attribution 4.0 license (CC BY 4.0). You’re welcome to use this text and layout in your own game, provided you do the following:
+
+// GIVE CREDIT: See that tiny text along the bottom of the page? That’s where I cram the version number and credit for licensed content (like the cover art). You’re welcome to put it elsewhere in your game, but be sure to include it somewhere — like, “24XX rules are CC BY Jason Tocci.” 
+
+// USE 24XX, NOT 2400: You can say your game is “compatible with 2400” or “for use with 2400,” but please don’t use material directly from 2400, or name your game so it looks like it’s part of my 2400 series (unless you have explicit approval).
+
+// NO BIGOTRY: Please don’t use any text from this game, the 24XX logo, or my name in any product that promotes or condones white supremacy, racism, misogyny, ableism, homophobia, transphobia, or other bigotry against marginalized groups. 
