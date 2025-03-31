@@ -24,7 +24,7 @@ Adventurer's Guide licensed under CC-BY-SA 4.0. **Spiked dragon head
 icon** by Delapouite under CC BY 3.0
 https://game-icons.net/1x1/delapouite/spiked-dragon-head.html
 **Additional Spells** licensed under CC-BY-SA 4.0.
-https://cairnrpg.com/resources/more-spellbooks/ **Cairn Bestiary**
+https://cairnrpg.com/resources/more-Spellbooks/ **Cairn Bestiary**
 https://cairnrpg.com/Cairn Bestiary compiled on April 28, 2023 by
 Yochai Gal (CC-BY-SA 4.0) https://cairnrpg.com/
 
@@ -640,7 +640,7 @@ recover HP or ability scores. Anyone deprived for more than a day adds
 one slot and lasts until they are able to recuperate (such as a full
 night's rest in a safe spot). Players have **Perseverance** equal to
 their level. Perseverance can be used to remove one Fatigue.
-Perseverance is restored when a player rests to regain their fatigue.
+Perseverance is restored when a player rests to regain their Fatigue.
 
 PCs can also gain Fatigue by **casting spells** or through events in
 the fiction.
@@ -702,7 +702,7 @@ power within, and it is considered dangerous to display them openly.
 **Scrolls** are similar to Spellbooks, however:
 
 * They do not take up an inventory slot.
-* They do not cause fatigue.
+* They do not cause Fatigue.
 * They disappear after one use.
 
 **Casting Spells**
@@ -917,7 +917,7 @@ to account for the extra effect.
 * Poison: On a hit, target makes a STR save or 1d4 damage for 1d4
 rounds.
 * Disintegration: On a hit, target makes a DEX save vs instant
-obliteration and the wielder takes 1 fatigue. Exceptionally powerful
+obliteration and the wielder takes 1 Fatigue. Exceptionally powerful
 and rare.
 
 **Special Materials**
@@ -1020,7 +1020,7 @@ surfaces to ambush unsuspecting creatures.
 gorillas with nocturnal habits. Defend their territory with threatening
 gestures, followed by sudden violence.
 
-**Aranea:** 6 HP, 12 DEX, 15 WIL, bite (d6), two random spellbooks. 6’
+**Aranea:** 6 HP, 12 DEX, 15 WIL, bite (d6), two random Spellbooks. 6’
 long, intelligent spiders of greenish-black coloration. Have an odd
 lump on the back, housing its large brain. Two front legs have digits,
 allowing an aranea to grasp tools. Dwell in web-filled lairs where they
@@ -1588,7 +1588,7 @@ creatures that reassemble female humans of old age with blue-black
 skin. Their talons and teeth are hard like iron. Dwell in dead forests
 and swamps, crave eating human flesh. Can cloak their true appearance
 with an illusory form, and can see through any illusion. Avid magic
-users, each Hag carries 1d4 random spellbooks.
+users, each Hag carries 1d4 random Spellbooks.
 
 **Sea Hag:** 6 HP, 12 STR, 14 WIL, knife (d6). Ghostly looking,
 green-skinned hags that dwell in seaweed forests and warm shallow
@@ -1684,7 +1684,7 @@ lamia’s commands.
 **Lich:** 18 HP, 1 Armor, 18 WIL, soul dagger (d8). Powerful wizards
 who refused death by turning themselves in soulless undead. Able to
 cast virtually any spell without suffering consequences. Carries 2d6
-random spellbooks with them. Critical Damage: The target is paralyzed
+random Spellbooks with them. Critical Damage: The target is paralyzed
 until it fully rests.
 
 **Lizard Man:** 5 HP, 1 Armor, 14 STR, 12 DEX, bone spear (d8). Tribal
@@ -1889,7 +1889,7 @@ monsters with bird wings, the body of a lion, and a human face. Collect
 puzzles, riddles, and obscure knowledge. Might pose riddles to those
 they meet, attacking and consuming any who cannot give the correct
 answer. Roar: Anyone who hears the sphinx’s roar must save WIL or flee
-in fear. Carry 1d4 spellbooks with them, preferring magic related to
+in fear. Carry 1d4 Spellbooks with them, preferring magic related to
 knowledge or communication, but taking any.
 
 **Spider, Giant Aquatic:** 4 HP, 12 DEX, bite (d6). 4’ long spiders
@@ -1911,7 +1911,7 @@ tall humanoids of radiant beauty and athletic build. Beneficent of
 character, but prone to megalomania. Natives of other planes, but
 sometimes have strongholds in the mortal world. Can levitate at will,
 with precise control of its movement. Masters of spellcasting, carry
-2d6 spellbooks and can always enhance spell effects without risk or
+2d6 Spellbooks and can always enhance spell effects without risk or
 need to prepare for it.
 
 **Treant:** 10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d10+d8,
@@ -2696,19 +2696,20 @@ Affected target's attacks are also Impaired until they pass a WIL save.
 ## 30 Cantrips
 
 Magic-Users, Clerics, and some Druids know 2 cantrips. Cantrips are
-spells that can be cast without gaining fatigue if the caster makes a
-WIL save.
+spells that can be cast without gaining Fatigue if the caster makes a
+WIL save. If they fail, they have the choice of casting the spell and 
+gaining Fatigue or not casting the spell.
 
-Note that these spells can also be found in spellbooks and scrolls, but
-using them this way causes Fatigue or the scroll to be used up, just as
-they would with any spell. Players can replace a Cantrip they know by
-finding a spellbook of the new cantrip, passing a WIL after 4 hours, and
-destroying the spellbook.
+Note that these spells can also be found in Spellbooks and scrolls, but 
+using them this way causes Fatigue or the scroll to be used up, just as 
+they would with any spell. Players can replace a Cantrip they know by 
+finding a Spellbook of the new cantrip, passing a WIL after 4 hours, 
+and destroying the Spellbook.
 
 1. **Acid Splash:** Hurl a bubble of acid for d6 damage to 2 targets.
 2. **Arcane Mark:** Leave a visible or invisible message.
-3. **Chill Touch:** Create a ghostly skeletal hand to deliver necrotic
-damage and hinder healing.
+3. **Chill Touch:** Create a ghostly skeletal hand that clings to a 
+target, causing d6 necrotic damage and hindering healing.
 4. **Create Water:** Create 2 gallons of water.
 5. **Dancing Lights:** Conjure up to four floating lights to illuminate
 your surroundings.
@@ -2717,11 +2718,12 @@ in a daydream.
 7. **Detect Animals/Nature:** Detects animals/nature within 60 ft.
 8. **Detect Magic:** Detects spells and magic items within 60 ft.
 9. **Detect Poison:** Detects poison in one creature or small object.
-10. **Endure Elements:** Ignore intense weather conditions for 24 hours.
+10. **Endure Elements:** Ignore intense weather conditions for 24 
+hours.
 11. **Fire Bolt:** 1d8 damage. Can light things on fire.
 12. **Ghost Sounds:** Create any type of sound.
-13. **Guidance:** Grant a creature the ability to re-roll o e save if
-they missed passing by 1.
+13. **Guidance:** Grants for a shot time a creature the ability to 
+re-roll one save if they missed passing by 1.
 14. **Light:** Make an object emit bright light, illuminating dark
 areas.
 15. **Mage Hand:** Summon a spectral hand to manipulate objects
@@ -2732,7 +2734,8 @@ in kind.
 18. **Minor Illusion:** Create a simple image or sound to deceive or
 distract.
 19. **Open/Close:** Opens or closes small or light things.
-20. **Poison Spray:** d12 damage if the nearby target fails a STR save.
+20. **Poison Spray:** d12 poison damage if the nearby target fails a 
+STR save.
 21. **Prestidigitation:** Perform minor magical tricks for various
 effects.
 22. **Produce Flame:** Create a small flame in your hand that can shed
@@ -2740,16 +2743,18 @@ light or be thrown as an d6 attack.
 23. **Purify Food and Drink:** Make food eatable.
 24. **Ray of Frost:** 1d6 damage and target makes a STR save or next
 attack is impaired.
-25. **Sacred Flame:** Call down radiant fire on a creature, ignoring
-cover.
-26. **Shillelagh:** Make a d10 magical melee attack with a club or quarterstaff.
-27. Shocking Grasp: Deliver an electric shock to a creature you touch.
+25. **Sacred Flame:** d12 radiant damage if the target fails a DEX 
+save.
+26. **Shillelagh:** Make a d18 magical melee attack with a wooden 
+weapon.
+27. **Shocking Grasp:** Deliver a d8 electric shock to a creature you 
+touch.
 28. **Spare the Dying:** Instantly stabilize a dying creature without
-needing a healing roll.
+needing a healing roll and bringing them to 1 HP.
 29. **True Strike:** Gain insight into a target's defenses, making your
-next attack Enhanced.
-30. **Vicious Mockery:** Hurl magical insults that deal psychic damage and
-impose disadvantage on the target’s next attack.
+next attack Enhanced and you may re-roll a 1.
+30. **Vicious Mockery:** Hurl magical insults that deal psychic damage 
+and impose disadvantage on the target’s next attack.
 
 # Heroic Cairn Warden's Handbook
 
