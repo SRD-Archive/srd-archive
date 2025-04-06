@@ -4,13 +4,10 @@
 
 Revised Edition
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and
-at least one other player. Players act as hardened adventurers
-exploring a dark & mysterious Wood filled with strange folk, hidden
-treasure, and unspeakable monstrosities.
+**Heroic Cairn** consolidates and updates Cairn with rules for 
+ancestries, classes with  additional rules and spells. It’s goal is to 
+fold a little flavor 5e back in to Cairn.
 
-**Heroic Cairn** consolidates and updates Cairn rules for ancestries,
-classes, combat and spell modifiers, and includes additional spells.
 Heroic Cairn is licensed CC-BY-SA 4.0 by Senator Bix.
 
 ## Acknowledgments
@@ -27,6 +24,9 @@ https://game-icons.net/1x1/delapouite/spiked-dragon-head.html
 https://cairnrpg.com/resources/more-Spellbooks/ **Cairn Bestiary**
 https://cairnrpg.com/Cairn Bestiary compiled on April 28, 2023 by
 Yochai Gal (CC-BY-SA 4.0) https://cairnrpg.com/
+
+I would also like to acknowledge Knave by Ben Milton (CC-BY) and Into 
+the Odd by Chris McDdowall.
 
 # Character Creation
 
@@ -125,15 +125,15 @@ servant of your deity. Battle ready to channel the power of your cult.
 deity but stay in line with the dogma of your religion or be
 disfavored. You can invoke the divine power, brandishing your holy
 symbol, to repel undead (creatures Save WIL to resist). Clerics know 2
-Cantrip spells.
+cantrip spells.
 
 **Druid:** You belong to the wild lands and feel uncomfortable in
 cities. You worship the elements and the old bestial deities. You can
 communicate with animals and always find resources in the wilderness.
 You have two options: 1) **Spellweaver Druids**, that can shape-shift
-into one type of animal and know 2 Cantrip spells. Or 2) **Wildform
+into one type of animal and know 2 cantrip spells. Or 2) **Wildform
 Druids**, that can shape-shift into any animal, but cannot use
-Cantrips. For all Druids, shape-shifting costs 1 Fatigue. Taking
+cantrips. For all Druids, shape-shifting costs 1 Fatigue. Taking
 **critical damage** causes a Druid to revert back to their human form.
 
 **Paladin:** As a sacred warrior of your faith you will be obeyed by
@@ -141,7 +141,7 @@ zealots. Priests will favor you but if you step out of the line you
 will fall in disgrace. You dedicate your life to the cult and sworn vow
 of humility (you should not hoard treasures). Once per day you can Lay
 on Hands on someone to cure disease, poison or heal 1d6 STR. Paladins
-do not know any Cantrips.
+do not know any cantrips.
 
 Divine Character Creation:
 
@@ -194,7 +194,7 @@ precious belongings (only you can decipher it). You can spend four
 hours to copy a standard Spellbook into your Grimoire followed by a
 successful WIL Save. During this process the original Spellbook is
 destroyed. Scrolls cannot be copied.
-* All Magic-Users know 2 Cantrip spells.
+* All Magic-Users know 2 cantrip spells.
 * You are not comfortable wearing bulky armor. Spell casting wearing
 one will cost 2 Fatigue.
 
@@ -240,8 +240,8 @@ catch you. You can smell undead creatures when they are close.
 Rogue Character Creation:
 
 * Backstab: When you attack an unaware opponent from behind you do STR
-damage. * Read languages: You can read approximately any text. *
-Swiftness: Once per round, a Rogue may take an extra action at the cost
+damage. * Read languages: You can read approximately any text. 
+* Swiftness: Once per round, a Rogue may take an extra action at the cost
 of 1 Fatigue.
 
 Rogue Starting Gear:
@@ -263,81 +263,11 @@ artifact instead of a Gilmore. Or they could be a powerful combatant
 based on a Barbarian. A skilled archer could use the mechanics of a
 Gladiator.
 
-# Name, Background & Traits
+# Background, Traits, & Attributes
 
-First, choose or roll a **name** for your character from the Name &
-Background tables, then their **background**, which informs their
-knowledge and potential skills.
-
-Next, roll for the rest of your character's **traits** (appearance,
-speech, mannerisms, beliefs, reputation, etc.) on the *Character
-Traits* tables.
-
-## Ability Scores
-
-Player Characters (PCs) have just three attributes:
-
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When
-creating a PC, the player should roll 3d6 for each of their character's
-ability scores, in order. They may then swap any two of the results.
-
-**Example:** Ines rolls for her character's **STR**, resulting in a
-**2**, a **4**, and a **6**, totaling **12**. The next two ability
-rolls result in a **9** for **DEX** and a **13** for **WIL**. She
-decides to swap the **12** and the **9**, for a character with **9
-STR**, **12 DEX** and **13** **WIL**.
-
-## Hit Protection
-
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which
-reflects their ability to avoid damage in combat. HP does not indicate
-a character's health or fortitude; nor do they lose it for very long.
-Resting for a few moments and having a drink of water restores lost HP
-but leaves the party exposed. Ability loss can usually be restored with
-a week's rest facilitated by a healer or other appropriate source of
-expertise. Some of these services may be free, while more expedient or
-magical means of recovery may come at a cost.
-
-One point of ability loss can be restored if a player passes a
-corresponding save after a rest.
-
-## Inventory
-
-Characters have a total of 10 inventory slots: a backpack with six
-slots, one slot for each hand, and two slots for their upper body (such
-as the belt, chest, or head). The backpack can also double as an
-emergency sleeping bag but only if emptied of its contents.
-
-Most items take up one slot, and small items can be bundled together.
-Slots are abstract and can be rearranged per the Warden's discretion.
-
-**Bulky** items take up two slots and are typically two-handed or
-awkward to carry.
-
-A PC cannot carry more items than their inventory allows. Carts (which
-must be pulled with both hands), horses, or mules can increase
-inventory. **Hirelings** can also be paid to carry equipment.
-
-## Starting Gear
-
-All PCs begin with:
-
-* Three days' rations (one slot)
-* A torch (one slot)
-* 3d6 gold pieces
-
-Roll on the **Starting Gear** tables to determine your PC's armor,
-weapons, tools, and equipment. If indicated, roll on the *Spellbooks*
-table with a d100 (or roll 2d10, using one die as the ones place,and
-one as the tens place).
-
-See the **Equipment List** for related armor, damage, and slot values.
-Smaller items can sometimes be bundled together into one slot.
-
-If you would like something closer to traditional classes, refer to the
-list of *Optional Gear Packages*.
-
-## Name & Background (d20)
+First, choose or roll (d20) your characters **background**, which informs 
+their knowledge and potential skills. Then choose or roll (d10) for the rest 
+of your character's **traits**.
 
 **Background**
 
@@ -413,6 +343,67 @@ list of *Optional Gear Packages*.
 8. Discredited
 9. Disowned
 10. Exiled
+
+## Ability Scores
+
+Player Characters (PCs) have just three attributes:
+
+**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When
+creating a PC, the player should roll 3d6 for each of their character's
+ability scores, in order. They may then swap any two of the results.
+
+**Example:** Ines rolls for her character's **STR**, resulting in a
+**2**, a **4**, and a **6**, totaling **12**. The next two ability
+rolls result in a **9** for **DEX** and a **13** for **WIL**. She
+decides to swap the **12** and the **9**, for a character with **9
+STR**, **12 DEX** and **13** **WIL**.
+
+## Hit Protection
+
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which
+reflects their ability to avoid damage in combat. HP does not indicate
+a character's health or fortitude; nor do they lose it for very long.
+Resting for a few moments and having a drink of water restores lost HP
+but leaves the party exposed. Ability loss can usually be restored with
+a week's rest facilitated by a healer or other appropriate source of
+expertise. Some of these services may be free, while more expedient or
+magical means of recovery may come at a cost.
+
+One point of ability loss can be restored if a player passes a 
+corresponding save after a rest.
+
+# Inventory
+
+Characters have a total of 10 inventory slots: a backpack with six 
+slots, one slot for each hand, and two slots for their upper body (such 
+as the belt, chest, or head). The backpack can also double as an 
+emergency sleeping bag but only if emptied of its contents.
+
+Most items take up one slot, and small items can be bundled together. 
+Slots are abstract and can be rearranged per the Warden's discretion.
+
+**Bulky** items take up two slots and are typically two-handed or 
+awkward to carry.
+
+A PC cannot carry more items than their inventory allows. Carts (which 
+must be pulled with both hands), horses, or mules can increase 
+inventory. **Hirelings** can also be paid to carry equipment.
+
+## Starting Gear
+
+All PCs begin with:
+
+* Three days' rations (one slot)
+* A torch (one slot)
+* 3d6 gold pieces
+
+Roll on the **Starting Gear** tables to determine your PC's armor,
+weapons, tools, and equipment. If indicated, roll on the *Spellbooks*
+table with a d100 (or roll 2d10, using one die as the ones place,and
+one as the tens place).
+
+See the **Equipment List** for related armor, damage, and slot values.
+Smaller items can sometimes be bundled together into one slot.
 
 ## Starting Gear (d20)
 
@@ -717,6 +708,19 @@ the spell. Consequences of failure are on par with the intended effect,
 and may result in added Fatigue, the destruction of the Spellbook,
 injury, and even death.
 
+**Cantrips**
+
+Magic-Users, Clerics, and some Druids know 2 cantrips. Cantrips are
+spells that can be cast without gaining Fatigue if the caster makes a
+WIL save. If they fail, they have the choice of casting the spell and 
+gaining Fatigue or not casting the spell.
+
+Note that these spells can also be found in Spellbooks and scrolls, but 
+using them this way causes Fatigue or the scroll to be used up, just as 
+they would with any spell. Players can replace a Cantrip they know by 
+finding a Spellbook of the new cantrip, passing a WIL after 4 hours, 
+and destroying the Spellbook.
+
 ## Relics
 
 **Relics** are items imbued with a magical spell or power. They do not
@@ -756,7 +760,7 @@ and is comprised of turns.
 
 **Actions**
 
-On their turn, a character may move up to 40ft and may take an action.
+On their turn, a character may move up to 30ft and may take an action. 
 This may be casting a spell, attacking, making a second move, or some
 other reasonable action.
 
@@ -809,29 +813,33 @@ If fighting from a position of advantage (such as against a helpless
 foe or through a daring maneuver), the attack is **enhanced** ,
 allowing the attacker to roll 1d12 damage instead of their normal die.
 
-**Dual Weapons**
+**Dual Weapons and Multiple Damage Dice**
 
 If attacking with two weapons at the same time, roll both damage dice
-and keep the single highest result.
+and keep the single highest result. This is how multiple damage dice in 
+an attack are handled. 
+
+*For example, if a thief had 2 daggers, they would roll d6+d6, and keep 
+the higher roll.*
 
 **Blast**
 
-Attacks with the **blast** quality affect all targets in the noted
-area, rolling separately for each affected character. Blast refers to
-anything from explosions to huge cleaving onslaughts to the impact of a
-meteorite. If unsure how many targets can be affected, roll the related
+Attacks with the **blast** quality affect all targets in the noted 
+area, rolling separately for each affected character. Blast refers to 
+anything from explosions to huge cleaving onslaughts to the impact of a 
+meteorite. If unsure how many targets can be affected, roll the related 
 damage die for a result.
 
 **Critical Damage**
 
-Damage that reduces a target's HP below zero decreases a target's STR
-by the amount remaining. They must then make a STR save to avoid
-**critical damage**. Additionally, some enemies will have special
-abilities or effects that are triggered when their target fails a
+Damage that reduces a target's HP below zero decreases a target's STR 
+by the amount remaining. They must then make a STR save to avoid 
+**critical damage**. Additionally, some enemies will have special 
+abilities or effects that are triggered when their target fails a 
 critical damage save.
 
-Any PC that suffers critical damage cannot do anything but crawl
-weakly, grasping for life. If given aid and rest, they will stabilize.
+Any PC that suffers critical damage cannot do anything but crawl 
+weakly, grasping for life. If given aid and rest, they will stabilize. 
 If left untreated, they die within the hour.
 
 **Ability Score Loss**
@@ -870,9 +878,9 @@ save, as well as a safe destination to run to.
 
 **Weapon Traits**
 
-Below are some optional traits a magical or good quality weapon might
-have. Sweep, parry, and reach are traits any weapon of that type can
-have. Any of the other traits should be limited to 1 per rare, special,
+Below are some optional traits a magical or good quality weapon might 
+have. Sweep, parry, and reach are traits any weapon of that type can 
+have. Any of the other traits should be limited to 1 per rare, special, 
 or magic weapon.
 
 Common Traits:
@@ -936,9 +944,10 @@ advantages.
 
 **Scars**
 
-When a critical hit does critical damage, the target is uniquely
-impacted. Look up the result on the table below based on the total
-damage taken:
+When a critical hit does critical damage, the target is uniquely 
+impacted. Look up the result of a d12 on the table below. Any positive 
+outcomes from the scar only take effect after a character has had a 
+chance to recover.
 
 1. **Lasting Scar:** Roll 1d6 (1: Neck, 2: Hands, 3: Eye, 4: Chest,
 5: Legs, 6: Ear). Roll 1d6. If the total is higher than your max HP,
@@ -980,17 +989,680 @@ the new result.
 
 # Leveling Up
 
-Characters level up after playing as many adventures at their current
-level as their current level. *For example, a character who just turned
-level 3 will turn level 4 after 3 adventures.* Ultimately though, the
-Warden decides when players level up.
+Characters level up after playing as many adventures at their current 
+level. Ultimately though, the Warden decides when players level up.
 
-Increasing HP and Ability Scores each time you level up:
+*For example, a character who just turned level 3 will turn level 4 
+after 3 adventures.* 
+
+**Increasing HP and Ability Scores each time you level up:**
 
 * Roll 1d3 and add to your HP total.
 * Re-roll each Ability Score with 3d6. If a result is higher than your
 current score, increase that Ability Score by 1.
 * Players gain 1 point of Perseverance.
+
+# Magic
+
+Random Spell Sets (d20):
+
+* 1-6: 100 Knave Spells
+* 7-17: Additional Spells
+* 18: Cleric Spells
+* 19-20: Cantrips
+
+## 100 Knave Spells
+
+1. **Adhere:** Object is covered in extremely sticky slime.
+2. **Animate Object:** Object obeys your commands as best it can. It
+can walk 15ft per round.
+3. **Anthropomorphize:** A touched animal either gains human
+intelligence or human appearance for L days.
+4. **Arcane Eye:** You can see through a magical floating eyeball that
+flies around at your command.
+5. **Astral Prison:** An object is frozen in time and space within an
+invulnerable crystal shell.
+6. **Attract:** L+1 objects are strongly magnetically attracted to each
+other if they come within 10 feet.
+7. **Auditory Illusion:** You create illusory sounds that seem to come
+from a direction of your choice.
+8. **Babble:** A creature must loudly and clearly repeat everything you
+think. It is otherwise mute.
+9. **Beast Form:** You and your possessions transform into a mundane
+animal.
+10. **Befuddle:** L creatures of your choice are unable to form new
+short-term memories for the duration of the spell.
+11. **Bend Fate:** Roll L+1 d20s. Whenever you must roll a d20 after
+casting the spell, you must choose and then discard one of the rolled
+results until they are all gone.
+12. **Bird Person:** Your arms turn into huge bird wings.
+13. **Body Swap:** You switch bodies with a creature you touch. If one
+body dies, the other dies as well.
+14. **Catherine:** A woman wearing a blue dress appears until end of
+spell. She will obey polite, safe requests.
+15. **Charm:** L creatures treat you like a friend.
+16. **Command:** A creature obeys a single, three-word command that
+does not harm it.
+17. **Comprehend:** You become fluent in all languages.
+18. **Control Plants:** Nearby plants and trees obey you and gain the
+ability to move at 5 feet per round.
+19. **Control Weather:** You may alter the type of weather at will, but
+you do not otherwise control it.
+20. **Counterspell:** Make an opposed Intelligence save against the
+Intelligence of the caster of a nearby spell. You may do this out of
+turn as a reaction, or against an ongoing magical effect. On a success,
+you may cancel the spell.
+21. **Deafen:** All nearby creatures are deafened.
+22. **Detect Magic:** You hear nearby magical auras singing. Volume and
+harmony signify the aura’s power and refinement.
+23. **Disassemble:** Any of your body parts may be detached and
+reattached at will, without causing pain or damage. You can still
+control them.
+24. **Disguise:** You may alter the appearance of L characters at will
+as long as they remain humanoid. Attempts to duplicate other characters
+will seem uncanny.
+25. **Displace:** An object appears to be up to L×10ft from its actual
+position.
+26. **Earthquake:** The ground begins shaking violently. Structures may
+be damaged or collapse.
+27. **Elasticity:** Your body can stretch up to L×10ft.
+28. **Elemental Wall:** A straight wall of ice or fire L×40ft long
+and 10ft high rises from the ground.
+29. **Filch:** L visible items teleport to your hands.
+30. **Fog Cloud:** Dense fog spreads out from you.
+31. **Frenzy:** L creatures erupt in a frenzy of violence.
+32. **Gate:** A portal to a random plane opens.
+33. **Gravity Shift:** You can change the direction of gravity (for
+yourself only) up to once per round.
+34. **Greed:** L creatures develop an overwhelming urge to possess a
+visible item of your choice.
+35. **Haste:** Your movement speed is tripled.
+36. **Hatred:** L creatures develop a deep hatred of another creature
+or group of creatures and wish to destroy it.
+37. **Hear Whispers:** You can hear faint sounds clearly.
+38. **Hover:** An object hovers, frictionless, 2ft above the ground.
+It can hold up to L humanoids.
+39. **Hypnotize:** A creature enters a trance and will truthfully
+answer L yes or no questions you ask it.
+40. **Icy Touch:** A thick ice layer spreads across a touched surface,
+up to L×10ft in radius.
+41. **Illuminate:** A floating light moves as you command.
+42. **Increase Gravity:** The gravity in an area triples.
+43. **Invisible Tether:** Two objects within 10ft of each other cannot
+be moved more than 10ft apart.
+44. **Knock:** L nearby mundane or magical locks unlock.
+45. **Leap:** You can jump up to L×10ft in the air.
+46. **Liquid Air:** The air around you becomes swimmable.
+47. **Magic Dampener:** All nearby magical effects have their
+effectiveness halved.
+48. **Manse:** A sturdy, furnished cottage appears for L×12 hours. You
+can permit and forbid entry to it at will.
+49. **Marble Madness:** Your pockets are full of marbles, and will
+refill every round.
+50. **Masquerade:** L characters’ appearances and voices become
+identical to a touched character.
+51. **Miniaturize:** You and L other touched creatures are reduced to
+the size of a mouse.
+52. **Mirror Image:** L illusory duplicates of yourself appear under
+your control.
+53. **Mirrorwalk:** A mirror becomes a gateway to another mirror that
+you looked into today.
+54. **Multiarm:** You gain L extra arms.
+55. **Night Sphere:** An L×40ft wide sphere of darkness displaying the
+night sky appears.
+56. **Objectify:** You become any inanimate object between the size of
+a grand piano and an apple.
+57. **Ooze Form:** You become a living jelly.
+58. **Pacify:** L creatures have an aversion to violence.
+59. **Phantom Coach:** A ghostly coach appears until end of spell. It
+moves unnaturally fast over any terrain, including water.
+60. **Phobia:** L creatures become terrified of an object of your
+choice.
+61. **Pit:** A pit 10ft wide and L×5ft deep opens in the ground.
+62. **Primeval Surge:** An object grows to the size of an elephant. If
+it is an animal, it is enraged.
+63. **Psychometry:** The referee answers L yes or no questions about a
+touched object.
+64. **Pull:** An object of any size is pulled directly towards you with
+the strength of L men for one round.
+65. **Push:** An object of any size is pushed directly away from you
+with the strength of L men for one round.
+66. **Raise Dead:** L skeletons rise from the ground to serve you. They
+are incredibly stupid and can only obey simple orders.
+67. **Raise Spirit:** The spirit of a dead body manifests and will
+answer L questions.
+68. **Read Mind:** You can hear the surface thoughts of nearby
+creatures.
+69. **Repel:** L+1 objects are strongly magnetically repelled from each
+other if they come within 10 feet.
+70. **Scry:** You can see through the eyes of a creature you touched
+earlier today.
+71. **Sculpt Elements:** All inanimate material behaves like clay in
+your hands.
+72. **Shroud:** L creatures are invisible until they move.
+73. **Shuffle:** L creatures instantly switch places. Determine where
+they end up randomly.
+74. **Sleep:** L creatures fall into a light sleep.
+75. **Smoke Form:** Your body becomes living smoke.
+76. **Snail Knight:** 10 minutes after casting, a knight sitting
+astride a giant snail rides into view. He is able to answer most
+questions related to quests and chivalry, and may aid you if he finds
+you worthy.
+77. **Sniff:** You can smell even the faintest traces of scents.
+78. **Sort:** Inanimate items sort themselves according to categories
+you set. The categories must be visually verifiable.
+79. **Spectacle:** A clearly unreal but impressive illusion of your
+choice appears, under your control. It may be up to the size of a
+palace and has full motion and sound.
+80. **Spellseize:** Cast this as a reaction to another spell going off
+to make a temporary copy of it that you can cast at any time before
+this spell ends.
+81. **Spider Climb:** You can climb surfaces like a spider.
+82. **Summon Cube:** Once per second, (6 times per round) you may
+summon or banish a 3-foot-wide cube of earth. New cubes must be affixed
+to the earth or to other cubes.8.50″
+83. **Swarm:** You become a swarm of crows, rats, or piranhas. You only
+take damage from area effects.
+84. **Telekinesis:** You may mentally move L items.
+85. **Telepathy:** L+1 creatures can hear each other’s thoughts, no
+matter how far apart they move.
+86. **Teleport:** An object disappears and reappears on the ground in a
+visible, clear area up to L×40ft away.
+87. **Thaumaturgic Anchor:** Object becomes the target of every spell
+cast near it.
+88. **Thicket:** A thicket of trees and dense brush up to L×40ft wide
+suddenly sprouts up.
+89. **Time Jump:** An object disappears as it jumps L×10 minutes into
+the future. When it returns, it appears in the unoccupied area nearest
+to where it left.
+90. **Summon Idol:** A carved stone statue the size of a four poster
+bed rises from the ground.
+91. **Time Rush:** Time in a 40ft bubble starts moving 10 times faster.
+92. **Time Slow:** Time in a 40ft bubble slows to 10%.
+93. **True Sight:** You see through all nearby illusions.
+94. **Upwell:** A spring of seawater appears.
+95. **Vision:** You completely control what a creature sees.
+96. **Visual Illusion:** A silent, immobile, illusion of your choice
+appears, up to the size of a bedroom.
+97. **Ward:** A silver circle 40ft across appears on the ground. Choose
+one thing that cannot cross it: Living creatures, dead creatures,
+projectiles or metal.
+98. **Web:** Your wrists can shoot thick webbing.
+99. **Wizard Mark:** Your finger can shoot a stream of fire-colored
+paint. This paint is only visible to you, and can be seen at any
+distance, even through solid objects.
+100. **X-Ray Vision:** You gain X-Ray vision.
+
+## Additional Spells
+
+1. **Adaptive Skin:** Target can exist comfortably in hot or cold
+environments.
+2. **Addle Brain:** Target must pass WIL save or drop to 0 WIL for 1
+hour.
+3. **Animal Call:** Summons a mundane beast. It holds no loyalty
+towards you or your allies.
+4. **Anti-Magic Globe:** A thin shell of magical protection surrounds a
+small area around the caster. For every additional minute the globe is
+active they take one additional Fatigue.
+5. **Arachnid’s Finesse:** Target can walk on walls and ceilings.
+6. **Arcane Arrow:** Green energy bursts from your fingers, dealing 1d6
+damage and ignoring mundane armor.
+7. **Arcane Confinement:** Target is bound by magical rope, able only
+to speak but nothing more.
+8. **Arcane Epistle:** You write a letter that only its intended reader
+can understand.
+9. **Arcane Fireworks:** Target flame becomes a great conflagration of
+heat, light and sound.
+10. **Arcane Stain:** Inscribes an invisible rune you can feel. Suffer
+1d4 WIL loss if removed.
+11. **Architect’s Eye:** Any hidden doors within 60ft light up as if on
+fire.
+12. **Architect’s Perfection:** Create a holographic wall, floor, or
+ceiling that looks absolutely real.
+13. **Astral Step:** You and anyone touching you instantly transport to
+a known location you have been to before.
+14. **Banishment:** WIL save or creature to returns to native plane.
+15. **Become Unseen:** Target becomes invisible for 1 hour, and are
+still able use abilities and attack without detection. Afterwards they
+become incapacitated (deprived)
+16. **Beguilement:** Target humanoid must make a WIL save or is
+controlled telepathically.
+17. **Bewildering Fog:** A hazy fog surrounds you in a radius of 20ft.
+Attacks within the mist are impaired.
+18. **Blazing Defense:** You manifest a shield of flame (+1 Armor, 1d6
+damage). Fire cannot hurt you.
+19. **Bolster:** A person you can see is emboldened by your words for a
+few minutes:** their attacks are enhanced and they cannot become
+deprived.
+20. **Bound:** Target can make a single jump to any place they can see.
+21. **Boundless Message:** Delivers a single sentence to any one
+creature instantaneously, no matter the distance.
+22. **Breath Soup:** Blocks vision and slows movement.
+23. **Burning Missile:** You fire an acid missile that does 1d6 damage
+to a target for every round it is not washed off.
+24. **Burnishing Bubble:** Target is enclosed by an impenetrable sphere
+that rolls along the ground, unless they pass a DEX save.
+25. **Calcify:** Target object turns to stone at the caster’s touch.
+Living targets save vs STR.
+26. **Catsense:** Target has heightened senses for the next hour,Induce
+Despair:** Target must pass a WIL save or its attacks are impaired.
+especially at night.
+27. **Chilling Graze:** Target loses 1d4+1 STR and is deprived.
+28. **Cinder Flesh:** Energy beams burn enemies (1d10 blast damage) in
+a straight line.
+29. **Circle of Arcane Protection:** Magical or godly beings cannot
+enter a 10ft circle.
+30. **Cleanse:** Rotten or poisoned food becomes edible.
+31. **Cold Spray:** A spray of cold air does d6 damage 20ft in one
+direction.
+32. **Conceal Object:** Masks an object against divination or scrying.
+33. **Conquer Gravity:** Target moves up or down according to your
+whims.
+34. **Cosmic Fingertips:** Your hands sculpt stone, rock or minerals
+into any form you please.
+35. **Coup de Grâce:** An ally’s next attack ignores armor and takes
+damage directly from their target’s STR.
+36. **Craft from Clay:** Any natural, earthen target is transformed
+(rock to mud, lava to rock, etc).
+37. **Create Unlife:** Creates 1d4 undead skeletons and zombies from
+corpses. WIL save every hour to control them.
+38. **Curse of the Sightless:** Anyone within eyesight must make a WIL
+save or be blinded.
+39. **Cute Ink:** A single page in a book can be altered to hide its
+true content.
+40. **Darksight:** Target can see 60 ft. in total darkness.
+41. **Death’s Breath:** You summon a poisonous cloud (d6 STR loss) you
+can control.
+42. **Devil’s Comedian:** WIL save or target laughs uncontrollably,
+unable to take any action.
+43. **Disaster Fluid:** Anything in a 10ft square becomes slippery; DEX
+save to avoid slipping.
+44. **Disrupt Scry:** Future divinations of one creature or object are
+misled according to your will.
+45. **Doppleganger:** You spawn 1d6 decoy duplicates of someone you
+touch. Decoys are dispelled with a touch.
+46. **Doubleskin:** Target humanoid doubles in size.
+47. **Dreampoison:** Target is deprived after suffering a night of bad
+dreams.
+48. **Dreamtalker:** Sends a message to anyone currently asleep.
+49. **Earsplit:** Anyone within earshot is deafened.
+50. **Easy Descent:** Objects or creatures nearby fall very slowly.
+51. **Edifice:** You summon a stone wall up to 20ft wide that you can
+control.
+52. **Energize Rope:** A rope-like objects moves at your command.
+53. **Ensorcelled:** Creatures are enraptured for a few minutes unless
+they pass a WIL save.
+54. **Envision:** Spies on a target you have met, even across vast
+distances. On a WIL save, they can feel your presence.
+55. **Ephemeral Audio:** Point to a spot. Anyone nearby hears a sound
+you choose at any volume.
+56. **Epidemic:** Infects target with disease, which spreads until the
+source of magic is destroyed.
+57. **Extraplanar Convocation:** Summons any extraplanar being onto
+your plane. It holds no loyalty towards you or your allies.
+58. **Extraplanar Request:** Ask a single question of a random
+extraplanar entity.
+59. **Feline Dexterity:** Target becomes limber, lithe and as fast as
+quicksilver.
+60. **Find Virulence:** Detects poison in any creature or object within
+30ft.
+61. **Fire Curse:** An object you touch is imbued with a hidden
+flame-trap dealing 1d4+2 STR loss.
+62. **Firey Missile:** A bow you touch can fire flaming arrows (1d10
+damage) for one minute.
+63. **Fish Lung:** A target can breathe underwater until they surface
+again.
+64. **Fleetfooted:** One creature moves at double speed.
+65. **Flicker:** Target randomly vanishes and reappears once at will.
+66. **Fog of Nausea:** A cloud of nauseating vapors pours out from the
+Spellbook’s pages. Anyone nearby makes a STR save or vomit
+uncontrollably.
+67. **Fold Portal:** A door you touch opens into another door you’ve
+stepped through before until it is shut again.
+68. **Foolishness:** A target you touch becomes vulnerable to wild mood
+swings, sweeping conclusions and silly beh avior. They also lose 1d6
+WIL for 24 hours (down to a minimum of 1).
+69. **Frozen Corpse:** A corpse you touch is preserved.
+70. **Gale:** You summon an impenetrable wall of energy up to 15ft
+wide.
+71. **Ghost Whisper:** You and a sympathetic ally are linked, able to
+converse in short sentences for an hour.
+72. **Gift of Flight:** Target can fly for a short while.
+73. **Glacier:** You create a wall of ice (15 HP, 3 Armor) around a
+creature you choose.
+74. **Gorgon’s Gaze:** Target is transformed into a statue on a failed
+WIL save. A success reverses the spell; holder must pass a WIL save or
+the book is destroyed.
+75. **Great Ball of Fire:** You fire a ball of flame (1d10 damage) up
+to 20 feet away.
+76. **Hand of the Protector:** A giant, floating hand blocks all damage
+from a single opponent until you are safe from danger.
+77. **Heatless Torch:** Turns any object into a permanent, heatless
+torch.
+78. **Hedgemagick:** You perform a minor magical trick (create flame,
+wind, light or sound).
+79. **Hempen Hoop:** A rope moves at your command.
+80. **Hide Mind:** The next person to scry your mind or your
+whereabouts is fooled.
+81. **Hoodwink Monster:** Target monster makes a WIL save or treats you
+as an ally.
+82. **Hoodwink Person:** Target becomes a friend until out of sight.
+83. **Hovering Protection:** A hovering, transparent disk materializes
+around an ally granting 1 Armor.
+84. **Ice Ray:** Ice and snow flow from your fingerprints, dealing 1d8
+damage (blast) in a straight line.
+85. **Icy Tempest:** Hail deals 1d12 damage in a 20ft radius.
+86. **Ill Fate:** Target automatically fails next their next save.
+87. **Illusory Landscape:** You can make one type of terrain appear
+like another.
+88. **Incorporeal Shrug:** Ignore any one attack.
+89. **Induce Horror:** Target makes a WIL save or flees.
+90. **Inferno:** You summon a flaming wall up to 15ft wide. Anyone
+passing through suffers 1d6 STR loss.
+91. **Influence:** Target gains armor 3 but running and swimming are
+impossible.
+92. **Insubstantiate:** Target becomes insubstantial and can float.
+93. **Kraken’s Curse:** Tentacles grapple all within 20 ft, STR save to
+break free.
+94. **Lamp’s Hue:** Target object shines like a torch for one hour.
+95. **Latch:** An unlocked box, cabinet or door opens or closes at your
+command.
+96. **Librarian’s Trap:** Deals 1d4+2 STR loss when read.
+97. **Lightning Strike:** Electricity flings from your fingertips doing
+1d12 damage (blast) in a line.
+98. **Major Genesis:** Creates an object of nonliving stone or metal no
+greater than 5 cubic foot in size.
+99. **Maker:** Transforms raw materials into finished items.
+100. **Manic Fury:** A target’s attacks are enhanced. They must make a
+WIL save after a successful killing or lose control, attacking anyone
+in sight.
+101. **Masquerade:** You assume the likeness of a similar creature you
+have seen.
+102. **Mental Tripwire:** Intruders set off an alarm audible only to
+you.
+103. **Mind Bond:** Two allies can communicate via a mental link for
+the rest of the day.
+104. **Mind Reader:** You can see or hear any person you have met
+before.
+105. **Miniaturize:** An object shrinks to one tenth its size.
+106. **Minor Aegis:** A target you touch ignores the next instance of
+harm from a specific source.
+107. **Minor Genesis:** Creates an object of nonliving matter no
+greater than one cubic foot in size.
+108. **Mirage:** You summon a noiseless & simple illusion of your
+choice.
+109. **Molasses Veins:** A single target moves at half speed.
+110. **Murky Bubble:** You create a bubble supernatural shadow within a
+20ft radius.
+111. **Necrotic Touch:** Target must DEX save or is paralyzed.
+112. **Obfuscate:** Target cannot be observed either through divination
+or scrying.
+113. **Obfuscation:** Changes your appearance.
+114. **Obscuring Mist:** A rolling fog obscures vision in a 300ft
+radius.
+115. **Opaque Cover:** Details about your person become obscured and
+unmemorable.
+116. **Orb of Ignus:** You control a floating ball of fire (1d8 damage)
+for a short while.
+117. **Orb of Immortality:** Mundane attacks cannot harm anyone within
+a 10ft radius, or vice-versa.
+118. **Otherworldly Pet:** Summons an unintelligent extraplanar creature
+up to the size of a small dog. It holds no loyalty towards you or your
+allies.
+119. **Paincurrent:** An arc of electricity passes from your fingertips
+to a target you touch. They take 1d8 damage (1d12 if wearing metal
+armor).
+120. **Passive Invisibility:** Target is invisible until they attempt
+harm.
+121. **Peeping Warlock:** You control a pair of floating eyes so long
+as yours remain closed.
+122. **Perfect Illusion:** Creates an image with sound, smell and
+thermal effects, activated according to a trigger you choose. Touching
+the image or making a successful WIL save will reveal the illusion.
+123. **Phantom Hound:** A ghostly canine (4 HP, bite (1d4)) obeys your
+commands for up to one hour.
+124. **Phase Anchor:** Binds an extraplanar creature to your will until
+it performs a task specific task, after which they must pass a WIL save
+to escape (good luck).
+125. **Phase Sneak:** Anyone within a 10ft radius is rendered
+invisible.
+126. **Phase Touch:** A disembodied, floating hand obeys your whims but
+is immaterial. The next Spellbook, ability or item that relies on touch
+now works from a distance.
+127. **Philolomancy:** You understand all spoken and written languages.
+128. **Philosopher’s Mind:** Target is immune to spiritual or psychic
+attacks, as well as any attempts at mental or spiritual manipulation or
+persuasion.
+129. **Plant Scourge:** Plants within eyesight wither and die.
+130. **Pocket Container:** Summons a chest from an immaterial plane. It
+holds up to 6 items. The chest is dismissed at will.
+131. **Pocket Sun:** You create a halo of bright light in a 60ft
+radius.
+132. **Prisma Shard:** An array of hypnotic lights fascinate nearby
+creatures, unless they pass a WIL save.
+133. **Profane Reveal:** Target an empty space to reveal invisible
+objects or creatures.
+134. **Psychic Eye:** Invisible floating eye allowing you to observe a
+single location as present.
+135. **Psychokinesis:** Magically moves an object up to half your
+weight.
+136. **Puppeteer:** You can throw your voice a great distance away
+137. **Purge Text:** Mundane or magical writing vanishes at your touch.
+138. **Pyramid of Passivity:** Target creatures must make a DEX save or
+their attacks are impaired.
+139. **Pyschic Touch:** You can hear target’s surface thoughts, so long
+as you touch them.
+140. **Rat-Tat-Tat:** Loudly opens a locked or magically sealed door or
+chest.
+141. **Reject Unlife:** Nearby undead are immobilized for 30 seconds or
+until you take another action.
+142. **Remembered Voice:** A spot you mark becomes the trigger for a
+supernatural recording of your voice, delivering a short message of
+your choice.
+143. **Reverie:** Targets become dazed for a moment, as if lost in
+daydream.
+144. **Runic Harm:** A rune you draw causes great pain to the reader,
+who must WIL save or scream until they pass out (1d4 WIL loss). A
+successful save destroys the rune.
+145. **Runic Slumber:** A rune you draw puts the reader into a magical
+sleep that lasts 1d6 hours.
+146. **Safe Haven:** You summon a floating, invisible refuge for 8
+hours. It fits up to 8 people comfortably.
+147. **Scintillate:** Target must WIL save or their attacks become
+impaired.
+148. **Scry Creature:** Indicates the precise location of a familiar
+creature.
+149. **Scry Object:** Indicates the precise location of an object,
+known or otherwise.
+150. **Sculpt Water:** Raise, lower or part nearby water.
+151. **Secret Attaché:** You summon an invisible creature of great
+power that obeys your every command. Reading from other Spellbooks
+dispels the creature.
+152. **Shelter:** Creates a standing edifice that can shelter up to 10
+creatures, disappearing after 24 hours.
+153. **Shrinking Cant:** A humanoid creature you touch halves in size.
+154. **Signal:** Sends up a flare that can be seen for some distance.
+155. **Simple Illusion:** Creates a simple image with sound. A cursory
+investigation will reveal the illusory image.
+156. **Sinister Flame:** Target’s palms are lined with flames (1d4+1
+STR loss) for one minute.
+157. **Sinister Polymorph:** WIL save or target is transformed into a
+harmless animal.
+158. **Skillfull Repair:** You make minor repairs to a nonliving
+object.
+159. **Sky Raft:** You summon a 3ft wide floating disk that holds up to
+100lbs.
+160. **Solar Portal:** Sends an extraplanar message to all beings that
+wish to enter your plane. You have no choice which being answers and it
+holds no loyalty to you or your allies.
+161. **Sonic Shattering:** A sonic wave causes 1d6 STR loss to
+susceptible objects or crystalline creatures, ignoring armor.
+162. **Sorcerer’s Lock:** Any door (magical or otherwise) is held shut
+until you leave its vicinity.
+163. **Soul Annex:** Target’s spirit is caged within their body and
+replaced with the caster’s. If the body is slain the original soul
+departs, but the caster must pass a WIL save to return to their body.
+164. **Steer’s Strength:** Target’s strength triples; unarmed attacks
+are enhanced.
+165. **Strength Tap:** A target you touch loses 1d6 STR, which is
+transferred to you (up to your max STR).
+166. **Stumbling Steps:** A target you touch becomes deprived and loses
+1 STR.
+167. **Stupefaction:** Target temporarily loses sense of place and
+time. WIL save to overcome.
+168. **Sudden Slumber:** Target falls asleep for 1d4 hours.
+169. **Summon Elemental:** A being of fire, wire, earth, or wind
+manifests from available matter to perform a single task for the
+caster. It follows this command against its will.
+170. **Sway Will:** A target is compelled to follow a stated course of
+action, without understanding why.
+171. **Temporary Reprieve:** Target regains any lost STR, but loses it
+again after a few minutes.
+172. **Terrify:** Targets within eyesight must pass a WIL save or flee.
+173. **Terrifying Illusion:** A target is hunted by a terrible creature
+only they can see. Its attacks do 1d12 damage; on Critical Damage they
+must pass a WIL save or become catatonic.
+174. **Thief’s Bane:** An object appears trapped, even to an
+experienced thief.
+175. **Thwart the Elements:** Damage from energy blasts are impaired
+against a target for the next hour.
+176. **Tongue of the Blue Serpent:** Rust-colored, serpentine letters
+materialize on a surface you choose. Anyone reading these words becomes
+immobilized unless they succeed a WIL save.
+177. **Torrential Moat:** You summon a powerful wind that deflects
+arrows, smaller creatures, and noxious gases.
+178. **Toxic Blast:** A small orb of acid deals 1d6 blast damage to a
+target.
+179. **Transform Aura:** Target’s aura is made non-magical or
+vice-versa.
+180. **True Name:** Determines the properties of a magical item you
+touch.
+181. **Trueshift:** A willing target takes on a new form (keeping only
+their WIL), but must pass a WIL save to shift out.
+182. **Twilight Steed:** Summons an arcane steed that never tires, but
+dissipates within daylight.
+183. **Ultimate Sacrifice:** The book’s holder transfer’s their life
+force into a corpse, reviving both body and soul.
+184. **Undefinable Target:** An ally becomes immune to mundane ranged
+attacks for one round.
+185. **Undeniable Courage:** Target passes next WIL save and their
+attacks are enhanced.
+186. **Unflappable Endurance:** Target does not take Fatigue from
+non-magical activities or become deprived until their next rest.
+187. **Vermin Plague:** Summons a swarm of bats, rats, spiders or
+0.33″similar creatures of your choice. They are harmless but
+distracting and hold no loyalty towards you or your allies.
+188. **Vines of Ichor:** You spread sticky spiderwebs on the walls,
+floor and ceilings within a 20ft radius.
+189. **Warrior’s Edge:** Target weapon is enhanced, and victim
+automatically fails a critical damage save.
+190. **Wanderlust Guide:** Immediately know where North is.
+191. **Weapon's Grace:** Target can re-roll damage for the next 3
+attacks.
+192. **Windborn:** You direct a powerful wind in a straight line,
+strong enough to blow over small boulders.
+193. **Winter’s Woe:** An icy storm assails multiple targets, obscuring
+visibility and making the ground icy and treacherous.
+194. **Witch Sight:** Magical auras become visible to you for one hour.
+195. **Wizard’s Exit:** You and and anyone you touch can flee to safety
+at double speed.
+196. **Wizard’s Grasp:** You control a phantasmal hand that can lift up
+to 5 pounds.
+197. **Wizard’s Haven:** A small, walled-in area cannot be scryed.
+198. **Wizardsniff:** You can feel any magic within a 60ft radius.
+199. **Woeful Tongue:** You can speak with recently deceased corpses,
+they will talk to you like a friend.
+200. **Zone of Why:** Creatures in the area can only ask questions.
+
+## 20 Cleric Spells
+
+1. **Blessing:** Target’s attacks are enhanced and non-Blast attacks
+are impaired against them until they next take damage.
+2. **Cure-All:** A single illness or disease dissipates at your touch.
+3. **Curse Unlife:** Deals 1d4+2 STR loss to one undead, ignoring armor
+and resistances.
+4. **Fortify:** Damage from heat, ice, acid or electricity are impaired
+against a target for the next hour.
+5. **Healing Grace:** A target heals 1d6 STR, and you become deprived
+until you take the time to mediate, pray or sleep.
+6. **Induce Despair:** Target must pass a WIL save or its attacks are
+impaired.
+7. **Lichsense:** You feel any undead within 60ft. WIL save to avoid
+detection by intelligent undead.
+8. **Light Show:** You control a dazzling display of light and color.
+9. **Linguist:** For the next hour you can speak and understand any
+mundane language.
+10. **Magic Seal:** Magically locks a door, portal or chest.
+11. **Master Undead:** Undead creatures obey your command. Intelligent
+undead make a WIL save.
+12. **Otherworldly Gate:** Opens a portal to another reality. It works
+in both directions.
+13. **Passage:** Creates a temporary path through wood, stone or brick.
+14. **Perfect Preservation:** A weapon you touch becomes immune to
+wear, mundane damage or elemental effects. The spell wears off after a
+day.
+15. **Planar Anchor:** Bars extradimensional movement.
+16. **Ravenless Message:** You send a short message 1 mile that anyone
+along its path can hear.
+17. **Scrying Ward:** For 24 hours you become aware of any magical
+eavesdropping.
+18. **Song of Repose:** Target falls into a deep slumber.
+19. **Uncurse:** A person or object you touch is freed from a curse or
+nefarious spell.
+20. **Word of Pain:** A single phrase from your lips does 1d10 damage.
+Affected target's attacks are also Impaired until they pass a WIL save.
+
+## 30 Cantrips
+
+1. **Acid Splash:** Hurl a bubble of acid for d6 damage to 2 targets.
+2. **Arcane Mark:** Leave a visible or invisible message.
+3. **Chill Touch:** Create a ghostly skeletal hand that clings to a 
+target, causing d6 necrotic damage and hindering healing.
+4. **Create Water:** Create 2 gallons of water.
+5. **Dancing Lights:** Conjure up to four floating lights to illuminate
+your surroundings.
+6. **Daze:**  A non-hostile humanoid is dazed for a short moment, lost
+in a daydream.
+7. **Detect Animals/Nature:** Detects animals/nature within 60 ft.
+8. **Detect Magic:** Detects spells and magic items within 60 ft.
+9. **Detect Poison:** Detects poison in one creature or small object.
+10. **Endure Elements:** Ignore intense weather conditions for 24 
+hours.
+11. **Fire Bolt:** 1d8 damage. Can light things on fire.
+12. **Ghost Sounds:** Create any type of sound.
+13. **Guidance:** Grants for a shot time a creature the ability to 
+re-roll one save if they missed passing by 1.
+14. **Light:** Make an object emit bright light, illuminating dark
+areas.
+15. **Mage Hand:** Summon a spectral hand to manipulate objects
+remotely.
+16. **Mending:** Repair minor breaks or tears in objects.
+17. **Message:** Whisper a message to a distant creature, who can reply
+in kind.
+18. **Minor Illusion:** Create a simple image or sound to deceive or
+distract.
+19. **Open/Close:** Opens or closes small or light things.
+20. **Poison Spray:** d12 poison damage if the nearby target fails a 
+STR save.
+21. **Prestidigitation:** Perform minor magical tricks for various
+effects.
+22. **Produce Flame:** Create a small flame in your hand that can shed
+light or be thrown as an d6 attack.
+23. **Purify Food and Drink:** Make food eatable.
+24. **Ray of Frost:** Deals 1d6 cold damage and target makes a STR save 
+or next attack is impaired.
+25. **Sacred Flame:** d12 radiant damage if the target fails a DEX 
+save.
+26. **Shillelagh:** Make a d18 magical melee attack with a wooden 
+weapon.
+27. **Shocking Grasp:** Deliver a d8 electric shock to a creature you 
+touch.
+28. **Spare the Dying:** Instantly stabilize a dying creature without
+needing a healing roll and bringing them to 1 HP.
+29. **True Strike:** Gain insight into a target's defenses, making your
+next attack Enhanced and you may re-roll a 1.
+30. **Vicious Mockery:** Hurl magical insults that deal d6 psychic 
+damage  and target makes a WIL save or next attack is impaired.
 
 # Bestiary
 
@@ -2081,680 +2753,6 @@ creatures of uncommon power. Large and ferocious animals, most
 monstrosities and extraplanar creatures fall here.
 * 13-18 HP are large threats. Dragons, Giants, that sort of enemy that
 can cause massive destruction.
-
-# Magic
-
-Random Spell Sets (d20):
-
-* 1-6: 100 Knave Spells
-* 7-17: Additional Spells
-* 18: Cleric Spells
-* 19-20: Cantrips
-Players can replace a Cantrip they know by finding
-
-## 100 Knave Spells
-
-1. **Adhere:** Object is covered in extremely sticky slime.
-2. **Animate Object:** Object obeys your commands as best it can. It
-can walk 15ft per round.
-3. **Anthropomorphize:** A touched animal either gains human
-intelligence or human appearance for L days.
-4. **Arcane Eye:** You can see through a magical floating eyeball that
-flies around at your command.
-5. **Astral Prison:** An object is frozen in time and space within an
-invulnerable crystal shell.
-6. **Attract:** L+1 objects are strongly magnetically attracted to each
-other if they come within 10 feet.
-7. **Auditory Illusion:** You create illusory sounds that seem to come
-from a direction of your choice.
-8. **Babble:** A creature must loudly and clearly repeat everything you
-think. It is otherwise mute.
-9. **Beast Form:** You and your possessions transform into a mundane
-animal.
-10. **Befuddle:** L creatures of your choice are unable to form new
-short-term memories for the duration of the spell.
-11. **Bend Fate:** Roll L+1 d20s. Whenever you must roll a d20 after
-casting the spell, you must choose and then discard one of the rolled
-results until they are all gone.
-12. **Bird Person:** Your arms turn into huge bird wings.
-13. **Body Swap:** You switch bodies with a creature you touch. If one
-body dies, the other dies as well.
-14. **Catherine:** A woman wearing a blue dress appears until end of
-spell. She will obey polite, safe requests.
-15. **Charm:** L creatures treat you like a friend.
-16. **Command:** A creature obeys a single, three-word command that
-does not harm it.
-17. **Comprehend:** You become fluent in all languages.
-18. **Control Plants:** Nearby plants and trees obey you and gain the
-ability to move at 5 feet per round.
-19. **Control Weather:** You may alter the type of weather at will, but
-you do not otherwise control it.
-20. **Counterspell:** Make an opposed Intelligence save against the
-Intelligence of the caster of a nearby spell. You may do this out of
-turn as a reaction, or against an ongoing magical effect. On a success,
-you may cancel the spell.
-21. **Deafen:** All nearby creatures are deafened.
-22. **Detect Magic:** You hear nearby magical auras singing. Volume and
-harmony signify the aura’s power and refinement.
-23. **Disassemble:** Any of your body parts may be detached and
-reattached at will, without causing pain or damage. You can still
-control them.
-24. **Disguise:** You may alter the appearance of L characters at will
-as long as they remain humanoid. Attempts to duplicate other characters
-will seem uncanny.
-25. **Displace:** An object appears to be up to L×10ft from its actual
-position.
-26. **Earthquake:** The ground begins shaking violently. Structures may
-be damaged or collapse.
-27. **Elasticity:** Your body can stretch up to L×10ft.
-28. **Elemental Wall:** A straight wall of ice or fire L×40ft long
-and 10ft high rises from the ground.
-29. **Filch:** L visible items teleport to your hands.
-30. **Fog Cloud:** Dense fog spreads out from you.
-31. **Frenzy:** L creatures erupt in a frenzy of violence.
-32. **Gate:** A portal to a random plane opens.
-33. **Gravity Shift:** You can change the direction of gravity (for
-yourself only) up to once per round.
-34. **Greed:** L creatures develop an overwhelming urge to possess a
-visible item of your choice.
-35. **Haste:** Your movement speed is tripled.
-36. **Hatred:** L creatures develop a deep hatred of another creature
-or group of creatures and wish to destroy it.
-37. **Hear Whispers:** You can hear faint sounds clearly.
-38. **Hover:** An object hovers, frictionless, 2ft above the ground.
-It can hold up to L humanoids.
-39. **Hypnotize:** A creature enters a trance and will truthfully
-answer L yes or no questions you ask it.
-40. **Icy Touch:** A thick ice layer spreads across a touched surface,
-up to L×10ft in radius.
-41. **Illuminate:** A floating light moves as you command.
-42. **Increase Gravity:** The gravity in an area triples.
-43. **Invisible Tether:** Two objects within 10ft of each other cannot
-be moved more than 10ft apart.
-44. **Knock:** L nearby mundane or magical locks unlock.
-45. **Leap:** You can jump up to L×10ft in the air.
-46. **Liquid Air:** The air around you becomes swimmable.
-47. **Magic Dampener:** All nearby magical effects have their
-effectiveness halved.
-48. **Manse:** A sturdy, furnished cottage appears for L×12 hours. You
-can permit and forbid entry to it at will.
-49. **Marble Madness:** Your pockets are full of marbles, and will
-refill every round.
-50. **Masquerade:** L characters’ appearances and voices become
-identical to a touched character.
-51. **Miniaturize:** You and L other touched creatures are reduced to
-the size of a mouse.
-52. **Mirror Image:** L illusory duplicates of yourself appear under
-your control.
-53. **Mirrorwalk:** A mirror becomes a gateway to another mirror that
-you looked into today.
-54. **Multiarm:** You gain L extra arms.
-55. **Night Sphere:** An L×40ft wide sphere of darkness displaying the
-night sky appears.
-56. **Objectify:** You become any inanimate object between the size of
-a grand piano and an apple.
-57. **Ooze Form:** You become a living jelly.
-58. **Pacify:** L creatures have an aversion to violence.
-59. **Phantom Coach:** A ghostly coach appears until end of spell. It
-moves unnaturally fast over any terrain, including water.
-60. **Phobia:** L creatures become terrified of an object of your
-choice.
-61. **Pit:** A pit 10ft wide and L×5ft deep opens in the ground.
-62. **Primeval Surge:** An object grows to the size of an elephant. If
-it is an animal, it is enraged.
-63. **Psychometry:** The referee answers L yes or no questions about a
-touched object.
-64. **Pull:** An object of any size is pulled directly towards you with
-the strength of L men for one round.
-65. **Push:** An object of any size is pushed directly away from you
-with the strength of L men for one round.
-66. **Raise Dead:** L skeletons rise from the ground to serve you. They
-are incredibly stupid and can only obey simple orders.
-67. **Raise Spirit:** The spirit of a dead body manifests and will
-answer L questions.
-68. **Read Mind:** You can hear the surface thoughts of nearby
-creatures.
-69. **Repel:** L+1 objects are strongly magnetically repelled from each
-other if they come within 10 feet.
-70. **Scry:** You can see through the eyes of a creature you touched
-earlier today.
-71. **Sculpt Elements:** All inanimate material behaves like clay in
-your hands.
-72. **Shroud:** L creatures are invisible until they move.
-73. **Shuffle:** L creatures instantly switch places. Determine where
-they end up randomly.
-74. **Sleep:** L creatures fall into a light sleep.
-75. **Smoke Form:** Your body becomes living smoke.
-76. **Snail Knight:** 10 minutes after casting, a knight sitting
-astride a giant snail rides into view. He is able to answer most
-questions related to quests and chivalry, and may aid you if he finds
-you worthy.
-77. **Sniff:** You can smell even the faintest traces of scents.
-78. **Sort:** Inanimate items sort themselves according to categories
-you set. The categories must be visually verifiable.
-79. **Spectacle:** A clearly unreal but impressive illusion of your
-choice appears, under your control. It may be up to the size of a
-palace and has full motion and sound.
-80. **Spellseize:** Cast this as a reaction to another spell going off
-to make a temporary copy of it that you can cast at any time before
-this spell ends.
-81. **Spider Climb:** You can climb surfaces like a spider.
-82. **Summon Cube:** Once per second, (6 times per round) you may
-summon or banish a 3-foot-wide cube of earth. New cubes must be affixed
-to the earth or to other cubes.8.50″
-83. **Swarm:** You become a swarm of crows, rats, or piranhas. You only
-take damage from area effects.
-84. **Telekinesis:** You may mentally move L items.
-85. **Telepathy:** L+1 creatures can hear each other’s thoughts, no
-matter how far apart they move.
-86. **Teleport:** An object disappears and reappears on the ground in a
-visible, clear area up to L×40ft away.
-87. **Thaumaturgic Anchor:** Object becomes the target of every spell
-cast near it.
-88. **Thicket:** A thicket of trees and dense brush up to L×40ft wide
-suddenly sprouts up.
-89. **Time Jump:** An object disappears as it jumps L×10 minutes into
-the future. When it returns, it appears in the unoccupied area nearest
-to where it left.
-90. **Summon Idol:** A carved stone statue the size of a four poster
-bed rises from the ground.
-91. **Time Rush:** Time in a 40ft bubble starts moving 10 times faster.
-92. **Time Slow:** Time in a 40ft bubble slows to 10%.
-93. **True Sight:** You see through all nearby illusions.
-94. **Upwell:** A spring of seawater appears.
-95. **Vision:** You completely control what a creature sees.
-96. **Visual Illusion:** A silent, immobile, illusion of your choice
-appears, up to the size of a bedroom.
-97. **Ward:** A silver circle 40ft across appears on the ground. Choose
-one thing that cannot cross it: Living creatures, dead creatures,
-projectiles or metal.
-98. **Web:** Your wrists can shoot thick webbing.
-99. **Wizard Mark:** Your finger can shoot a stream of fire-colored
-paint. This paint is only visible to you, and can be seen at any
-distance, even through solid objects.
-100. **X-Ray Vision:** You gain X-Ray vision.
-
-## Additional Spells
-
-1. **Adaptive Skin:** Target can exist comfortably in hot or cold
-environments.
-2. **Addle Brain:** Target must pass WIL save or drop to 0 WIL for 1
-hour.
-3. **Animal Call:** Summons a mundane beast. It holds no loyalty
-towards you or your allies.
-4. **Anti-Magic Globe:** A thin shell of magical protection surrounds a
-small area around the caster. For every additional minute the globe is
-active they take one additional Fatigue.
-5. **Arachnid’s Finesse:** Target can walk on walls and ceilings.
-6. **Arcane Arrow:** Green energy bursts from your fingers, dealing 1d6
-damage and ignoring mundane armor.
-7. **Arcane Confinement:** Target is bound by magical rope, able only
-to speak but nothing more.
-8. **Arcane Epistle:** You write a letter that only its intended reader
-can understand.
-9. **Arcane Fireworks:** Target flame becomes a great conflagration of
-heat, light and sound.
-10. **Arcane Stain:** Inscribes an invisible rune you can feel. Suffer
-1d4 WIL loss if removed.
-11. **Architect’s Eye:** Any hidden doors within 60ft light up as if on
-fire.
-12. **Architect’s Perfection:** Create a holographic wall, floor, or
-ceiling that looks absolutely real.
-13. **Astral Step:** You and anyone touching you instantly transport to
-a known location you have been to before.
-14. **Banishment:** WIL save or creature to returns to native plane.
-15. **Become Unseen:** Target becomes invisible for 1 hour, and are
-still able use abilities and attack without detection. Afterwards they
-become incapacitated (deprived)
-16. **Beguilement:** Target humanoid must make a WIL save or is
-controlled telepathically.
-17. **Bewildering Fog:** A hazy fog surrounds you in a radius of 20ft.
-Attacks within the mist are impaired.
-18. **Blazing Defense:** You manifest a shield of flame (+1 Armor, 1d6
-damage). Fire cannot hurt you.
-19. **Bolster:** A person you can see is emboldened by your words for a
-few minutes:** their attacks are enhanced and they cannot become
-deprived.
-20. **Bound:** Target can make a single jump to any place they can see.
-21. **Boundless Message:** Delivers a single sentence to any one
-creature instantaneously, no matter the distance.
-22. **Breath Soup:** Blocks vision and slows movement.
-23. **Burning Missile:** You fire an acid missile that does 1d6 damage
-to a target for every round it is not washed off.
-24. **Burnishing Bubble:** Target is enclosed by an impenetrable sphere
-that rolls along the ground, unless they pass a DEX save.
-25. **Calcify:** Target object turns to stone at the caster’s touch.
-Living targets save vs STR.
-26. **Catsense:** Target has heightened senses for the next hour,Induce
-Despair:** Target must pass a WIL save or its attacks are impaired.
-especially at night.
-27. **Chilling Graze:** Target loses 1d4+1 STR and is deprived.
-28. **Cinder Flesh:** Energy beams burn enemies (1d10 blast damage) in
-a straight line.
-29. **Circle of Arcane Protection:** Magical or godly beings cannot
-enter a 10ft circle.
-30. **Cleanse:** Rotten or poisoned food becomes edible.
-31. **Cold Spray:** A spray of cold air does d6 damage 20ft in one
-direction.
-32. **Conceal Object:** Masks an object against divination or scrying.
-33. **Conquer Gravity:** Target moves up or down according to your
-whims.
-34. **Cosmic Fingertips:** Your hands sculpt stone, rock or minerals
-into any form you please.
-35. **Coup de Grâce:** An ally’s next attack ignores armor and takes
-damage directly from their target’s STR.
-36. **Craft from Clay:** Any natural, earthen target is transformed
-(rock to mud, lava to rock, etc).
-37. **Create Unlife:** Creates 1d4 undead skeletons and zombies from
-corpses. WIL save every hour to control them.
-38. **Curse of the Sightless:** Anyone within eyesight must make a WIL
-save or be blinded.
-39. **Cute Ink:** A single page in a book can be altered to hide its
-true content.
-40. **Darksight:** Target can see 60 ft. in total darkness.
-41. **Death’s Breath:** You summon a poisonous cloud (d6 STR loss) you
-can control.
-42. **Devil’s Comedian:** WIL save or target laughs uncontrollably,
-unable to take any action.
-43. **Disaster Fluid:** Anything in a 10ft square becomes slippery; DEX
-save to avoid slipping.
-44. **Disrupt Scry:** Future divinations of one creature or object are
-misled according to your will.
-45. **Doppleganger:** You spawn 1d6 decoy duplicates of someone you
-touch. Decoys are dispelled with a touch.
-46. **Doubleskin:** Target humanoid doubles in size.
-47. **Dreampoison:** Target is deprived after suffering a night of bad
-dreams.
-48. **Dreamtalker:** Sends a message to anyone currently asleep.
-49. **Earsplit:** Anyone within earshot is deafened.
-50. **Easy Descent:** Objects or creatures nearby fall very slowly.
-51. **Edifice:** You summon a stone wall up to 20ft wide that you can
-control.
-52. **Energize Rope:** A rope-like objects moves at your command.
-53. **Ensorcelled:** Creatures are enraptured for a few minutes unless
-they pass a WIL save.
-54. **Envision:** Spies on a target you have met, even across vast
-distances. On a WIL save, they can feel your presence.
-55. **Ephemeral Audio:** Point to a spot. Anyone nearby hears a sound
-you choose at any volume.
-56. **Epidemic:** Infects target with disease, which spreads until the
-source of magic is destroyed.
-57. **Extraplanar Convocation:** Summons any extraplanar being onto
-your plane. It holds no loyalty towards you or your allies.
-58. **Extraplanar Request:** Ask a single question of a random
-extraplanar entity.
-59. **Feline Dexterity:** Target becomes limber, lithe and as fast as
-quicksilver.
-60. **Find Virulence:** Detects poison in any creature or object within
-30ft.
-61. **Fire Curse:** An object you touch is imbued with a hidden
-flame-trap dealing 1d4+2 STR loss.
-62. **Firey Missile:** A bow you touch can fire flaming arrows (1d10
-damage) for one minute.
-63. **Fish Lung:** A target can breathe underwater until they surface
-again.
-64. **Fleetfooted:** One creature moves at double speed.
-65. **Flicker:** Target randomly vanishes and reappears once at will.
-66. **Fog of Nausea:** A cloud of nauseating vapors pours out from the
-Spellbook’s pages. Anyone nearby makes a STR save or vomit
-uncontrollably.
-67. **Fold Portal:** A door you touch opens into another door you’ve
-stepped through before until it is shut again.
-68. **Foolishness:** A target you touch becomes vulnerable to wild mood
-swings, sweeping conclusions and silly beh avior. They also lose 1d6
-WIL for 24 hours (down to a minimum of 1).
-69. **Frozen Corpse:** A corpse you touch is preserved.
-70. **Gale:** You summon an impenetrable wall of energy up to 15ft
-wide.
-71. **Ghost Whisper:** You and a sympathetic ally are linked, able to
-converse in short sentences for an hour.
-72. **Gift of Flight:** Target can fly for a short while.
-73. **Glacier:** You create a wall of ice (15 HP, 3 Armor) around a
-creature you choose.
-74. **Gorgon’s Gaze:** Target is transformed into a statue on a failed
-WIL save. A success reverses the spell; holder must pass a WIL save or
-the book is destroyed.
-75. **Great Ball of Fire:** You fire a ball of flame (1d10 damage) up
-to 20 feet away.
-76. **Hand of the Protector:** A giant, floating hand blocks all damage
-from a single opponent until you are safe from danger.
-77. **Heatless Torch:** Turns any object into a permanent, heatless
-torch.
-78. **Hedgemagick:** You perform a minor magical trick (create flame,
-wind, light or sound).
-79. **Hempen Hoop:** A rope moves at your command.
-80. **Hide Mind:** The next person to scry your mind or your
-whereabouts is fooled.
-81. **Hoodwink Monster:** Target monster makes a WIL save or treats you
-as an ally.
-82. **Hoodwink Person:** Target becomes a friend until out of sight.
-83. **Hovering Protection:** A hovering, transparent disk materializes
-around an ally granting 1 Armor.
-84. **Ice Ray:** Ice and snow flow from your fingerprints, dealing 1d8
-damage (blast) in a straight line.
-85. **Icy Tempest:** Hail deals 1d12 damage in a 20ft radius.
-86. **Ill Fate:** Target automatically fails next their next save.
-87. **Illusory Landscape:** You can make one type of terrain appear
-like another.
-88. **Incorporeal Shrug:** Ignore any one attack.
-89. **Induce Horror:** Target makes a WIL save or flees.
-90. **Inferno:** You summon a flaming wall up to 15ft wide. Anyone
-passing through suffers 1d6 STR loss.
-91. **Influence:** Target gains armor 3 but running and swimming are
-impossible.
-92. **Insubstantiate:** Target becomes insubstantial and can float.
-93. **Kraken’s Curse:** Tentacles grapple all within 20 ft, STR save to
-break free.
-94. **Lamp’s Hue:** Target object shines like a torch for one hour.
-95. **Latch:** An unlocked box, cabinet or door opens or closes at your
-command.
-96. **Librarian’s Trap:** Deals 1d4+2 STR loss when read.
-97. **Lightning Strike:** Electricity flings from your fingertips doing
-1d12 damage (blast) in a line.
-98. **Major Genesis:** Creates an object of nonliving stone or metal no
-greater than 5 cubic foot in size.
-99. **Maker:** Transforms raw materials into finished items.
-100. **Manic Fury:** A target’s attacks are enhanced. They must make a
-WIL save after a successful killing or lose control, attacking anyone
-in sight.
-101. **Masquerade:** You assume the likeness of a similar creature you
-have seen.
-102. **Mental Tripwire:** Intruders set off an alarm audible only to
-you.
-103. **Mind Bond:** Two allies can communicate via a mental link for
-the rest of the day.
-104. **Mind Reader:** You can see or hear any person you have met
-before.
-105. **Miniaturize:** An object shrinks to one tenth its size.
-106. **Minor Aegis:** A target you touch ignores the next instance of
-harm from a specific source.
-107. **Minor Genesis:** Creates an object of nonliving matter no
-greater than one cubic foot in size.
-108. **Mirage:** You summon a noiseless & simple illusion of your
-choice.
-109. **Molasses Veins:** A single target moves at half speed.
-110. **Murky Bubble:** You create a bubble supernatural shadow within a
-20ft radius.
-111. **Necrotic Touch:** Target must DEX save or is paralyzed.
-112. **Obfuscate:** Target cannot be observed either through divination
-or scrying.
-113. **Obfuscation:** Changes your appearance.
-114. **Obscuring Mist:** A rolling fog obscures vision in a 300ft
-radius.
-115. **Opaque Cover:** Details about your person become obscured and
-unmemorable.
-116. **Orb of Ignus:** You control a floating ball of fire (1d8 damage)
-for a short while.
-117. **Orb of Immortality:** Mundane attacks cannot harm anyone within
-a 10ft radius, or vice-versa.
-118. **Otherworldly Pet:** Summons an unintelligent extraplanar creature
-up to the size of a small dog. It holds no loyalty towards you or your
-allies.
-119. **Paincurrent:** An arc of electricity passes from your fingertips
-to a target you touch. They take 1d8 damage (1d12 if wearing metal
-armor).
-120. **Passive Invisibility:** Target is invisible until they attempt
-harm.
-121. **Peeping Warlock:** You control a pair of floating eyes so long
-as yours remain closed.
-122. **Perfect Illusion:** Creates an image with sound, smell and
-thermal effects, activated according to a trigger you choose. Touching
-the image or making a successful WIL save will reveal the illusion.
-123. **Phantom Hound:** A ghostly canine (4 HP, bite (1d4)) obeys your
-commands for up to one hour.
-124. **Phase Anchor:** Binds an extraplanar creature to your will until
-it performs a task specific task, after which they must pass a WIL save
-to escape (good luck).
-125. **Phase Sneak:** Anyone within a 10ft radius is rendered
-invisible.
-126. **Phase Touch:** A disembodied, floating hand obeys your whims but
-is immaterial. The next Spellbook, ability or item that relies on touch
-now works from a distance.
-127. **Philolomancy:** You understand all spoken and written languages.
-128. **Philosopher’s Mind:** Target is immune to spiritual or psychic
-attacks, as well as any attempts at mental or spiritual manipulation or
-persuasion.
-129. **Plant Scourge:** Plants within eyesight wither and die.
-130. **Pocket Container:** Summons a chest from an immaterial plane. It
-holds up to 6 items. The chest is dismissed at will.
-131. **Pocket Sun:** You create a halo of bright light in a 60ft
-radius.
-132. **Prisma Shard:** An array of hypnotic lights fascinate nearby
-creatures, unless they pass a WIL save.
-133. **Profane Reveal:** Target an empty space to reveal invisible
-objects or creatures.
-134. **Psychic Eye:** Invisible floating eye allowing you to observe a
-single location as present.
-135. **Psychokinesis:** Magically moves an object up to half your
-weight.
-136. **Puppeteer:** You can throw your voice a great distance away
-137. **Purge Text:** Mundane or magical writing vanishes at your touch.
-138. **Pyramid of Passivity:** Target creatures must make a DEX save or
-their attacks are impaired.
-139. **Pyschic Touch:** You can hear target’s surface thoughts, so long
-as you touch them.
-140. **Rat-Tat-Tat:** Loudly opens a locked or magically sealed door or
-chest.
-141. **Reject Unlife:** Nearby undead are immobilized for 30 seconds or
-until you take another action.
-142. **Remembered Voice:** A spot you mark becomes the trigger for a
-supernatural recording of your voice, delivering a short message of
-your choice.
-143. **Reverie:** Targets become dazed for a moment, as if lost in
-daydream.
-144. **Runic Harm:** A rune you draw causes great pain to the reader,
-who must WIL save or scream until they pass out (1d4 WIL loss). A
-successful save destroys the rune.
-145. **Runic Slumber:** A rune you draw puts the reader into a magical
-sleep that lasts 1d6 hours.
-146. **Safe Haven:** You summon a floating, invisible refuge for 8
-hours. It fits up to 8 people comfortably.
-147. **Scintillate:** Target must WIL save or their attacks become
-impaired.
-148. **Scry Creature:** Indicates the precise location of a familiar
-creature.
-149. **Scry Object:** Indicates the precise location of an object,
-known or otherwise.
-150. **Sculpt Water:** Raise, lower or part nearby water.
-151. **Secret Attaché:** You summon an invisible creature of great
-power that obeys your every command. Reading from other Spellbooks
-dispels the creature.
-152. **Shelter:** Creates a standing edifice that can shelter up to 10
-creatures, disappearing after 24 hours.
-153. **Shrinking Cant:** A humanoid creature you touch halves in size.
-154. **Signal:** Sends up a flare that can be seen for some distance.
-155. **Simple Illusion:** Creates a simple image with sound. A cursory
-investigation will reveal the illusory image.
-156. **Sinister Flame:** Target’s palms are lined with flames (1d4+1
-STR loss) for one minute.
-157. **Sinister Polymorph:** WIL save or target is transformed into a
-harmless animal.
-158. **Skillfull Repair:** You make minor repairs to a nonliving
-object.
-159. **Sky Raft:** You summon a 3ft wide floating disk that holds up to
-100lbs.
-160. **Solar Portal:** Sends an extraplanar message to all beings that
-wish to enter your plane. You have no choice which being answers and it
-holds no loyalty to you or your allies.
-161. **Sonic Shattering:** A sonic wave causes 1d6 STR loss to
-susceptible objects or crystalline creatures, ignoring armor.
-162. **Sorcerer’s Lock:** Any door (magical or otherwise) is held shut
-until you leave its vicinity.
-163. **Soul Annex:** Target’s spirit is caged within their body and
-replaced with the caster’s. If the body is slain the original soul
-departs, but the caster must pass a WIL save to return to their body.
-164. **Steer’s Strength:** Target’s strength triples; unarmed attacks
-are enhanced.
-165. **Strength Tap:** A target you touch loses 1d6 STR, which is
-transferred to you (up to your max STR).
-166. **Stumbling Steps:** A target you touch becomes deprived and loses
-1 STR.
-167. **Stupefaction:** Target temporarily loses sense of place and
-time. WIL save to overcome.
-168. **Sudden Slumber:** Target falls asleep for 1d4 hours.
-169. **Summon Elemental:** A being of fire, wire, earth, or wind
-manifests from available matter to perform a single task for the
-caster. It follows this command against its will.
-170. **Sway Will:** A target is compelled to follow a stated course of
-action, without understanding why.
-171. **Temporary Reprieve:** Target regains any lost STR, but loses it
-again after a few minutes.
-172. **Terrify:** Targets within eyesight must pass a WIL save or flee.
-173. **Terrifying Illusion:** A target is hunted by a terrible creature
-only they can see. Its attacks do 1d12 damage; on Critical Damage they
-must pass a WIL save or become catatonic.
-174. **Thief’s Bane:** An object appears trapped, even to an
-experienced thief.
-175. **Thwart the Elements:** Damage from energy blasts are impaired
-against a target for the next hour.
-176. **Tongue of the Blue Serpent:** Rust-colored, serpentine letters
-materialize on a surface you choose. Anyone reading these words becomes
-immobilized unless they succeed a WIL save.
-177. **Torrential Moat:** You summon a powerful wind that deflects
-arrows, smaller creatures, and noxious gases.
-178. **Toxic Blast:** A small orb of acid deals 1d6 blast damage to a
-target.
-179. **Transform Aura:** Target’s aura is made non-magical or
-vice-versa.
-180. **True Name:** Determines the properties of a magical item you
-touch.
-181. **Trueshift:** A willing target takes on a new form (keeping only
-their WIL), but must pass a WIL save to shift out.
-182. **Twilight Steed:** Summons an arcane steed that never tires, but
-dissipates within daylight.
-183. **Ultimate Sacrifice:** The book’s holder transfer’s their life
-force into a corpse, reviving both body and soul.
-184. **Undefinable Target:** An ally becomes immune to mundane ranged
-attacks for one round.
-185. **Undeniable Courage:** Target passes next WIL save and their
-attacks are enhanced.
-186. **Unflappable Endurance:** Target does not take Fatigue from
-non-magical activities or become deprived until their next rest.
-187. **Vermin Plague:** Summons a swarm of bats, rats, spiders or
-0.33″similar creatures of your choice. They are harmless but
-distracting and hold no loyalty towards you or your allies.
-188. **Vines of Ichor:** You spread sticky spiderwebs on the walls,
-floor and ceilings within a 20ft radius.
-189. **Warrior’s Edge:** Target weapon is enhanced, and victim
-automatically fails a critical damage save.
-190. **Wanderlust Guide:** Immediately know where North is.
-191. **Weapon's Grace:** Target can re-roll damage for the next 3
-attacks.
-192. **Windborn:** You direct a powerful wind in a straight line,
-strong enough to blow over small boulders.
-193. **Winter’s Woe:** An icy storm assails multiple targets, obscuring
-visibility and making the ground icy and treacherous.
-194. **Witch Sight:** Magical auras become visible to you for one hour.
-195. **Wizard’s Exit:** You and and anyone you touch can flee to safety
-at double speed.
-196. **Wizard’s Grasp:** You control a phantasmal hand that can lift up
-to 5 pounds.
-197. **Wizard’s Haven:** A small, walled-in area cannot be scryed.
-198. **Wizardsniff:** You can feel any magic within a 60ft radius.
-199. **Woeful Tongue:** You can speak with recently deceased corpses,
-they will talk to you like a friend.
-200. **Zone of Why:** Creatures in the area can only ask questions.
-
-## 20 Cleric Spells
-
-1. **Blessing:** Target’s attacks are enhanced and non-Blast attacks
-are impaired against them until they next take damage.
-2. **Cure-All:** A single illness or disease dissipates at your touch.
-3. **Curse Unlife:** Deals 1d4+2 STR loss to one undead, ignoring armor
-and resistances.
-4. **Fortify:** Damage from heat, ice, acid or electricity are impaired
-against a target for the next hour.
-5. **Healing Grace:** A target heals 1d6 STR, and you become deprived
-until you take the time to mediate, pray or sleep.
-6. **Induce Despair:** Target must pass a WIL save or its attacks are
-impaired.
-7. **Lichsense:** You feel any undead within 60ft. WIL save to avoid
-detection by intelligent undead.
-8. **Light Show:** You control a dazzling display of light and color.
-9. **Linguist:** For the next hour you can speak and understand any
-mundane language.
-10. **Magic Seal:** Magically locks a door, portal or chest.
-11. **Master Undead:** Undead creatures obey your command. Intelligent
-undead make a WIL save.
-12. **Otherworldly Gate:** Opens a portal to another reality. It works
-in both directions.
-13. **Passage:** Creates a temporary path through wood, stone or brick.
-14. **Perfect Preservation:** A weapon you touch becomes immune to
-wear, mundane damage or elemental effects. The spell wears off after a
-day.
-15. **Planar Anchor:** Bars extradimensional movement.
-16. **Ravenless Message:** You send a short message 1 mile that anyone
-along its path can hear.
-17. **Scrying Ward:** For 24 hours you become aware of any magical
-eavesdropping.
-18. **Song of Repose:** Target falls into a deep slumber.
-19. **Uncurse:** A person or object you touch is freed from a curse or
-nefarious spell.
-20. **Word of Pain:** A single phrase from your lips does 1d10 damage.
-Affected target's attacks are also Impaired until they pass a WIL save.
-
-## 30 Cantrips
-
-Magic-Users, Clerics, and some Druids know 2 cantrips. Cantrips are
-spells that can be cast without gaining Fatigue if the caster makes a
-WIL save. If they fail, they have the choice of casting the spell and 
-gaining Fatigue or not casting the spell.
-
-Note that these spells can also be found in Spellbooks and scrolls, but 
-using them this way causes Fatigue or the scroll to be used up, just as 
-they would with any spell. Players can replace a Cantrip they know by 
-finding a Spellbook of the new cantrip, passing a WIL after 4 hours, 
-and destroying the Spellbook.
-
-1. **Acid Splash:** Hurl a bubble of acid for d6 damage to 2 targets.
-2. **Arcane Mark:** Leave a visible or invisible message.
-3. **Chill Touch:** Create a ghostly skeletal hand that clings to a 
-target, causing d6 necrotic damage and hindering healing.
-4. **Create Water:** Create 2 gallons of water.
-5. **Dancing Lights:** Conjure up to four floating lights to illuminate
-your surroundings.
-6. **Daze:**  A non-hostile humanoid is dazed for a short moment, lost
-in a daydream.
-7. **Detect Animals/Nature:** Detects animals/nature within 60 ft.
-8. **Detect Magic:** Detects spells and magic items within 60 ft.
-9. **Detect Poison:** Detects poison in one creature or small object.
-10. **Endure Elements:** Ignore intense weather conditions for 24 
-hours.
-11. **Fire Bolt:** 1d8 damage. Can light things on fire.
-12. **Ghost Sounds:** Create any type of sound.
-13. **Guidance:** Grants for a shot time a creature the ability to 
-re-roll one save if they missed passing by 1.
-14. **Light:** Make an object emit bright light, illuminating dark
-areas.
-15. **Mage Hand:** Summon a spectral hand to manipulate objects
-remotely.
-16. **Mending:** Repair minor breaks or tears in objects.
-17. **Message:** Whisper a message to a distant creature, who can reply
-in kind.
-18. **Minor Illusion:** Create a simple image or sound to deceive or
-distract.
-19. **Open/Close:** Opens or closes small or light things.
-20. **Poison Spray:** d12 poison damage if the nearby target fails a 
-STR save.
-21. **Prestidigitation:** Perform minor magical tricks for various
-effects.
-22. **Produce Flame:** Create a small flame in your hand that can shed
-light or be thrown as an d6 attack.
-23. **Purify Food and Drink:** Make food eatable.
-24. **Ray of Frost:** 1d6 damage and target makes a STR save or next
-attack is impaired.
-25. **Sacred Flame:** d12 radiant damage if the target fails a DEX 
-save.
-26. **Shillelagh:** Make a d18 magical melee attack with a wooden 
-weapon.
-27. **Shocking Grasp:** Deliver a d8 electric shock to a creature you 
-touch.
-28. **Spare the Dying:** Instantly stabilize a dying creature without
-needing a healing roll and bringing them to 1 HP.
-29. **True Strike:** Gain insight into a target's defenses, making your
-next attack Enhanced and you may re-roll a 1.
-30. **Vicious Mockery:** Hurl magical insults that deal psychic damage 
-and impose disadvantage on the target’s next attack.
 
 # Heroic Cairn Warden's Handbook
 
