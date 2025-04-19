@@ -80,7 +80,7 @@ Choose a class for your character.
 ## Warrior Classes
 
 You are the Fighter, the Barbarian, the Gladiator, or the Knight. You
-are the master of the arts of combat and warfare.
+are the master of the arts of combat and warfare. 
 
 **Fighter:** Fighters can come from many backgrounds, but for all,
 their familiarity with combat helps you seize opportunities on the
@@ -103,9 +103,9 @@ the slightest hesitation. However if you fail them somehow, they may
 strip you of your rank. You are also a skilled horseman, your mounted
 attacks are enhanced.
 
-Warrior Character Creation:
+Warrior Abilities:
 
-* Start with 1d4+2 HP.
+* Start with 5+1d2 HP.
 * Swirl: do a Blast attack and gain 1 Fatigue.
 * Death Storm: when you kill or CD an enemy you can attack again.
 
@@ -141,10 +141,11 @@ zealots. Priests will favor you but if you step out of the line you
 will fall in disgrace. You dedicate your life to the cult and sworn vow
 of humility (you should not hoard treasures). Once per day you can Lay
 on Hands on someone to cure disease, poison or heal 1d6 STR. Paladins
-do not know any cantrips.
+do not know any cantrips. Paladins start with an additional HP.
 
-Divine Character Creation:
+Divine Abilities:
 
+* Start with 3+1d2 HP.
 * Salvation Grace: Once per day you heal 1D6 to any abilities but you
 became Deprived until you take the time to mediate, pray or sleep.
 * Miracles: Every day, you can choose 3 Cleric spells related to your
@@ -187,8 +188,9 @@ You can hypnotize an intelligent creature with an artistic performance.
 The creature is dazed and confused until a WIL Save is passed. Your
 Grimoire also contains knowledge of the arcane and history.
 
-Magic-User Character Creation:
+Magic-User Abilities:
 
+* Start with 2+1d2 HP.
 * Grimoire (Bulky). This is the fruit of your research and your most
 precious belongings (only you can decipher it). You can spend four
 hours to copy a standard Spellbook into your Grimoire followed by a
@@ -229,7 +231,7 @@ survival expert and you know how to travel fast and unnoticed. Always
 aware, you are rarely surprised. You have a semi intelligent faithful
 pet of your choice. You have a deep connection with him/her and you
 will always protect each other. Your pet will always find you back but
-if it dies you will need to raise a cub.
+if it dies you will need to raise a cub. Rangers start with an additional HP.
 
 **Tomb Robber:** You are stealing things from the dead, they don’t need
 it after all. You are a specialist of underground exploration and
@@ -237,10 +239,12 @@ ancient structures. You feel at home in dark and damp places. You have
 developed skills for disabling traps, only the most advanced one should
 catch you. You can smell undead creatures when they are close.
 
-Rogue Character Creation:
+Rogue Abilities:
 
+* Start with 3+1d2 HP.
 * Backstab: When you attack an unaware opponent from behind you do STR
-damage. * Read languages: You can read approximately any text. 
+damage. 
+* Read languages: You can read approximately any text. 
 * Swiftness: Once per round, a Rogue may take an extra action at the cost
 of 1 Fatigue.
 
