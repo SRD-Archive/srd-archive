@@ -976,9 +976,8 @@ sometimes decrease Microlite20's intende compatibility with some d20
 adventures, with respects to power level. Heroism is intended to 
 relieve some of that disparity.
 
-Heroism is a bonus equal to double the character's level (2 at 1st, 4 
-at 2nd, etc) and may be applied three times per day to any of the 
-following:
+Heroism is a bonus equal to the character's level (1 at 1st, 2 at 2nd, 
+etc) and may be applied three times per day to any of the following:
 
 * Attack Bonus
 * Damage
