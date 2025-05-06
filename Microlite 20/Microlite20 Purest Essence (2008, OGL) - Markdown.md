@@ -61,7 +61,9 @@ Bonus) times per day.
 ## Skills
 
 There are just 4 skills : Physical, Subterfuge, Knowledge and 
-Communication. Roll higher than the given Difficulty Class to succeed.
+Communication. Roll higher than the given Difficulty Class to succeed. 
+(Very easy: 5, Easy: 10, Medium: 15, Hard: 20, Very hard: 25, Nearly 
+impossible: 30).
 
 Skill rank = your level + any bonus due to your class or race.
 
