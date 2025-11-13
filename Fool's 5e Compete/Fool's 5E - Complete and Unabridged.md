@@ -1,7 +1,7 @@
 # Fool's 5E Compete and Unabridged
 
 Fool's 5E combines the 5E SRD with several CC-BY and CC0 5E
-compatible sources to make a more complete 5E experience. 
+compatible sources to make a more complete 5E experience.
 
 ## Legal Information
 
@@ -11,12 +11,19 @@ https://creativecommons.org/licenses/by/4.0/legalcode. Section 5 of
 CC-BY-4.0 includes a Disclaimer of Warranties and Limitation of
 Liability that limits our liability to you.
 
-## Acknowledgements
+## Acknowledgments
 
 This work includes material taken from the System Reference Document
 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at
 https://dnd.wizards.com/resources/systems-reference-document. The SRD
 5.1 is licensed under the Creative Commons Attribution 4.0
+International License available at
+https://creativecommons.org/licenses/by/4.0/legalcode.
+
+This work includes material taken from the System Reference Document
+5.2 (“SRD 5.2”) by Wizards of the Coast LLC and available at
+https://dnd.wizards.com/resources/systems-reference-document. The SRD
+5.2 is licensed under the Creative Commons Attribution 4.0
 International License available at
 https://creativecommons.org/licenses/by/4.0/legalcode.
 
@@ -155,6 +162,8 @@ resilience.
 increases by 1 every time you gain a level.
 
 ### Archetype: Stone Dwarf
+
+Stone dwarves live among the mountains.
 
 ***Ability Score Increase.*** Your Strength score increases by 2.
 
@@ -318,9 +327,11 @@ obscured only by a creature that is at least one size larger than you.
 
 ### Archetype: Steadfast Halfling
 
+Steadfast halflings are stout and strong.
+
 ***Ability Score Increase.*** Your Constitution score increases by 1.
 
-***Steadfast Endourance.*** You have resistance against poison damage
+***Steadfast Endurance.*** You have resistance against poison damage
 and advantage on saving throws against poison.
 
 ## Human
@@ -913,7 +924,7 @@ granted by your background:
 3. (+2) Bard College, Expertise (2, 6)
 4. (+2) Ability Score Improvement (3, 7)
 5. (+3) Bardic Inspiration (d8), Font of Inspiration (3, 8)
-6. (+3) Countercharm, Bard College Feature (3, 9 )
+6. (+3) Countercharm, Bard College Feature (3, 9)
 7. (+3) - (3, 10)
 8. (+3) Ability Score Improvement (3, 11)
 9. (+4) Song of Rest (d8) (3, 12)
@@ -2217,20 +2228,20 @@ You adopt a particular style of fighting as your specialty. Choose one
 of the following options. You can't take a Fighting Style option more
 than once, even if you later get to choose again.
 
-#### Archery
+#### Fighting Style - Archery
 
 You gain a +2 bonus to attack rolls you make with ranged weapons.
 
-#### Defense
+#### Fighting Style - Defense
 
 While you are wearing armor, you gain a +1 bonus to AC.
 
-#### Dueling
+#### Fighting Style - Dueling
 
 When you are wielding a melee weapon in one hand and no other weapons,
 you gain a +2 bonus to damage rolls with that weapon.
 
-#### Great Weapon Fighting
+#### Fighting Style - Great Weapon Fighting
 
 When you roll a 1 or 2 on a damage die for an attack you make with a
 melee weapon that you are wielding with two hands, you can reroll the
@@ -2238,13 +2249,13 @@ die and must use the new roll, even if the new roll is a 1 or a 2. The
 weapon must have the two-handed or versatile property for you to gain
 this benefit.
 
-#### Protection
+#### Fighting Style - Protection
 
 When a creature you can see attacks a target other than you that is
 within 5 feet of you, you can use your reaction to impose disadvantage
 on the attack roll. You must be wielding a shield.
 
-#### Two-Weapon Fighting
+#### Fighting Style - Two-Weapon Fighting
 
 When you engage in two-weapon fighting, you can add your ability
 modifier to the damage of the second attack.
@@ -3075,23 +3086,23 @@ At 2nd level, you adopt a style of fighting as your specialty. Choose
 one of the following options. You can't take a Fighting Style option
 more than once, even if you later get to choose again.
 
-#### Defense
+#### Fighting Style - Defense
 
 While you are wearing armor, you gain a +1 bonus to AC.
 
-#### Dueling
+#### Fighting Style - Dueling
 
 When you are wielding a melee weapon in one hand and no other weapons,
 you gain a +2 bonus to damage rolls with that weapon.
 
-#### Great Weapon Fighting
+#### Fighting Style - Great Weapon Fighting
 
 When you roll a 1 or 2 on a damage die for an attack you make with a
 melee weapon that you are wielding with two hands, you can reroll the
 die and must use the new roll. The weapon must have the two-handed or
 versatile property for you to gain this benefit.
 
-#### Protection
+#### Fighting Style - Protection
 
 When a creature you can see attacks a target other than you that is
 within 5 feet of you, you can use your reaction to impose disadvantage
@@ -3610,20 +3621,20 @@ specialty. Choose one of the following options. You can't take a
 Fighting Style option more than once, even if you later get to choose
 again.
 
-#### Archery
+#### Fighting Style - Archery
 
 You gain a +2 bonus to attack rolls you make with ranged weapons.
 
-#### Defense
+#### Fighting Style - Defense
 
 While you are wearing armor, you gain a +1 bonus to AC.
 
-#### Dueling
+#### Fighting Style - Dueling
 
 When you are wielding a melee weapon in one hand and no other weapons,
 you gain a +2 bonus to damage rolls with that weapon.
 
-#### Two-Weapon Fighting
+#### Fighting Style - Two-Weapon Fighting
 
 When you engage in two-weapon fighting, you can add your ability
 modifier to the damage of the second attack.
@@ -3904,7 +3915,7 @@ explorer's pack
 
 #### The Rogue
 
-*Level. (Proficiency Bonus) Features (Sneak Attack)
+*Level. (Proficiency Bonus) Features (Sneak Attack)*
 
 1. (+2) Expertise, Sneak Attack, Thieves' Cant (1d6)
 2. (+2) Cunning Action (1d6)
@@ -4397,7 +4408,7 @@ You gain another one at 10th and 17th level.
 You can use only one Metamagic option on a spell when you cast it,
 unless otherwise noted.
 
-#### Careful Spell
+#### Metamagic - Careful Spell
 
 When you cast a spell that forces other creatures to make a saving
 throw, you can protect some of those creatures from the spell's full
@@ -4406,7 +4417,7 @@ creatures up to your Charisma modifier (minimum of one creature). A
 chosen creature automatically succeeds on its saving throw against the
 spell.
 
-#### Distant Spell
+#### Metamagic - Distant Spell
 
 When you cast a spell that has a range of 5 feet or greater, you can
 spend 1 sorcery point to double the range of the spell.
@@ -4414,7 +4425,7 @@ spend 1 sorcery point to double the range of the spell.
 When you cast a spell that has a range of touch, you can spend 1
 sorcery point to make the range of the spell 30 feet.
 
-#### Empowered Spell
+#### Metamagic - Empowered Spell
 
 When you roll damage for a spell, you can spend 1 sorcery point to
 reroll a number of the damage dice up to your Charisma modifier
@@ -4423,31 +4434,31 @@ reroll a number of the damage dice up to your Charisma modifier
 You can use Empowered Spell even if you have already used a different
 Metamagic option during the casting of the spell.
 
-#### Extended Spell
+#### Metamagic - Extended Spell
 
 When you cast a spell that has a duration of 1 minute or longer, you
 can spend 1 sorcery point to double its duration, to a maximum duration
 of 24 hours.
 
-#### Heightened Spell
+#### Metamagic - Heightened Spell
 
 When you cast a spell that forces a creature to make a saving throw to
 resist its effects, you can spend 3 sorcery points to give one target
 of the spell disadvantage on its first saving throw made against the
 spell.
 
-#### Quickened Spell
+#### Metamagic - Quickened Spell
 
 When you cast a spell that has a casting time of 1 action, you can
 spend 2 sorcery points to change the casting time to 1 bonus action for
 this casting.
 
-#### Subtle Spell
+#### Metamagic - Subtle Spell
 
 When you cast a spell, you can spend 1 sorcery point to cast it without
 any somatic or verbal components.
 
-#### Twinned Spell
+#### Metamagic - Twinned Spell
 
 When you cast a spell that targets only one creature and doesn't have a
 range of self, you can spend a number of sorcery points equal to the
@@ -4932,42 +4943,42 @@ learn it. You can learn the invocation at the same time that you meet
 its prerequisites. A level prerequisite refers to your level in this
 class.
 
-#### Agonizing Blast
+#### Invocation - Agonizing Blast
 
 *Prerequisite:* eldritch blast *cantrip*
 
 When you cast *eldritch blast*, add your Charisma modifier to the
 damage it deals on a hit.
 
-#### Armor of Shadows
+#### Invocation - Armor of Shadows
 
 You can cast *mage armor* on yourself at will, without expending a
 spell slot or material components.
 
-#### Ascendant Step
+#### Invocation - Ascendant Step
 
 *Prerequisite: 9th level*
 
 You can cast *levitate* on yourself at will, without expending a spell
 slot or material components.
 
-#### Beast Speech
+#### Invocation - Beast Speech
 
 You can cast *speak with animals* at will, without expending a spell
 slot.
 
-#### Beguiling Influence
+#### Invocation - Beguiling Influence
 
 You gain proficiency in the Deception and Persuasion skills.
 
-#### Bewitching Whispers
+#### Invocation - Bewitching Whispers
 
 *Prerequisite: 7th level*
 
 You can cast *compulsion* once using a warlock spell slot. You can't do
 so again until you finish a long rest.
 
-#### Book of Ancient Secrets
+#### Invocation - Book of Ancient Secrets
 
 *Prerequisite: Pact of the Tome feature*
 
@@ -4987,7 +4998,7 @@ up) and if you can spare the time to transcribe the spell. For each
 level of the spell, the transcription process takes 2 hours and costs
 50 gp for the rare inks needed to inscribe it.
 
-#### Chains of Carceri
+#### Invocation - Chains of Carceri
 
 *Prerequisite: 15th level, Pact of the Chain feature*
 
@@ -4996,38 +5007,38 @@ elemental-without expending a spell slot or material components. You
 must finish a long rest before you can use this invocation on the same
 creature again.
 
-#### Devil's Sight
+#### Invocation - Devil's Sight
 
 You can see normally in darkness, both magical and nonmagical, to a
 distance of 120 feet.
 
-#### Dreadful Word
+#### Invocation - Dreadful Word
 
 *Prerequisite: 7th level*
 
 You can cast *confusion* once using a warlock spell slot. You can't do
 so again until you finish a long rest.
 
-#### Eldritch Sight
+#### Invocation - Eldritch Sight
 
 You can cast *detect magic* at will, without expending a spell slot.
 
-#### Eldritch Spear
+#### Invocation - Eldritch Spear
 
 *Prerequisite:* eldritch blast *cantrip*
 
 When you cast *eldritch blast*, its range is 300 feet.
 
-#### Eyes of the Rune Keeper
+#### Invocation - Eyes of the Rune Keeper
 
 You can read all writing.
 
-#### Fiendish Vigor
+#### Invocation - Fiendish Vigor
 
 You can cast *false life* on yourself at will as a 1st-level spell,
 without expending a spell slot or material components.
 
-#### Gaze of Two Minds
+#### Invocation - Gaze of Two Minds
 
 You can use your action to touch a willing humanoid and perceive
 through its senses until the end of your next turn. As long as the
@@ -5038,43 +5049,43 @@ other creature's senses, you benefit from any special senses possessed
 by that creature, and you are blinded and deafened to your own
 surroundings.
 
-#### Lifedrinker
+#### Invocation - Lifedrinker
 
 *Prerequisite: 12th level, Pact of the Blade feature*
 
 When you hit a creature with your pact weapon, the creature takes extra
 necrotic damage equal to your Charisma modifier (minimum 1).
 
-#### Mask of Many Faces
+#### Invocation - Mask of Many Faces
 
 You can cast *disguise self* at will, without expending a spell slot.
 
-#### Master of Myriad Forms
+#### Invocation - Master of Myriad Forms
 
 *Prerequisite: 15th level*
 
 You can cast *alter self* at will, without expending a spell slot.
 
-#### Minions of Chaos
+#### Invocation - Minions of Chaos
 
 *Prerequisite: 9th level*
 
 You can cast *conjure elemental* once using a warlock spell slot. You
 can't do so again until you finish a long rest.
 
-#### Mire the Mind
+#### Invocation - Mire the Mind
 
 *Prerequisite: 5th level*
 
 You can cast *slow* once using a warlock spell slot. You can't do so
 again until you finish a long rest.
 
-#### Misty Visions
+#### Invocation - Misty Visions
 
 You can cast *silent image* at will, without expending a spell slot or
 material components.
 
-#### One with Shadows
+#### Invocation - One with Shadows
 
 *Prerequisite: 5th level*
 
@@ -5082,53 +5093,53 @@ When you are in an area of dim light or darkness, you can use your
 action to become invisible until you move or take an action or a
 reaction.
 
-#### Otherworldly Leap
+#### Invocation - Otherworldly Leap
 
 *Prerequisite: 9th level*
 
 You can cast *jump* on yourself at will, without expending a spell slot
 or material components.
 
-#### Repelling Blast
+#### Invocation - Repelling Blast
 
 *Prerequisite:* eldritch blas*t cantrip*
 
 When you hit a creature with *eldritch blast*, you can push the
 creature up to 10 feet away from you in a straight line.
 
-#### Sculptor of Flesh
+#### Invocation - Sculptor of Flesh
 
 *Prerequisite: 7th level*
 
 You can cast *polymorph* once using a warlock spell slot. You can't do
 so again until you finish a long rest.
 
-#### Sign of Ill Omen
+#### Invocation - Sign of Ill Omen
 
 *Prerequisite: 5th level*
 
 You can cast *bestow curse* once using a warlock spell slot. You can't
 do so again until you finish a long rest.
 
-#### Thief of Five Fates
+#### Invocation - Thief of Five Fates
 
 You can cast *bane* once using a warlock spell slot. You can't do so
 again until you finish a long rest.
 
-#### Thirsting Blade
+#### Invocation - Thirsting Blade
 
 *Prerequisite: 5th level, Pact of the Blade feature*
 
 You can attack with your pact weapon twice, instead of once, whenever
 you take the Attack action on your turn.
 
-#### Visions of Distant Realms
+#### Invocation - Visions of Distant Realms
 
 *Prerequisite: 15th level*
 
 You can cast *arcane eye* at will, without expending a spell slot.
 
-#### Voice of the Chain Master
+#### Invocation - Voice of the Chain Master
 
 *Prerequisite: Pact of the Chain feature*
 
@@ -5138,13 +5149,13 @@ existence. Additionally, while perceiving through your familiar's
 senses, you can also speak through your familiar in your own voice,
 even if your familiar is normally incapable of speech.
 
-#### Whispers of the Grave
+#### Invocation - Whispers of the Grave
 
 *Prerequisite: 9th level*
 
 You can cast *speak with dead* at will, without expending a spell slot.
 
-#### Witch Sight
+#### Invocation - Witch Sight
 
 *Prerequisite: 15th level*
 
@@ -5240,7 +5251,7 @@ frightened by you (your choice) until the end of your next turn.
 
 * Level 3: You learn the spells *calm emotions* and *phantasmal force*.
 
-* Level 5: You learn the spells *blink and *plant growth*.
+* Level 5: You learn the spells *blink* and *plant growth*.
 
 * Level 6: Once per short or long rest, when you take damage you can
 use your reaction to turn invisible and teleport up to 60 feet to an
@@ -6033,7 +6044,7 @@ weapons, one skill from the class’s skill list.
 tools.
 * Sorcerer: -
 * Warlock: Light armor, simple weapons.
-* Wizard: -                                                                            |
+* Wizard: -
 
 ### Multiclassing Class Features
 
@@ -8049,7 +8060,7 @@ with improvised weapons. (**d**) You can use a bonus action to make a
 Grapple maneuver against a target you hit with an unarmed strike or
 improvised weapon on your turn.
 
-**Feat - Tenacious:*** Choose one ability score. The chosen ability
+**Feat - Tenacious:** Choose one ability score. The chosen ability
 score increases by 1, to a maximum of 20, and you gain proficiency in
 saving throws using it.
 
@@ -8067,7 +8078,7 @@ from the Warmaster fighter archetype. (**b**) You gain one technique
 die (a d6), which is used to activate your combat techniques. You
 regain the expended technique die after a short or long rest.
 
-**Feat - Weapons Specialist:*** (**a**) Your Strength or Dexterity
+**Feat - Weapons Specialist:** (**a**) Your Strength or Dexterity
 score increases by 1, to a maximum of 20. (**b**) You gain proficiency
 with four weapons of your choice. Three of these must be a simple or a
 martial weapon. The fourth choice can be a simple, martial, or rare
@@ -8909,7 +8920,7 @@ swiftly.
 
 **Travel Pace**
 
-*Pace: Distance per Minute, per Hour, per Day (Effect)*                                           |
+*Pace: Distance per Minute, per Hour, per Day (Effect)*
 
 * Fast: 400 feet, 4 miles, 30 miles (-5 penalty to passive Wisdom
 (Perception) scores)
@@ -10385,7 +10396,7 @@ have such a feature. The caster must also have the spell prepared or on
 his or her list of spells known, unless the character's ritual feature
 specifies otherwise, as the wizard's does.
 
-## The Schools of Magic***
+## The Schools of Magic
 
 Academies of magic group spells into eight categories called schools
 of magic. Scholars, particularly wizards, apply these categories to all
@@ -12430,9 +12441,7 @@ start of each of its turns to determine its behavior for that turn.
 
 **Table- Confusion Behavior**
 
-*d10: Behavior
-
-
+*d10: Behavior*
 
 * 1: The creature uses all its movement to move in a random direction.
 To determine the direction, roll a d8 and assign a direction to each
@@ -12440,15 +12449,11 @@ die face. The creature doesn't take an action this turn.
 
 * 2-6: The creature doesn't move or take actions this turn.
 
-
-
 * 7-8: The creature uses its action to make a melee attack against a
 randomly determined creature within its reach. If there is no creature
 within its reach, the creature does nothing this turn.
 
 * 9-10: The creature can act and move normally.
-
-
 
 At the end of each of its turns, an affected target can make a Wisdom
 saving throw. If it succeeds, this effect ends for that target.
@@ -20983,7 +20988,7 @@ alignment. The candle’s alignment can be detected with the *detect evil
 and good* spell. The GM chooses the god and associated alignment or
 determines the alignment randomly.
 
-*d20: Alignment
+*d20: Alignment*
 
 * 1–2 : Chaotic evil
 * 3–4 : Chaotic neutral
@@ -23172,7 +23177,7 @@ when agitated.
 
 **Potions of Healing**
 
-*Potion of ... (Rarity) HP Regained
+*Potion of ... (Rarity) HP Regained*
 
 * Healing (Common) 2d4 + 2
 * Greater healing (Uncommon) 4d4 + 4
@@ -24188,7 +24193,7 @@ throw. On a failed save, a creature takes an amount of damage based on
 how far away it is from the point of origin, as shown in the following
 table. On a successful save, a creature takes half as much damage.
 
-*Distance from Origin: Damage
+*Distance from Origin: Damage*
 
 * 10 ft. away or closer: 8 × the number of charges in the staff
 * 11 to 20 ft. away: 6 × the number of charges in the staff
@@ -25531,7 +25536,7 @@ other magical ability is worth the XP noted in its stat block.
 
 #### Experience Points by Challenge Rating
 
-*Challenge: XP
+*Challenge: XP*
 
 * 0: 0 or 10
 * 1/8: 25
@@ -30500,7 +30505,7 @@ terrain itself. They embody the solid, enduring strength of the earth.*
 * **STR:** 20 (+5), **DEX:** 8 (-1), **CON:** 20 (+5), **INT:** 5
 (-3), **WIS:** 10 (+0), **CHA:** 5 (-3)
 
-**Damage Vulnerabilities** thunder
+* **Damage Vulnerabilities** thunder
 * **Damage Resistances:** bludgeoning, piercing, and slashing from
 nonmagical attacks
 * **Damage Immunities:** poison
@@ -30589,7 +30594,7 @@ of water.*
 
 *Large elemental, neutral*
 
-**Armor** Class 14 (natural armor)
+* **Armor Class:** 14 (natural armor)
 * **Hit Points:** 114 (12d10 + 48)
 * **Speed:** 30 ft., swim 90 ft.
 * **STR:** 18 (+4), **DEX:** 14 (+2), **CON:** 18 (+4), **INT:** 5
@@ -32137,7 +32142,7 @@ and darkvision with a radius of 60 feet.
 ***Resistances.*** The half-dragon gains resistance to a type of damage
 based on its color.
 
-*Color: Damage Resistance
+*Color: Damage Resistance*
 
 * Black or copper: Acid
 * Blue or bronze: Lightning
@@ -33213,8 +33218,7 @@ swirling nature of desert storms and decay.*
 * **STR:** 5 (-3), **DEX:** 14 (+2), **CON:** 10 (+0), **INT:** 9
 (-1), **WIS:** 11 (+0), **CHA:** 10 (+0)
 * **Skills:** Perception +2, Stealth +4
-
-**Damage Vulnerabilities** fire
+* **Damage Vulnerabilities** fire
 * **Damage Immunities:** poison
 * **Condition Immunities:** poisoned
 * **Senses:** darkvision 60 ft., passive Perception 12
@@ -33259,8 +33263,7 @@ embodying the biting cold and unpredictable nature of winter’s chill.*
 * **STR:** 7 (-2), **DEX:** 13 (+1), **CON:** 10 (+0), **INT:** 9
 (-1), **WIS:** 11 (+0), **CHA:** 12 (+1)
 * **Skills:** Perception +2, Stealth +3
-
-**Damage Vulnerabilities** bludgeoning, fire
+* **Damage Vulnerabilities** bludgeoning, fire
 * **Damage Immunities:** cold, poison
 * **Condition Immunities:** poisoned
 * **Senses:** darkvision 60 ft., passive Perception 12
@@ -33307,8 +33310,7 @@ core.*
 * **STR:** 8 (-1), **DEX:** 12 (+1), **CON:** 12 (+1), **INT:** 7
 (-2), **WIS:** 10 (+0), **CHA:** 10 (+0)
 * **Skills:** Stealth +3
-
-**Damage Vulnerabilities** cold
+* **Damage Vulnerabilities** cold
 * **Damage Immunities:** fire, poison
 * **Condition Immunities:** poisoned
 * **Senses:** darkvision 60 ft., passive Perception 10
@@ -33557,8 +33559,7 @@ the enduring power of undeath.*
 * **STR:** 16 (+3), **DEX:** 8 (-1), **CON:** 15 (+2), **INT:** 6
 (-2), **WIS:** 10 (+0), **CHA:** 12 (+1)
 * **Saving Throws:** Wis +2
-
-**Damage Vulnerabilities** fire
+* **Damage Vulnerabilities** fire
 * **Damage Resistances:** bludgeoning, piercing, and slashing from
 nonmagical attacks
 * **Damage Immunities:** necrotic, poison
@@ -33610,8 +33611,7 @@ embodies the undying will and vengeance of a forgotten age.*
 **WIS:** 18 (+4), **CHA:** 16 (+3)
 * **Saving Throws:** Con +8, Int +5, Wis +9, Cha +8
 * **Skills:** History +5, Religion +5
-
-**Damage Vulnerabilities** fire
+* **Damage Vulnerabilities** fire
 * **Damage Immunities:** necrotic, poison; bludgeoning, piercing, and
 slashing from nonmagical attacks
 * **Condition Immunities:** charmed, exhaustion, frightened, paralyzed,
@@ -34393,8 +34393,7 @@ elegance and illusion.*
 * **STR:** 14 (+2), **DEX:** 17 (+3), **CON:** 18 (+4), **INT:** 13 (+1),
 **WIS:** 16 (+3), **CHA:** 20 (+5)
 * **Skills:** Deception +10, Insight +8
-
-**Damage Vulnerabilities** piercing from magic weapons wielded by good
+* **Damage Vulnerabilities** piercing from magic weapons wielded by good
 creatures
 * **Damage Immunities:** bludgeoning, piercing, and slashing from
 nonmagical attacks
@@ -34681,8 +34680,7 @@ warriors and elemental embodiments of fire’s destructive beauty.*
 * **Speed:** 30 ft.
 * **STR:** 18 (+4), **DEX:** 14 (+2), **CON:** 15 (+2), **INT:** 11 (+0),
 **WIS:** 10 (+0), **CHA:** 12 (+1)
-
-**Damage Vulnerabilities** cold
+* **Damage Vulnerabilities** cold
 * **Damage Resistances:** bludgeoning, piercing, and slashing from
 nonmagical attacks
 * **Damage Immunities:** fire
@@ -34766,8 +34764,7 @@ threat that saps hope and vitality.*
 * **STR:** 6 (-2), **DEX:** 14 (+2), **CON:** 13 (+1), **INT:** 6
 (-2), **WIS:** 10 (+0), **CHA:** 8 (-1)
 * **Skills:** Stealth +4 (+6 in dim light or darkness)
-
-**Damage Vulnerabilities** radiant
+* **Damage Vulnerabilities** radiant
 * **Damage Resistances:** acid, cold, fire, lightning, thunder;
 bludgeoning, piercing, and slashing from nonmagical attacks
 * **Damage Immunities:** necrotic, poison
@@ -34916,8 +34913,7 @@ persistence of the restless dead.*
 * **Speed:** 30 ft.
 * **STR:** 10 (+0), **DEX:** 14 (+2), **CON:** 15 (+2), **INT:** 6
 (-2), **WIS:** 8 (-1), **CHA:** 5 (-3)
-
-**Damage Vulnerabilities** bludgeoning
+* **Damage Vulnerabilities** bludgeoning
 * **Damage Immunities:** poison
 * **Condition Immunities:** exhaustion, poisoned
 * **Senses:** darkvision 60 ft., passive Perception 9
@@ -34949,8 +34945,7 @@ savage fury of a once-mighty labyrinth guardian.*
 * **Speed:** 40 ft.
 * **STR:** 18 (+4), **DEX:** 11 (+0), **CON:** 15 (+2), **INT:** 6
 (-2), **WIS:** 8 (-1), **CHA:** 5 (-3)
-
-**Damage Vulnerabilities** bludgeoning
+* **Damage Vulnerabilities** bludgeoning
 * **Damage Immunities:** poison
 * **Condition Immunities:** exhaustion, poisoned
 * **Senses:** darkvision 60 ft., passive Perception 9
@@ -34987,8 +34982,7 @@ relentless loyalty even beyond the grave.*
 * **Speed:** 60 ft.
 * **STR:** 18 (+4), **DEX:** 12 (+1), **CON:** 15 (+2), **INT:** 2
 (-4), **WIS:** 8 (-1), **CHA:** 5 (-3)
-
-**Damage Vulnerabilities** bludgeoning
+*   **Damage Vulnerabilities** bludgeoning
 * **Damage Immunities:** poison
 * **Condition Immunities:** exhaustion, poisoned
 * **Senses:** darkvision 60 ft., passive Perception 9
@@ -35458,8 +35452,7 @@ nature itself.*
 * **STR:** 23 (+6), **DEX:** 8 (-1), **CON:** 21 (+5), **INT:** 12
 (+1), **WIS:** 16 (+3), **CHA:** 12 (+1)
 * **Damage Resistances:** bludgeoning, piercing
-
-**Damage Vulnerabilities** fire
+* **Damage Vulnerabilities** fire
 * **Senses:** passive Perception 13
 * **Languages:** Common, Druidic, Elvish, Sylvan
 * **Challenge:** 9 (5,000 XP)
@@ -36161,10 +36154,8 @@ target. *Hit:* 6 (1d6 + 3) bludgeoning damage.
 * **Speed:** 20 ft.
 * **STR:** 3 (-4), **DEX:** 8 (-1), **CON:** 11 (+0), **INT:** 10
 (+0), **WIS:** 10 (+0), **CHA:** 6 (-2)
-
-**Damage Vulnerabilities** fire
-
-**Damage Resistances** piercing
+* **Damage Vulnerabilities** fire
+* **Damage Resistances** piercing
 * **Senses:** passive Perception 10
 * **Languages:** one language known by its creator
 * **Challenge:** 0 (10 XP)
@@ -36187,13 +36178,10 @@ by the *awaken* spell or similar magic.
 * **Armor Class:** 13 (natural armor)
 * **Hit Points:** 59 (7d12 + 14)
 * **Speed:** 20 ft.
-
 * **STR:** 19 (+4), **DEX:** 6 (-2), **CON:** 15 (+2), **INT:** 10
 (+0), **WIS:** 10 (+0), **CHA:** 7 (-2)
-
-**Damage Vulnerabilities** fire
-
-**Damage Resistances** bludgeoning, piercing
+* **Damage Vulnerabilities** fire
+* **Damage Resistances** bludgeoning, piercing
 * **Senses:** passive Perception 10
 * **Languages:** one language known by its creator
 * **Challenge:** 2 (450 XP)
@@ -38326,10 +38314,8 @@ Constitution saving throw or take 2 (1d4) poison damage.
 * **Speed:** 0 ft., fly 30 ft.
 * **STR:** 5 (-3), **DEX:** 15 (+2), **CON:** 10 (+0), **INT:** 2
 (-4), **WIS:** 12 (+1), **CHA:** 4 (-3)
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed,
+* **Damage Resistances** bludgeoning, piercing, slashing
+* **Condition Immunities** charmed, frightened, grappled, paralyzed,
 petrified, prone, restrained, stunned
 * **Senses:** blindsight 60 ft., passive Perception 11
 * **Languages:** -
@@ -38360,10 +38346,8 @@ piercing damage if the swarm has half of its hit points or fewer.
 * **Speed:** 20 ft., climb 20 ft.
 * **STR:** 3 (-4), **DEX:** 13 (+1), **CON:** 10 (+0), **INT:** 1
 (-5), **WIS:** 7 (-2), **CHA:** 1 (-5)
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed,
+* **Damage Resistances** bludgeoning, piercing, slashing
+* **Condition Immunities** charmed, frightened, grappled, paralyzed,
 petrified, prone, restrained, stunned
 * **Senses:** blindsight 10 ft., passive Perception 8
 * **Languages:** -
@@ -38406,7 +38390,6 @@ location of any other creature in contact with the same web.
 ***Swarm of Wasps.*** A swarm of wasps has a walking speed of 5 feet, a
 flying speed of 30 feet, and no climbing speed.
 
-
 ## Swarm of Poisonous Snakes
 
 *Medium swarm of Tiny beasts, unaligned*
@@ -38416,10 +38399,8 @@ flying speed of 30 feet, and no climbing speed.
 * **Speed:** 30 ft., swim 30 ft.
 * **STR:** 8 (-1), **DEX:** 18 (+4), **CON:** 11 (+0), **INT:** 1
 (-5), **WIS:** 10 (+0), **CHA:** 3 (-4)
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed,
+* **Damage Resistances** bludgeoning, piercing, slashing
+* **Condition Immunities** charmed, frightened, grappled, paralyzed,
 petrified, prone, restrained, stunned
 * **Senses:** blindsight 10 ft., passive Perception 10
 * **Languages:** -
@@ -38448,10 +38429,8 @@ one.
 * **Speed:** 0 ft., swim 40 ft.
 * **STR:** 13 (+1), **DEX:** 16 (+3), **CON:** 9 (-1), **INT:** 1
 (-5), **WIS:** 7 (-2), **CHA:** 2 (-4)
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed,
+* **Damage Resistances** bludgeoning, piercing, slashing
+* **Condition Immunities** charmed, frightened, grappled, paralyzed,
 petrified, prone, restrained, stunned
 * **Senses:** darkvision 60 ft., passive Perception 8
 * **Languages:** -
@@ -38482,10 +38461,8 @@ piercing damage if the swarm has half of its hit points or fewer.
 * **Speed:** 30 ft.
 * **STR:** 9 (-1), **DEX:** 11 (+0), **CON:** 9 (-1), **INT:** 2
 (-4), **WIS:** 10 (+0), **CHA:** 3 (-4)
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed,
+* **Damage Resistances** bludgeoning, piercing, slashing
+* **Condition Immunities** charmed, frightened, grappled, paralyzed,
 petrified, prone, restrained, stunned
 * **Senses:** darkvision 30 ft., passive Perception 10
 * **Languages:** -
@@ -38515,10 +38492,8 @@ piercing damage if the swarm has half of its hit points or fewer.
 * **STR:** 6 (-2), **DEX:** 14 (+2), **CON:** 8 (-1), **INT:** 3
 (-4), **WIS:** 12 (+1), **CHA:** 6 (-2)
 * **Skills:** Perception +5
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed,
+* **Damage Resistances** bludgeoning, piercing, slashing
+* **Condition Immunities** charmed, frightened, grappled, paralyzed,
 petrified, prone, restrained, stunned
 * **Senses:** passive Perception 15
 * **Languages:** -
@@ -38648,8 +38623,7 @@ attack with its hooves against it as a bonus action.
 * **STR:** 18 (+4), **DEX:** 13 (+1), **CON:** 14 (+2), **INT:** 7
 (-2), **WIS:** 12 (+1), **CHA:** 8 (-1)
 * **Skills:** Perception +5, Stealth +3
-
-**Damage Immunities** cold
+* **Damage Immunities** cold
 * **Senses:** passive Perception 15
 * **Languages:** Common, Giant, Winter Wolf
 * **Challenge:** 3 (700 XP)
@@ -38782,7 +38756,7 @@ challenge rating.
 * **Hit Points** 9 (2d8)
 * **Speed:** 30 ft.
 * **STR:** 10 (+0), **DEX:** 10 (+0), **CON:** 10 (+0), **INT:** 10 (+0),
-**WIS:** 14 (+2), **CHA:** 11 (+0) |
+**WIS:** 14 (+2), **CHA:** 11 (+0)
 * **Skills:** Medicine +4, Religion +2
 * **Senses:** passive Perception 12
 * **Languages:** any one language (usually Common)
@@ -38814,12 +38788,10 @@ minor spellcasting power by their deities.
 * **Hit Points** 99 (18d8 + 18)
 * **Speed:** 30 ft.
 * **STR:** 10 (+0), **DEX:** 14 (+2), **CON:** 12 (+1), **INT:** 20 (+5),
-**WIS:** 15 (+2), **CHA:** 16 (+3) |
-
-**Saving Throws** Int +9, Wis +6
+**WIS:** 15 (+2), **CHA:** 16 (+3)
+* **Saving Throws** Int +9, Wis +6
 * **Skills:** Arcana +13, History +13
-
-**Damage Resistance** damage from spells; nonmagical bludgeoning,
+* **Damage Resistance** damage from spells; nonmagical bludgeoning,
 piercing, and slashing (from *stoneskin*)
 * **Senses:** passive Perception 12
 * **Languages:** any six languages
@@ -38833,10 +38805,8 @@ spellcasting ability is Intelligence (spell save DC 17, +9 to hit with
 spell attacks). The archmage can cast *disguise self* and
 *invisibility* at will and has the following wizard spells prepared:
 
-Cantrips (at will): *fire bolt*, *light*, *mage hand*,
-*prestidigitation*, *shocking grasp*
-1st level (4 slots): *detect magic*, *identify*, *mage armor*, *magic
-missile*
+Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shocking grasp*
+1st level (4 slots): *detect magic*, *identify*, *mage armor*, *magic missile*
 2nd level (3 slots): *detect thoughts*, *mirror image*, *misty step*
 3rd level (3 slots): *counterspell*, *fly*, *lightning bolt*
 4th level (3 slots): *banishment*, *fire shield*, *stoneskin*
@@ -38871,12 +38841,10 @@ discourage interlopers.
 * **Hit Points** 78 (12d8 + 24)
 * **Speed:** 30 ft.
 * **STR:** 11 (+0), **DEX:** 16 (+3), **CON:** 14 (+2), **INT:** 13 (+1),
-**WIS:** 11 (+0), **CHA:** 10 (+0) |
-
-**Saving Throws** Dex +6, Int +4
+**WIS:** 11 (+0), **CHA:** 10 (+0)
+* **Saving Throws** Dex +6, Int +4
 * **Skills:** Acrobatics +6, Deception +3, Perception +3, Stealth +9
-
-**Damage Resistances** poison
+* **Damage Resistances** poison
 * **Senses:** passive Perception 13
 * **Languages:** Thieves’ cant plus any two languages
 * **Challenge:** 8 (3,900 XP)
@@ -38922,7 +38890,7 @@ afford them.
 * **Hit Points** 11 (2d8 + 2)
 * **Speed:** 30 ft.
 * **STR:** 11 (+0), **DEX:** 12 (+1), **CON:** 12 (+1), **INT:** 10 (+0),
-**WIS:** 10 (+0), **CHA:** 10 (+0) |
+**WIS:** 10 (+0), **CHA:** 10 (+0)
 * **Senses:** passive Perception 10
 * **Languages:** any one language (usually Common)
 * **Challenge:** 1/8 (25 XP)
@@ -38952,9 +38920,8 @@ vessels.
 * **Hit Points** 65 (10d8 + 20)
 * **Speed:** 30 ft.
 * **STR:** 15 (+2), **DEX:** 16 (+3), **CON:** 14 (+2), **INT:** 14 (+2),
-**WIS:** 11 (+0), **CHA:** 14 (+2) |
-
-**Saving Throws** Str +4, Dex +5, Wis +2
+**WIS:** 11 (+0), **CHA:** 14 (+2)
+* **Saving Throws** Str +4, Dex +5, Wis +2
 * **Skills:** Athletics +4, Deception +4
 * **Senses:** passive Perception 10
 * **Languages:** any two languages **Challenge** 2 (450 XP)
@@ -38999,7 +38966,7 @@ anything of the captain’s colorful reputation.
 * **Hit Points** 67 (9d8 + 27)
 * **Speed:** 30 ft.
 * **STR:** 16 (+3), **DEX:** 12 (+1), **CON:** 17 (+3), **INT:** 9
-(-1), **WIS:** 11 (+0), **CHA:** 9 (-1) |
+(-1), **WIS:** 11 (+0), **CHA:** 9 (-1)
 * **Senses:** passive Perception 10
 * **Languages:** any one language (usually Common)
 * **Challenge:** 2 (450 XP)
@@ -39024,7 +38991,7 @@ together in war parties and seek conflict wherever they can find it.
 * **Hit Points** 4 (1d8)
 * **Speed:** 30 ft.
 * **STR:** 10 (+0), **DEX:** 10 (+0), **CON:** 10 (+0), **INT:** 10 (+0),
-**WIS:** 10 (+0), **CHA:** 10 (+0) |
+**WIS:** 10 (+0), **CHA:** 10 (+0)
 * **Senses:** passive Perception 10
 * **Languages:** any one language (usually Common)
 * **Challenge:** 0 (10 XP)
@@ -39045,7 +39012,7 @@ merchants, artisans, and hermits.
 * **Hit Points** 9 (2d8)
 * **Speed:** 30 ft.
 * **STR:** 11 (+0), **DEX:** 12 (+1), **CON:** 10 (+0), **INT:** 10 (+0),
-**WIS:** 11 (+0), **CHA:** 10 (+0) |
+**WIS:** 11 (+0), **CHA:** 10 (+0)
 * **Skills:** Deception +2, Religion +2
 * **Senses:** passive Perception 10
 * **Languages:** any one language (usually Common)
@@ -39073,7 +39040,7 @@ practices.
 * **Hit Points** 33 (6d8 + 6)
 * **Speed:** 30 ft.
 * **STR:** 11 (+0), **DEX:** 14 (+2), **CON:** 12 (+1), **INT:** 10
-(+0), **WIS:** 13 (+1), **CHA:** 14 (+2) |
+(+0), **WIS:** 13 (+1), **CHA:** 14 (+2)
 * **Skills:** Deception +4, Persuasion +4, Religion +2
 * **Senses:** passive Perception 11
 * **Languages:** any one language (usually Common)
@@ -39109,7 +39076,7 @@ are interested in personal power above all else.
 * **Hit Points** 27 (5d8 + 5)
 * **Speed:** 30 ft.
 * **STR:** 10 (+0), **DEX:** 12 (+1), **CON:** 13 (+1), **INT:** 12 (+1),
-**WIS:** 15 (+2), **CHA:** 11 (+0) |
+**WIS:** 15 (+2), **CHA:** 11 (+0)
 * **Skills:** Medicine +4, Nature +3, Perception +4
 * **Senses:** passive Perception 14 **Languages** Druidic plus any two
 languages **Challenge** 2 (450 XP)
@@ -39143,9 +39110,8 @@ animal spirits, and provide spiritual guidance.
 * **Hit Points** 112 (15d8 + 45)
 * **Speed:** 30 ft.
 * **STR:** 18 (+4), **DEX:** 15 (+2), **CON:** 16 (+3), **INT:** 10 (+0),
-**WIS:** 12 (+1), **CHA:** 15 (+2) |
-
-**Saving Throws** Str +7, Dex +5, Con +6
+**WIS:** 12 (+1), **CHA:** 15 (+2)
+* **Saving Throws** Str +7, Dex +5, Con +6
 * **Skills:** Athletics +10, Intimidation +5
 * **Senses:** passive Perception 11
 * **Languages:** any one language (usually Common)
@@ -39190,7 +39156,7 @@ command huge fees but rarely fight to the death.
 * **Hit Points** 11 (2d8 + 2)
 * **Speed:** 30 ft.
 * **STR:** 13 (+1), **DEX:** 12 (+1), **CON:** 12 (+1), **INT:** 10 (+0),
-**WIS:** 11 (+0), **CHA:** 10 (+0) |
+**WIS:** 11 (+0), **CHA:** 10 (+0)
 * **Skills:** Perception +2
 * **Senses:** passive Perception 12
 * **Languages:** any one language (usually Common)
@@ -39213,9 +39179,8 @@ fortified town, and the bodyguards of merchants and nobles.
 * **Hit Points** 52 (8d8 + 16)
 * **Speed:** 30 ft.
 * **STR:** 16 (+3), **DEX:** 11 (+0), **CON:** 14 (+2), **INT:** 11 (+0),
-**WIS:** 11 (+0), **CHA:** 15 (+2) |
-
-**Saving Throws** Con +4, Wis +2
+**WIS:** 11 (+0), **CHA:** 15 (+2)
+* **Saving Throws** Con +4, Wis +2
 * **Senses:** passive Perception 10
 * **Languages:** any one language (usually Common)
 * **Challenge:** 3 (700 XP)
@@ -39261,9 +39226,8 @@ and hirelings who are commoners.
 * **Hit Points** 40 (9d8)
 * **Speed:** 30 ft.
 * **STR:** 9 (-1), **DEX:** 14 (+2), **CON:** 11 (+0), **INT:** 17
-(+3), **WIS:** 12 (+1), **CHA:** 11 (+0) |
-
-**Saving Throws** Int +6, Wis +4
+(+3), **WIS:** 12 (+1), **CHA:** 11 (+0)
+* **Saving Throws** Int +6, Wis +4
 * **Skills:** Arcana +6, History +6
 * **Senses:** passive Perception 11
 * **Languages:** any four languages
@@ -39300,7 +39264,7 @@ without interference.
 * **Hit Points** 9 (2d8)
 * **Speed:** 30 ft.
 * **STR:** 11 (+0), **DEX:** 12 (+1), **CON:** 11 (+0), **INT:** 12 (+1),
-**WIS:** 14 (+2), **CHA:** 16 (+3) |
+**WIS:** 14 (+2), **CHA:** 16 (+3)
 * **Skills:** Deception +5, Insight +4, Persuasion +5
 * **Senses:** passive Perception 12
 * **Languages:** any two languages
@@ -39333,7 +39297,7 @@ who aren’t of noble birth.
 * **Hit Points** 27 (5d8 + 5)
 * **Speed:** 25 ft.
 * **STR:** 10 (+0), **DEX:** 10 (+0), **CON:** 12 (+1), **INT:** 13 (+1),
-**WIS:** 16 (+3), **CHA:** 13 (+1) |
+**WIS:** 16 (+3), **CHA:** 13 (+1)
 * **Skills:** Medicine +7, Persuasion +3, Religion +4
 * **Senses:** passive Perception 13
 * **Languages:** any two languages
@@ -39376,7 +39340,7 @@ ceremonies and other sacred duties.
 * **Hit Points** 16 (3d8 + 3)
 * **Speed:** 30 ft.
 * **STR:** 11 (+0), **DEX:** 14 (+2), **CON:** 12 (+1), **INT:** 11 (+0),
-**WIS:** 13 (+1), **CHA:** 11 (+0) |
+**WIS:** 13 (+1), **CHA:** 11 (+0)
 * **Skills:** Nature +4, Perception +5, Stealth +6, Survival +5
 * **Senses:** passive Perception 15
 * **Languages:** any one language (usually Common)
@@ -39408,7 +39372,7 @@ as guides, or provide military reconnaissance.
 * **Hit Points** 27 (6d8)
 * **Speed:** 30 ft.
 * **STR:** 10 (+0), **DEX:** 15 (+2), **CON:** 10 (+0), **INT:** 12 (+1),
-**WIS:** 14 (+2), **CHA:** 16 (+3) |
+**WIS:** 14 (+2), **CHA:** 16 (+3)
 * **Skills:** Deception +5, Insight +4, Investigation +5, Perception +6,
 Persuasion +5, Sleight of Hand +4, Stealth +4
 * **Senses:** passive Perception 16
@@ -39448,7 +39412,7 @@ employers.
 * **Hit Points** 32 (5d8 + 10)
 * **Speed:** 30 ft.
 * **STR:** 15 (+2), **DEX:** 11 (+0), **CON:** 14 (+2), **INT:** 10 (+0),
-**WIS:** 10 (+0), **CHA:** 11 (+0) |
+**WIS:** 10 (+0), **CHA:** 11 (+0)
 * **Skills:** Intimidation +2
 * **Senses:** passive Perception 10
 * **Languages:** any one language (usually Common)
@@ -39479,7 +39443,7 @@ They work for money and have few scruples.
 * **Hit Points** 11 (2d8 + 2)
 * **Speed:** 30 ft.
 * **STR:** 13 (+1), **DEX:** 11 (+0), **CON:** 12 (+1), **INT:** 8
-(-1), **WIS:** 11 (+0), **CHA:** 8 (-1) |
+(-1), **WIS:** 11 (+0), **CHA:** 8 (-1)
 * **Senses:** passive Perception 10
 * **Languages:** any one language
 * **Challenge:** 1/8 (25 XP)
@@ -39507,7 +39471,7 @@ tribe member blessed by the gods.
 * **Hit Points** 58 (9d8 + 18)
 * **Speed:** 30 ft.
 * **STR:** 16 (+3), **DEX:** 13 (+1), **CON:** 14 (+2), **INT:** 10
-(+0), **WIS:** 11 (+0), **CHA:** 10 (+0) |
+(+0), **WIS:** 11 (+0), **CHA:** 10 (+0)
 * **Skills:** Athletics +5, Perception +2
 * **Senses:** passive Perception 12
 * **Languages:** any one language (usually Common)
@@ -39532,171 +39496,6 @@ ft., one target. *Hit:* 6 (1d10 + 1) piercing damage.
 protect something they believe in or value. Their ranks include
 soldiers retired from long service and warriors who never served anyone
 but themselves.
-
-
-
-# Conditions
-
-Conditions alter a creature’s capabilities in a variety of ways and can
-arise as a result of a spell, a class feature, a monster’s attack, or
-other effect. Most conditions, such as blinded, are impairments, but a
-few, such as invisible, can be advantageous.
-
-A condition lasts either until it is countered (the prone condition is
-countered by standing up, for example) or for a duration specified by
-the effect that imposed the condition.
-
-If multiple effects impose the same condition on a creature, each
-instance of the condition has its own duration, but the condition’s
-effects don’t get worse. A creature either has a condition or doesn’t.
-
-The following definitions specify what happens to a creature while it
-is subjected to a condition.
-
-## Blinded
-
-* A blinded creature can’t see and automatically fails any ability
-check that requires sight.
-* Attack rolls against the creature have advantage, and the creature’s
-attack rolls have disadvantage.
-
-## Charmed
-
-* A charmed creature can’t attack the charmer or target the charmer
-with harmful abilities or magical effects.
-* The charmer has advantage on any ability check to interact socially
-with the creature.
-
-## Deafened
-
-* A deafened creature can’t hear and automatically fails any ability
-check that requires hearing.
-
-## Exhaustion
-
-Some special abilities and environmental hazards, such as starvation
-and the long-term effects of freezing or scorching temperatures, can
-lead to a special condition called exhaustion. Exhaustion is measured
-in six levels. An effect can give a creature one or more levels of
-exhaustion, as specified in the effect’s description.
-
-*Level: Effect*
-
-* 1: Disadvantage on ability checks
-* 2: Speed halved
-* 3: Disadvantage on attack rolls and saving throws
-* 4: Hit point maximum halved
-* 5: Speed reduced to 0
-* 6: Death
-
-If an already exhausted creature suffers another effect that causes
-exhaustion, its current level of exhaustion increases by the amount
-specified in the effect’s description.
-
-A creature suffers the effect of its current level of exhaustion as
-well as all lower levels. For example, a creature suffering level 2
-exhaustion has its speed halved and has disadvantage on ability checks.
-
-An effect that removes exhaustion reduces its level as specified in the
-effect’s description, with all exhaustion effects ending if a
-creature’s exhaustion level is reduced below 1.
-
-Finishing a long rest reduces a creature’s exhaustion level by 1,
-provided that the creature has also ingested some food and drink.
-
-## Frightened
-
-* A frightened creature has disadvantage on ability checks and attack
-rolls while the source of its fear is within line of sight.
-
-* The creature can’t willingly move closer to the source of its fear.
-
-## Grappled
-
-* A grappled creature’s speed becomes 0, and it can’t benefit from any
-bonus to its speed.
-* The condition ends if the grappler is in capacitated (see the
-condition).
-* The condition also ends if an effect removes the grappled creature
-from the reach of the grappler or grappling effect, such as when a
-creature is hurled away by the *thunder-wave* spell.
-
-## Incapacitated
-
-* An incapacitated creature can’t take actions or reactions.
-
-## Invisible
-
-* An invisible creature is impossible to see without the aid of magic
-or a special sense. For the purpose of hiding, the creature is heavily
-obscured. The creature’s location can be detected by any noise it makes
-or any tracks it leaves.
-* Attack rolls against the creature have disadvantage, and the
-creature’s attack rolls have advantage.
-
-## Paralyzed
-
-* A paralyzed creature is incapacitated (see the condition) and can’t
-move or speak.
-* The creature automatically fails Strength and Dexterity saving
-throws.
-* Attack rolls against the creature have advantage.
-* Any attack that hits the creature is a critical hit if the attacker
-is within 5 feet of the creature.
-
-## Petrified
-
-* A petrified creature is transformed, along with any nonmagical object
-it is wearing or carrying, into a solid inanimate substance (usually
-stone). Its weight increases by a factor of ten, and it ceases aging.
-* The creature is incapacitated (see the condition), can’t move or
-speak, and is unaware of its surroundings.
-* Attack rolls against the creature have advantage.
-* The creature automatically fails Strength and Dexterity saving
-throws.
-* The creature has resistance to all damage.
-* The creature is immune to poison and disease, although a poison or
-disease already in its system is suspended, not neutralized.
-
-## Poisoned
-
-* A poisoned creature has disadvantage on attack rolls and ability
-checks.
-
-## Prone
-
-* A prone creature’s only movement option is to crawl, unless it stands
-up and thereby ends the condition.
-* The creature has disadvantage on attack rolls.
-* An attack roll against the creature has advantage if the attacker is
-within 5 feet of the creature. Otherwise, the attack roll has
-disadvantage.
-
-## Restrained
-
-* A restrained creature’s speed becomes 0, and it can’t benefit from
-any bonus to its speed.
-* Attack rolls against the creature have advantage, and the creature’s
-attack rolls have disadvantage.
-* The creature has disadvantage on Dexterity saving throws.
-
-## Stunned
-
-* A stunned creature is incapacitated (see the condition), can’t move,
-and can speak only falteringly.
-* The creature automatically fails Strength and Dexterity saving throws.
-* Attack rolls against the creature have advantage.
-
-## Unconscious
-
-* An unconscious creature is incapacitated (see the condition), can’t
-move or speak, and is unaware of its surroundings
-* The creature drops whatever it’s holding and falls prone.
-* The creature automatically fails Strength and Dexterity saving
-throws.
-* Attack rolls against the creature have advantage.
-* Any attack that hits the creature is a critical hit if the attacker
-is within 5 feet of the creature.
 
 # Fantasy-Historical Pantheons
 
@@ -40064,3 +39863,168 @@ through a single point where it touches another plane. Theoretically, a
 proper frequency required for the tuning fork is extremely hard to
 acquire. The *gate* spell is more reliable, assuming the caster knows
 of the demiplane.
+
+# Conditions
+
+Conditions alter a creature’s capabilities in a variety of ways and can
+arise as a result of a spell, a class feature, a monster’s attack, or
+other effect. Most conditions, such as blinded, are impairments, but a
+few, such as invisible, can be advantageous.
+
+A condition lasts either until it is countered (the prone condition is
+countered by standing up, for example) or for a duration specified by
+the effect that imposed the condition.
+
+If multiple effects impose the same condition on a creature, each
+instance of the condition has its own duration, but the condition’s
+effects don’t get worse. A creature either has a condition or doesn’t.
+
+The following definitions specify what happens to a creature while it
+is subjected to a condition.
+
+## Blinded
+
+* A blinded creature can’t see and automatically fails any ability
+check that requires sight.
+* Attack rolls against the creature have advantage, and the creature’s
+attack rolls have disadvantage.
+
+## Charmed
+
+* A charmed creature can’t attack the charmer or target the charmer
+with harmful abilities or magical effects.
+* The charmer has advantage on any ability check to interact socially
+with the creature.
+
+## Deafened
+
+* A deafened creature can’t hear and automatically fails any ability
+check that requires hearing.
+
+## Exhaustion
+
+Some special abilities and environmental hazards, such as starvation
+and the long-term effects of freezing or scorching temperatures, can
+lead to a special condition called exhaustion. Exhaustion is measured
+in six levels. An effect can give a creature one or more levels of
+exhaustion, as specified in the effect’s description.
+
+*Level: Effect*
+
+* 1: Disadvantage on ability checks
+* 2: Speed halved
+* 3: Disadvantage on attack rolls and saving throws
+* 4: Hit point maximum halved
+* 5: Speed reduced to 0
+* 6: Death
+
+If an already exhausted creature suffers another effect that causes
+exhaustion, its current level of exhaustion increases by the amount
+specified in the effect’s description.
+
+A creature suffers the effect of its current level of exhaustion as
+well as all lower levels. For example, a creature suffering level 2
+exhaustion has its speed halved and has disadvantage on ability checks.
+
+An effect that removes exhaustion reduces its level as specified in the
+effect’s description, with all exhaustion effects ending if a
+creature’s exhaustion level is reduced below 1.
+
+Finishing a long rest reduces a creature’s exhaustion level by 1,
+provided that the creature has also ingested some food and drink.
+
+## Frightened
+
+* A frightened creature has disadvantage on ability checks and attack
+rolls while the source of its fear is within line of sight.
+
+* The creature can’t willingly move closer to the source of its fear.
+
+## Grappled
+
+* A grappled creature’s speed becomes 0, and it can’t benefit from any
+bonus to its speed.
+* The condition ends if the grappler is in capacitated (see the
+condition).
+* The condition also ends if an effect removes the grappled creature
+from the reach of the grappler or grappling effect, such as when a
+creature is hurled away by the *thunder-wave* spell.
+
+## Incapacitated
+
+* An incapacitated creature can’t take actions or reactions.
+
+## Invisible
+
+* An invisible creature is impossible to see without the aid of magic
+or a special sense. For the purpose of hiding, the creature is heavily
+obscured. The creature’s location can be detected by any noise it makes
+or any tracks it leaves.
+* Attack rolls against the creature have disadvantage, and the
+creature’s attack rolls have advantage.
+
+## Paralyzed
+
+* A paralyzed creature is incapacitated (see the condition) and can’t
+move or speak.
+* The creature automatically fails Strength and Dexterity saving
+throws.
+* Attack rolls against the creature have advantage.
+* Any attack that hits the creature is a critical hit if the attacker
+is within 5 feet of the creature.
+
+## Petrified
+
+* A petrified creature is transformed, along with any nonmagical object
+it is wearing or carrying, into a solid inanimate substance (usually
+stone). Its weight increases by a factor of ten, and it ceases aging.
+* The creature is incapacitated (see the condition), can’t move or
+speak, and is unaware of its surroundings.
+* Attack rolls against the creature have advantage.
+* The creature automatically fails Strength and Dexterity saving
+throws.
+* The creature has resistance to all damage.
+* The creature is immune to poison and disease, although a poison or
+disease already in its system is suspended, not neutralized.
+
+## Poisoned
+
+* A poisoned creature has disadvantage on attack rolls and ability
+checks.
+
+## Prone
+
+* A prone creature’s only movement option is to crawl, unless it stands
+up and thereby ends the condition.
+* The creature has disadvantage on attack rolls.
+* An attack roll against the creature has advantage if the attacker is
+within 5 feet of the creature. Otherwise, the attack roll has
+disadvantage.
+
+## Restrained
+
+* A restrained creature’s speed becomes 0, and it can’t benefit from
+any bonus to its speed.
+* Attack rolls against the creature have advantage, and the creature’s
+attack rolls have disadvantage.
+* The creature has disadvantage on Dexterity saving throws.
+
+## Stunned
+
+* A stunned creature is incapacitated (see the condition), can’t move,
+and can speak only falteringly.
+* The creature automatically fails Strength and Dexterity saving throws.
+* Attack rolls against the creature have advantage.
+
+## Unconscious
+
+* An unconscious creature is incapacitated (see the condition), can’t
+move or speak, and is unaware of its surroundings
+* The creature drops whatever it’s holding and falls prone.
+* The creature automatically fails Strength and Dexterity saving
+throws.
+* Attack rolls against the creature have advantage.
+* Any attack that hits the creature is a critical hit if the attacker
+is within 5 feet of the creature.
+
+
