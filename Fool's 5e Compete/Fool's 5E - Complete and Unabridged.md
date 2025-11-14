@@ -10367,11 +10367,11 @@ Some spells, such as *magic missile* and *cure wounds*, have more
 powerful effects when cast at a higher level, as detailed in a spell's
 description.
 
-> **Casting in Armor**
->
->Because of the mental focus and precise gestures required for
-spellcasting, you must be proficient with the armor you are wearing to
-cast a spell. You are otherwise too distracted and physically hampered
+### Casting in Armor
+
+Because of the mental focus and precise gestures required for 
+spellcasting, you must be proficient with the armor you are wearing to 
+cast a spell. You are otherwise too distracted and physically hampered 
 by your armor for spellcasting.
 
 ## Cantrips
