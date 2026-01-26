@@ -1,4 +1,4 @@
-5E Spells - Short Desc. ChatGPT
+5E Spells - Short Desc
 
 * Absorb Elements: The caster captures energy from an elemental 
 attack, gaining resistance to that type of damage and dealing it back 
