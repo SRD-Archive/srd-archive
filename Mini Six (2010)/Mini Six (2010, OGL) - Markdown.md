@@ -4212,6 +4212,62 @@ The GM may have the paladin be alive, fallen into wickedness, or
 already dead leaving only a few scraps of cryptic knowledge and a
 journal or maybe someone claiming to be his apprentice.
 
+# Additional Optional Rules
+
+All additional content rules are released to the public domain (CC0
+license).
+
+## Mini OpenD6 Legend Rules
+
+These are rules for adapting OpenD6 style games to Legend style dice
+rolls, where players roll and count the number of successes (dice with
+a 4 or higher) as opposed to totaling the dice and comparing the result
+against a target number.
+
+Target Successes (TS): This is the minimum number of successes  you
+need to achieve in order to succeed at whatever you are attempting.
+Target Successes function under the Legend System similarly to the way
+Target Numbers work under traditional OpenD6.
+
+* TN 6 - 10 = 1 success.
+* TN 11 - 15 = 2 successes
+* TN 16 - 20 = 3 successes
+* TN 24 = 4 successes
+* Heroic = 5 successes+
+
+Dice are rolled just as in OpenD6 or Mini Six. For every die that rolls
+a 4 or higher, the character gets one success.
+
+Any pips are added to the Wild Die’s result, with a result of a 4 or
+higher counting as a success. If a 6 is rolled on the wild die, then
+the pips are added to the bonus die.
+
+If for any reason a die ever gets a +3, then the +3 is removed, but the
+number of dice is increased by 1. So, 4D+3 would become 5D.
+
+Although not identical, this system offers the similar probabilities to
+the traditional OpenD6 system.
+
+One side effect is that ties are more likely if two characters are
+engaged in an opposed action, in which case whomever has the higher
+stat wins. If they have the same stats, you can just flip a coin.
+
+The other side effect is that you can’t really use this method of
+rolling for successes with the rules for fast static combat, but
+rolling for successes is comparatively quick.
+
+For damage, you can just total up the damage values as in traditional
+OpenD6, or you can let each damage success that is not soaked equal one
+damage level taken.
+
+## Optional Rules for Order of Actions in a Round
+
+Players roll for initiative and can declare what they are doing on
+their turn, rather than everyone declaring their actions at the start
+of the round. If a player rolled a high initiative and want to delay,
+they may preempt another characters move and this will be their place
+in the initiative order.
+
 # Character Sheet
 
 Character Name:
