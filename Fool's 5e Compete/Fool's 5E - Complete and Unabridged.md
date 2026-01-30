@@ -5401,6 +5401,29 @@ granted by your background:
 19. (+6) Ability Score Improvement (5)
 20. (+6) Signature Spell (5)
 
+*Level. Spell Slots per Spell Level (Starting With First)*
+
+1.  2
+2.  3
+3.  4, 2
+4.  4, 3
+5.  4, 3, 2
+6.  4, 3, 3
+7.  4, 3, 3, 1
+8.  4, 3, 3, 2
+9.  4, 3, 3, 3, 1
+10. 4, 3, 3, 3, 2
+11. 4, 3, 3, 3, 2, 1
+12. 4, 3, 3, 3, 2, 1
+13. 4, 3, 3, 3, 2, 1, 1
+14. 4, 3, 3, 3, 2, 1, 1
+15. 4, 3, 3, 3, 2, 1, 1, 1
+16. 4, 3, 3, 3, 2, 1, 1, 1
+17. 4, 3, 3, 3, 2, 1, 1, 1, 1
+18. 4, 3, 3, 3, 3, 1, 1, 1, 1
+19. 4, 3, 3, 3, 3, 2, 1, 1, 1
+20. 4, 3, 3, 3, 3, 2, 2, 1, 1
+
 ### Spellcasting
 
 As a student of arcane magic, you have a spellbook containing spells
@@ -10369,9 +10392,9 @@ description.
 
 ### Casting in Armor
 
-Because of the mental focus and precise gestures required for 
-spellcasting, you must be proficient with the armor you are wearing to 
-cast a spell. You are otherwise too distracted and physically hampered 
+Because of the mental focus and precise gestures required for
+spellcasting, you must be proficient with the armor you are wearing to
+cast a spell. You are otherwise too distracted and physically hampered
 by your armor for spellcasting.
 
 ## Cantrips
