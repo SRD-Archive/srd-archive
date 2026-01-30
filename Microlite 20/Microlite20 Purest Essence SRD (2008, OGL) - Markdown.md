@@ -1,4 +1,4 @@
-# Microlite 20 PE -- Markdown Edirtion
+# Microlite 20 Purest Essence SRD
 
 Microlite 20 PE by Robin V. Stacey, Darrell King & Al Krombach
 
