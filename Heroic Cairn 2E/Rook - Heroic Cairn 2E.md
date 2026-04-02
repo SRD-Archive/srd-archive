@@ -1,8 +1,8 @@
-# Heroic Cairn 2nd Edition
+# Rook: Heroic Cairn 2nd Edition
 
-**Heroic Cairn 2E** consolidates and updates Cairn with rules for
-ancestries, classes with  additional rules and spells. It's goal is to
-fold a little 5e back in to Cairn.
+**Rook** consolidates and updates Cairn with rules for ancestries, 
+classes with  additional rules and spells. It's goal is to fold a 
+little 5e back in to Cairn.
 
 The changes from Cairn are: a) If multiple attackers target the same
 foe, they each get to attack. b) Actions are declared and resolved as
@@ -38,10 +38,10 @@ cairnrpg.com/resources/more-spellbooks/
 
 # Character Creation
 
-1. Select an Ancestry
-2. Select Background and Traits
-3. Find your Ability Scores and HP
-4. Select your Class Feats
+1. Select an Ancestry.
+2. Select Background and Traits.
+3. Find your Ability Scores and HP.
+4. Select your Class Feats.
 5. Select your gear or gear package.
 
 # Ancestry
@@ -221,7 +221,7 @@ max armor value of 3).
 enhanced.
 6. **Rage:** If you CD or kill an enemy, you gain 1D4 HP.
 7. **Flury of Attacks:** You can perform a physical Blast attack with
-+1 to damage in exchange for gaining 1 Fatigue.
++2 to damage in exchange for gaining 1 Fatigue.
 8. **Second Attack:** You can make two attacks in a round, but the
 second attack is at a -2 damage penalty. Each attack must deal with the
 target's armor.
@@ -301,6 +301,16 @@ attacks.
 Fatigue that you gained from casting or memorizing spells.
 8. **Mystical Talent (repeatable):** You know 2 cantrips that you can
 cast without gaining Fatigue.
+9. **Arcane Elemental Affinity (repeatable):** When you take this 
+feat, choose from Acid, Cold, Fire, Lightning, or Poison damage. You 
+now have +1 armor against it (still with a maximum armor of 3). 
+Additionally, you can perform an magical attack of that type that does 
+Enhanced damage at the cost of 1 Fatigue.
+10. **Eldrich Spellcasting (repeatable):** A powerful being has given 
+you access to two spells you can cast without a spellbook or scroll. 
+You may change the spells known to you if your patron allows it. You 
+also can use the cantrip **Eldrich Blast:** A magical beam does d8+d8 
+force damage.
 
 ## Ranger Feats
 
