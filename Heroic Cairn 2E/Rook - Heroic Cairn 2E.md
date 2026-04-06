@@ -85,6 +85,39 @@ might choose to have Quicksilver and Blood Brothers. Or, a gnome might
 have Easily Missed and Third Eye. A human might have inherited
 Magic-Sense from their witch grandmother.
 
+# Languages
+
+## Standard Languages
+
+*Language: Typical Speakers (Script)*
+
+* Common: Humans (Common)
+* Dwarvish: Dwarves (Dwarvish)
+* Elvish: Elves (Elvish)
+* Giant: Ogres, giants (Dwarvish)
+* Gnomish: Gnomes (Dwarvish)
+* Goblin: Goblinoids (Dwarvish)
+* Halfling: Halflings (Common)
+* Orc: Orcs (Dwarvish)
+
+## Exotic Languages
+
+*Language: Typical Speakers (Script)*
+
+* Abyssal: Demons (Infernal)
+* Celestial: Celestials (Celestial)
+* Draconic: Dragons, dragonborn (Draconic)
+* Deep Speech: Aboleths, cloakers (-)
+* Infernal: Devils (Infernal)
+* Primordial: Elementals (Dwarvish)
+* Sylvan: Fey creatures (Elvish)
+* Undercommon: Underworld traders (Elvish)
+
+## Secret Languages
+
+* Thieves' Cant: The secret language of rogues.
+* Drudic: The secret language of Druids.
+
 # Background and Traits
 
 First, choose or roll (d20) your characters **background**, which
@@ -201,6 +234,9 @@ anyone other than you to be Impaired. Attacks against you have no
 penalty.
 8. **Attribute Increase (repeatable x5 max):** You may increase any
 attribute by 1 (up to a maximum of 18).
+9. **Languages:** Select 3 additional Standard or Exotic languages to 
+know. Optionally, you may instead select 1 additional Standard or Exotic 
+language and 1 Secret language.
 
 ## Warrior Feats
 
@@ -219,6 +255,9 @@ enhanced.
 8. **Second Attack:** You can make two attacks in a round, but the
 second attack is at a -2 damage penalty. Each attack must deal with the
 target's armor.
+9. **Empowered Strikes:** Your physical strikes count as magical for 
+the purpose of overcoming resistance and immunity to non-magical attacks 
+and damage.
 
 ## Divine Feats
 
@@ -242,10 +281,16 @@ magical darkness, invisibility, etc.
 7. **Salvation Grace (repeatable):** Once per day you heal 1d6 ability
 damage. You became Deprived until you take the time to mediate, pray or
 sleep.
-8. **Wild Shape:** You can shape-shift into any animal, gaining all of
-its physical attributes. You may still cast spells while in your animal
-form. Shape-shifting costs 1 Fatigue. Taking **critical damage** causes
-you to revert back to your human form.
+8. **Wild Shape (repeatable):** You can shape-shift into any animal, 
+gaining all of its physical attributes. You may still cast spells while 
+in your animal form. The type of creature you can turn into depends on 
+how many times you've taken the Wild Shape feat. Once: Medium sized 
+land animals (snake, wolves). Twice: Large sized land or water animals 
+(bear, crocadile). Three times: Large sized land, water, or flying 
+animals (giant eagle, regular eagle). Four times: Elementals (air, 
+earth, fire, wind). Shape-shifting costs 1 Fatigue. Taking **critical 
+damage** causes you to revert back to your human form.
+9. **Wild Empathy:** You can communicate with animals.
 
 ## Rogue Feats
 
@@ -307,7 +352,8 @@ force damage.
 ## Ranger Feats
 
 1. **Hunter:** You have advantage to track and to hunt animals and
-monsters of low cunning.
+monsters of low cunning. You don't need to consume rations if you are 
+able to hunt.
 2. **Athlete:** You have advantage on all athletic checks (swimming,
 climbing, jumping, grappling, etc.).
 3. **Haven (repeatable):** Once daily, spend 10 minutes in safety and
@@ -320,6 +366,10 @@ version of a non-magic tool with a WILL save.
 wilderness without leaving a trace of your passage.
 8. **Swiftness:** Once per round, you may take an extra action at the
 cost of 1 Fatigue.
+9. **The Ways of the Wilds:** You belong to the wild lands and feel 
+uncomfortable in cities. You have a 1-in-4 chance of finding something 
+useful to you when you are traveling in an environment you are familiar 
+with.
 
 ## Optional Class Suggestions
 
@@ -814,7 +864,29 @@ Scrolls are similar to Spellbooks, however:
 
 Relics are items imbued with a magical spell or power. They do not
 cause Fatigue. Relics usually have limited use, as well as a Recharge
-condition.
+condition. A few examples:
+
+**Honeyclasp**, 3 charges. A rusted ring that shrinks the bearer to 6"
+tall. Recharge: place in a thimble-sized cup of royal jelly.
+
+**Falconer's Friend**, 1 charge. A bolt-shaped wand carrying the
+Haste spell. Recharge: fire from a crossbow and recover.
+
+**Staff of Silence**, 1 charge. This blackened rod temporarily
+disables all magic within 50ft. Recharge: bathe in the light of a full
+moon.
+
+**Leycap**, 1 use. Anyone ingesting this green-flecked mushroom loses
+a Fatigue, but is then required to make a WIL save to avoid its
+addictive properties. A fail leaves the PC deprived and unable to focus
+until they can eat another leycap, providing only a brief reprieve from
+the addiction.
+
+**Infinite Satchel** A bag known for holding things without regard to
+size, or weight, as long as it can fit through the opening of the
+satchel. No matter what the Satchel is holding, it’s weight never
+increases. However, items can not be retrieved from unless the Satchel
+has not been moved for 8 hours.
 
 # Combat
 
@@ -878,9 +950,9 @@ d8+d8).
 
 Damage that reduces a target's HP below zero is subtracted from their 
 STR by the amount of damage remaining. The target must then immediately 
-make a STR save to avoid taking Critical Damage, using their new STR 
-score. On a success, the target is still in the fight (albeit with a 
-lower STR score) and must continue to make critical damage saves when 
+make a STR save to avoid taking **Critical Damage**, using their new 
+STR score. On a success, the target is still in the fight (albeit with 
+a lower STR score) and must continue to make critical damage saves when 
 incurring damage.
 
 Any PC that suffers Critical Damage cannot do anything but crawl 
@@ -988,25 +1060,26 @@ or magic weapon.
 
 ## Common Traits
 
-* Sweep: (2 handed weapons only) Make a second attack against an enemy
-within reach if you roll for maximum damage or your attack reduces the
-targets HP to zero or lower.
-* Parry: (swords and daggers only) Melee damage of 1-2 is harmlessly
+* **Sweep:** (2 handed weapons only) Make a second attack against an 
+enemy within reach if you roll for maximum damage or your attack 
+reduces the targets HP to zero or lower.
+* **Parry:** (swords and daggers only) Melee damage of 1-2 is harmlessly
 parried away.
-* Reach: (polearms only) When attacked with a melee weapon without
+* **Reach:** (polearms only) When attacked with a melee weapon without
 reach, the attacker must roll half or higher on their damage roll or
 else you get to attack them first.
 
 ## Rare Traits
 
-* Enchanted: (magic weapons) Damage ignores armor.
+* **Enchanted:** (magic weapons) Damage ignores armor.
 * Brutal: (magic bludgeoning weapons; 2h only) Critical Damage
 resulting from a Damage roll of 8 or more from this weapon is an
 instant kill.
-* Deadly: (magic weapons; rare) Re-roll on max damage and add to total.
-* Vorpal: (magic blades; rare) Damage immediately bypasses HP, going
-straight to STR and requiring a save against Critical Damage
-* Blood-Thirsty: (cursed magic weapons; rare) On max damage, upgrade
+* **Deadly:** (magic weapons; rare) Re-roll on max damage and add to 
+total.
+* **Vorpal:** (magic blades; rare) Damage immediately bypasses HP, 
+going straight to STR and requiring a save against Critical Damage
+* **Blood-Thirsty:** (cursed magic weapons; rare) On max damage, upgrade
 dice type. 6>8>10. 10 on a d10 will reset the weapon to its base dice
 and the weapon will need 2d6 hours to recharge. Should have some type
 of curse or drawback.
@@ -1017,12 +1090,12 @@ Below are some magic weapon damage types other than +1 damage. Magic
 damage type on a weapon should lower it's damage by 1 dice size to
 account for the extra effect.
 
-* Cold: On a hit, target makes a STR save or next attack is impaired.
-* Thunder: On a hit, target makes a DEX save or can't move next turn.
-* Necrotic: On a hit, target makes a WIL save or loses next turn.
-* Poison: On a hit, target makes a STR save or 1d4 damage for 1d4
+* **Cold:** On a hit, target makes a STR save or next attack is impaired.
+* **Thunder:** On a hit, target makes a DEX save or can't move next turn.
+* **Necrotic:** On a hit, target makes a WIL save or loses next turn.
+* **Poison:** On a hit, target makes a STR save or 1d4 damage for 1d4
 rounds.
-* Disintegration: On a hit, target makes a DEX save vs instant
+* **Disintegration:** On a hit, target makes a DEX save vs instant
 obliteration and the wielder takes 1 Fatigue. Exceptionally powerful
 and rare.
 
@@ -1033,12 +1106,12 @@ could potentially come from different materials. Consider making a
 weapon of a special material one dice size less to compensate for its
 advantages.
 
-* Cold-Iron: Heavy and prone to breaking. Enhanced vs. fey.
-* Silver: Expensive. Enhanced vs. undead and certain monsters.
-* Mithril: Elven alloy. Silvery-gold. Enhanced vs. goblins.
-* Orichalcum: Dwarven alloy. Deep red-bronze. Enhanced vs. undead.
-* Electrum: Magically forged alloy. Green-gold. Enhanced vs. demons.
-* Meteor Ore: Rare star metal. Multi-hued. Enhanced vs. dragons.
+* **Cold-Iron:** Heavy and prone to breaking. Enhanced vs. fey.
+* **Silver:** Expensive. Enhanced vs. undead and certain monsters.
+* **Mithril:** Elven alloy. Silvery-gold. Enhanced vs. goblins.
+* **Orichalcum:** Dwarven alloy. Deep red-bronze. Enhanced vs. undead.
+* **Electrum:** Magically forged alloy. Green-gold. Enhanced vs. demons.
+* **Meteor Ore:** Rare star metal. Multi-hued. Enhanced vs. dragons.
 
 # Spell Lists
 
@@ -1409,7 +1482,7 @@ reader until WIL Save.
 193. **Clairaudience/Clairvoyance (3):** Hear or see at a distance.
 194. **Tongues (3):** Speak any language.
 195. **Deep Slumber (3):** WIL Save or sleep until the spell is broken.
-196. **Heroism (3):** Gives a target the aibility to re-roll any one die.
+196. **Heroism (3):** Gives a target the ability to re-roll any one die.
 197. **Hold Person (3):** Paralyzes one humanoid until WIL Save.
 198. **Rage (3):** Subject's attacks are Enhanced, but so are attacks
 against them.
@@ -1427,7 +1500,7 @@ invisible.
 208. **Major Illusion (3):** Conjure an image with sound, smell and
 thermal effects.
 209. **Gentle Repose (3):** Preserves one corpse.
-210. **Halt Undead (3):** Immobilizes all nearby undead until WIL Sav.
+210. **Halt Undead (3):** Immobilizes all nearby undead until WIL Save.
 211. **Vampiric Touch (3):** Target loses d6 STR, you restore all lost
 hp.
 212. **Blink (3):** You randomly vanish and reappear, avoiding the next
@@ -1493,7 +1566,7 @@ corpses.
 255. **Polymorph (4):** Gives one willing subject a new form.
 256. **Stone Shape (4):** Sculpts stone into any shape.
 257. **Break Enchantment (5):** Frees subjects from enchantments,
-alterations, curses, and petrification.
+alterations, curses, and petrifaction.
 258. **Cloudkill (5):** You can move the cloud, causing d6 STR loss to
 any within.
 259. **Contact Other Plane (5):** Lets you ask question of extraplanar
@@ -1553,7 +1626,7 @@ both directions.
 
 To create a more powerful version of an enemy, give them more HP and
 allow them to take multiple actions, effectively treating the one enemy
-as though it were several.
+as though it were several. 
 
 ## Bestiary Proper
 
@@ -1594,7 +1667,6 @@ loses an additional d6 damage as they are squeezed into a pulp.
 **Beetle, Tiger:** 3 HP, 6 STR, 12 DEX, 6 WIL, bite (d6). 4' long
 striped carnivorous insect with powerful mandibles. Prefers smaller
 prey but will not shy from hunting the occasional humanoid.
-sts.
 
 **Berserker:** 10 HP, 1 Armor, 14 STR, 13 DEX, 15 WIL, twin axes
 (d8+d8). Ruthless warriors that derive their power from the skins they
@@ -2094,7 +2166,7 @@ aggressive NPC.
 * Remember that HP is **Hit Protection** , not Hit Points. It's a
 measure of resilience, luck, and gumption - not health.
 
-**Converting from OSR Games**
+**Converting Monsters from OSR Games**
 
 * Give 1 HP per HD for most creatures.
 * Most humanoids have at least 4HP.
@@ -2109,3 +2181,35 @@ Some pointers:
 
 Damage die are roughly the same, though armed attacks do at least 1d6
 damage.
+     
+**Converting Monsters from 5E**
+
+First choose the attributes you’re converting.
+
+* For STR, choose the highest between STR or CON.
+* Convert DEX directly.
+* For WIL choose the highest between WIS or CHA.
+
+Now to get the value, add 10 to the equivalent 5e modifier. So, a 
+monster that has 19(+4) STR on 5e, will have 14 STR on Cairn. One that 
+has 6(-2) Wisdom in 5e will have 8 WIL on Cairn. AC to Armor
+
+* 12 AC or less = no armor
+* 13+ AC = 1 Armor
+* 16+ AC = 2 Armor
+* 20+ AC = 3 Armor
+
+For HP you can use CR as a starting point; but consider the “levels of 
+threat”.
+
+* 1-6 HP are most humans, small animals and creatures of similar power.
+* 7-12 HP are serious foes, people that are exceptionally trained or 
+creatures of uncommon power. Large and ferocious animals, most 
+monstrosities and extraplanar creatures fall here.
+* 13-18 HP are large threats. Dragons, Giants, that sort of enemy that 
+can cause massive destruction.
+
+Attacks/damage are mostly as is, in the case of weapons, use the damage 
+the weapon deals in Cairn rules. If a attack has a lot of damage dice, 
+give it advantage (e.g. d8+d8) in Cairn. Use damage advantage in place 
+of multiattacks too.
