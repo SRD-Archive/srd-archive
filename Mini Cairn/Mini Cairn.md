@@ -4,15 +4,18 @@
 https://github.com/yochaigal/cairn
 
 **Cairn** is an adventure game for one facilitator (the **Warden**) and
-at least one other player. Players act as hardened adventurers
-exploring a dark & mysterious Wood filled with strange folk, hidden
-treasure, and unspeakable monstrosities.
+at least one other player inspired by the likes of Chris McDowall's
+Into the Odd and Ben Milton's Knave.
+
+Players act as hardened adventurers exploring a dark & mysterious Wood
+filled with strange folk, hidden treasure, and unspeakable
+monstrosities.
 
 ## Character Creation
 
-First, choose a **name** for your character, then choose or roll their 
-**background**, which informs their knowledge and potential skills. 
-Lastly, roll for the rest of your character's **traits** and **gear** 
+First, choose a **name** for your character, then choose or roll their
+**background**, which informs their knowledge and potential skills.
+Lastly, roll for the rest of your character's **traits** and **gear**
 on the *Character Traits* and *Starting Gear* tables.
 
 ## Ability Scores
@@ -25,17 +28,17 @@ ability scores, in order. They may then swap any two of the results.
 
 ## Hit Protection
 
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which 
-reflects their ability to avoid damage in combat. HP does not indicate 
-a character's health or fortitude; nor do they lose it for very long 
-(see **Healing**). If an attack takes a PC's HP exactly to 0, the 
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which
+reflects their ability to avoid damage in combat. HP does not indicate
+a character's health or fortitude; nor do they lose it for very long
+(see **Healing**). If an attack takes a PC's HP exactly to 0, the
 player must roll on the **Scars** table.
 
 ## Inventory
 
-Characters have a total of 10 inventory slots: a backpack with six 
-slots, one slot for each hand, and two slots for their upper body (such 
-as the belt, chest, or head). The backpack can also double as an 
+Characters have a total of 10 inventory slots: a backpack with six
+slots, one slot for each hand, and two slots for their upper body (such
+as the belt, chest, or head). The backpack can also double as an
 emergency sleeping bag but only if emptied of its contents.
 
 Most items take up one slot, and small items can be bundled together.
@@ -51,7 +54,7 @@ inventory. **Hirelings** can also be paid to carry equipment.
 
 ## Starting Gear
 
-All PCs begin with:or 
+All PCs begin with:or
 
 * Three days' rations (one slot)
 * A torch (one slot)
@@ -234,7 +237,9 @@ Smaller items can sometimes be bundled together into one slot.
 19. Twine
 20. Whistle
 
-**Bonus Item (roll on table indicated)**
+**Bonus Item**
+
+*Roll on table indicated)*
 
 * 1-5: Tool or Trinket
 * 6-13: Expeditionary Gear
@@ -245,7 +250,9 @@ Smaller items can sometimes be bundled together into one slot.
 
 Roll d100 and compare to *100 Spells* section.
 
-## Equipment List (Prices in Gold Pieces)
+## Equipment List
+
+*(Prices in Gold Pieces)*
 
 **Armor**
 
@@ -600,11 +607,6 @@ always do 1d4 damage.
 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1
 to account for Bea's leather armor, leaving Bea with 2 HP remaining.*
 
-**Multiple Attackers**
-
-If multiple attackers target the same foe, roll all damage dice and
-keep the single highest result.
-
 **Attack Modifiers**
 
 If fighting from a position of weakness (such as through cover or with
@@ -614,6 +616,14 @@ damage_regardless_of the attacks damage die.
 If fighting from a position of advantage (such as against a helpless
 foe or through a daring maneuver), the attack is **enhanced** ,
 allowing the attacker to roll 1d12 damage instead of their normal die.
+
+**Multiple Attackers**
+
+If multiple attackers target the same foe, roll all damage dice and
+keep the single highest result.
+
+*Optionally, the Warden may allow subsequent attacks on a target in a
+round, but they are impaired.*
 
 **Dual Weapons**
 
@@ -689,81 +699,375 @@ take the new result.
 2. **Rattling Blow:** You’re disoriented and shaken. Describe how you
 refocus. Roll 1d6. If the total is higher than your max HP, take the
 new result.
-3. **Walloped:** You’re sent flying and land flat on your face, winded. 
-You are deprived until you rest for a few hours. Then, roll 1d6. Add 
+3. **Walloped:** You’re sent flying and land flat on your face, winded.
+You are deprived until you rest for a few hours. Then, roll 1d6. Add
 that amount to your max HP.
-4. **Broken Limb:** Roll 1d6 (1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull). 
-Once mended, roll 2d6. If the total is higher than your max HP, take 
+4. **Broken Limb:** Roll 1d6 (1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull).
+Once mended, roll 2d6. If the total is higher than your max HP, take
 the new result.
-5. **Diseased:** You’re afflicted with a gross, uncomfortable 
-infection. When you get over it, roll 2d6. If the total is higher than 
+5. **Diseased:** You’re afflicted with a gross, uncomfortable
+infection. When you get over it, roll 2d6. If the total is higher than
 your max HP, take the new result.
-6. **Reorienting Head Wound:** Roll 1d6 (1-2: STR, 3-4: DEX, 5-6: WIL). 
-Roll 3d6. If the total is higher than your current ability score, take 
+6. **Reorienting Head Wound:** Roll 1d6 (1-2: STR, 3-4: DEX, 5-6: WIL).
+Roll 3d6. If the total is higher than your current ability score, take
 the new result.
-7. **Hamstrung:** You can barely move until you get serious help and 
-rest. After recovery, roll 3d6. If the total is higher than your max 
+7. **Hamstrung:** You can barely move until you get serious help and
+rest. After recovery, roll 3d6. If the total is higher than your max
 DEX, take the new result.
-8. **Deafened:** You cannot hear anything until you find extraordinary 
-aid. Regardless, make a WIL save. If you pass, increase your max WIL by 
+8. **Deafened:** You cannot hear anything until you find extraordinary
+aid. Regardless, make a WIL save. If you pass, increase your max WIL by
 1d4.
-9. **Re-brained:** Some hidden part of your psyche is knocked loose. 
-Roll 3d6. If the total is higher than your max WIL, take the new 
+9. **Re-brained:** Some hidden part of your psyche is knocked loose.
+Roll 3d6. If the total is higher than your max WIL, take the new
 result.
-10. **Sundered:** An appendage is torn off, crippled or useless. The 
-Warden will tell you which. Then, make a WIL save. If you pass, 
+10. **Sundered:** An appendage is torn off, crippled or useless. The
+Warden will tell you which. Then, make a WIL save. If you pass,
 increase your max WIL by 1d6.
-11. **Mortal Wound:** You are deprived and out of action. You die in 
-one hour unless healed. Upon recovery, roll 2d6. Take the new result as 
+11. **Mortal Wound:** You are deprived and out of action. You die in
+one hour unless healed. Upon recovery, roll 2d6. Take the new result as
 your max HP.
-12. **Doomed:** Death seemed ever so close, but somehow you survived. 
-If your next save against critical damage is a fail, you die horribly. 
-If you pass, roll 3d6. If the total is higher than your max HP, take 
+12. **Doomed:** Death seemed ever so close, but somehow you survived.
+If your next save against critical damage is a fail, you die horribly.
+If you pass, roll 3d6. If the total is higher than your max HP, take
 the new result.
 
-## Bestiary
+# 100 Spells
 
-**Root Goblin:** 4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
+1. **Adhere:** An object is covered in extremely sticky slime.
+2. **Anchor:** A strong wire sprouts from your arms, affixing itself to
+two points within 50ft on each side.
+3. **Animate Object:** An object obeys your commands as best it can.
+4. **Anthropomorphize:** An animal either gains human intelligence or
+human appearance for one day.
+5. **Arcane Eye:** You can see through a magical floating eyeball that
+flies around at your command.
+6. **Astral Prison:** An object is frozen in time and space within an
+invulnerable crystal shell.
+7. **Attract:** Two objects are strongly magnetically attracted to each
+other if they come within 10 feet.
+8. **Auditory Illusion:** You create illusory sounds that seem to come
+from a direction of your choice.
+9. **Babble:** A creature must loudly and clearly repeat everything you
+think. It is otherwise mute.
+10. **Bait Flower:** A plant sprouts from the ground that emanates the
+smell of decaying flesh.
+11. **Beast Form:** You and your possessions transform into a mundane
+animal.
+12. **Befuddle:** A creature of your choice is unable to form new
+short-term memories for the duration of the spell.
+13. **Body Swap:** You switch bodies with a creature you touch. If one
+body dies, the other dies as well.
+14. **Charm:** A creature you can see treats you as a friend.
+15. **Command:** A target obeys a single three-word command that does
+not cause it harm.
+16. **Comprehend:** You become fluent in all languages for a short
+while.
+17. **Cone of Foam:** Dense foam sprays from your hand, coating the
+target.
+18. **Control Plants:** Nearby plants and trees obey you and gain the
+ability to move at a slow pace.
+19. **Control Weather:** You may alter the type of weather at will, but
+you do not otherwise control it.
+20. **Cure Wounds:** Restore 1d4 STR per day to a creature you can
+touch.
+21. **Deafen:** All nearby creatures are deafened.
+22. **Detect Magic:** You can see or hear nearby magical auras.
+23. **Disassemble:** Any of your body parts may be detached and
+reattached at will, without causing pain or damage. You can still
+control them.
+24. **Disguise:**  You may alter the appearance of one character atwill
+as long as they remain humanoid. Attempts to duplicate othercharacters
+will seem uncanny.
+25. **Displace:** An object appears to be up to 15ft from its
+actual position.
+26. **Earthquake:** The ground begins shaking violently. Structures
+maybe damaged or collapse.
+27. **Elasticity:** Your body can stretch up to 10ft.
+28. **Elemental Wall:** A straight wall of ice or fire 50ft long
+and 10ft high rises from the ground.
+29. **Filch:** A visible item teleports to your hands.
+30. **Fish Lung:** A target can breathe underwater until they
+surface again. Smells strongly of the sea.
+31. **Flare:** A bright ball of energy fires a trail of light into the
+sky, revealing your location to friend or foe.
+32. **Fog Cloud:** A dense fog spreads out from you.
+33. **Frenzy:** A nearby creature erupts in a frenzy of violence.
+34. **Gate:** A portal to a random plane opens.
+35. **Gravity Shift:** You can change the direction of gravity, but
+only for yourself.
+36. **Greed:** A creature develops the overwhelming urge to possess a
+visible item of your choice.
+37. **Haste:** Your movement speed is tripled.
+38. **Hatred:** A creature develops a deep hatred of another creatureor
+group and wishes to destroy them.
+39. **Hear Whispers:** You can hear faint sounds clearly.
+40. **Hover:** An object hovers, frictionless, 2ft above the ground.
+It can hold up to one humanoid.
+41. **Hypnotize:** A creature enters a trance and will truthfully
+answer one yes or no question you ask it.
+42. **Icy Touch:** A thick ice layer spreads across a touched surface,
+up to 10ft in radius.
+43. **Identify Owner:** Letters appear over the object you
+touch,spelling out the name of the object's owners, if there are any.
+44. **Illuminate:** A floating light moves as you command. When held
+inlight, the pages become a prism of vibrant rainbows.
+45. **Invisible Tether:** Two objects within 10ft of each other
+cannotbe moved more than 10ft apart.
+46. **Knock:** A nearby mundane or magical lock unlocks loudly.
+47. **Leap:** You jump up to 10ft high, once.
+48. **Liquid Air:** The air around you becomes swimmable.
+49. **Magic Dampener:** All nearby magical effects have
+their effectiveness halved.
+50. **Manse:** A sturdy, furnished cottage appears for hours. You can
+permit and forbid entry to it at will.
+51. **Madness of Marbles:** Your pockets are full of marbles and
+willrefill every 30 seconds.
+52. **Masquerade:** A character's appearance and voice becomesidentical
+to those of a character you touch.
+53. **Miniaturize:** A creature you touch is shrunk down to the size
+ofa mouse.
+54. **Mirror Image:** An illusory duplicate of yourself appears and
+isunder your control.
+55. **Mirrorwalk:** A mirror becomes a gateway to another mirror
+thatyou looked into today.
+56. **Multiarm:** You temporarily gain an extra arm.
+57. **Night Sphere:** A 50ft-wide sphere of darkness displaying
+thenight sky appears before you.
+58. **Objectify:** You become any inanimate object between the size ofa
+grand piano and an apple.
+59. **Ooze Form:** You become a living jelly.
+60. **Pacify:** A creature near you has an aversion to violence.
+61. **Passage:** Creates a temporary path through wood, stone or brick.
+62. **Phobia:** A nearby creature becomes terrified of an object ofyour
+choice.
+63. **Pit:** A pit 10ft wide and 10ft deep opens in the ground.
+64. **Primal Surge:** A creature rapidly evolves into a future
+versionof its species.
+65. **Push/Pull:** An object of any size is pulled directly towards
+youor pushed directly away from you with the strength of one man.
+66. **Raise Dead:** A skeleton rises from the ground to serve you.
+Theyare incredibly stupid and can only obey simple orders.
+67. **Raise Spirit:** The spirit of a nearby corpse manifests and will
+answer 1 question.
+68. **Read Mind:** You can hear the surface thoughts of nearby
+creatures.
+69. **Repel:** Two objects are strongly magnetically repelled from each
+other within 10 feet.
+70. **Scry:** You can see through the eyes of a creature you touched
+earlier today.
+71. **Sculpt Elements:** Inanimate material behaves like clay in your
+hands.
+72. **Sense:** Choose one kind of object (key, gold, arrow, jug, etc).
+You can sense the nearest example.
+73. **Shield:** A creature you touch is protected from mundane attacks
+for one minute.
+74. **Shroud:** A creature you touch is invisible until they move.
+75. **Shuffle:** Two creatures you can see instantly switch places.
+76. **Skillful Repair:** You make minor repairs to a nonliving object.
+77. **Sleep:** A creature you can see falls into a light sleep.
+78. **Slick:** Every surface in a 30ft radius becomes extremely
+slippery.
+79. **Smoke Form:** Every surface in a 30ft radius becomes extremely
+slippery.
+80. **Sniff:** You can smell even the faintest traces of scents.
+81. **Snuff:** The source of any mundane light you can see is instantly
+snuffed out.
+82. **Sort:** Inanimate items sort themselves according to categories
+you set.
+83. **Spellsaw:** A whirling blade flies from your chest, clearing any
+plant material in its way. It is otherwise harmless.
+84. **Spider Climb:** You can climb surfaces like a spider.
+85. **Swarm:** You become a swarm of crows, rats, or piranhas. You can
+only be harmed by blast attacks.
+86. **Target Lure:** An object you touch becomes the target of any
+nearby spell.
+87. **Telekinesis:** You may mentally 1 move item under 60lbs. .
+88. **Telepathy:** Two creatures can hear each other's thoughts, no
+matter how far apart.
+89. **Teleport:** An object or person you can see is transported from
+one place to another in a 50ft radius.
+90. **Thicket:** A thicket of trees and dense brush up to 50ft wide
+suddenly sprouts up.
+91. **Time Control:** Time in a 50ft bubble slows down or increases
+by 10% for 30 seconds.
+92. **True Sight:** You see through all nearby illusions.
+93. **Upwell:** A spring of seawater appears.
+94. **Vision:** You completely control what a creature sees.
+95. **Visual Illusion:** A silent, immobile, room-sized illusion of
+your choice appears.
+96. **Ward:** A silver circle 50ft across appears on the ground. Choose
+one species that cannot cross it.
+97. **Web:** Your wrists shoot thick webbing.
+98. **Widget:** A primitive version of a drawn tool or item appears
+before you and disappears after a short time.
+99. **Wizard Mark:** Your finger can shoot a stream of ulfire-colored
+paint. This paint is only visible to you and can be seen at any
+distance, even through solid objects.
+100. **X-Ray Vision:** You can see through walls, dirt, clothing, etc.
 
-* Avoid combat unless they have the advantage (such as greater numbers).
-* Guard their stolen goods to the death.
-* Prize Spellbooks; willing to trade.
+# Bestiary
+
+**Bandit:** 4 HP, 11 STR, 14 DEX, 12 WIL, dagger (d6). Thieves who
+value wealth over all else. Use disguises, stealth, and trickery to
+surprise victims.
+
+**Basilisk:** 10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10). Long,
+serpentine lizards that nest deep below the earth or in brambles just
+underfoot. Gaze: A PC meeting the Basilisk’s gaze must make a WIL save
+or turn instantly to stone. Its reflection is harmless. Fighting a
+Basilisk without meeting its gaze is difficult (direct attacks are
+Impaired).
+
+**Bear:** 6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8), bite (d10).
+Aggressive, 9’ tall reddish-brown bears found in mountains, woodlands,
+and prairies. They prefer to eat fish and meat, and are not opposed to
+attacking the rare unfortunate to cross their path.
+
+**Creeping Vines** 8 HP, 10 STR, 12 DEX, 2 WIL, vines (d4, blast).
+Appear as an inert, typical vine. Attacks passing creatures to use
+their corpses as fertilizer. Critical Damage: Target is pulled into the
+air where they asphyxiate within a few minutes.
+
+**Demonic Knight:** 12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword
+(d10). Once holy warriors who fell to the temptation of dark powers
+that they now serve in undeath. Rides nightmarish steeds into battle..
+Lesser undead creatures mindlessly follow their command. Their evil
+aura frightens anyone who comes into melee range. Critical Damage:
+Everyone who sees the knight landing the blow is driven into
+bloodthirsty hatred.
+
+**Dragon, Red:** 18 HP, 3 Armor, 18 STR, 12 DEX, 16 WIL, bite (d12),
+detachment. Flaming titans of smoke and fire, boasting a greater
+wingspan than any of their brethren. Lair close to volcanos and lava
+flows. Immune to fire damage of any kind. Ice and water evaporate on
+contact. Fire Breath: Deals 8 STR damage to anyone nearby, destroying
+all mundane armor it touches in the process.
+
+**Dryad:** 4 HP, 14 WIL, unarmed (d4). Shy, peaceful tree spirits whose
+manifest in a beautiful female form. Spiritually bound with a tree,
+may disappear by joining with the tree again. Can’t go too far away
+from it and dies if the tree is destroyed. Charm strangers that come
+near. Charmed creatures mindlessly walk into the tree, disappearing
+forever if not rescued quickly.
+
+**Elemental, Earth:** 12 HP, 3 Armor, 16 STR, 6 DEX, fists (d12). Huge
+humanoid beings made of earth and stone. Create constant earth tremors
+with their presence. Can meld into the earth and move through it as if
+swimming.
+
+**Elemental, Fire:** 16 HP, 12 DEX, 14 WIL, flare (d10, Blast). Living
+columns of pure flame that burn everything in their path. Highly
+vulnerable to being touched by water or rain. Can scatter their
+flames, freely changing its form.
+
+**Elf, Frost:** 14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger
+(d6), a Spellbook (Choose one: Sleep, Teleport, Detect Magic).
+Beautiful, amoral, and long-lived. Resistant to most forms of magic.
+
+**Gargoyle:** 8 HP, 3 Armor, 14 STR, 6 DEX, 12 WIL, claws (d8+d6).
+Magical creatures that look like monstrous, horned, winged statues..
+Guard places by standing still to pass like inanimate statues and
+attacking what comes near. Cannot be charmed and put to sleep.
+
+**Gelatinous Cube:** 8 HP, 15 STR, 6 DEX, 3 WIL, devouring touch (d8).
+Large cubes of transparent jelly, dwell in dungeons absorbing items and
+living creatures. Difficult to be detected due to being transparent..
+Critical Damage: The target is engulfed into the cube and keeps being
+absorbed.
+
+**Ghost:** 8 HP, 15 WIL, cold touch (d4). Incorporeal spirits of the
+restless dead. Avoids direct confrontation, instead it quietly posesses
+a target and acts through them when possible. Immune to most forms of
+damage, only susceptible to magic and holy water. Possession: One target
+must save WIL or be possessed, being controlled by the ghost until it’s
+somehow driven off.
+
+**Ghoul:** 6 HP, 14 STR, 3 WIL, elongated claws jagged teeth (d8+d6).
+Grey-skinned man-things wearing shredded clothes, hunkering over the
+ground. Craves the flesh of the living, as it grows only more powerful
+with each victim. Critical Damage: target is paralyzed. The wound
+turns fatal in a day if not treated by a priest or skilled healer. If
+not burned, the body will rise as a Ghoul.
+
+**Giant, Frost:** 14 HP, 2 Armor, 18 STR, 12 WIL, greataxe (d12+d10) or
+longbow (d12). 18’ tall humanoids with blue-ish skin and pale hair.
+Wear furs and iron Armor. Unharmed by cold and ice. Excellent trackers,
+hunt accompanied by dire wolves.
+
+**Goblin:** 4 HP, 8 STR, 12 DEX, 8 WIL, dagger (d6) or sling (d4).
+Small, grotesque humanoids with skin in earthly tones of green, brown,
+and grey. Avoid combat, only attacking when in advantage, using
+hit-and-run tactics. Sometimes are found using dire wolves as mounts.
+
+**Hawk, Giant:** 10 HP, 8 STR, 15 DEX, 8 WIL, talons and beak (d8+d6).
+Large birds of prey, the size of a wolf. Can carry animals up to their
+size. Hunt animals that they can carry, but might attack humans or
+greater prey if despaired. Surprise their victims by diving to attack
+from a great height. Can supposedly be trained to be hunting
+companions.
 
 **Hooded Men:** 12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a
-Spellbook (Choose one: Charm, Hypnotize, Push/Pull, Shield)
+Spellbook (Choose one: Charm, Hypnotize, Push/Pull, Shield). The
+Watchers of the Wood; a cult that derive their power from leylines,
+rune stones, and the like. Critical damage: leech a part of the
+victim's soul (1d4 WIL damage).
 
-* The Watchers of the Wood; a cult that derive their power from
-leylines, rune stones, and the like.
-* Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+**Mimic:** 9 HP, 2 Armor, 13 STR, 12 WIL, bite (d12). Monstrous
+shape-shifters that take on the form of inanimate objects made of wood
+and stone. Found only underground. Remain motionless (generally in the
+form of chests or doors), devouring anything that touches it. The
+mimic’s saliva is extremely sticky, taking great strength to remove
+something from its mouth once glued.
 
-**Cobblehounds:** 12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
+**Minotaur:** 12 HP, 1 Armor, 16 STR, 8 WIL, axe (d10) or horns
+(d6+d6). A large, muscular humanoid with the head of a bull. Generally
+lair in a maze or dungeon, making the whole place it’s territory..
+Notably strong, is able to easily break stone, which it uses to alter
+the environment and separate its foes to kill then one by one. If the
+minotaur succeeds in a Critical Damage save, it is driven into a
+bloodthirsty state, enhancing all its attacks and impairing all attacks
+against it. Only stops when killed or if it no longer sees any foe.
 
-* Immobile constructs typically used as guardians to great tombs or
-artifacts.
-* Unaffected by mundane persuasion techniques - but do love a good
-bone.
+**Octopus, Giant:** 8 HP, 14 STR, 8 WIL, tentacles (d6, Blast). Large,
+eight-armed saltwater creatures. Dwell nearby warm coasts. Can attack
+up to 8 nearby creatures. When threatened, spills a thick cloud of ink
+and quickly swims away.
 
-**Wood Troll:** 12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8
-blast)
+**Ogre:** 6 HP, 1 Armor, 16 STR, 8 DEX, 6 WIL, club (d10). 10’ tall
+brute humanoids dressed in animal hides. Mostly live in caves. Mostly
+antisocial, drive away any other beings from nearby its lair. Easily
+impressed by shiny materials, carry sacks full of coins with them.
 
-* As an action, can recover lost HP.
-* Critical damage: moss and twigs begin growing out of target's
-wounds.
+**Skeleton:** 5 HP, 1 Armor, 13 DEX, rusty sword (d6). If a skeleton is
+killed and its bones are not scattered, it reforms.
 
-**Frost Elf:** 14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger
-(d6), a Spellbook (Choose one: Sleep, Teleport, Detect Magic)
+**Troll, Wood:** 12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8
+blast). As an action, can recover lost HP. Critical damage: moss and
+twigs begin growing out of target's wounds.
 
-* Beautiful, amoral, and long-lived.
-* Resistant to most forms of magic.
+**Wolf:** 6 HP, 12 STR, 14 DEX, bite (d8). Large canines that dwell
+primarily in wildlands, but occasionally lair in caves. Can be trained
+like dogs if captured young. When found in packs of at least 4, wolfs
+never fail morale saves.
 
-**Boggart:** 3 HP, 4 STR, 17 DEX, 13 WIL
+**Wolf, Dire:** 8 HP, 14 STR, 12 DEX, bite (d10). Horse-sized,
+semi-intelligent wolves. Highly territorial, live in forests or
+mountains and ferociously guard its surroundings. Regular wolves are
+scared of them, but will fight alongside them against invaders. Can be
+trained like dogs if captured young, but it’s a extremely difficult
+challenging.
 
-* A wild, hairy trickster that takes pleasure in being a minor
-nuisance.
-* Prizes relics and shiny trinkets above all else but unwilling to
-trade for coin.
-* Boggarts have names that describe their true nature. Knowing their
-true name allows one to control a Boggart.
+**Wyvern:** 7 HP, 14 DEX, bite (d8+d8) or poisonous sting (d6). Winged,
+two-legged, reptilian monsters with a long tail tipped with a venomous
+sting. Dwell in any terrain, but favor dry cliffs. Shy away from other
+creatures, but attacks anything that comes in the victiny of its nest..
+Critical Damage: The deadly poison permanently debilitates the target,
+reducing its maximum STR to the current value.
+
+**Zombie:** 6 HP, 6 DEX, 3 WIL, rusted weapon (d6). Slow, mindless
+re-animated corpses. Created by wicked wizards to serve as guardians in
+hordes. Simply attacks anything that comes nearby. Cannot be affected
+by anything that targets the mind.
 
 ## Creating Monsters
 
@@ -811,184 +1115,256 @@ Some pointers:
 Damage die are roughly the same, though armed attacks do at least 1d6
 damage.
 
-## 100 Spells
+# OPTIONAL RULES
 
-1. **Adhere:** Object is covered in extremely sticky slime.
-2. **Animate Object:** Object obeys your commands as best it can. It
-can walk 15ft per round.
-3. **Anthropomorphize:** A touched animal either gains human
-intelligence or human appearance for L days.
-4. **Arcane Eye:** You can see through a magical floating eyeball that
-flies around at your command.
-5. **Astral Prison:** An object is frozen in time and space within an
-invulnerable crystal shell.
-6. **Attract:** L+1 objects are strongly magnetically attracted to each
-other if they come within 10 feet.
-7. **Auditory Illusion:** You create illusory sounds that seem to come
-from a direction of your choice.
-8. **Babble:** A creature must loudly and clearly repeat everything you
-think. It is otherwise mute.
-9. **Beast Form:** You and your possessions transform into a mundane
-animal.
-10. **Befuddle:** L creatures of your choice are unable to form new
-short-term memories for the duration of the spell.
-11. **Bend Fate:** Roll L+1 d20s. Whenever you must roll a d20 after
-casting the spell, you must choose and then discard one of the rolled
-results until they are all gone.
-12. **Bird Person:** Your arms turn into huge bird wings.
-13. **Body Swap:** You switch bodies with a creature you touch. If one
-body dies, the other dies as well.
-14. **Catherine:** A woman wearing a blue dress appears until end of
-spell. She will obey polite, safe requests.
-15. **Charm:** L creatures treat you like a friend.
-16. **Command:** A creature obeys a single, three-word command that
-does not harm it.
-17. **Comprehend:** You become fluent in all languages.
-18. **Control Plants:** Nearby plants and trees obey you and gain the
-ability to move at 5 feet per round.
-19. **Control Weather:** You may alter the type of weather at will, but
-you do not otherwise control it.
-20. **Counterspell:** Make an opposed Intelligence save against the
-Intelligence of the caster of a nearby spell. You may do this out of
-turn as a reaction, or against an ongoing magical effect. On a success,
-you may cancel the spell.
-21. **Deafen:** All nearby creatures are deafened.
-22. **Detect Magic:** You hear nearby magical auras singing. Volume and
-harmony signify the aura’s power and refinement.
-23. **Disassemble:** Any of your body parts may be detached and
-reattached at will, without causing pain or damage. You can still
-control them.
-24. **Disguise:** You may alter the appearance of L characters at will
-as long as they remain humanoid. Attempts to duplicate other characters
-will seem uncanny.
-25. **Displace:** An object appears to be up to L×10ft from its actual
-position.
-26. **Earthquake:** The ground begins shaking violently. Structures may
-be damaged or collapse.
-27. **Elasticity:** Your body can stretch up to L×10ft.
-28. **Elemental Wall:** A straight wall of ice or fire L×40ft long
-and 10ft high rises from the ground.
-29. **Filch:** L visible items teleport to your hands.
-30. **Fog Cloud:** Dense fog spreads out from you.
-31. **Frenzy:** L creatures erupt in a frenzy of violence.
-32. **Gate:** A portal to a random plane opens.
-33. **Gravity Shift:** You can change the direction of gravity (for
-yourself only) up to once per round.
-34. **Greed:** L creatures develop an overwhelming urge to possess a
-visible item of your choice.
-35. **Haste:** Your movement speed is tripled.
-36. **Hatred:** L creatures develop a deep hatred of another creature
-or group of creatures and wish to destroy it.
-37. **Hear Whispers:** You can hear faint sounds clearly.
-38. **Hover:** An object hovers, frictionless, 2ft above the ground.
-It can hold up to L humanoids.
-39. **Hypnotize:** A creature enters a trance and will truthfully
-answer L yes or no questions you ask it.
-40. **Icy Touch:** A thick ice layer spreads across a touched surface,
-up to L×10ft in radius.
-41. **Illuminate:** A floating light moves as you command.
-42. **Increase Gravity:** The gravity in an area triples.
-43. **Invisible Tether:** Two objects within 10ft of each other cannot
-be moved more than 10ft apart.
-44. **Knock:** L nearby mundane or magical locks unlock.
-45. **Leap:** You can jump up to L×10ft in the air.
-46. **Liquid Air:** The air around you becomes swimmable.
-47. **Magic Dampener:** All nearby magical effects have their
-effectiveness halved.
-48. **Manse:** A sturdy, furnished cottage appears for L×12 hours. You
-can permit and forbid entry to it at will.
-49. **Marble Madness:** Your pockets are full of marbles, and will
-refill every round.
-50. **Masquerade:** L characters’ appearances and voices become
-identical to a touched character.
-51. **Miniaturize:** You and L other touched creatures are reduced to
-the size of a mouse.
-52. **Mirror Image:** L illusory duplicates of yourself appear under
-your control.
-53. **Mirrorwalk:** A mirror becomes a gateway to another mirror that
-you looked into today.
-54. **Multiarm:** You gain L extra arms.
-55. **Night Sphere:** An L×40ft wide sphere of darkness displaying the
-night sky appears.
-56. **Objectify:** You become any inanimate object between the size of
-a grand piano and an apple.
-57. **Ooze Form:** You become a living jelly.
-58. **Pacify:** L creatures have an aversion to violence.
-59. **Phantom Coach:** A ghostly coach appears until end of spell. It
-moves unnaturally fast over any terrain, including water.
-60. **Phobia:** L creatures become terrified of an object of your
-choice.
-61. **Pit:** A pit 10ft wide and L×5ft deep opens in the ground.
-62. **Primeval Surge:** An object grows to the size of an elephant. If
-it is an animal, it is enraged.
-63. **Psychometry:** The referee answers L yes or no questions about a
-touched object.
-64. **Pull:** An object of any size is pulled directly towards you with
-the strength of L men for one round.
-65. **Push:** An object of any size is pushed directly away from you
-with the strength of L men for one round.
-66. **Raise Dead:** L skeletons rise from the ground to serve you. They
-are incredibly stupid and can only obey simple orders.
-67. **Raise Spirit:** The spirit of a dead body manifests and will
-answer L questions.
-68. **Read Mind:** You can hear the surface thoughts of nearby
-creatures.
-69. **Repel:** L+1 objects are strongly magnetically repelled from each
-other if they come within 10 feet.
-70. **Scry:** You can see through the eyes of a creature you touched
-earlier today.
-71. **Sculpt Elements:** All inanimate material behaves like clay in
-your hands.
-72. **Shroud:** L creatures are invisible until they move.
-73. **Shuffle:** L creatures instantly switch places. Determine where
-they end up randomly.
-74. **Sleep:** L creatures fall into a light sleep.
-75. **Smoke Form:** Your body becomes living smoke.
-76. **Snail Knight:** 10 minutes after casting, a knight sitting
-astride a giant snail rides into view. He is able to answer most
-questions related to quests and chivalry, and may aid you if he finds
-you worthy.
-77. **Sniff:** You can smell even the faintest traces of scents.
-78. **Sort:** Inanimate items sort themselves according to categories
-you set. The categories must be visually verifiable.
-79. **Spectacle:** A clearly unreal but impressive illusion of your
-choice appears, under your control. It may be up to the size of a
-palace and has full motion and sound.
-80. **Spellseize:** Cast this as a reaction to another spell going off
-to make a temporary copy of it that you can cast at any time before
-this spell ends.
-81. **Spider Climb:** You can climb surfaces like a spider.
-82. **Summon Cube:** Once per second, (6 times per round) you may
-summon or banish a 3-foot-wide cube of earth. New cubes must be affixed
-to the earth or to other cubes.8.50″
-83. **Swarm:** You become a swarm of crows, rats, or piranhas. You only
-take damage from area effects.
-84. **Telekinesis:** You may mentally move L items.
-85. **Telepathy:** L+1 creatures can hear each other’s thoughts, no
-matter how far apart they move.
-86. **Teleport:** An object disappears and reappears on the ground in a
-visible, clear area up to L×40ft away.
-87. **Thaumaturgic Anchor:** Object becomes the target of every spell
-cast near it.
-88. **Thicket:** A thicket of trees and dense brush up to L×40ft wide
-suddenly sprouts up.
-89. **Time Jump:** An object disappears as it jumps L×10 minutes into
-the future. When it returns, it appears in the unoccupied area nearest 
-to where it left.
-90. **Summon Idol:** A carved stone statue the size of a four poster
-bed rises from the ground.
-91. **Time Rush:** Time in a 40ft bubble starts moving 10 times faster.
-92. **Time Slow:** Time in a 40ft bubble slows to 10%.
-93. **True Sight:** You see through all nearby illusions.
-94. **Upwell:** A spring of seawater appears.
-95. **Vision:** You completely control what a creature sees.
-96. **Visual Illusion:** A silent, immobile, illusion of your choice
-appears, up to the size of a bedroom.
-97. **Ward:** A silver circle 40ft across appears on the ground. Choose
-one thing that cannot cross it:** Living creatures, dead creatures,
-projectiles or metal.
-98. **Web:** Your wrists can shoot thick webbing.
-99. **Wizard Mark:** Your finger can shoot a stream of ulfire-colored
-paint. This paint is only visible to you, and can be seen at any
-distance, even through solid objects.
-100. **X-Ray Vision:** You gain X-Ray vision.
+# Advantage & Disadvantage
+
+A Warden has the option of modifying the difficulty of saves using
+**Advantage** (where a character rolls two d20 and uses the higher
+roll) or **Disadvantage** (where a character rolls two d20 and uses the
+lower roll).
+
+# Ancestries
+
+## Dwellers of the Underground
+
+* Darkvision: Perfect vision in low-light, somewhat blinded by bright
+lights.
+* Earthhardy: You are tougher than sun-dwellers, often recovering from
+injuries or poison thought to be lethal.
+
+## Fair Folk
+
+* Magic-Sense: You can tell when arcane energies are at work.
+* Third Eye: You cannot be fooled by magical illusions, save those
+created by one of your own.
+
+## Smallfolk
+
+* Easily Missed: Enemies tend to ignore you, going for the bigger
+targets first or ignoring you altogether.
+* Quicksilver: Escaping sudden capture or a killing blow is like second
+nature to you. Sneaking comes naturally, too.
+
+## Greenskin
+
+* Blood Brothers: If any fellow adventurers go first in battle, then you
+also go first.
+* Battle Fury: Once per encounter you may perform an Enhanced blast
+attack.
+
+## Humankind
+
+* Eclectic: Humans are many and varied. Select an additional
+background.
+* Aggressive Opportunist: Once per encounter, you can re-roll a damage
+roll.
+
+# Classic Classes
+
+Classic Classes is by Danger is Real and licensed under CC-BY-SA 4.0
+(dangerisreal.itch.io/classic-classes-for-cairn)
+
+## Fighter
+
+You are the Mercenary, the Barbarian, the Gladiator, The Knight. You
+are the master of the arts of combat and warfare
+
+* **Mercenary:** You have a contact you can turn to in almost every
+city. They aren’t always happy to see you, though. Men blindly follow
+you in battle (they always pass morale saves).
+
+* **Barbarian:** Your place is in the wilderness, you despise
+civilization and fear magic. You drink blood like ale, regain 1d3 HP
+when you kill or CD an enemy. Your battle rage is so strong that you
+can harm creatures immune to mundane damage.
+
+* **Gladiator:** Your favorite weapon is an extension of you (your
+attacks are enhanced). You are a trained merciless killer. Your
+reputation is not always serving you and your former master is probably
+looking for you.
+
+* **Knight:** Your rank gives you credibility with the nobles. The
+peasantry will generally follow you into dangerous situations without
+the slightest hesitation. However if you fail them somehow, they may
+strip you of your rank. You are also a skilled horseman, your mounted
+attacks are enhanced.
+
+**Character creation**
+
+* Start with 1d4+2 HP.
+* Swirl: do a Blast attack and gain 1 Fatigue.
+* Death Storm: when you kill or CD an enemy you can attack again.
+
+**Starting Gear**
+
+* Roll 1d10+10 on the Armor Table.
+* Roll 1d10+10 on the Helmets and Shields Table.
+* Roll for Weapons and choose a second one.
+* Roll the rest as usual.
+
+## Cleric
+
+You are the Priest, the Druid, the Paladin. You are a faithful servant
+of your deity. Battle ready to channel the power of your cult.
+
+* **Priest:** You always find help and resources in the temple of your
+deity but stay in line with the dogma of your religion or be
+disfavored. You can invoke the divine power, brandishing your holy
+symbol, to repel undead (creatures Save WIL to resist).
+
+* **Druid:** You belong to the wild lands and feel uncomfortable in
+cities. You worship the elements and the old bestial deities. You can
+communicate with animals and always find resources in the wilderness.
+You can shape-shift into your totem animal (get 1 Fatigue when you
+shift back).
+
+* **Paladin:** As a sacred warrior of your faith you will be obeyed by
+zealots. Priests will favor you but if you step out of the line you
+will fall in disgrace. You dedicate your life to the cult and sworn vow
+of humility (you should not hoard treasures). Once per day you can Lay
+on Hands on someone to cure disease, poison or heal 1d6 STR.
+
+**Character creation**
+
+* Salvation Grace: heal 1D6 to any abilities but you became Deprived.
+* Miracles: you can choose 3 spells related to your religion to cast
+without Spellbooks while holding your holy symbol.
+
+**Starting Gear**
+
+* You start with a holy symbol from your deity.
+* Roll 1d12+8 on the Armor Table.
+* Roll 1d12+8 on the Helmets and Shields Table.
+* Roll the rest as usual.
+
+**d20 Cleric Spells**
+
+1. **Blessing:** Target’s attacks are enhanced and non-Blast attacks
+are impaired against them until they next take damage.
+
+2. **Cure-All:** A single illness or disease dissipates at your touch.
+
+3. **Curse Unlife:** Deals 1d4+2 STR loss to one undead, ignoring armor
+and resistances.
+4. **Fortify:** Damage from heat, ice, acid or electricity are impaired
+against a target for the next hour.
+5. **Healing Grace:** A target heals 1d6 STR, and you become deprived
+until you take the time to mediate, pray or sleep.
+6. **Induce Despair:** Target must pass a WIL save or its attacks are
+impaired.
+7. **Lichsense:** You feel any undead within 60ft. WIL save to avoid
+detection by intelligent undead.
+8. **Light Show:** You control a dazzling display of light and color.
+9. **Linguist:** For the next hour you can speak and understand any mundane
+language.
+10. **Magic Seal:** Magically locks a door, portal or chest.
+11. **Master Undead:** Undead creatures obey your command. Intelligent
+undead make a WIL save.
+12. **Otherworldly Gate:** Opens a portal to another reality. It works in
+both directions.
+13. **Passage:** Creates a temporary path through wood, stone or brick.
+14. **Perfect Preservation:** A weapon you touch becomes immune to wear,
+mundane damage or elemental effects. The spell wears off after a day.
+15. **Planar Anchor:**  	Binds an extraplanar creature to your will
+until it performs a task specific task, after which they must pass a
+WIL save to escape (good luck).
+16. **Ravenless Message:** You send a short message 1 mile that anyone
+along its path can hear.
+17. **Scrying Ward:** For 24 hours you become aware of any magical
+eavesdropping.
+18. **Song of Repose:** Target falls into a deep slumber.
+19.	**Uncurse:** A person or object you touch is freed from a curse or
+nefarious spell.
+20. **Word of Pain:** A single phrase from your lips does 1d12 blast
+damage. Affected targets are also deafened.
+
+## Magic-User
+
+You are the Wizard, the Necromancer, the Elementalist, the Enchanter.
+You are the scholar of the arcane, you handle spells and magic like no
+one else.
+
+* Wizard: You have spent time in magic school and libraries, Your
+knowledge is broad and you often now something about old and forgotten
+things. You have a small magic creature as Familiar. You can
+communicate with it telepathically as long as you can see it. If it
+dies it can be re-summoned during an 8 hours ritual, you end up
+Deprived.
+
+* Necromancer: You manipulate the forces of life and death and have a
+sick attraction for undead creatures. You will be despised, banished or
+imprisoned in most settlements. You can speak with recently deceased
+corpses, they will talk to you like a friend. Get 1 Fatigue at the end
+of the conversation.
+
+* Elementalist: You summon the forces of the four elements: Water,
+Earth, Fire and Air. You choose one element: You always have 3 Armor
+against it and your attack spells based on it are enhanced.
+
+* Enchanter: You have sharpened your magic ability to seduce and charm
+mundane creatures with your words. You can hypnotize an intelligent
+creature by holding a trinket and speaking directly to him/her. The
+creature is dazed and confused until a WIL Save is passed.
+
+**Character creation**
+
+* Grimoire (Bulky). This is the fruit of your research and your most
+precious belongings (only you can decipher it). You can spend four
+hours to copy a standard Spellbook into your Grimoire followed by a
+successful WIL Save. During this process the original Spellbook is
+destroyed. Scrolls cannot be copied.
+
+* You are not comfortable wearing bulky armor. Spell casting wearing
+one will cost 2 Fatigue.
+
+**Starting Gear**
+
+* You start with your Grimoire with a random spell inscribed.
+* Roll 1d6 on the Armor Table.
+* Don’t roll on the Helmets and Shields Table.
+* Roll the rest as usual.
+
+## Thief
+
+You are the Rogue, the Assassin, the Ranger, the Tomb Robber. You are
+the master of stealth, acrobatics and deception.
+
+* Rogue: The larcenous arts are your way of living, you have contacts
+with the mob in most cities, You always hear the best rumors and nice
+job proposals. You get cheap equipment from selected shops.
+Nevertheless, Your reputation will not help you with the authorities
+and you probably “wanted” somewhere. You know how to cut a purse and
+you have learned the mysteries of lock-picking. As accomplished
+burglars you can attempt to climb unthinkable sheer surfaces.
+
+* Assassin: You have learned many ways of killing, you are a deadly
+shadow. You still owe your mentors, probably a guild, and beware of the
+day they will hold you accountable. With the right ingredients you can
+brew all kinds of poison. With some observations and study you can
+create disguises that will fool detailed scrutiny.
+
+* Ranger: You are a protector of nature, you are a wilderness survival
+expert and you know how to travel fast and unnoticed. Always aware, you
+are rarely surprised. You have a semi intelligent faithful pet of your
+choice. You have a deep connection with him/her and you will always
+protect each other. Your pet will always find you back but if it dies
+you will need to raise a cub.
+
+* Tomb Robber: You are stealing things from the dead, they don’t need
+it after all. You are a specialist of underground exploration and
+ancient structures. You feel at home in dark and damp places. You have
+developed skills for disabling traps, only the most advanced one should
+catch you. You can smell Undead creatures when they are close.
+
+**Character creation**
+
+* Backstab: when you attack an unaware opponent from behind you do STR
+damage.
+* Read languages: you can read approximately any text.
+
+**Starting Gear**
+
+* You start with an Expeditionary Gear and a Tool of your choice.
+* Choose a Weapon.
+* Roll the rest as usual.
