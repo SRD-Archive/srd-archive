@@ -40,11 +40,11 @@ twelve-sided dice.) If you do not have a set of polyhedral dice, the
 following approximations with d6’s will get you close enough in a
 pinch:
 
-* d4: d6-1, or d6 (reroll 5/6)
-* d8: d6+1
-* d10: d6+2
-* d12: 2d6
-* d20: 3d6 (16-18 crits)
+* **d4:** d6-1, or d6 (reroll 5 & 6)
+* **d8:** d6+1
+* **d10:** d6+2
+* **d12:** 2d6
+* **d20:** 3d6 (16-18 crits)
 
 ## Explanatory Notes
 
@@ -52,16 +52,16 @@ M20 Fifth will be easiest to understand if you are already familiar
 with RPGs. For the unfamiliar reader, the following brief explanations
 are offered:
 
-Stats (aka Ability Scores) and Skills: Numerical representations of a
-character’s raw physical/mental abilities and training in specific
+**Stats (aka Ability Scores) and Skills:** Numerical representations of
+a character’s raw physical/mental abilities and training in specific
 areas, respectively. Corresponds to a bonus, which is added to rolls.
 
-Race: The fantasy species a character belongs to.
+**Race:** The fantasy species a character belongs to.
 
-Class: A collection of talents and abilities that describe a
+**Class:** A collection of talents and abilities that describe a
 character’s profession or role as an adventurer.
 
-Level: Has two different meanings, that shouldn’t be confused.
+**Level:** Has two different meanings, that shouldn’t be confused.
 Character level is a reflection of a character’s general growth as a
 result of earning experience points (XP) from overcoming obstacles.
 Spell level is the measure of a spell’s relative power.
@@ -70,7 +70,8 @@ Spell level is the measure of a spell’s relative power.
 
 ## Stats
 
-There are 3 stats : Strength (STR), Dexterity (DEX) and Mind (MIND).
+There are 3 stats : **Strength (STR)**, **Dexterity (DEX)**, and **Mind
+(MIND)**.
 
 Roll 4d6, drop lowest die. Total remaining 3 dice and allocate to one
 of the stats. Repeat for remaining stats. Alternatively you may use the
@@ -78,10 +79,10 @@ array of 15, 12, 8. Stat bonus = (STAT-10)/2, round down.
 
 ## Races
 
-* Humans: +1 to all Stats
-* Magical Races (e.g. Elves, Gnomes): +2 MIND
-* Tough Races (e.g. Dwarves, Half-Orcs, Dragonborn): +2 STR
-* Quick Races (e.g. Halflings): +2 DEX
+* **Humans:** +1 to all Stats
+* **Magical Races (e.g. Elves, Gnomes):** +2 MIND
+* **Tough Races (e.g. Dwarves, Half-Orcs, Dragonborn):** +2 STR
+* **Quick Races (e.g. Halflings):** +2 DEX
 
 ## Classes
 
@@ -90,48 +91,67 @@ Characters start at level 1 with a proficiency bonus of +2.
 
 **Fighter**
 
-* Skill and Save Proficiencies: Physical, STR Saves
-* Armor Proficiencies: All armor, Shield
-* Improved Stamina: +3 to HP per level. When taking short rests, add 3
-hp per rest dice spent.
-* Multiple Attacks: You gain an additional attack at 5th level, and
+* **Skill and Save Proficiencies:** Physical, STR Saves
+
+* **Armor Proficiencies:** All armor, Shield
+
+* **Improved Stamina:** +3 to HP per level. When taking short rests,
+add 3 hp per rest dice spent.
+
+* **Multiple Attacks:** You gain an additional attack at 5th level, and
 again at 11th and 20th level.
-* Extended Crit Range: At level 3 you crit on a 19-20. At level 15 you
-crit on an 18-20.
-* Extra Ability Score Increase: At level 14, you get an extra ability
-score increase.
-* Starting Equipment: chain mail (+6 AC heavy armor), shield, one
+
+* **Extended Crit Range:** At level 3 you crit on a 19-20. At level 15
+you crit on an 18-20.
+
+* **Extra Ability Score Increase:** At level 14, you get an extra
+ability score increase.
+
+* **Starting Equipment:** chain mail (+6 AC heavy armor), shield, one
 weapon (and ammunition if applicable), 10 gp, a fast pack (see
 Equipment)
 
 **Rogue**
 
-* Skill and Save Proficiencies: Subterfuge, DEX saves
-* Armor Proficiencies: Light armor
-* Sneak Attack: Whenever you have advantage, or your target is
+* **Skill and Save Proficiencies:** Subterfuge, DEX saves
+
+* **Armor Proficiencies:** Light armor
+
+* **Sneak Attack:** Whenever you have advantage, or your target is
 distracted by melee combat with another foe you may add (half your
 level, rounded up)d6 to your damage.
-* Cunning Action: As a bonus action, you may make a Subterfuge check or
-Dash.
-* Starting Equipment: leather armor (+1 AC light armor), one weapon
+
+* **Cunning Action:** As a bonus action, you may make a Subterfuge
+check or Dash.
+
+* **Starting Equipment:** leather armor (+1 AC light armor), one weapon
 (and ammunition if applicable), thieves tools, 15 gp, a fast pack (see
 Equipment
 
 **Mage**
 
-* Skill and Save Proficiencies: Knowledge, MIND Saves
-* Armor Proficiencies: No armor
-* Signature Spell: Choose one spell (or one action-realm combination if
-using Words of Power.) Casting this spell costs 1 MP less.
-* Arcane Spellcasting: See Magic for more information. Starting
-Equipment: spellbook, wand, 10 gp, a fast pack (see Equipment)
+* **Skill and Save Proficiencies:** Knowledge, MIND Saves
+
+* **Armor Proficiencies:** No armor
+
+* **Signature Spell:** Choose one spell (or one action-realm
+combination if using Words of Power.) Casting this spell costs 1 MP
+less.
+
+* **Arcane Spellcasting:** See Magic for more information.
+
+* **Starting Equipment:** spellbook, wand, 10 gp, a fast pack (see
+Equipment)
 
 **Cleric**
 
-* Skill and Save Proficiencies: Communication, MIND Saves
-* Armor Proficiencies: Medium Armor, Shield
-* Divine Spellcasting: See Magic for more information.
-* Channel Divinity: You have the ability to channel positive energy
+* **Skill and Save Proficiencies:** Communication, MIND Saves
+
+* **Armor Proficiencies:** Medium Armor, Shield
+
+* **Divine Spellcasting:** See Magic for more information.
+
+* **Channel Divinity:** You have the ability to channel positive energy
 once per short/long rest to Turn Undead or Preserve Life. At level 6
 this becomes twice per rest, and at level 18 this becomes three times
 per rest. To Turn Undead the cleric brandishes their holy symbol
@@ -139,7 +159,8 @@ forcing all undead within 30 feet to make a MIND save (DC 8 + cleric’s
 MIND bonus + cleric’s proficiency) or flee. If the undead roll a 1 on
 their save, they are immediately destroyed. Preserve Life restores (5 *
 level) hp divided to taste among allies within 30 feet.
-* Starting Equipment: scale mail (+4 AC medium armor), shield, holy
+
+* **Starting Equipment:** scale mail (+4 AC medium armor), shield, holy
 symbol, mace (one-handed weapon), 15 gp, a fast pack (see Equipment)
 
 ## Backgrounds
@@ -151,10 +172,10 @@ criminal has underworld contacts, perhaps a soldier can still get
 respect among patriotic peasants, perhaps a sage can easily find
 obscure information in books when they need to.
 
-* Communication Backgrounds: Acolyte, Noble, Folk Hero, etc.
-* Subterfuge Backgrounds: Criminal, Urchin, Charlatan, etc.
-* Knowledge Backgrounds: Sage, Hermit, etc.
-* Physical Backgrounds: Soldier, Sailor, etc.
+* **Communication Backgrounds:** Acolyte, Noble, Folk Hero, etc.
+* **Subterfuge Backgrounds:** Criminal, Urchin, Charlatan, etc.
+* **Knowledge Backgrounds:** Sage, Hermit, etc.
+* **Physical Backgrounds:** Soldier, Sailor, etc.
 
 Optional Rule (Specialization): If a character has a background which
 grants a proficiency which they already get from their class, they may
@@ -222,12 +243,12 @@ The DC for saving throws to resist a caster’s spell is: 8 + MIND bonus
 
 ## Optional Rules
 
-* Blood Magic: Instead of having MP equal to their HP, a caster has MP
-equal to half their HP. In addition, a caster may choose convert their
-HP to MP at a rate of 2 HP per 1 MP.
+* **Blood Magic:** Instead of having MP equal to their HP, a caster has
+MP equal to half their HP. In addition, a caster may choose convert
+their HP to MP at a rate of 2 HP per 1 MP.
 
-* Ritual Casting: A caster may cast any spell without expending MP if
-they take an additional 10 minutes casting the spell.
+* **Ritual Casting:** A caster may cast any spell without expending MP
+if they take an additional 10 minutes casting the spell.
 
 ## Cantrips
 
@@ -238,7 +259,7 @@ without any MP cost.
 
 **Damaging Cantrips**
 
-You may make a damaging cantrip using the table below - a damaging
+You may make a damaging cantrip using the table below -- a damaging
 cantrip may add up to at most 9 points and must have a range, damage
 and method. At levels 5, 11 and 17 they do an additional dice of
 damage. (If a cantrip has separate beams, instead of additional dice of
@@ -374,74 +395,106 @@ times using +X as attack bonus, (damage (average damage), effect name
 saving throw (effect)), special attack name saving throw
 (damage/effect), save halves: does half damage on a successful save.
 
-* Animal, small (eg Weasel) (CR 0): HD 1d4+1 (3 hp), AC 10, bite +2
+* **Animal, small (eg Weasel) (CR 0):** HD 1d4+1 (3 hp), AC 10, bite +2
 ((1))
-* Ankheg (CR 2): HD 6d10+6 (39 hp), AC 14, bite +5 (2d6+3, acid 1d6
+
+* **Ankheg (CR 2):** HD 6d10+6 (39 hp), AC 14, bite +5 (2d6+3, acid 1d6
 (12)) or acid spray DC 13 DEX (3d6 (10), save halves)
-* Bugbear (CR 1): HD 5d8+5 (27 hp), AC 16, morningstar +4 (2d8+2 (11))
-or javelin +4 (1d6+2 (5))
-* Choker (CR 1/2): HD 3d6+3 (13 hp), AC 15, tentacle +4 (1d6+3 (5),
+
+* **Bugbear (CR 1):** HD 5d8+5 (27 hp), AC 16, morningstar +4 (2d8+2
+(11)) or javelin +4 (1d6+2 (5))
+
+* **Choker (CR 1/2):** HD 3d6+3 (13 hp), AC 15, tentacle +4 (1d6+3 (5),
 grappled (escape DC 14)) or constrict +4 (1d8+2 (6))
-* Deinonychus (Raptor) (CR 1): HD 3d8+3 (17 hp), AC 15, claw +4/+4
-(1d8+1 (6)) Dire Rat (CR 1/8): HD 2d6 (7 hp), AC 12, bite +4 (1d4+2
+
+* **Deinonychus (Raptor) (CR 1):** HD 3d8+3 (17 hp), AC 15, claw +4/+4
+(1d8+1 (6)) Dire Rat (CR 1/8):** HD 2d6 (7 hp), AC 12, bite +4 (1d4+2
 (4))
-* Earth Elemental (CR 5): HD 12d10+60 (126 hp), AC 17, slam +8/+8
+
+* **Earth Elemental (CR 5):** HD 12d10+60 (126 hp), AC 17, slam +8/+8
 (2d8+5 (14)), damage resistance (half damage from non-magical weapons)
-* Gargoyle (CR 2): HD 7d8+21 (52 hp), AC 15, claws +4/+4 (1d6+2 (5)),
-damage resistance (half damage from non-magical weapons)
-* Gelatinous Cube (CR 2): HD 8d10+40 (84 hp), AC 6, engulf DC 12 DEX
-(3d6 (10), trapped and suffocating taking 6d6 (21)/turn), transparent
-(requires DC 15 MIND + Subterfuge bonus to see)
-* Goblin (CR 1/4): HD 2d6 (7 hp), AC 15, scimitar +4 (1d6+2 (5)) or
+
+* **Gargoyle (CR 2):** HD 7d8+21 (52 hp), AC 15, claws +4/+4 (1d6+2
+(5)), damage resistance (half damage from non-magical weapons)
+
+* **Gelatinous Cube (CR 2):** HD 8d10+40 (84 hp), AC 6, engulf DC 12
+DEX (3d6 (10), trapped and suffocating taking 6d6 (21)/turn),
+transparent (requires DC 15 MIND + Subterfuge bonus to see)
+
+* **Goblin (CR 1/4):** HD 2d6 (7 hp), AC 15, scimitar +4 (1d6+2 (5)) or
 shortbow +4 (1d6+2 (5))
-* Griffon (CR 2): HD 7d10+21 (59 hp), AC 12, claws +6/+6 (2d6+3 (10))
-* Hell Hound (CR 3): HD 7d8+14 (45 hp), AC 15, bite +5 (1d8+3, fire 2d6
-(14)) or fire breath DC 12 DEX (6d6 (21), save halves)
-* Hill Giant (CR 5): HD 10d12+40 (105 hp), AC 13, greatclub +8/+8
+
+* **Griffon (CR 2):** HD 7d10+21 (59 hp), AC 12, claws +6/+6 (2d6+3
+(10))
+
+* **Hell Hound (CR 3):** HD 7d8+14 (45 hp), AC 15, bite +5 (1d8+3, fire
+2d6 (14)) or fire breath DC 12 DEX (6d6 (21), save halves)
+
+* **Hill Giant (CR 5):** HD 10d12+40 (105 hp), AC 13, greatclub +8/+8
 (3d8+5 (18)) or rock +8 (3d10+5 (21))
-* Hobgoblin (CR 1/2): HD 2d8+2 (11 hp), AC 18, longsword +3 (1d8+8
+
+* **Hobgoblin (CR 1/2):** HD 2d8+2 (11 hp), AC 18, longsword +3 (1d8+8
 (12)) or longbow +3 (1d8+8 (12))
-* Human Commoner (CR 0): HD 1d8 (4 hp), AC 10, club +2 (1d4 (2))
-* Insect, small (eg Spider) (CR 0): HD 1d4-1 (1 hp), AC 12, bite +4
+
+* **Human Commoner (CR 0):** HD 1d8 (4 hp), AC 10, club +2 (1d4 (2))
+
+* **Insect, small (eg Spider) (CR 0):** HD 1d4-1 (1 hp), AC 12, bite +4
 ((1), poison DC 9 STR 1d4 (2))
-* Kobold (CR 1/8): HD 2d6-2 (5 hp), AC 12, dagger +6 (1d4+2 (4)) or
+
+* **Kobold (CR 1/8):** HD 2d6-2 (5 hp), AC 12, dagger +6 (1d4+2 (4)) or
 sling +6 (1d4+2 (4))
-* Ogre (CR 2): HD 7d10+21 (59 hp), AC 11, greatclub +6 (2d8+4 (13)) or
-javelin +6 (2d6+4 (11))
-* Orc (CR 1/2): HD 2d8+6 (15 hp), AC 13, greataxe +5 (1d12+3 (9)) or
-javelin +5 (1d6+3 (6))
-* Owlbear (CR 3): HD 7d10+21 (59 hp), AC 13, claws +7/+7 (2d8+3 (12))
-* Rust Monster (CR 1/2): HD 5d8+5 (27 hp), AC 14, bite +3 (1d8+1 (5),
-rust DC 11 DEX)
-* Shadow (CR 1/2): HD 3d8+3 (16 hp), AC 12, strength drain +4 (2d6+2
-(9), -1d4 STR), damage resistance (half damage from non-magical
+
+* **Ogre (CR 2):** HD 7d10+21 (59 hp), AC 11, greatclub +6 (2d8+4 (13))
+or javelin +6 (2d6+4 (11))
+
+* **Orc (CR 1/2):** HD 2d8+6 (15 hp), AC 13, greataxe +5 (1d12+3 (9))
+or javelin +5 (1d6+3 (6))
+
+* **Owlbear (CR 3):** HD 7d10+21 (59 hp), AC 13, claws +7/+7 (2d8+3
+(12))
+
+* **Rust Monster (CR 1/2):** HD 5d8+5 (27 hp), AC 14, bite +3 (1d8+1
+(5), rust DC 11 DEX)
+
+* **Shadow (CR 1/2):** HD 3d8+3 (16 hp), AC 12, strength drain +4
+(2d6+2 (9), -1d4 STR), damage resistance (half damage from non-magical
 weapons)
-* Skeleton (CR 1/4): HD 2d8+4 (13 hp), AC 13, shortsword +4 (1d6+2 (5))
-or shortbow +4 (1d6+2 (5))
-* Stirge (CR 1/8): HD 1d4 (2 hp), AC 14, blood drain +5 (1d4+3 (5),
+
+* **Skeleton (CR 1/4):** HD 2d8+4 (13 hp), AC 13, shortsword +4 (1d6+2
+(5)) or shortbow +4 (1d6+2 (5))
+
+* **Stirge (CR 1/8):** HD 1d4 (2 hp), AC 14, blood drain +5 (1d4+3 (5),
 attach (5 dmg/turn))
-* Stone Golem (CR 10): HD 17d10+85 (178 hp), AC 17, slam +10/+10 (3d8+6
-(19)) or slow DC 17 MIND save (speed halved, one attack a turn), damage
-immunity (only hurt by adamantine weapons or magic)
-* Troll (CR 5): HD 8d10+40 (84 hp), AC 15, claw +7/+7/+7 (2d6+3 (10)),
-regenerate (+10 hp/turn, acid/fire negate)
-* Vampire Spawn (CR 5): HD 16d8+48 (120 hp), AC 15, bite +6/+6 (2d6+3
-(10), life absorb DC 15 STR (reduce max HP by dmg taken, increase own
-HP by half dmg)), damage resistance (half damage from non-magical
-weapons), vampire weaknesses (cause 20 dmg/turn)
-* Werewolf (hybrid form) (CR 3): HD 9d8+18 (58 hp), AC 12, bite +4/+4
-(1d8+2 (6), lycanthropy DC 12 STR), damage immunity (only hurt by
+
+* **Stone Golem (CR 10):** HD 17d10+85 (178 hp), AC 17, slam +10/+10
+(3d8+6 (19)) or slow DC 17 MIND save (speed halved, one attack a turn),
+damage immunity (only hurt by adamantine weapons or magic)
+
+* **Troll (CR 5):** HD 8d10+40 (84 hp), AC 15, claw +7/+7/+7 (2d6+3
+(10)), regenerate (+10 hp/turn, acid/fire negate)
+
+* **Vampire Spawn (CR 5):** HD 16d8+48 (120 hp), AC 15, bite +6/+6
+(2d6+3 (10), life absorb DC 15 STR (reduce max HP by dmg taken,
+increase own HP by half dmg)), damage resistance (half damage from
+non-magical weapons), vampire weaknesses (cause 20 dmg/turn)
+
+* **Werewolf (hybrid form) (CR 3):** HD 9d8+18 (58 hp), AC 12, bite
++4/+4 (1d8+2 (6), lycanthropy DC 12 STR), damage immunity (only hurt by
 silver weapons or magic)
-* Wight (CR 3): HD 6d8+18 (45 hp), AC 14, slam +4/+4 (1d6+2 (5), life
-drain DC 13 STR (reduce max HP by dmg taken)) or longbow +4/+4 (1d8+2
-(6))
-* Wolf (CR 1/4): HD 2d8+2 (11 hp), AC 13, bite +4 (2d4+2 (7), knock
+
+* **Wight (CR 3):** HD 6d8+18 (45 hp), AC 14, slam +4/+4 (1d6+2 (5),
+life drain DC 13 STR (reduce max HP by dmg taken)) or longbow +4/+4
+(1d8+2 (6))
+
+* **Wolf (CR 1/4):** HD 2d8+2 (11 hp), AC 13, bite +4 (2d4+2 (7), knock
 prone DC 11 STR)
-* Wyvern (CR 6): HD 13d10+39 (110 hp), AC 13, stinger +7/+7 (2d6+4
+
+* **Wyvern (CR 6):** HD 13d10+39 (110 hp), AC 13, stinger +7/+7 (2d6+4
 (11), poison DC 14 STR (24 dmg, save halves))
-* Zombie (CR 1/4): HD 3d8+9 (22 hp), AC 8, slam +3 (1d6+1 (4)), undead
-fortitude (instead of dying, zombie lives on a DC (5+dmg just taken)
-STR save)
+
+* **Zombie (CR 1/4):** HD 3d8+9 (22 hp), AC 8, slam +3 (1d6+1 (4)),
+undead fortitude (instead of dying, zombie lives on a DC (5+dmg just
+taken) STR save)
 
 # Equipment
 
@@ -532,35 +585,35 @@ The combat system of M20 Fifth is designed to be as simple and
 streamlined as possible, but if more complexity is desired the
 following options are offered:
 
-* Surprise: If a creature fails to perceive (MIND + Sub) another
+* **Surprise:** If a creature fails to perceive (MIND + Sub) another
 creature hiding (DEX + Sub) before a battle, they start combat
 surprised. A surprised creature is unable to move, take actions or
 reactions until the first round of combat is finished.
 
-* Reactions: A character can make one reaction per round when it is not
-their turn. Typical reactions include: **(a) Opportunity Attacks:**
-When an opponent tries to leave your reach without taking the Disengage
-action (see below), you may make a single attack against them. **(b)
-Cast Certain Spells:** Spells like Feather Fall from Appendix B or
-Counterspell from the Fifth Edition Basic Rules can be cast as a
-reaction instead of an action.
+* **Reactions:** A character can make one reaction per round when it is
+not their turn. Typical reactions include:** **(a) Opportunity
+Attacks:** When an opponent tries to leave your reach without taking
+the Disengage action (see below), you may make a single attack against
+them. **(b) Cast Certain Spells:** Spells like Feather Fall from
+Appendix B or Counterspell from the Fifth Edition Basic Rules can be
+cast as a reaction instead of an action.
 
-* Disengage: A character may take a disengage action in order to safely
-retreat without provoking an opportunity attack from opponents.
+* **Disengage:** A character may take a disengage action in order to
+safely retreat without provoking an opportunity attack from opponents.
 
-* Dodge: A character may take a dodge action, granting disadvantage on
-all attacks until their next turn.
+* **Dodge:** A character may take a dodge action, granting disadvantage
+on all attacks until their next turn.
 
-* Ready an Action: Instead of acting on your turn, you may ready an
+* **Ready an Action:** Instead of acting on your turn, you may ready an
 action. Readying an action delays your action until you use a reaction
 to trigger it later in the round.
 
-* Knocking a Creature Out: When an attacker reduces a foe to 0 hit
+* **Knocking a Creature Out:** When an attacker reduces a foe to 0 hit
 points with a melee attack, the attacker may choose to knock the
 creature out instead of dealing a lethal blow.
 
-* Maneuvers: Maneuvers are special actions that a character can take
-instead of just attacking. The most common maneuvers are: **(a)
+* **Maneuvers:** Maneuvers are special actions that a character can
+take instead of just attacking. The most common maneuvers are:** **(a)
 Grappling:** Against a target no more than twice your height, you may
 replace one attack with a grapple. Make a STR + Phys roll opposed by an
 opponent’s STR + Phys or DEX + Phys roll (their choice). If you
@@ -571,9 +624,9 @@ knock them prone (adv. for melee, disadv. for ranged, half of movement
 to stand up), or push them away from you. Make a STR + Phys roll
 opposed by an opponent’s STR + Phys or DEX + Phys roll (their choice).
 
-* Cover: Cover adds to the AC and DEX saves of a creature, as follows:
-Half Cover (+2), 3/4 Cover (+5), Full Cover (untargetable by attacks
-and most spells)
+* **Cover:** Cover adds to the AC and DEX saves of a creature, as
+follows: Half Cover (+2), 3/4 Cover (+5), Full Cover (untargetable by
+attacks and most spells)
 
 # Appendix B: Spell Lists
 
@@ -592,255 +645,269 @@ effect.
 
 **1st-Level Arcane Spells**
 
-* Charm Person: Makes one person your friend for 1 hour.
-* Feather Fall: 5 creatures fall slowly for 1 minute or until landing.
-* Floating Disk: Creates 3-ft.-diameter horizontal disk that holds 500
-lb. and lasts for 1 hour.
-* Mage Armor: Gives subject AC of 13 + DEX for 8 hours.
-* Magic Missile: No saving throw; Launches three magic darts each
+* Charm Person:** Makes one person your friend for 1 hour.
+* **Feather Fall:** 5 creatures fall slowly for 1 minute or until
+landing.
+* **Floating Disk:** Creates 3-ft.-diameter horizontal disk that holds
+500 lb. and lasts for 1 hour.
+* **Mage Armor:** Gives subject AC of 13 + DEX for 8 hours.
+* **Magic Missile:** No saving throw; Launches three magic darts each
 dealing 1d4+1 damage; +1 missile per spell level above 1st.
-* Sleep: Puts 5 HD of creatures into magical slumber for 1 min. +2HD of
-creatures for every spell level above 1st.
+* **Sleep:** Puts 5 HD of creatures into magical slumber for 1 min.
++2HD of creatures for every spell level above 1st.
 
 **2nd-Level Arcane Spells**
 
-* Acid Arrow: Ranged spell attack; 4d4 damage immediately, 2d4 at end
-of next turn; +1d4 immediately and +1d4 at the end of next turn per
+* **Acid Arrow:** Ranged spell attack; 4d4 damage immediately, 2d4 at
+end of next turn; +1d4 immediately and +1d4 at the end of next turn per
 spell level above 2nd.
-* Flaming Sphere: Creates rolling ball of fire controlled with a bonus
-action, 2d6 damage, lasts 1 minute; + 1d6 per spell level above 2nd.
-* Invisibility: Subject is invisible for 1 hour (concentration) or
+* **Flaming Sphere:** Creates rolling ball of fire controlled with a
+bonus action, 2d6 damage, lasts 1 minute; + 1d6 per spell level above
+2nd.
+* **Invisibility:** Subject is invisible for 1 hour (concentration) or
 until it attacks.
-* Knock: Opens locked or magically sealed door. Levitate: Subject moves
-up and down at your direction for 10 minutes (concentration.)
-* Spider Climb: Grants ability to walk on walls and ceilings for 1 hour
-(concentration.)
+* **Knock:** Opens locked or magically sealed door. Levitate:** Subject
+moves up and down at your direction for 10 minutes (concentration.)
+* **Spider Climb:** Grants ability to walk on walls and ceilings for 1
+hour (concentration.)
 
 **3rd-Level Arcane Spells**
 
-* Clairvoyance: Hear or see at a distance for 10 minutes
+* **Clairvoyance:** Hear or see at a distance for 10 minutes
 (concentration.)
-* Dispel Magic: Cancels magical spells and effects.
-* Fireball: 8d6 damage, 20-ft. Radius; +1d6 damage per spell level
+* **Dispel Magic:** Cancels magical spells and effects.
+* **Fireball:** 8d6 damage, 20-ft. Radius; +1d6 damage per spell level
 above 3rd.
-* Fly: Subject flies at speed of 60 ft. for 10 minutes (concentration.)
-+1 target per spell level above 3rd.
-* Vampiric Touch: For 1 minute (concentration), caster’s touch, deals
-3d6 damage on a successful melee spell attack; caster gains half damage
-as hp; +1d6 per spell level above 3rd.
-* Animate Dead: Create undead skeleton or zombie from a corpse,
+* **Fly:** Subject flies at speed of 60 ft. for 10 minutes
+(concentration.) +1 target per spell level above 3rd.
+* **Vampiric Touch:** For 1 minute (concentration), caster’s touch,
+deals 3d6 damage on a successful melee spell attack; caster gains half
+damage as hp; +1d6 per spell level above 3rd.
+* **Animate Dead:** Create undead skeleton or zombie from a corpse,
 controlled as bonus action; +2 undead per spell level above 3rd level.
 
 **4th-Level Arcane Spells**
 
-* Arcane Eye: See through invisible floating eye that moves 30
+* **Arcane Eye:** See through invisible floating eye that moves 30
 ft./round for 1 hour (concentration.)
-* Black Tentacles: Tentacles grapple all within 20 ft. spread for 1
+* **Black Tentacles:** Tentacles grapple all within 20 ft. spread for 1
 minute (concentration), dealing 3d6 damage per round.
-* Dimension Door: Teleports you short distance.
-* Ice Storm: Summons a 20 foot radius ice storm that deals 6d8 damage,
-and halves movement for one round. +1d8 damage per spell level above
-4th.
-* Polymorph: Gives one creature a new form for 1 hour (concentration.)
-* Stoneskin: Take half damage from nonmagical attacks. Lasts 1 hour
+* **Dimension Door:** Teleports you short distance.
+* **Ice Storm:** Summons a 20 foot radius ice storm that deals 6d8
+damage, and halves movement for one round. +1d8 damage per spell level
+above 4th.
+* **Polymorph:** Gives one creature a new form for 1 hour
+(concentration.)
+* **Stoneskin:** Take half damage from nonmagical attacks. Lasts 1 hour
 (concentration.)
 
 **5th-Level Arcane Spells**
 
-* Cloudkill: Deals 5d8 damage to 20-foot-radius; +1d8 per spell level
-above 5th. Lasts 10 minutes (concentration)
-* Contact Other Plane: Lets you ask five questions of extraplanar
+* **Cloudkill:** Deals 5d8 damage to 20-foot-radius; +1d8 per spell
+level above 5th. Lasts 10 minutes (concentration)
+* **Contact Other Plane:** Lets you ask five questions of extraplanar
 entity.
-* Geas: Commands any creature, binding it to a specific task. Lasts for
-1 day/level or until discharged. Hold Monster: Paralyze target creature
-for 1 minute (concentration.) +1 target per spell level above 5th.
-* Passwall: Creates passage through wood or stone wall for 1 hour.
-* Teleportation Circle: Creates a temporary portal that leads to a
+* **Geas:** Commands any creature, binding it to a specific task. Lasts
+for 1 day/level or until discharged. Hold Monster:** Paralyze target
+creature for 1 minute (concentration.) +1 target per spell level above
+5th.
+* **Passwall:** Creates passage through wood or stone wall for 1 hour.
+* **Teleportation Circle:** Creates a temporary portal that leads to a
 permanent teleportation circle on the same plane.
 
 **6th-Level Arcane Spells**
 
-* Chain Lightning: A lightning bolt leaps through four nearby targets,
-doing 10d8 damage; +1 target per spell level above 6th.
-* Contingency: Sets trigger condition for another spell. Lasts for 10
-days or until discharged.
-* Disintegrate: Deals 10d6 + 40 damage, if target is reduced to 0 hp it
-is disintegrated; +3d6 damage per spell level above 6th.
-* Irresistible Dance: Forces subject to dance for 1d4+1 rounds.
-* Sunbeam: For 1 minute (concentration), a 60 foot beam deals 6d8
+* **Chain Lightning:** A lightning bolt leaps through four nearby
+targets, doing 10d8 damage; +1 target per spell level above 6th.
+* **Contingency:** Sets trigger condition for another spell. Lasts for
+10 days or until discharged.
+* **Disintegrate:** Deals 10d6 + 40 damage, if target is reduced to 0
+hp it is disintegrated; +3d6 damage per spell level above 6th.
+* **Irresistible Dance:** Forces subject to dance for 1d4+1 rounds.
+* **Sunbeam:** For 1 minute (concentration), a 60 foot beam deals 6d8
 damage per round, and blinds victims.
-* True Seeing: Lets you see all things as they really are for 1 hour.
+* **True Seeing:** Lets you see all things as they really are for 1
+hour.
 
 **7th-Level Arcane Spells**
 
-* Delayed Blast Fireball: 12d6 damage; you can postpone blast for 5
+* **Delayed Blast Fireball:** 12d6 damage; you can postpone blast for 5
 rounds (concentration); +1d6 per spell level above 7th.
-* Etherealness: Travel to Ethereal Plane for 8 hours. +3 companions per
-spell level above 7th.
-* Finger of Death: Target takes 7d8 + 30 damage. If target is killed by
-spell, they rise the next turn as a zombie under your control.
-* Plane Shift: As many as eight subjects travel to another plane.
-* Reverse Gravity: Reverses gravity in a 50 ft. radius for 1 minute
+* **Etherealness:** Travel to Ethereal Plane for 8 hours. +3 companions
+per spell level above 7th.
+* **Finger of Death:** Target takes 7d8 + 30 damage. If target is
+killed by spell, they rise the next turn as a zombie under your
+control.
+* **Plane Shift:** As many as eight subjects travel to another plane.
+* **Reverse Gravity:** Reverses gravity in a 50 ft. radius for 1 minute
 (concentration.)
-* Teleport: Instantly transports you and up to eight creatures as far
-as 100 miles/level.
+* **Teleport:** Instantly transports you and up to eight creatures as
+far as 100 miles/level.
 
 **8th-Level Arcane Spells**
 
-* Antimagic Field: Negates magic within 10 ft. for 1 hour
+* **Antimagic Field:** Negates magic within 10 ft. for 1 hour
 (concentration.)
-* Clone: Duplicate awakens when original dies.
-* Feeblemind: Subject’s MIND score drops to 1 and they take 4d6 damage.
-* Horrid Wilting: Deals 10d6 damage within 30 ft. Incendiary Cloud:
+* **Clone:** Duplicate awakens when original dies.
+* **Feeblemind:** Subject’s MIND score drops to 1 and they take 4d6
+damage.
+* **Horrid Wilting:** Deals 10d6 damage within 30 ft. Incendiary Cloud:
 Cloud deals 10d6 damage/round for 1 minute (concentration.)
-* Power Word Stun: Stuns creature with 150 hp or less for 2d4 rounds.
+* **Power Word Stun:** Stuns creature with 150 hp or less for 2d4
+rounds.
 
 **9th-Level Arcane Spells**
 
-* Astral Projection: Projects you and companions onto Astral Plane.
-* Gate: Connects two planes for travel or summoning. Open for 1
+* **Astral Projection:** Projects you and companions onto Astral Plane.
+* **Gate:** Connects two planes for travel or summoning. Open for 1
 round/level.
-* Meteor Swarm: Four exploding spheres each deal 40d6 damage.
-* Power Word Kill: Kills one creature with 100 hp or less.
-* Time Stop: Time slows down allowing you to take 1d4+1 turns in a row.
-* Weird: Fearsome illusion deals 4d10 damage/round to subjects in 30
-ft. radius.
+* **Meteor Swarm:** Four exploding spheres each deal 40d6 damage.
+* **Power Word Kill:** Kills one creature with 100 hp or less.
+* **Time Stop:** Time slows down allowing you to take 1d4+1 turns in a
+row.
+* **Weird:** Fearsome illusion deals 4d10 damage/round to subjects in
+30 ft. radius.
 
 ## Divine Spells
 
 **1st-Level Divine Spells**
 
-* Bless: 3 allies can add 1d4 on every attack roll or saving throw for
-one minute (concentration.) +1 ally for every spell level above 1st.
-* Create or Destroy Water: Create/destroy 10 gallons of water in open
-container; or create rain/destroy fog in 30-ft cube; +2 gallons/+5
+* **Bless:** 3 allies can add 1d4 on every attack roll or saving throw
+for one minute (concentration.) +1 ally for every spell level above
+1st.
+* **Create or Destroy Water:** Create/destroy 10 gallons of water in
+open container; or create rain/destroy fog in 30-ft cube; +2 gallons/+5
 cubic feet per spell level above 1st.
-* Cure Wounds: One creature healed 1d8 + MIND modifier HP; +1d8 HP for
-every spell level above 1st.
-* Detect Magic: Know presence of magic within 30 ft for 10 minutes
+* **Cure Wounds:** One creature healed 1d8 + MIND modifier HP; +1d8 HP
+for every spell level above 1st.
+* **Detect Magic:** Know presence of magic within 30 ft for 10 minutes
 (concentration.) An action can be used to see aura and determine what
 kind of magic it is.
-* Inflict Wounds: Spell attack; 3d10 damage; +1d10 damage per spell
+* **Inflict Wounds:** Spell attack; 3d10 damage; +1d10 damage per spell
 level above 1st.
-* Shield of Faith: One creature gains +2 AC bonus for 10 minutes
+* **Shield of Faith:** One creature gains +2 AC bonus for 10 minutes
 (concentration.)
 
 **2nd-Level Divine Spells**
 
-* Aid: 3 allies increase HP and max HP by 5 for 8 hours; +5 HP/max HP
-for every spell level above 2nd.
-* Enhance Ability: 1 ally gains advantage on ability checks of your
+* **Aid:** 3 allies increase HP and max HP by 5 for 8 hours; +5 HP/max
+HP for every spell level above 2nd.
+* **Enhance Ability:** 1 ally gains advantage on ability checks of your
 choice for 1 hour (concentration.) +1 ally for every spell level above
 2nd.
-* Gentle Repose: Preserves one corpse.
-* Hold Person: 1 humanoid is paralyzed for 1 minute (concentration.) +1
-humanoid for every spell level above 2nd.
-* Lesser Restoration: Cure disease or end blindness, deafness,
+* **Gentle Repose:** Preserves one corpse.
+* **Hold Person:** 1 humanoid is paralyzed for 1 minute
+(concentration.) +1 humanoid for every spell level above 2nd.
+* **Lesser Restoration:** Cure disease or end blindness, deafness,
 paralysis, or poison.
-* Protection from Poison: One creature is cured of poison, and for one
-hour takes half damage from poison damage and has advantage on saving
-throws against being poisoned.
+* **Protection from Poison:** One creature is cured of poison, and for
+one hour takes half damage from poison damage and has advantage on
+saving throws against being poisoned.
 
 **3rd-Level Divine Spells**
 
-* Clairvoyance: See or hear a familiar place for 10 minutes
+* **Clairvoyance:** See or hear a familiar place for 10 minutes
 (concentration.)
-* Create Food and Water: Feeds fifteen humanoids (or five horses).
-* Dispel Magic: Automatically dispel spells of 3rd level or lower, or
-higher level spells with DC 10 + spell’s level. +1 spell level
+* **Create Food and Water:** Feeds fifteen humanoids (or five horses).
+* **Dispel Magic:** Automatically dispel spells of 3rd level or lower,
+or higher level spells with DC 10 + spell’s level. +1 spell level
 automatically dispelled for every spell level above 3rd.
-* Revivify: Restore 1 HP to someone who was dead for less than a
+* **Revivify:** Restore 1 HP to someone who was dead for less than a
 minute.
-* Speak with Dead: Corpse answers five questions.
-* Tongues: One creature speaks any language for 1 hour.
+* **Speak with Dead:** Corpse answers five questions.
+* **Tongues:** One creature speaks any language for 1 hour.
 
 **4th-Level Divine Spells**
 
-* Banishment: Banishes 1 creature back to its home plane (if
+* **Banishment:** Banishes 1 creature back to its home plane (if
 extraplanar) or a harmless demiplane (if native) for 1 min.
 (concentration.) Extraplanar creature is permanently banished if spell
 lasts full minute. +1 creature for every spell level above 4th.
-* Death Ward: The next time creature drops to 0 HP, it drops to 1 HP
-instead.
-* Divination: You ask your god one question about a specific goal,
+* **Death Ward:** The next time creature drops to 0 HP, it drops to 1
+HP instead.
+* **Divination:** You ask your god one question about a specific goal,
 event or activity to occur within the next 7 days and receive a
 truthful reply in the form of a short phrase, cryptic rhyme or an omen.
-* Freedom of Movement: Subject moves normally despite impediments for 1
-hour.
-* Locate Creature: Learn direction to closest named or described kind
-or specific creature within 1000 ft. for 1 hour (concentration.)
-* Stone Shape: Form 5 cubic feet of stone into any shape.
+* **Freedom of Movement:** Subject moves normally despite impediments
+for 1 hour.
+* **Locate Creature:** Learn direction to closest named or described
+kind or specific creature within 1000 ft. for 1 hour (concentration.)
+* **Stone Shape:** Form 5 cubic feet of stone into any shape.
 
 **5th-Level Divine Spells**
 
-* Commune: Deity answers three yes-or-no questions.
-* Flame Strike: All creatures in a 10 ft. radius take 8d6 damage. +1d6
-damage for every spell level above 5th.
-* Geas: Commands any creature, binding it to perform a specific task
-for 30 days or take 5d10 damage. x10 duration for every spell level
+* **Commune:** Deity answers three yes-or-no questions.
+* **Flame Strike:** All creatures in a 10 ft. radius take 8d6 damage.
++1d6 damage for every spell level above 5th.
+* **Geas:** Commands any creature, binding it to perform a specific
+task for 30 days or take 5d10 damage. x10 duration for every spell
+level above 5th.
+* **Greater Restoration:** Reduce exhaustion or end charm, petrify,
+curse, stat or max HP reduction.
+* **Mass Cure Wounds:** 6 creatures within 30-ft rad heal
+3d8+spellcasting ability modifier in HP. +1d8 for every spell level
 above 5th.
-* Greater Restoration: Reduce exhaustion or end charm, petrify, curse,
-stat or max HP reduction.
-* Mass Cure Wounds: 6 creatures within 30-ft rad heal 3d8+spellcasting
-ability modifier in HP. +1d8 for every spell level above 5th.
-* Raise Dead: Restore 1 HP to someone who was dead for less than 10
+* **Raise Dead:** Restore 1 HP to someone who was dead for less than 10
 days.
 
 **6th-Level Divine Spells**
 
-* Forbiddance: No planar travel in a 40,000 sq ft. radius may take
+* **Forbiddance:** No planar travel in a 40,000 sq ft. radius may take
 place. In addition creatures of a specified type (celestial, elemental,
 fey, fiend, undead) take take 5d10 damage when entering area or
 starting turn in it.
-* Harm: Deals 14d6 damage to target.
-* Heal: Cures 70 HP, all diseases, blindness and deafness. +10 HP for
-every spell level above 6th.
-* Heroes’ Feast: Food for 13 creatures bestows +2d10 HP and max HP,
+* **Harm:** Deals 14d6 damage to target.
+* **Heal:** Cures 70 HP, all diseases, blindness and deafness. +10 HP
+for every spell level above 6th.
+* **Heroes’ Feast:** Food for 13 creatures bestows +2d10 HP and max HP,
 cures disease and poison, grants immunity to poison and frightened, and
 grants advantage on MIND saves. Lasts for 1 day.
-* True Seeing: Lets you see all things as they really are for 1 hour.
-* Word of Recall: Teleports you and 5 allies to the church or temple of
-your deity that you most recently visited.
+* **True Seeing:** Lets you see all things as they really are for 1
+hour.
+* **Word of Recall:** Teleports you and 5 allies to the church or
+temple of your deity that you most recently visited.
 
 **7th-Level Divine Spells**
 
-* Divine Word: All enemies in earshot are banished to their home plane
-(if extraplanar), or suffer an effect dependent upon their current HP
-(50- HP, deafened for (50 minus current HP) minutes; 30- HP, blinded,
-deafened and stunned 1 hour; 20- HP, killed instantly.)
-* Etherealness: 1 creature becomes ethereal. +1 creature for every
+* **Divine Word:** All enemies in earshot are banished to their home
+plane (if extraplanar), or suffer an effect dependent upon their
+current HP (50- HP, deafened for (50 minus current HP) minutes; 30- HP,
+blinded, deafened and stunned 1 hour; 20- HP, killed instantly.)
+* **Etherealness:** 1 creature becomes ethereal. +1 creature for every
 spell level above 7th.
-* Fire Storm: In ten 10-ft. Cubes all creatures take 7d10 fire
+* **Fire Storm:** In ten 10-ft. Cubes all creatures take 7d10 fire
 damage.Unattended objects catch fire.
-* Plane Shift:You and 8 willing creatures teleport to another plane.
-Alternatively, on a spell attack a hostile creature is teleported to
-the plane of your choice.
-* Regenerate: Subject’s severed limbs grow back, and regenerates 4d8 +
-15 HP per round for 1 hour.
-* Resurrection: Restore 1 HP to someone who was dead for less than a
-century.
+* **Plane Shift:** You and 8 willing creatures teleport to another
+plane. Alternatively, on a spell attack a hostile creature is
+teleported to the plane of your choice.
+* **Regenerate:** Subject’s severed limbs grow back, and regenerates
+4d8 + 15 HP per round for 1 hour.
+* **Resurrection:** Restore 1 HP to someone who was dead for less than
+a century.
 
 **8th-Level Divine Spells**
 
-* Antimagic Field: Negates magic within 10 ft. for 1 hour
+* **Antimagic Field:** Negates magic within 10 ft. for 1 hour
 (concentration.)
-* Control Weather: Change current weather for 8 hours (concentration.)
-* Earthquake: Cause an earthquake in a 100-ft radius, damaging
+* **Control Weather:** Change current weather for 8 hours
+(concentration.)
+* **Earthquake:** Cause an earthquake in a 100-ft radius, damaging
 structures and creating dangerous fissures. If any large structure
 falls, it causes 5d6 bludgeoning damage.
-* Holy Aura: In a 30 ft. radius, allies have advantage on saving
+* **Holy Aura:** In a 30 ft. radius, allies have advantage on saving
 throws, enemies have disadvantage on attacks and fiends and undead are
 blinded.
 
 **9th-Level Divine Spells**
 
-* Astral Projection: Projects you and 8 companions onto Astral Plane.
-* Gate: Connects two planes for travel or summoning. Open for 1 minute
-(concentration.)
-* Mass Heal: Heal up to 700 hp to any creatures in range (divided to
-taste); also cured of all diseases, blindness and deafness.
-* True Resurrection: Resurrects a creature, that has died in last 200
-years, with new body.
+* **Astral Projection:** Projects you and 8 companions onto Astral
+Plane.
+* **Gate:** Connects two planes for travel or summoning. Open for 1
+minute (concentration.)
+* **Mass Heal:** Heal up to 700 hp to any creatures in range (divided
+to taste); also cured of all diseases, blindness and deafness.
+* **True Resurrection:** Resurrects a creature, that has died in last
+200 years, with new body.
 
 # Appendix C: Words of Power Spell System
 
@@ -851,16 +918,16 @@ Power every three levels (3, 6, 9, etc.)
 
 ## Optional Rules
 
-* White and Black Magic: Clerics draw their power from white magic, and
-may not use their magic to directly harm an individual. Mages draw
+* **White and Black Magic:** Clerics draw their power from white magic,
+and may not use their magic to directly harm an individual. Mages draw
 their power from black magic and may not directly heal an individual.
 
-* Elemental Specialization: At the start of a day, a caster who knows
-the Energy realm must choose one particular type of damage (acid, fire,
-etc.) For that day, they may only use the Energy realm with relation to
-that type of damage. Alternatively, make a caster choose a damage type
-upon learning Energy - their magic is only capable of interacting with
-that type of energy.
+* **Elemental Specialization:** At the start of a day, a caster who
+knows the Energy realm must choose one particular type of damage (acid,
+fire, etc.) For that day, they may only use the Energy realm with
+relation to that type of damage. Alternatively, make a caster choose a
+damage type upon learning Energy - their magic is only capable of
+interacting with that type of energy.
 
 ## The Four Actions
 
@@ -1105,7 +1172,7 @@ Jacinth, Ruby)
 child-sized sarcophagus, jade and gold dragonchess set, jeweled gold
 crown)
 
-Appendix I: Random Dungeon Generation
+# Appendix I: Random Dungeon Generation
 
 If you don’t have much time to prepare a dungeon in advance, use the
 following procedure:
@@ -1169,20 +1236,20 @@ recommended.
 
 ## Barbarian
 
-* Skill and Save Proficiencies: Physical, STR Armor Proficiencies:
+* **Skill and Save Proficiencies:** Physical, STR Armor Proficiencies:
 Shield
 
-* Unarmored Defense: Your AC equals 10 + your DEX bonus + your STR
+* **Unarmored Defense:** Your AC equals 10 + your DEX bonus + your STR
 bonus.
 
-* Fast Movement: The distance of your move action is 40 ft.
+* **Fast Movement:** The distance of your move action is 40 ft.
 
-* Multiple Attacks: You gain an additional attack at 5th level.
+* **Multiple Attacks:** You gain an additional attack at 5th level.
 
-* Rage Damage: Your rage damage is +2. At 9th level this increases to
-+3, and at 16th to +4.
+* **Rage Damage:** Your rage damage is +2. At 9th level this increases
+to +3, and at 16th to +4.
 
-* Rage: You may enter a 1 minute long feral rage as a bonus action,
+* **Rage:** You may enter a 1 minute long feral rage as a bonus action,
 (prof. bonus) times a day. While raging you gain advantage on STR-based
 skill checks and STR saves, you add your rage damage to melee attack
 damage, and you gain damage resistance (half damage) to bludgeoning,
@@ -1192,172 +1259,175 @@ exhausting frenzy, allowing you to make attacks as a bonus action for
 the duration of the rage, and upon exiting your rage giving you
 disadvantage on all rolls until you take a long rest.
 
-* Reckless Attack: You can chose to attack recklessly, giving you
+* **Reckless Attack:** You can chose to attack recklessly, giving you
 advantage on attacks but giving your opponents advantage on attacks
 against you until the start of your next turn.
 
-* Brutal Critical: At 9th level your critical hits do x3 damage instead
-of x2.
+* **Brutal Critical:** At 9th level your critical hits do x3 damage
+instead of x2.
 
-* Starting Equipment: one weapon, 10 gp, a fast pack (see Equipment)
+* **Starting Equipment:** one weapon, 10 gp, a fast pack (see
+Equipment)
 
-* Ability Score Increases: As Caster
+* **Ability Score Increases:** As Caster
 
-* Improvised Weapon Damage: As Fighter
+* **Improvised Weapon Damage:** As Fighter
 
 ## Bard
 
-* Skill and Save Proficiencies: Communication, DEX or MIND Saves (pick
-one)
+* **Skill and Save Proficiencies:** Communication, DEX or MIND Saves
+(pick one)
 
-* Armor Proficiencies: Light Armor, Shields
+* **Armor Proficiencies:** Light Armor, Shields
 
-* Arcane or Divine Spellcasting (choose one): As cleric or mage, or
+* **Arcane or Divine Spellcasting (choose one):** As cleric or mage, or
 pick six Bard spells of any level you can cast from the Fifth Edition
 Basic rules or SRD.
 
-* Bardic Inspiration: (MIND bonus) times per short/long rest, your
+* **Bardic Inspiration:** (MIND bonus) times per short/long rest, your
 stirring music inspires an ally, who can add a d6 to an ability check,
 skill check or saving throw of their choice (before or after the roll)
 in the next 10 minutes. The die becomes a d8 at 5th level, a d10 at
 10th level, and a d12 at 15th level.
 
-* Jack of All Trades: You add half of your proficiency bonus to skill
-checks your are not proficient in.
+* **Jack of All Trades:** You add half of your proficiency bonus to
+skill checks your are not proficient in.
 
-* Song of Rest: Your soothing music helps revitalize any allies who can
-hear you during a short rest, allowing them to regain an extra 1d6 hit
-points. The die becomes a d8 at 9th level, a d10 at 13th level, and a
-d12 at 17th level.
+* **Song of Rest:** Your soothing music helps revitalize any allies who
+can hear you during a short rest, allowing them to regain an extra 1d6
+hit points. The die becomes a d8 at 9th level, a d10 at 13th level, and
+a d12 at 17th level.
 
-* Starting Equipment: leather armor (+1 AC light armor), a musical
+* **Starting Equipment:** leather armor (+1 AC light armor), a musical
 instrument, one weapon (and ammunition if applicable), 15 gp, a fast
-pack (see Equipment) * Ability Score Increases: As Caster
+pack (see Equipment) * Ability Score Increases:** As Caster
 
-* Improvised Weapon Damage: As Rogue
+* **Improvised Weapon Damage:** As Rogue
 
 ## Druid
 
-* Skill and Save Proficiencies: Communication or Knowledge (pick one),
-MIND Saves
+* **Skill and Save Proficiencies:** Communication or Knowledge (pick
+one), MIND Saves
 
-* Armor Proficiencies: Medium Armor, Shields (druids will not wear
+* **Armor Proficiencies:** Medium Armor, Shields (druids will not wear
 armor or use shields made of metal)
 
-* Divine Spellcasting: As cleric, or pick six Druid spells of any level
-you can cast from the Fifth Edition Basic rules or SRD.
+* **Divine Spellcasting:** As cleric, or pick six Druid spells of any
+level you can cast from the Fifth Edition Basic rules or SRD.
 
-* Wild Shape: Twice per short/long rest, you can magically assume the
-shape of a beast that you have seen before, whose max CR is determined
-by your level. Your game statistics (except for MIND) are completely
-replaced by the beast. The transformation lasts until you chose to end
-it with a bonus action, the beast’s HP reaches 0, or (half level,
-rounded down) hours have passed. **1st level** (Mac CR: 0) No flying or
-swimming speed. Examle: Weasel. **2nd level** (Max CR: 1/4) No flying
-or swimming speed. Example: Wolf. **4th level** (Mac CR: 1/2) No flying
-speed. Example: Crocodile. **8th level** (Mac CR: 1) No limitations.
-Example: Giant Eagle.
+* **Wild Shape:** Twice per short/long rest, you can magically assume
+the shape of a beast that you have seen before, whose max CR is
+determined by your level. Your game statistics (except for MIND) are
+completely replaced by the beast. The transformation lasts until you
+chose to end it with a bonus action, the beast’s HP reaches 0, or (half
+level, rounded down) hours have passed. **1st level** (Mac CR:** 0) No
+flying or swimming speed. Examle:** Weasel. **2nd level** (Max CR:**
+1/4) No flying or swimming speed. Example:** Wolf. **4th level** (Mac
+CR:** 1/2) No flying speed. Example:** Crocodile. **8th level** (Mac
+CR:** 1) No limitations. Example:** Giant Eagle.
 
-* Starting Equipment: leather armor (+1 AC light armor), wooden shield,
-mistletoe wand, one weapon (and ammunition if applicable), 5 gp, a fast
-pack (see Equipment)
+* **Starting Equipment:** leather armor (+1 AC light armor), wooden
+shield, mistletoe wand, one weapon (and ammunition if applicable), 5
+gp, a fast pack (see Equipment)
 
-* Ability Score Increases: As Caster
+* **Ability Score Increases:** As Caster
 
-* Improvised Weapon Damage: As Cleric
+* **Improvised Weapon Damage:** As Cleric
 
 ## Monk
 
-* Skill and Save Proficiencies: Physical or Knowledge (pick one), STR
-or DEX Saves (pick one)
+* **Skill and Save Proficiencies:** Physical or Knowledge (pick one),
+STR or DEX Saves (pick one)
 
-* Armor Proficiencies: None
+* **Armor Proficiencies:** None
 
-* Unarmored Defense: Your AC equals 10 + your DEX bonus + your MIND
+* **Unarmored Defense:** Your AC equals 10 + your DEX bonus + your MIND
 bonus.
 
-* Unarmored Movement: The distance of your move action is 40 ft. At 6th
-level it becomes 45 ft., 10th - 50 ft., 14th - 55 ft., and 18th - 60
-ft. In addition, at 9th level you can move up vertical surfaces and
+* **Unarmored Movement:** The distance of your move action is 40 ft. At
+6th level it becomes 45 ft., 10th - 50 ft., 14th - 55 ft., and 18th -
+60 ft. In addition, at 9th level you can move up vertical surfaces and
 across liquids without falling as long as you are moving.
 
-* Multiple Attacks: You gain an additional attack at 5th level.
+* **Multiple Attacks:** You gain an additional attack at 5th level.
 
-* Martial Arts: Your unarmed attack does d4 damage, and counts as magic
-for the purposes of bypassing resistances and immunities. At 5th this
-becomes a d6, 11th a d8, and 17th a d10.
+* **Martial Arts:** Your unarmed attack does d4 damage, and counts as
+magic for the purposes of bypassing resistances and immunities. At 5th
+this becomes a d6, 11th a d8, and 17th a d10.
 
-* Flurry of Blows: You may use a bonus action to make two unarmed
+* **Flurry of Blows:** You may use a bonus action to make two unarmed
 strikes. (Half level, rounded down) times per day, you may choose to
 add one of the following effects (DC 8 + prof. + MIND bonus to resist)
-if your attack hits: shove, grapple, stun (5th level), death (17th
+if your attack hits:** shove, grapple, stun (5th level), death (17th
 level).
 
-* Honed Body and Mind: Your training provides a number of benefits. At
-4th level you get Slow Fall, allowing you to use a reaction to take no
-damage from a long fall. At 7th level your Stillness of Mind allows you
-to take an action to end a charm or fear effect on yourself. At 14th
-level your Diamond Soul grants you proficiency in every save category.
+* **Honed Body and Mind:** Your training provides a number of benefits.
+At 4th level you get Slow Fall, allowing you to use a reaction to take
+no damage from a long fall. At 7th level your Stillness of Mind allows
+you to take an action to end a charm or fear effect on yourself. At
+14th level your Diamond Soul grants you proficiency in every save
+category.
 
-* Starting Equipment: a quarterstaff, 10 darts, 5 gp, a fast pack (see
-Equipment)
+* **Starting Equipment:** a quarterstaff, 10 darts, 5 gp, a fast pack
+(see Equipment)
 
-* Ability Score Increases: As Caster
+* **Ability Score Increases:** As Caster
 
-* Improvised Weapon Damage: As Rogue
+* **Improvised Weapon Damage:** As Rogue
 
 ## Paladin
 
-* Skill and Save Proficiencies: Physical or Communication (pick one),
-MIND Saves (pick one)
+* **Skill and Save Proficiencies:** Physical or Communication (pick
+one), MIND Saves (pick one)
 
-* Armor Proficiencies: All armor, Shield
+* **Armor Proficiencies:** All armor, Shield
 
-* Multiple Attacks: You gain an additional attack at 5th level.
+* **Multiple Attacks:** You gain an additional attack at 5th level.
 
-* Partial Divine Spellcasting: As cleric, but with half as many magic
-points and only able to cast spell levels equal to 1/4 level, rounded
-up. As an alternative to the divine spell list pick six Paladin spells
-of any level you can cast from the Fifth Edition Basic rules or SRD.
+* **Partial Divine Spellcasting:** As cleric, but with half as many
+magic points and only able to cast spell levels equal to 1/4 level,
+rounded up. As an alternative to the divine spell list pick six Paladin
+spells of any level you can cast from the Fifth Edition Basic rules or
+SRD.
 
-* Divine Sense: (MIND bonus + 1) times per short rest, you can sense
-nearby celestials, fiends and undead. Divine Smite: When you hit a
-creature with a melee attack, you may expend magic points as if casting
-a spell to deal extra damage to a target. A 1st-level spell does 2d8
-damage, and every spell level above that does an extra 1d8. Fiends and
-undead take an extra 1d8 damage on top of that.
+* **Divine Sense:** (MIND bonus + 1) times per short rest, you can
+sense nearby celestials, fiends and undead. Divine Smite:** When you
+hit a creature with a melee attack, you may expend magic points as if
+casting a spell to deal extra damage to a target. A 1st-level spell
+does 2d8 damage, and every spell level above that does an extra 1d8.
+Fiends and undead take an extra 1d8 damage on top of that.
 
-* Lay on Hands: Each long rest you get a (5 * level) hit point pool of
-healing power, which you can divide to taste and channel into creatures
-by touching them. 5 hit points from the pool can be traded in for the
-ability to cure one disease or poison afflicting a creature.
+* **Lay on Hands:** Each long rest you get a (5 * level) hit point pool
+of healing power, which you can divide to taste and channel into
+creatures by touching them. 5 hit points from the pool can be traded in
+for the ability to cure one disease or poison afflicting a creature.
 
-* Starting Equipment: chain mail (+6 AC heavy armor), shield, one
+* **Starting Equipment:** chain mail (+6 AC heavy armor), shield, one
 weapon (and ammunition if applicable), 25 gp, a fast pack (see
 Equipment)
 
-* Ability Score Increases: As Caster
+* **Ability Score Increases:** As Caster
 
-* Improvised Weapon Damage: As Fighter
+* **Improvised Weapon Damage:** As Fighter
 
 ## Ranger
 
-* Skill and Save Proficiencies: Physical or Knowledge (pick one), STR
-or DEX Saves (pick one)
+* **Skill and Save Proficiencies:** Physical or Knowledge (pick one),
+STR or DEX Saves (pick one)
 
-* Armor Proficiencies: Medium Armor, Shields
+* **Armor Proficiencies:** Medium Armor, Shields
 
-* Multiple Attacks: You gain an additional attack at 5th level. At 11th
-level, you can use your action to make ranged attacks against any
+* **Multiple Attacks:** You gain an additional attack at 5th level. At
+11th level, you can use your action to make ranged attacks against any
 number of creatures within 10 feet of a point you can see within your
 weapon’s range.
 
-* Superiority Dice (SD): A ranger has four superiority dice (d8) that
-can be spent on maneuvers, recovering on a short rest. At 9th level the
-dice become d10s, at 17th d12s. You also gain a superiority dice at 9th
-and 17th level.
+* **Superiority Dice (SD):** A ranger has four superiority dice (d8)
+that can be spent on maneuvers, recovering on a short rest. At 9th
+level the dice become d10s, at 17th d12s. You also gain a superiority
+dice at 9th and 17th level.
 
-* Ranger Maneuvers: You have the ability to spend SD on special
+* **Ranger Maneuvers:** You have the ability to spend SD on special
 maneuvers. Save DCs are DC 8 + STR or DEX (your choice) + proficiency.
 For attack maneuvers describe a desired outcome (e.g. disarming foe,
 feinting, goading an enemy) while making an attack. If the attack hits,
@@ -1367,28 +1437,29 @@ are taking (e.g. parry, riposte) and the DM rules what you add/subtract
 your SD to (usually AC, attack, damage or enemy health) requiring an
 appropriate saving throw if deemed necessary.
 
-* Primeval Awareness: You can communicate simple ideas with animals,
-and read their basic mood and intent.
+* **Primeval Awareness:** You can communicate simple ideas with
+animals, and read their basic mood and intent.
 
-* Healing Poultices: Every day you can make (Wisdom bonus) herbal
+* **Healing Poultices:** Every day you can make (Wisdom bonus) herbal
 poultices, which you can spend a minute applying to a creature to heal
 them (half level, rounded up)d6 hit points. Unused poultices expire
 after the day is over.
 
-* Colossus Slayer: Once per turn, when you hit a creature with a weapon
-attack, you deal an extra 1d8 damage.
+* **Colossus Slayer:** Once per turn, when you hit a creature that is
+not at their maximum HP at with a weapon attack, you deal an extra 1d8
+damage.
 
-* Hunter’s Defense: At 7th level when a creature hits you with an
+* **Hunter’s Defense:** At 7th level when a creature hits you with an
 attack, you gain +4 bonus to AC against subsequent attacks from the
 same creature until your next turn. At 15th level, you can use your
 reaction to halve the damage from an attack you can see coming.
 
-* Starting Equipment: scale mail (+4 medium armor), one weapon (and
+* **Starting Equipment:** scale mail (+4 medium armor), one weapon (and
 ammunition if applicable), 10 gp, a fast pack (see Equipment)
 
-* Ability Score Increases: As Caster
+* **Ability Score Increases:** As Caster
 
-* Improvised Weapon Damage: As Fighter
+* **Improvised Weapon Damage:** As Fighter
 
 # Legal
 
