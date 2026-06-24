@@ -665,7 +665,7 @@ effect.
 
 **1st-Level Arcane Spells**
 
-* Charm Person:** Makes one person your friend for 1 hour.
+* **Charm Person:** Makes one person your friend for 1 hour.
 * **Feather Fall:** 5 creatures fall slowly for 1 minute or until
 landing.
 * **Floating Disk:** Creates 3-ft.-diameter horizontal disk that holds
