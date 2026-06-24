@@ -1241,10 +1241,10 @@ Edw, 6. Gond, 7. Mord, 8. Per, 9. Rod, 10. Theod, 11. Trist, 12. Uth
 oryan, 7. yctor, 8. yn, 9. ynak, 10. yrick, 11. yval, 12. ywyr **Female
 prefix (d12):** 1. Barb, 2. Bellad, 3. Carol, 4. Chryst, 5. El, 6.
 Elyz, 7. Evel, 8. Gwyn, 9. Morg, 10. Vann, 11. Vyct, 12. Ys **Female
-suffix (d12):** 1. abyth, 2. anna, 3. ara, 4. ausa, 5. ayne, 6. olda,
-7. ona, 8. orya, 9. yna, 10. yrrya, 11. yssa, 12. yvyra **Nickname
-(d12):** 1. the killer, 2. the unwashed, 3. the muse, 4. the red, 5.
-the needy, 6. the geezer, 7. the hunchback, 8. the knave, 9. the
+suffix (d12):** 1. abyth, 2. anna, 3. ara, 4. ausa, 5. ayne, 6.
+olda, 7. ona, 8. orya, 9. yna, 10. yrrya, 11. yssa, 12. yvyra
+**Nickname (d12):** 1. the killer, 2. the unwashed, 3. the muse, 4. the
+red, 5. the needy, 6. the geezer, 7. the hunchback, 8. the knave, 9. the
 village idiot, 10. the pauper, 11. the mad, 12. of (location)
 
 # Appendix J: Additional Classes
