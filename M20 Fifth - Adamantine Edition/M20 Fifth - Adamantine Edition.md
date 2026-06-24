@@ -204,9 +204,9 @@ bonus. Disabling a trap is DEX + Subterfuge bonus.
 
 ## Advantage and Disadvantage
 
-Whenever a character has increased or decreased odds of succeeding on a
-d20 roll, the GM may elect to give that character Advantage or
-Disadvantage. This involves rolling twice and taking the better or
+Whenever a character has increased or decreased odds of succeeding on a 
+d20 roll, the GM may elect to give that character Advantage or 
+Disadvantage. This involves rolling twice and taking the better or 
 worse of the two rolls respectively.
 
 # Magic
@@ -266,13 +266,32 @@ damage. (If a cantrip has separate beams, instead of additional dice of
 damage at these levels, you get an additional beam which can target
 separate creatures.)
 
-*Points. Range, Damage, Method, Additional Effects*
+*Point Cost. Range*
 
-1. Touch, 1d4, Magic Attack, Seperate beams
-2. 10', 1d6, DEX save, Pull 10' closer to you
-3. 30', 1d8, MIND save
-4. 60', 1d10
-5. 120', 1d12
+1. Touch
+2. 10'
+3. 30'
+4. 60'
+5. 120'
+
+*Point Cost. Damage*
+
+1. 1d4
+2. 1d6
+3. 1d8
+4. 1d10
+5. 1d12
+
+*Point Cost. Method*
+
+1. Magic Attack
+2. DEX save
+3. MIND save 
+
+*Point Cost. Additional Effects*
+
+1. Seperate beams
+2. Pull 10' closer to you
 
 Optional Rule (Damage Type): In addition to the effects mentioned on
 the table, choose any one damage type your cantrip qualifies for based
@@ -324,16 +343,17 @@ Armour Class (AC) = 10 + Armour bonus + (DEX bonus).
 
 ## Optional Rules
 
-* Finesse: Fighters and Rogues can use DEX bonus + proficiency bonus as
-Melee attack bonus and damage instead if wielding a light weapon.
+* **Finesse:** Fighters and Rogues can use DEX bonus + proficiency 
+bonus as Melee attack bonus and damage instead if wielding a light 
+weapon.
 
-* Dual Wielding: Fighters and Rogues can wield 2 light weapons and may
-use an action to attack with their main weapon, and a bonus action to
-attack with their offhand weapon. Don’t add your ability modifier to
+* **Dual Wielding:** Fighters and Rogues can wield 2 light weapons and 
+may use an action to attack with their main weapon, and a bonus action 
+to attack with their offhand weapon. Don’t add your ability modifier to 
 the damage on the second weapon.
 
-* Great Weapon Fighting: When a Fighter or Rogue is wielding a
-two-handed weapon, they may re-roll 1 and 2 results on their damage
+* **Great Weapon Fighting:** When a Fighter or Rogue is wielding a 
+two-handed weapon, they may re-roll 1 and 2 results on their damage 
 dice, but you must use the new roll.
 
 ## Natural Healing
