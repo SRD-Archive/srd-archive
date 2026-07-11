@@ -1,17 +1,17 @@
-﻿# Into the Everything RPG
+﻿# Into the Everything RPG ​
 
-A setting neutral game inspired by Mark of the Odd and Mini Six. It
-uses the basic framework, perks, complications, and XP of Mini Six:
-Bare Knuckle Edition; uses Mark of the Odd's d20 roll-under system and
-the general refinements offerd by Cairn; it uses the skills from Fate
-Core; it adds Advantage and Disadvantage to account for diffuculty; and
-it uses the magic system from Cairn & Knave.
+​A setting neutral game inspired by Mark of the Odd and Mini Six. It 
+uses the basic framework, perks, complications, and XP of Mini Six: 
+Bare Knuckle Edition; uses Into the Odd's d20 roll-under system and the 
+general refinements offered by Cairn; it uses the skills from Fate 
+Core; it adds Advantage and Disadvantage to account for difficulty; and 
+it uses the magic system from Cairn & Knave.​ 
 
-Into the Everything RPG is by Senator Bix and licenced CC-BY-SA 4.0
+Into the Everything RPG is by Senator Bix and licensed CC-BY-SA 4.0
 
 ## Thanks and Acknowledgments
 
-Rook uses content from the following:
+Into the Everything uses content from the following:
 
 * **Into the Odd** by Chris McDowall, licensed under the Mark
 of the Odd License v0.4. (www.bastionland.com)
