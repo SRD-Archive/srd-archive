@@ -34,10 +34,6 @@ A5ESRD is licensed under the Creative Commons Attribution 4.0
 International License available at
 https://creativecommons.org/licenses/by/4.0/legalcode.
 
-This work includes material taken from Worlds Without Number System
-Reference Document by Kevin Crawford licensed under the Creative
-Commons as CC0.
-
 # Creating a Character
 
 1. Select a race.
@@ -163,7 +159,8 @@ increases by 1 every time you gain a level.
 
 ### Archetype: Stone Dwarf
 
-Stone dwarves live among the mountains.
+(Comparable to Mountain Dwarves.) Stone dwarves live among the 
+mountains.
 
 ***Ability Score Increase.*** Your Strength score increases by 2.
 
@@ -327,7 +324,8 @@ obscured only by a creature that is at least one size larger than you.
 
 ### Archetype: Steadfast Halfling
 
-Steadfast halflings are stout and strong.
+(Comparable to Stout Halflings.) Steadfast halflings are stout and 
+strong.
 
 ***Ability Score Increase.*** Your Constitution score increases by 1.
 
@@ -852,8 +850,8 @@ attack against that creature.
 
 ### Archetype: Path of the Wild Warrior
 
-A feirce, yet legally distinct, warrior that draws their power from
-the wilds of nature.
+(Comparable to Path of the Totem Warrior.) A feirce, yet legally 
+distinct, warrior that draws their power from the wilds of nature.
 
 * Level 3: Select one of the following (once you choose, you cannot
 change your decision). This ability will be in effect while in a rage:
@@ -1070,12 +1068,10 @@ level.
 
 ### Bard College
 
-At 3rd level, you delve into the advanced techniques of a bard college
-of your choice: the College of Lore or the College of Valor, both
-detailed at the end of
-
-the class description. Your choice grants you features at 3rd level and
-again at 6th and 14th level.
+At 3rd level, you delve into the advanced techniques of a bard college 
+of your choice: the College of Lore or the College of Valor, both 
+detailed at the end of the class description. Your choice grants you 
+features at 3rd level and again at 6th and 14th level.
 
 ### Expertise
 
@@ -1184,6 +1180,8 @@ you roll the die for the ability check, but before the GM tells you
 whether you succeed or fail.
 
 ### Bard Archetype: College of the Warbard
+
+(Comparable to the College of Valor.)
 
 * Level 3: You gain proficiency with medium armor, shields, and martial
 weapons. Creatures can use your Bardic Inspiration die to increase
@@ -1509,6 +1507,8 @@ to a creature, you restore 12.
 
 ### Cleric Archetype: Wisdom Domain
 
+(Comparable to the Knowledge domain.)
+
 * Level 1: You gain the domain spells *command* and *identify*. You
 learn two languages. You gain expertise (double proficiency bonus) in
 two of the following: Arcana, History, Nature or Religion.
@@ -1538,6 +1538,8 @@ cantrips.
 * Level 17: When you spend at least 1 min. in me
 
 ### Cleric Archetype: Radiant Domain
+
+(Comparable to the Light domain.)
 
 * Level 1: You gain the domain spells *burning hands* and *faerie
 fire*. You learn the light cantrip. As many times per long rest as your
@@ -1573,6 +1575,8 @@ radius for 1 min. Enemies in the aura have disadvantage on saving
 throws against spells that deal radiant or fire damage.
 
 ### Cleric Archetype: Wild Domain
+
+(Comparable to the Nature domain.)
 
 * Level 1: You gain the domain spells *animal friendship* and *speak
 with animals*. You learn one druid cantrip of your choice. You gain
@@ -1612,6 +1616,8 @@ verbally command what each of those creatures will do on its next turn.
 
 ### Cleric Archetype: Storm Domain
 
+(Comparable to the Tempest domain.)
+
 * Level 1: You gain the domain spells *fog cloud* and *thunderwave*.
 You gain proficiency with martial weapons and heavy armor. As many
 times per long rest as your Wisdom modifier (minimum of 1), when a
@@ -1644,6 +1650,8 @@ ability, the extra dam age in creases to 2d8.
 you are not underground or indoors.
 
 ### Cleric Archetype: Mischeif Domain
+
+(Comparable to the Trickery domain.)
 
 * Level 1: You gain the domain spells *charm person* and *disguise
 self*. You can use your action to touch a willing creature other than
@@ -1685,6 +1693,8 @@ you use your Level 2 ability. As a bonus action on your turn, you can
 move any number of the duplicates, though with the same restrictions.
 
 ### Cleric Archetype: Battle Domain
+
+(Comparable to the War domain.)
 
 * Level 1: You gain the domain spells *divine favor* and *shield of
 faith*. You gain proficiency with martial weapons and heavy armor.
@@ -2111,6 +2121,8 @@ you.
 
 ### Druid Archetype: Wildform Druids
 
+(Comparable to the Circle of the Moon.)
+
 * Level 2: You gain all of the following -- (**a**) You can use Wild
 Shape on your turn as a bonus action, rather than as an action.
 Additionally, while you are transformed you can use a bonus action to
@@ -2354,8 +2366,9 @@ start of each of your turns, you regain hit points equal to 5 + your
 Constitution modifier if you have no more than half of your hit points
 left. You don't gain this benefit if you have 0 hit points.
 
-
 ### Fighter Archetype: Warmaster
+
+(Comparable to Battle Master.)
 
 * Level 3: You can select three combat techniques. Each of these combat
 techniques consume a resource called technique die. You have four
@@ -2386,79 +2399,85 @@ technique dice, when you roll initiative you regain 1 die.
 
 **Warmaster Combat Techniques**
 
-1. When you take the Attack action on your turn, you can give up one of
-your attacks and your bonus action to allow a friendly creature who can
-see or hear you to immediately make one weapon attack (using it's
-reaction) and adding the superiority die to the attack’s damage roll.
+1. Command: When you take the Attack action on your turn, you can give 
+up one of your attacks and your bonus action to allow a friendly 
+creature who can see or hear you to immediately make one weapon attack 
+(using it's reaction) and adding the superiority die to the attack’s 
+damage roll.
 
-2. When you hit a creature with a weapon attack, you can attempt to
-disarm it. You add your technique die to your damage. The target must
-make a Strength save or the object lands on the ground.
+2. Disarm: When you hit a creature with a weapon attack, you can 
+attempt to disarm it. You add your technique die to your damage. The 
+target must make a Strength save or the object lands on the ground.
 
-3. When you hit a creature with a weapon attack, you can give your
-allies an opening.  You add your technique die to your damage. For 1
-round. your allie's next attack roll against the target you has
+3. Distract: When you hit a creature with a weapon attack, you can give 
+your allies an opening.  You add your technique die to your damage. For 
+1 round. your allie's next attack roll against the target you has 
 advantage.
 
-4. When you move, you can add your technique die to your AC until you
-stop moving.
+4. Evade: When you move, you can add your technique die to your AC 
+until you stop moving.
 
-5. You can use a bonus action on your turn to choose one creature
-adjacent to you. within 5 feet of you as your target. You have
-advantage on your next attack roll against that creature and if that
+5. Feint: You can use a bonus action on your turn to choose one 
+creature adjacent to you. within 5 feet of you as your target. You have 
+advantage on your next attack roll against that creature and if that 
 attack hits, you add your technique die to your damage.
 
-6. When you hit a creature with a weapon attack, you can attempt to
-lure the target into targeting you. You add your technique die to your
-damage, and the target must make a Wisdom saving throw or have
-disadvantage on all attack rolls against targets other than you until
+6. Taunt: When you hit a creature with a weapon attack, you can attempt 
+to lure the target into targeting you. You add your technique die to 
+your damage, and the target must make a Wisdom saving throw or have 
+disadvantage on all attack rolls against targets other than you until 
 the end of your next turn.
 
-7. When you make a melee weapon attack on your turn, you can increase
-the range of that attack by 5 feet. If you hit, you add your technique
-die to your damage.
+7. Lunge: When you make a melee weapon attack on your turn, you can 
+increase the range of that attack by 5 feet. If you hit, you add your 
+technique die to your damage.
 
-8. When you hit a creature with a weapon attack, you can maneuver one
-ally. You add your technique die to your damage and choose a friendly
-creature (who can see or hear you) that can use its reaction to move up
-to half its speed and does not provoke opportunity attacks from the
-target of your attack.
+8. Maneuver: When you hit a creature with a weapon attack, you can 
+maneuver one ally. You add your technique die to your damage and choose 
+a friendly creature (who can see or hear you) that can use its reaction 
+to move up to half its speed and does not provoke opportunity attacks 
+from the target of your attack.
 
-9. When you hit a creature with a weapon attack, you can frighten the
-target. You add your technique die to your damage and the target must
-make a Wisdom saving throw or be frightened of you until the end of
-your next turn.
+9. Threaten: When you hit a creature with a weapon attack, you can 
+frighten the target. You add your technique die to your damage and the 
+target must make a Wisdom saving throw or be frightened of you until 
+the end of your next turn.
 
-10. When you are damaged by a melee attack, you can use your reaction
-to reduce the damage by your technique die + your Dexterity modifier.
+10. Parry: When you are damaged by a melee attack, you can use your 
+reaction to reduce the damage by your technique die + your Dexterity 
+modifier.
 
-11. When you make a weapon attack roll against a creature, you can add
-your technique die to the attack roll. You can use this maneuver before
-or after making the attack roll, but before the attack actually hits.
+11. Precise: When you make a weapon attack roll against a creature, you 
+can add your technique die to the attack roll. You can use this 
+maneuver before or after making the attack roll, but before the attack 
+actually hits.
 
-12. When you hit a creature with a weapon attack, you can add your
-technique die to the attack roll and the target (sized large or
-smaller) must make a Strength saving throw or be pushed up to 15 feet
+12. Push: When you hit a creature with a weapon attack, you can add 
+your technique die to the attack roll and the target (sized large or 
+smaller) must make a Strength saving throw or be pushed up to 15 feet 
 away from you.
 
-13. On your turn, you can use a bonus action to choose a friendly
-creature who can see or hear you to gain temporary hit points equal to
-your technique die roll + your Charism a modifier.
+13. Reinforce: On your turn, you can use a bonus action to choose a 
+friendly creature who can see or hear you to gain temporary hit points 
+equal to your technique die roll + your Charism a modifier.
 
-14. When a creature misses you with a melee attack, you can use your
-reaction to make a melee weapon attack against the creature. If you
-hit, You add your technique die to your damage
+14. Riposte: When a creature misses you with a melee attack, you can 
+use your reaction to make a melee weapon attack against the creature. 
+If you hit, You add your technique die to your damage
 
-15. When you hit a creature with a melee weapon attack, you can attack
-another creature adjacent to the original target and within your reach
-using the same to hit roll as the fist attack and dealing damage equal
-to your technique die and of the same type as the original attack.
+15. Sweep: When you hit a creature with a melee weapon attack, you can 
+attack another creature adjacent to the original target and within your 
+reach using the same to hit roll as the fist attack and dealing damage 
+equal to your technique die and of the same type as the original 
+attack.
 
-16. When you hit a creature with a weapon attack, you can add your
-technique die to the attack’s damage and the target (sized large or
-smaller), it must make a Strength saving throw or be knocked prone.
+16. Trip: When you hit a creature with a weapon attack, you can add 
+your technique die to the attack’s damage and the target (sized large 
+or smaller), it must make a Strength saving throw or be knocked prone.
 
 ### Fighter Archetype: Arcane Knight
+
+(Comparable to Eldritch Knight.)
 
 You gain the ability to cast spells from the wizard spell list.
 Whenever you gain a level in this class, you can replace one of the
@@ -2861,6 +2880,8 @@ action.
 
 ### Monk Archetype: Way of the Ninja
 
+Comparable to Way of Shadow.)
+
 * Level 3: You gain the *minor illusion* cantrip. As an action, you can
 spend 2 ki points to cast *darkness*, *darkvision*, *pass without
 trace*, or *silence*.
@@ -2880,14 +2901,16 @@ make a melee attack against that creature.
 
 ### Archetype: Way of the Elemental Master
 
-* Level 3: You can use your action to briefly cause one of the
-following: (**a**) Create a harmless, instantaneous sensory effect
-related to air, earth, fire, or water. (**b**) Instantaneously light or
-extinguish a candle, torch, or small campfire. (**c**) Chill or warm up
-to 1 pound of nonliving material for up to 1 hour. (**d**) Cause earth,
-fire, water, or mist that can fit within a 1-foot cube to shape itself
-into a simple form you choose for 1 minute. You also know one Elemental
-Ability.
+(Comparable to Way of the Four Elements.)
+
+* Level 3: You can use your action to briefly cause one of the 
+following: (**a**) Create a harmless, instantaneous sensory effect 
+related to air, earth, fire, or water. (**b**) Instantaneously light or 
+extinguish a candle, torch, or small campfire. (**c**) Chill or warm up 
+to 1 pound of nonliving material for up to 1 hour. (**d**) Cause earth, 
+fire, water, or mist that can fit within a 1-foot cube to shape itself 
+into a simple form you choose for 1 minute. You also may chose one 
+Elemental Ability.
 
 * Level 5: If an Elementl Ability spell can be cast at a higher level,
 then you may spend 1 ki to increase the spells level by 1. The maximum
@@ -2904,33 +2927,35 @@ levels may spend 6 ki.
 
 **Elemental Abilities**
 
-1. For an attack action and 1 ki, you can to cause fire to launch out
-from your fists and feet, increasing your reach by 10 feet for the rest
-of the turn. A hit deals fire damage instead of bludgeoning and if you
-spend 1 ki point when the attack hits you deal an extra 1d10 damage.
+1. Flame Strke: For an attack action and 1 ki, you can to cause fire to 
+launch out from your fists and feet, increasing your reach by 10 feet 
+for the rest of the turn. A hit deals fire damage instead of 
+bludgeoning and if you spend 1 ki point when the attack hits you deal 
+an extra 1d10 damage.
 
-2. For an action and 2 ki, a creature within 30 feet of you must make a
-Strength saving throw or take 3d10 bludgeoning damage from airy fists
-(plus an extra 1d10 for each additional ki point you spend), you can
-push the creature up to 20 feet away from you, and it is knocked prone.
-Even on a successful save, the creature still takes half damage, though
-it's not pushed or knocked prone.
+2. Air Strke: For an action and 2 ki, a creature within 30 feet of you 
+must make a Strength saving throw or take 3d10 bludgeoning damage from 
+airy fists (plus an extra 1d10 for each additional ki point you spend), 
+you can push the creature up to 20 feet away from you, and it is 
+knocked prone. Even on a successful save, the creature still takes half 
+damage, though it's not pushed or knocked prone.
 
-3. For an action and 1 ki, select an area of ice or water no larger
-than 30 feet on a side within 120 feet. You can change water-to-ice or
-ice-to-water within the area, and you can reshape ice in the area in
-any shape you choose. You can raise or low er the ice's elevation,
-create or fill in a trench, rise or flatten a wall, or form a pillar.
-The extent of any such changes can't exceed half the area’s largest
-dimension. You cannot shape the ice to trap or injure a creature in the
-area.
+3. Shape Water: For an action and 1 ki, select an area of ice or water 
+no larger than 30 feet on a side within 120 feet. You can change 
+water-to-ice or ice-to-water within the area, and you can reshape ice 
+in the area in any shape you choose. You can raise or low er the ice's 
+elevation, create or fill in a trench, rise or flatten a wall, or form 
+a pillar. The extent of any such changes can't exceed half the area’s 
+largest dimension. You cannot shape the ice to trap or injure a 
+creature in the area.
 
-4. For a bonus action and 2 ki, a creature you can see within 30 feet
-of you must make a Dexterity saving throw or take 3d10 bludgeoning
-damage from a water whip (plus an extra 1d10 for each additional ki
-point you spend), and you can either knock it prone or pull it up to 25
-feet closer to you. Even on a successful save, the creature still takes
-half damage, though it isn't pulled or knocked prone.
+4. Water Strike: For a bonus action and 2 ki, a creature you can see 
+within 30 feet of you must make a Dexterity saving throw or take 3d10 
+bludgeoning damage from a whip make of water (plus an extra 1d10 for 
+each additional ki point you spend), and you can either knock it prone 
+or pull it up to 25 feet closer to you. Even on a successful save, the 
+creature still takes half damage, though it isn't pulled or knocked 
+prone.
 
 5. You can cast *burning hands* for 2 ki points.
 
@@ -3365,17 +3390,19 @@ against spells cast by fiends or undead.
 Once you use this feature, you can't use it again until you finish a
 long rest.
 
-### Paladin Archetype: Oath of the Fay Wilds
+### Paladin Archetype: Oath of the Fey Wilds
+
+(Comparable to Oath of the Ancients.)
 
 * Level 3: You learn the oath spells *ensnaring strike* and *speak with
 animals*. (**b**) You gain these Channel Divinity abilities. When you
 use a Channel Divinity, you must then finish a short or long rest
 before you can use one again.
 
-**Channel Divinity - Wild Snare:** As an action, spectral vines reach for a
-creature you can see within 10 feet of you. They must succeed on a
-Strength or Dexterity saving throw (their choice) or be restrained.
-While restrained, the creature repeats the saving throw at the end of
+**Channel Divinity - Wild Snare:** As an action, spectral vines reach 
+for a creature you can see within 10 feet of you. They must succeed on 
+a Strength or Dexterity saving throw (their choice) or be restrained. 
+While restrained, the creature repeats the saving throw at the end of 
 each of its turns.
 
 **Channel Divinity - Turn Fey and Fiend:** As an action, you present
@@ -3420,6 +3447,8 @@ casting time of 1 action, you can cast it using a bonus action instead.
 saving throws against your paladin spells and Channel Divinity options.
 
 ### Paladin Archetype: Oath of Revenge
+
+(Comparable to the Oath of Vengeance.)
 
 * Level 3: You gain all the following -- (**a**) You learn the oath
 spells *bane* and *hunter's mark*. (**b**) You gain these Channel
@@ -3843,6 +3872,8 @@ attack, you can use your reaction to halve the attack's damage against
 you.
 
 ### Ranger Archetype: Animal Trainer
+
+(Comparable to Beast Master.)
 
 * Level 3: You gain a animal companion. Choose a animal that is no
 larger than Medium and that has a challenge rating of 1/4 or lower.
@@ -4568,6 +4599,8 @@ to your aura for 24 hours.
 
 ### Sorcerer Archetype: Chaos Sorcerer
 
+(Comparable to Wild Magic.)
+
 * Level 1: You gain the following -- (**a**) After you cast a
 non-canrip sorcerer spell, the GM may have you roll a d20. If you roll
 a 1, roll on the Chaotic Magic Effects. (**b**) Once per long rest, you
@@ -5243,6 +5276,8 @@ long rest.
 
 ### Warlock Archetype: The Feylord Patron
 
+(Comparable to the Archfey.)
+
 * Level 1: You gain all the following -- (**a**) You learn the spells
 *faerie fire* and *sleep*. (**b**) Once every short or long rest, as an
 action each creature in a 10-foot cube around you must make a Wisdom
@@ -5279,6 +5314,8 @@ which you choose. The creature can see and hear only itself, you, and
 the illusion.
 
 ### Warlock Archetype: The Eldrich Patron
+
+(Comparable to the Great Old One.)
 
 * Level 1: You learn the spells *dissonant whispers* and *hideous
 laughter*. You can communicate telepathically with any creature you can
@@ -6508,7 +6545,7 @@ faith in my god.
 * 6: Once I pick a goal, I become obsessed with it to the detriment of
 everything else in my life.
 
-## General Backgrounds
+# General Backgrounds
 
 Your character's background reveals where you came from, how you became
 an adventurer, and your place in the world. ***Choose any two skills,
@@ -38828,16 +38865,16 @@ spellcasting ability is Intelligence (spell save DC 17, +9 to hit with
 spell attacks). The archmage can cast *disguise self* and
 *invisibility* at will and has the following wizard spells prepared:
 
-Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shocking grasp*
-1st level (4 slots): *detect magic*, *identify*, *mage armor*, *magic missile*
-2nd level (3 slots): *detect thoughts*, *mirror image*, *misty step*
-3rd level (3 slots): *counterspell*, *fly*, *lightning bolt*
-4th level (3 slots): *banishment*, *fire shield*, *stoneskin*
-5th level (3 slots): *cone of cold*, *scrying*, *wall of force*
-6th level (1 slot): *globe of invulnerability*
-7th level (1 slot): *teleport*
-8th level (1 slot): *mind blank*
-9th level (1 slot): *time stop*
+* Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shocking grasp*
+* 1st level (4 slots): *detect magic*, *identify*, *mage armor*, *magic missile*
+* 2nd level (3 slots): *detect thoughts*, *mirror image*, *misty step*
+* 3rd level (3 slots): *counterspell*, *fly*, *lightning bolt*
+* 4th level (3 slots): *banishment*, *fire shield*, *stoneskin*
+* 5th level (3 slots): *cone of cold*, *scrying*, *wall of force*
+* 6th level (1 slot): *globe of invulnerability*
+* 7th level (1 slot): *teleport*
+* 8th level (1 slot): *mind blank*
+* 9th level (1 slot): *time stop*
 
 *The archmage casts these spells on itself before combat.*
 
@@ -38947,7 +38984,8 @@ vessels.
 * **Saving Throws** Str +4, Dex +5, Wis +2
 * **Skills:** Athletics +4, Deception +4
 * **Senses:** passive Perception 10
-* **Languages:** any two languages **Challenge** 2 (450 XP)
+* **Languages:** any two languages 
+* **Challenge** 2 (450 XP)
 
 **Actions**
 
