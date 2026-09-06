@@ -2,14 +2,14 @@
 
 *Heroic Cairn 2nd Edition*
 
-**Rook** consolidates and updates Cairn with rules for ancestries,
-classes with  additional rules and spells. It's goal is to fold a
-little 5E back in to Cairn.
+**Rook** consolidates and updates Cairn with rules for ancestries, 
+class abilities, character leveling, and additional rules, a 
+consolidated bestiary, and an expanded spell list. 
 
-The main changes from Cairn are: a) If multiple attackers target the
-same foe, they each get to attack. b) Actions are declared and resolved
-as you go around the table. c) Advantage and disadvantage have also
-been added so Class abilities have something to do.
+The main mechanical changes from Cairn are: a) If multiple attackers 
+target the same foe, they each get to attack. b) Actions are declared 
+and resolved as you go around the table. c) Advantage and disadvantage 
+have also been added so Class abilities have something to do.
 
 Rook is created by Senator Bix and is licensed CC-BY-SA.
 
