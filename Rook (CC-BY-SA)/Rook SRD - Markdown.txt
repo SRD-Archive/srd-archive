@@ -325,8 +325,8 @@ Grimoire, but during this process the original Spellbook or Scroll is
 destroyed.
 2. **Innate Spellcasting (repeatable):** You know 3 spells that you
 can cast without Spellbooks, though you still gain Fatigue.
-3. **Metamagic Gift:** Gain one Fatigue to double a spells damage,
-range, area, duration or effect.
+3. **Metamagic Gift:** Gain one Fatigue to add +2 to damage or to 
+double a spell's range, area, duration or effect.
 4. **Lore Master (repeatable):** You have knowledge regarding three of
 the following: (Spells and Magics), (The Dead and Undead), (Grand
 Histories of the Known World), (A Bestiary of Creatures Unusual), (The
@@ -1117,63 +1117,6 @@ advantages.
 
 # Spell Lists
 
-## 30 Cantrips
-
-(*Spellbooks and Scrolls of cantrips can be found, but they still cost
-Fatigue unless you gained the cantrips through the Mystical Talent
-feat.*)
-
-1. **Acid Splash:** Hurl a bubble of acid for d6 damage which can be
-split between 2 adjacent targets.
-2. **Arcane Mark:** Leave a visible or invisible message.
-3. **Chill Touch:** Create a ghostly skeletal hand that clings to a
-target, causing d6 necrotic damage and hindering healing.
-4. **Create Water:** Create 2 gallons of water.
-5. **Dancing Lights:** Conjure up to four floating lights to
-illuminate your surroundings.
-6. **Daze:**  A non-hostile humanoid is dazed for a short moment, lost
-in a daydream.
-7. **Detect Animals/Nature:** Detects animals/nature within 60 ft.
-8. **Detect Magic:** Detects spells and magic items within 60 ft.
-9. **Detect Poison:** Detects poison in one creature or small object.
-10. **Endure Elements:** Ignore intense weather conditions for 24
-hours.
-11. **Fire Bolt:** 1d8 damage. Can light things on fire.
-12. **Ghost Sounds:** Create any type of sound.
-13. **Light:** Make an object emit bright light, illuminating dark
-areas.
-14. **Mage Hand:** Summon a spectral hand to manipulate objects
-remotely.
-15. **Mending:** Repair minor breaks or tears in objects.
-16. **Message:** Whisper a message to a distant creature, who can
-reply in kind.
-17. **Minor Illusion:** Create a simple image or sound to deceive or
-distract.
-18. **Open/Close:** Opens or closes small or light things.
-19. **Poison Spray:** d10 poison damage if the nearby target fails a
-STR save.
-20. **Prestidigitation:** Perform minor magical tricks for various
-effects.
-21. **Produce Flame:** Create a small flame in your hand that can
-shed light or be thrown as an d6 attack.
-22. **Purify Food and Drink:** Make food eatable.
-23. **Ray of Frost:** Deals 1d6 cold damage and target has
-disadvantage on DEX saves.
-24. **Resistance:** Grants one target advantage on their next save.
-Lasts up to 1 min.
-25. **Sacred Flame:** d12 radiant damage if the target fails a DEX
-save.
-26. **Shillelagh:** Make a 1d8 magical melee attack with a wooden
-weapon.
-27. **Shocking Grasp:** Deliver a d8 electric shock to a creature you
-touch.
-28. **Spare the Dying:** Allow an ally to re-roll their STR save against
-Critical Damage.
-29. **True Strike:** For your next attack, roll damage twice and take
-the higher value.
-30. **Vicious Mockery:** The target must make a WIL save or it takes d4
-psychic damage and its next attack is impaired.
-
 ## Knave Spells
 
 1. **Adhere:** An object is covered in extremely sticky slime.
@@ -1348,289 +1291,338 @@ paint. This paint is only visible to you and can be seen at any
 distance, even through solid objects.
 100. **X-Ray Vision:** You can see through walls, dirt, clothing, etc.
 
+## 30 Cantrips
+
+(*Spellbooks and Scrolls of cantrips can be found, but they still cost
+Fatigue unless you gained the cantrips through the Mystical Talent
+feat.*)
+
+101. **Acid Splash:** Hurl a bubble of acid for d6 damage which can be
+split between 2 adjacent targets.
+102. **Arcane Mark:** Leave a visible or invisible message.
+103. **Chill Touch:** Create a ghostly skeletal hand that clings to a
+target, causing d6 necrotic damage and hindering healing.
+104. **Create Water:** Create 2 gallons of water.
+105. **Dancing Lights:** Conjure up to four floating lights to
+illuminate your surroundings.
+106. **Daze:**  A non-hostile humanoid is dazed for a short moment, lost
+in a daydream.
+107. **Detect Animals/Nature:** Detects animals/nature within 60 ft.
+108. **Detect Magic:** Detects spells and magic items within 60 ft.
+109. **Detect Poison:** Detects poison in one creature or small object.
+110. **Endure Elements:** Ignore intense weather conditions for 24
+hours.
+111. **Fire Bolt:** 1d8 damage. Can light things on fire.
+112. **Ghost Sounds:** Create any type of sound.
+113. **Light:** Make an object emit bright light, illuminating dark
+areas.
+114. **Mage Hand:** Summon a spectral hand to manipulate objects
+remotely.
+115. **Mending:** Repair minor breaks or tears in objects.
+116. **Message:** Whisper a message to a distant creature, who can
+reply in kind.
+117. **Minor Illusion:** Create a simple image or sound to deceive or
+distract.
+118. **Open/Close:** Opens or closes small or light things.
+119. **Poison Spray:** d10 poison damage if the nearby target fails a
+STR save.
+120. **Prestidigitation:** Perform minor magical tricks for various
+effects.
+121. **Produce Flame:** Create a small flame in your hand that can
+shed light or be thrown as an d6 attack.
+122. **Purify Food and Drink:** Make food eatable.
+123. **Ray of Frost:** Deals 1d6 cold damage and target has
+disadvantage on DEX saves.
+124. **Resistance:** Grants one target advantage on their next save.
+Lasts up to 1 min.
+125. **Sacred Flame:** d12 radiant damage if the target fails a DEX
+save.
+126. **Shillelagh:** Make a 1d8 magical melee attack with a wooden
+10weapon.
+127. **Shocking Grasp:** Deliver a d8 electric shock to a creature you
+touch.
+128. **Spare the Dying:** Allow an ally to re-roll their STR save against
+Critical Damage.
+129. **True Strike:** For your next attack, roll damage twice and take
+the higher value.
+130. **Vicious Mockery:** The target must make a WIL save or it takes d4
+psychic damage and its next attack is impaired.
+
 ## Level 1 Spells
 
-101. **Alarm:** Intruders set of an alarm audible only to you.
-102. **Animate Rope:** Makes a rope move at your command.
-103. **Burning Hands:** d8 fire damage.
-104. **Cause Fear:** WIL Save or target flees.
-105. **Charm Person:** Makes one person your friend until they next
+131. **Alarm:** Intruders set of an alarm audible only to you.
+132. **Animate Rope:** Makes a rope move at your command.
+133. **Burning Hands:** d8 fire damage.
+134. **Cause Fear:** WIL Save or target flees.
+135. **Charm Person:** Makes one person your friend until they next
 rest.
-106. **Chill Touch:** Lose d4 STR.
-107. **Color Spray:** WIL Save or all actions are Impaired until
+136. **Chill Touch:** Lose d4 STR.
+137. **Color Spray:** WIL Save or all actions are Impaired until
 Short Rest.
-108. **Comprehend Languages:** You understand all spoken and
+138. **Comprehend Languages:** You understand all spoken and
 written languages.
-109. **Detect Secret Doors:** Reveals hidden doors within 60 ft.
-110. **Detect Undead:** Reveals undead within 60 ft.
-111. **Disguise Self:** Changes your appearance.
-112. **Endure Elements:** Exist comfortably in hot or cold
+139. **Detect Secret Doors:** Reveals hidden doors within 60 ft.
+140. **Detect Undead:** Reveals undead within 60 ft.
+141. **Disguise Self:** Changes your appearance.
+142. **Endure Elements:** Exist comfortably in hot or cold
 environments.
-113. **Enlarge Person:** Humanoid creature doubles in size.
-114. **Erase:** Mundane or magical writing vanishes.
-115. **Expeditious Retreat:** Run twice as fast.
-116. **Feather Fall:** Objects or creatures fall slowly.
-117. **Floating Disk:** Creates 3-ft.-diameter horizontal disk that
+143. **Enlarge Person:** Humanoid creature doubles in size.
+144. **Erase:** Mundane or magical writing vanishes.
+145. **Expeditious Retreat:** Run twice as fast.
+146. **Feather Fall:** Objects or creatures fall slowly.
+147. **Floating Disk:** Creates 3-ft.-diameter horizontal disk that
 holds 100 lb.
-118. **Grease:** Makes 10-ft. square or one object slippery. DEX
+148. **Grease:** Makes 10-ft. square or one object slippery. DEX
 Save to avoid slipping.
-119. **Hold Portal:** Holds door shut.
-120. **Hypnotism:** Fascinate 1d6 creatures.
-121. **Identify:** Determines properties of magic item.
-122. **Jump:** Subject can jump twice as far and high.
+149. **Hold Portal:** Holds door shut.
+150. **Hypnotism:** Fascinate 1d6 creatures.
+151. **Identify:** Determines properties of magic item.
+152. **Jump:** Subject can jump twice as far and high.
 123. **Magic Aura:** Alters object's magic aura.
-124. **Magic Missile:** d6 damage, goes around corners, ignores
+154. **Magic Missile:** d6 damage, goes around corners, ignores
 Armour.
-125. **Magic Weapon:** Make a weapon that ignores all supernatural
+155. **Magic Weapon:** Make a weapon that ignores all supernatural
 resistances.
-126. **Mount:** Summons riding horse.
-127. **Obscuring Mist:** Fog surrounds you. Ranged attacks are
+156. **Mount:** Summons riding horse.
+157. **Obscuring Mist:** Fog surrounds you. Ranged attacks are
 Impaired.
-128. **Protection:** Ignore the next instance of harm from a
+158. **Protection:** Ignore the next instance of harm from a
 specific source.
-129. **Ray of Enfeeblement:** DEX Save or all attacks Impaired
+159. **Ray of Enfeeblement:** DEX Save or all attacks Impaired
 until Long Rest.
-130. **Reduce Person:** Humanoid creature halves in size.
-131. **Shield:** Invisible disc grants Armour 1.
-132. **Shocking Grasp:** d8 electricity damage.
-133. **Silent Image:** Creates minor illusion of your design.
-134. **Sleep:** Puts relaxed targets into a slumber and others feel
+160. **Reduce Person:** Humanoid creature halves in size.
+161. **Shield:** Invisible disc grants Armour 1.
+162. **Shocking Grasp:** d8 electricity damage.
+163. **Silent Image:** Creates minor illusion of your design.
+164. **Sleep:** Puts relaxed targets into a slumber and others feel
 lethargic, causing -1 to damage.
-135. **Summon Creature:** Calls an unintelligent extraplanar
+165. **Summon Creature:** Calls an unintelligent extraplanar
 creature up to the size of a small dog. It holds no loyalty to you.
-136. **True Strike:** Your next attack automatically provokes a
+166. **True Strike:** Your next attack automatically provokes a
 Save to avoid Critical Damage.
-137. **Unseen Servant:** Invisible force obeys your commands.
-138. **Ventriloquism:** Throws voice.
+167. **Unseen Servant:** Invisible force obeys your commands.
+168. **Ventriloquism:** Throws voice.
 
 ## Level 2 Spells
 
-139. **Arcane Lock:** Magically locks a portal or chest.
-140. **Obscure Object:** Masks object against scrying.
-141. **Protection from Arrows:** Subject immune to mundane ranged
-attacks.
-142. **Resist Energy:** Immunity to a specific type of energy
-attack until your next Short Rest.
-143. **Acid Arrow:** 1d6 damage now and d6 STR loss next round
-unless washed.
-144. **Fog Cloud:** Fog obscures vision over a large area.
-145. **Glitterdust:** WIL Save or Impair all attacks. Reveals
-invisible things.
-146. **Swarm:** Summons swarm of bats, rats, or spiders. Harmless
-but distracting.
-147. **Summon Beast:** Calls an intelligent extraplanar beast. It
-holds no loyalty to you.
-148. **Web:** Fills 20-ft.-radius spread with sticky spiderwebs.
-149. **Detect Thoughts:** WIL Save or else allows “listening” to
+169. **Arcane Lock:** Magically locks a portal or chest.
+170. **Obscure Object:** Masks object against scrying.
+171. **Protection from Arrows:** Subject immune to mundane rangedattacks.
+172. **Resist Energy:** Immunity to a specific type of energy attack 
+until your next Short Rest.
+173. **Acid Arrow:** 1d6 damage now and d6 STR loss next round unless 
+washed.
+174. **Fog Cloud:** Fog obscures vision over a large area.
+175. **Glitterdust:** WIL Save or Impair all attacks. Reveals invisible 
+things.
+176. **Swarm:** Summons swarm of bats, rats, or spiders. Harmless but 
+distracting.
+177. **Summon Beast:** Calls an intelligent extraplanar beast. It holds 
+no loyalty to you.
+178. **Web:** Fills 20-ft.-radius spread with sticky spiderwebs.
+179. **Detect Thoughts:** WIL Save or else allows “listening” to 
 surface thoughts.
-150. **Locate Object:** Senses direction toward object.
-151. **See Invisibility:** Reveals invisible creatures or objects.
-152. **Hideous Laughter:** WIL Save or target laughs and Impairs
+180. **Locate Object:** Senses direction toward object.
+181. **See Invisibility:** Reveals invisible creatures or objects.
+182. **Hideous Laughter:** WIL Save or target laughs and Impairs 
 actions until passing the Save.
-153. **Touch of Idiocy:** Lose d4 WIL.
-154. **Continual Flame:** Makes a permanent, heatless torch.
-155. **Darkness:** 20-ft. radius of supernatural shadow.
-156. **Deafness:** All in the blast are deafened.
-157. **Flaming Sphere:** Creates rolling ball of fire, d10 damage.
-158. **Gust of Wind:** Blows away or knocks down objects. Opponents
-get STR Save.
-159. **Scorching Ray:** Deals d10 fire damage.
-160. **Shatter:** Sonic vibration causes 1d6 STR loss to objects or
+183. **Touch of Idiocy:** Lose d4 WIL.
+184. **Continual Flame:** Makes a permanent, heatless torch.
+185. **Darkness:** 20-ft. radius of supernatural shadow.
+186. **Deafness:** All in the blast are deafened.
+187. **Flaming Sphere:** Creates rolling ball of fire, d10 damage.
+188. **Gust of Wind:** Blows away or knocks down objects. Opponents get 
+STR Save.
+189. **Scorching Ray:** Deals d10 fire damage.
+190. **Shatter:** Sonic vibration causes 1d6 STR loss to objects or 
 crystalline creatures, ignoring armor.
-161. **Blur:** Your details cannot be seen.
-162. **Invisibility:** Subject is invisible until it attacks.
-163. **Magic Mouth:** Speaks once when triggered.
-164. **Minor Illusion:** Conjure an image with sound.
-165. **Mirror Image:** 1d4 illusory duplicates of yourself appear
-under your control. They disappear once hit.
-166. **Misdirection:** Misleads divinations on one creature or
-object.
-167. **Phantom Trap:** Makes item seem trapped.
-168. **Blindness:** WIL Save or blinded.
-169. **Command Undead:** Undead creature must pass WIL Save or
-obeys your command.
-170. **False Life:** Regain any lost HP, but they vanish again
-after a minute.
-171. **Ghoul Touch:** DEX Save or Paralyzed, exuding stench that
-makes those nearby sickened.
-172. **Spectral Hand:** Creates disembodied glowing hand to deliver
+191. **Blur:** Your details cannot be seen.
+192. **Invisibility:** Subject is invisible until it attacks.
+193. **Magic Mouth:** Speaks once when triggered.
+194. **Minor Illusion:** Conjure an image with sound.
+195. **Mirror Image:** 1d4 illusory duplicates of yourself appear under 
+your control. They disappear once hit.
+196. **Misdirection:** Misleads divinations on one creature or object.
+197. **Phantom Trap:** Makes item seem trapped.
+198. **Blindness:** WIL Save or blinded.
+199. **Command Undead:** Undead creature must pass WIL Save or obeys 
+your command.
+200. **False Life:** Regain any lost HP, but they vanish again after a 
+minute.
+201. **Ghoul Touch:** DEX Save or Paralyzed, exuding stench that makes 
+those nearby sickened.
+202. **Spectral Hand:** Creates disembodied glowing hand to deliver 
 your next touch spell.
-173. **Alter Self:** Assume form of a similar creature.
-174. **Bear's Endurance:** Subject has Armour 2.
-175. **Bull's Strength:** Unarmed melee attacks cause d10 damage.
-176. **Cat's Grace:** Automatically pass the next DEX Save.
-177. **Darkvision:** See 60 ft. in total darkness.
-178. **Knock:** Opens locked or magically sealed door.
-179. **Levitate:** Subject moves up and down at your direction.
-180. **Owl's Wisdom:** Perceive the world with heightened senses
-for the next hour.
-181. **Pyrotechnics:** Turns fire into blinding light or choking
-smoke.
-182. **Rope Trick:** As many as eight creatures hide in
+203. **Alter Self:** Assume form of a similar creature.
+204. **Bear's Endurance:** Subject has Armour 2.
+205. **Bull's Strength:** Unarmed melee attacks cause d10 damage.
+206. **Cat's Grace:** Automatically pass the next DEX Save.
+207. **Darkvision:** See 60 ft. in total darkness.
+208. **Knock:** Opens locked or magically sealed door.
+209. **Levitate:** Subject moves up and down at your direction.
+210. **Owl's Wisdom:** Perceive the world with heightened senses for 
+the next hour.
+211. **Pyrotechnics:** Turns fire into blinding light or choking smoke.
+212. **Rope Trick:** As many as eight creatures hide in 
 extradimensional space.
-183. **Spider Climb:** Walk on walls and ceilings.
-184. **Whispering Wind:** Sends a short message 1 mile.
+213. **Spider Climb:** Walk on walls and ceilings.
+214. **Whispering Wind:** Sends a short message 1 mile.
 
 ## Level 3 Spells
 
-185. **Explosive Runes:** Deals d12 damage when read.
-186. **Magic Circle:** Prevents an extraplanar being from entering
-or leaving unless they pass a WIL Save.
-187. **Summon Gate:** Calls out to any extraplanar being that
-wishes to enter our plane. You have no choice which being answers and
-it holds no loyalty to you.
-188. **Nondetection:** Hides subject from divination, scrying.
-189. **Sepia Snake Sigil:** Creates text symbol that immobilizes
-reader until WIL Save.
-190. **Sleet Storm:** Hampers vision and movement.
-191. **Stinking Cloud:** Nauseating vapors, WIL Save or vomit.
-192. **Arcane Sight:** Magical auras become visible to you.
-193. **Clairaudience/Clairvoyance:** Hear or see at a distance.
-194. **Tongues:** Speak any language.
-195. **Deep Slumber:** WIL Save or sleep until the spell is broken.
-196. **Heroism:** Gives a target the ability to re-roll any one die.
-197. **Hold Person:** Paralyzes one humanoid until WIL Save.
-198. **Rage:** Subject's attacks are Enhanced, but so are attacks
+215. **Explosive Runes:** Deals d12 damage when read.
+216. **Magic Circle:** Prevents an extraplanar being from entering or 
+leaving unless they pass a WIL Save.
+217. **Summon Gate:** Calls out to any extraplanar being that wishes to 
+enter our plane. You have no choice which being answers and it holds no 
+loyalty to you.
+218. **Nondetection:** Hides subject from divination, scrying.
+219. **Sepia Snake Sigil:** Creates text symbol that immobilizes reader 
+until WIL Save.
+220. **Sleet Storm:** Hampers vision and movement.
+221. **Stinking Cloud:** Nauseating vapors, WIL Save or vomit.
+222. **Arcane Sight:** Magical auras become visible to you.
+223. **Clairaudience/Clairvoyance:** Hear or see at a distance.
+224. **Tongues:** Speak any language.
+225. **Deep Slumber:** WIL Save or sleep until the spell is broken.
+226. **Heroism:** Gives a target the ability to re-roll any one die.
+227. **Hold Person:** Paralyzes one humanoid until WIL Save.
+228. **Rage:** Subject's attacks are Enhanced, but so are attacks 
 against them.
-199. **Suggestion:** Compels subject to follow stated course of
-action.
-200. **Daylight:** 60-ft. radius of bright light.
-201. **Fireball:** d10 damage, 20-ft. radius.
-202. **Lightning Bolt:** d12 Damage to all in a line.
-203. **Tiny Hut:** Creates shelter for ten creatures.
-204. **Wind Wall:** Deflects arrows, smaller creatures, and gases.
-205. **Displacement:** Ignore any one attack.
-206. **Illusory Script:** Only intended reader can decipher.
-207. **Invisibility Sphere:** Makes everyone within 10 ft.
-invisible.
-208. **Major Illusion:** Conjure an image with sound, smell and
-thermal effects.
-209. **Gentle Repose:** Preserves one corpse.
-210. **Halt Undead:** Immobilizes all nearby undead until WIL Save.
-211. **Vampiric Touch:** Target loses d6 STR, you restore all lost
-hp.
-212. **Blink:** You randomly vanish and reappear, avoiding the next
+229. **Suggestion:** Compels subject to follow stated course of action.
+230. **Daylight:** 60-ft. radius of bright light.
+231. **Fireball:** d10 damage, 20-ft. radius.
+232. **Lightning Bolt:** d12 Damage to all in a line.
+233. **Tiny Hut:** Creates shelter for ten creatures.
+234. **Wind Wall:** Deflects arrows, smaller creatures, and gases.
+235. **Displacement:** Ignore any one attack.
+236. **Illusory Script:** Only intended reader can decipher.
+237. **Invisibility Sphere:** Makes everyone within 10 ft. invisible.
+238. **Major Illusion:** Conjure an image with sound, smell and thermal 
+effects.
+239. **Gentle Repose:** Preserves one corpse.
+240. **Halt Undead:** Immobilizes all nearby undead until WIL Save.
+241. **Vampiric Touch:** Target loses d6 STR, you restore all lost hp.
+242. **Blink:** You randomly vanish and reappear, avoiding the next 
 attack against you.
-213. **Flame Arrows:** Ally's missiles deal d6 extra fire damage.
-214. **Fly:** Target can fly at twice their speed for 10 minutes.
-215. **Gaseous Form:** Subject becomes insubstantial and can fly
+243. **Flame Arrows:** Ally's missiles deal d6 extra fire damage.
+244. **Fly:** Target can fly at twice their speed for 10 minutes.
+245. **Gaseous Form:** Subject becomes insubstantial and can fly 
 slowly.
-216. **Haste:** One creature moves at double speed.
-217. **Keen Edge:** Next attack with this weapon causes direct STR
-loss instead of damage.
-218. **Secret Page:** Changes one page to hide its real content.
-219. **Shrink Item:** Object shrinks to one-sixteenth size.
-220. **Slow:** One target moves at half speed.
-221. **Water Breathing:** Subjects can breathe underwater.
+246. **Haste:** One creature moves at double speed.
+247. **Keen Edge:** Next attack with this weapon causes direct STR loss 
+instead of damage.
+248. **Secret Page:** Changes one page to hide its real content.
+249. **Shrink Item:** Object shrinks to one-sixteenth size.
+250. **Slow:** One target moves at half speed.
+251. **Water Breathing:** Subjects can breathe underwater.
 
 ## Level 4 Spells
 
-222. **Dimensional Anchor:** Bars extradimensional movement.
-223. **Fire Trap:** Opened object deals d12 damage.
-224. **Globe of Invulnerability:** Stops Spells up 3rd Circle.
-225. **Remove Curse:** Frees object or person from curse.
-226. **Stoneskin:** Subject gains Armour 3 but running and swimming
-are impossible.
-227. **Black Tentacles:** Tentacles grapple all within 20 ft.
-228. **Summon Being:** Calls any extraplanar being to our plane. It
+252. **Dimensional Anchor:** Bars extradimensional movement.
+253. **Fire Trap:** Opened object deals d12 damage.
+254. **Globe of Invulnerability:** Stops Spells up 3rd Circle.
+255. **Remove Curse:** Frees object or person from curse.
+256. **Stoneskin:** Subject gains Armour 3 but running and swimming are 
+impossible.
+257. **Black Tentacles:** Tentacles grapple all within 20 ft.
+258. **Summon Being:** Calls any extraplanar being to our plane. It 
 holds no loyalty to you.
-229. **Dimension Door:** Teleports you short distance.
-230. **Minor Creation:** Creates one cloth or wood object.
-231. **Secure Shelter:** Creates sturdy cottage.
-232. **Solid Fog:** Blocks vision and slows movement.
-233. **Arcane Eye:** Invisible floating eye you can see through and
+259. **Dimension Door:** Teleports you short distance.
+260. **Minor Creation:** Creates one cloth or wood object.
+261. **Secure Shelter:** Creates sturdy cottage.
+262. **Solid Fog:** Blocks vision and slows movement.
+263. **Arcane Eye:** Invisible floating eye you can see through and 
 control.
-234. **Detect Scrying:** Alerts you of magical eavesdropping.
-235. **Locate Creature:** Indicates direction to familiar creature.
-236. **Scrying:** Spies on subject from a distance.
-237. **Charm Monster:** WIL Save or monster treats you as an ally.
-238. **Confusion:** WIL Save or subjects behave oddly.
-239. **Crushing Despair:** 20ft Area. WIL Save or attacks are
-Impaired.
-240. **Fire Shield:** Creatures attacking you take d6 fire damage;
+264. **Detect Scrying:** Alerts you of magical eavesdropping.
+265. **Locate Creature:** Indicates direction to familiar creature.
+266. **Scrying:** Spies on subject from a distance.
+267. **Charm Monster:** WIL Save or monster treats you as an ally.
+268. **Confusion:** WIL Save or subjects behave oddly.
+269. **Crushing Despair:** 20ft Area. WIL Save or attacks are Impaired.
+270. **Fire Shield:** Creatures attacking you take d6 fire damage; 
 you're protected from heat and cold.
-241. **Ice Storm:** Hail deals d12 damage in cylinder 40 ft. across.
-242. **Resilient Sphere:** Force globe protects but traps one
-subject. DEX Save to avoid.
-243. **Shout:** All within cone deafened for one round and take d12
+271. **Ice Storm:** Hail deals d12 damage in cylinder 40 ft. across.
+272. **Resilient Sphere:** Force globe protects but traps one subject. 
+DEX Save to avoid.
+273. **Shout:** All within cone deafened for one round and take d12 
 sonic damage.
-244. **Wall of Fire:** Passing through wall causes d12 damage.
-245. **Wall of Ice:** Creates ice wall 15hp, Armour 3, or
-hemisphere can trap creatures inside unless they pass DEX Save.
-246. **Hallucinatory Terrain:** Makes one type of terrain appear
-like another.
-247. **Illusory Wall:** Wall, floor, or ceiling looks real, but
+274. **Wall of Fire:** Passing through wall causes d12 damage.
+275. **Wall of Ice:** Creates ice wall 15hp, Armour 3, or hemisphere 
+can trap creatures inside unless they pass DEX Save.
+276. **Hallucinatory Terrain:** Makes one type of terrain appear like 
+another.
+277. **Illusory Wall:** Wall, floor, or ceiling looks real, but 
 anything can pass through.
-248. **True Invisibility:** Subject can attack and stay invisible.
-249. **Phantasmal Killer:** Fearsome, invincible illusion only the
-target can see. Attacks for d12 damage, on Critical Damage pass a WIL
+278. **True Invisibility:** Subject can attack and stay invisible.
+279. **Phantasmal Killer:** Fearsome, invincible illusion only the 
+target can see. Attacks for d12 damage, on Critical Damage pass a WIL 
 Save or Die from terror.
-250. **Rainbow Pattern:** Lights fascinate creatures that fail WIL
+280. **Rainbow Pattern:** Lights fascinate creatures that fail WIL 
 Save.
-251. **Animate Dead:** Creates undead skeletons and zombies from
+281. **Animate Dead:** Creates undead skeletons and zombies from 
 corpses.
-252. **Bestow Curse:** Target automatically fails next Save.
-253. **Contagion:** Infects subject with horrible disease.
-254. **Fear:** Subjects within cone must pass a WIL Save or flee.
-255. **Polymorph:** Gives one willing subject a new form.
-256. **Stone Shape:** Sculpts stone into any shape.
+282. **Bestow Curse:** Target automatically fails next Save.
+283. **Contagion:** Infects subject with horrible disease.
+284. **Fear:** Subjects within cone must pass a WIL Save or flee.
+285. **Polymorph:** Gives one willing subject a new form.
+286. **Stone Shape:** Sculpts stone into any shape.
 
 ## Level 5 Spells
 
-257. **Break Enchantment:** Frees subjects from enchantments,
+287. **Break Enchantment:** Frees subjects from enchantments, 
 alterations, curses, and petrifaction.
-258. **Cloudkill:** You can move the cloud, causing d6 STR loss to
-any within.
-259. **Contact Other Plane:** Lets you ask question of extraplanar
+288. **Cloudkill:** You can move the cloud, causing d6 STR loss to any 
+within.
+289. **Contact Other Plane:** Lets you ask question of extraplanar 
 entity.
-260. **Dismissal:** WIL Save or creature to returns to native
-plane.
-261. **Dominate Person:** WIL Save or humanoid is controlled
+290. **Dismissal:** WIL Save or creature to returns to native plane.
+291. **Dominate Person:** WIL Save or humanoid is controlled 
 telepathically.
-262. **Mage's Private Sanctum:** Prevents anyone from viewing or
+292. **Mage's Private Sanctum:** Prevents anyone from viewing or 
 scrying an area.
-263. **Mage's Faithful Hound:** Phantom dog can guard, attack.
-264. **Major Creation:** Create an item of stone and metal.
-265. **Planar Binding:** Traps extraplanar creatures that fail a
-WIL Save until they perform a task.
-266. **Prying Eyes:** 1d6 floating eyes scout for you.
-267. **Secret Chest:** Hides expensive chest on Ethereal Plane; you
+293. **Mage's Faithful Hound:** Phantom dog can guard, attack. 
+294. **Major Creation:** Create an item of stone and metal.
+295. **Planar Binding:** Traps extraplanar creatures that fail a WIL 
+Save until they perform a task.
+296. **Prying Eyes:** 1d6 floating eyes scout for you.
+297. **Secret Chest:** Hides expensive chest on Ethereal Plane; you 
 retrieve it at will.
-268. **Teleport:** Instantly transports you to a known location up
-to 100 miles away.
-269. **Wall of Stone:** Creates a stone wall that can be shaped.
-270. **Telepathic Bond:** Link lets allies communicate.
-271. **Feeblemind:** WIL Save or drop to WIL 0.
-272. **Symbol of Sleep:** Reading the rune puts reader into magical
+298. **Teleport:** Instantly transports you to a known location up to 
+100 miles away.
+299. **Wall of Stone:** Creates a stone wall that can be shaped.
+300. **Telepathic Bond:** Link lets allies communicate.
+301. **Feeblemind:** WIL Save or drop to WIL 0.
+302. **Symbol of Sleep:** Reading the rune puts reader into magical 
 sleep that lasts as long as the spell.
-273. **Cone of Cold:** d12 cold damage.
-274. **Interposing Hand:** Hand blocks 30hp of damage from one
+303. **Cone of Cold:** d12 cold damage.
+304. **Interposing Hand:** Hand blocks 30hp of damage from one 
 opponent.
-275. **Sending:** Delivers short message anywhere, instantly.
-276. **Wall of Force:** Wall is immune to damage.
-277. **Dream:** Sends message to anyone sleeping.
-278. **False Vision:** Fools scrying with an illusion.
-279. **Nightmare:** WIL Save or Target wakes with no HP and will
-not recover them until they have a full rest without Nightmares.
-280. **Blight:** Withers plants.
-281. **Possession:** WIL Save or target has soul pushed out and
-caster possesses their body. Their soul returns when the caster leaves
-the body, but if the body is slain the soul departs and the caster's
-soul returns to their body.
-282. **Symbol of Pain:** Reading the rune causes pain. WIL Save or
-be unable to do anything but scream until Save is passed.
-283. **Baleful Polymorph:** WIL Save or Transforms subject into
+305. **Sending:** Delivers short message anywhere, instantly.
+306. **Wall of Force:** Wall is immune to damage.
+307. **Dream:** Sends message to anyone sleeping.
+308. **False Vision:** Fools scrying with an illusion.
+309. **Nightmare:** WIL Save or Target wakes with no HP and will not 
+recover them until they have a full rest without Nightmares.
+310. **Blight:** Withers plants.
+311. **Possession:** WIL Save or target has soul pushed out and caster 
+possesses their body. Their soul returns when the caster leaves the 
+body, but if the body is slain the soul departs and the caster's soul 
+returns to their body.
+312. **Symbol of Pain:** Reading the rune causes pain. WIL Save or be 
+unable to do anything but scream until Save is passed.
+313. **Baleful Polymorph:** WIL Save or Transforms subject into 
 harmless animal.
-284. **Fabricate:** Transforms raw materials into finished items.
-285. **Passwall:** Creates passage through wood or stone wall.
-286. **Telekinesis:** Moves object, attacks creature, or hurls
-object or creature.
-287. **Transmute Earth:** Transforms mud to rock or rock to mud.
-288. **Petrify:** WIL Save or target is transformed into a statue.
-This effect lasts as long as the Caster wishes.
-289. **Control Water:** Raise, lower or part water.
-290. **Planar Gate:** Open a gate to another reality that works in
-both directions.
+314. **Fabricate:** Transforms raw materials into finished items.
+315. **Passwall:** Creates passage through wood or stone wall.
+316. **Telekinesis:** Moves object, attacks creature, or hurls object 
+or creature.
+317. **Transmute Earth:** Transforms mud to rock or rock to mud.
+318. **Petrify:** WIL Save or target is transformed into a statue. This 
+effect lasts as long as the Caster wishes.
+319. **Control Water:** Raise, lower or part water.
+320. **Planar Gate:** Open a gate to another reality that works in both 
+directions.
 
 # Bestiary
 
