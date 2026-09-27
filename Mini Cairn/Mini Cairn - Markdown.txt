@@ -867,8 +867,8 @@ for one minute.
 77. **Sleep:** A creature you can see falls into a light sleep.
 78. **Slick:** Every surface in a 30ft radius becomes extremely
 slippery.
-79. **Smoke Form:** Every surface in a 30ft radius becomes extremely
-slippery.
+79. **Smoke Form:** Your body becomes a living smoke that you can 
+control.
 80. **Sniff:** You can smell even the faintest traces of scents.
 81. **Snuff:** The source of any mundane light you can see is instantly
 snuffed out.
