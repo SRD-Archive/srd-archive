@@ -40,7 +40,7 @@ may then swap any two results. Alternatively, you may distribute 40
 points between your attributes, where no attribute may be less than 5
 or more than 15.
 2. Roll 1d4+2 for your characters' Hit Protection (HP).
-3. Select four skills your character is proficient in.
+3. Select 7 skills that your character is proficient in.
 4. Select your character's Perks, if any.
 5. Select your character's Complications, if any.
 6. Select your character's equipment.
@@ -153,15 +153,15 @@ leader.
 
 ***Esoteric Perks***
 
-* **Energy Blast (3):** You can throw bolts of pure energy that do d10
+* **Energy Blast (4):** You can throw bolts of pure energy that do d10
 blast damage.
-* **ESP (2):** You can read minds. Targets resist using their Willpower
+* **ESP (4):** You can read minds. Targets resist using their Willpower
 (CHA).
-* **Flying (3):** You can fly (at twice your movement speed).
-* **Regeneration (2):** You heal 1 attribute damage per hour.
-* **Spellcaster (2):** You’re magically sensitive. Magic spells really
+* **Flying (4):** You can fly (at twice your movement speed).
+* **Regeneration (3):** You heal 1 attribute damage per hour.
+* **Spellcaster (3):** You’re magically sensitive. Magic spells really
 work for you. Arcana is the skill check you make for spells.
-* **Telekinesis (2):** You can move stuff with your mind. Make a Wits
+* **Telekinesis (3):** You can move stuff with your mind. Make a Wits
 roll and treat it like the Lift skill. People resist using their Might.
 * **X-Ray Vision (3):** you can see through 1 foot of material.
 
