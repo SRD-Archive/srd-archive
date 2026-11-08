@@ -113,7 +113,7 @@ are proficient in the Craft skill. You have +1 to STR and -1 to DEX.
 * **Elf (2):** You’re long lived, you can see in the dark, and you are
 proficient in the Shoot skill. You have +1 to DEX and -1 to STR.
 * **Reptoid (1):** You’re green and scaly, this gives a +1 Armor
-Value.You also have claw-tipped fingers which grant you +1 damage on
+Value. You also have claw-tipped fingers which grant you +1 damage on
 unarmed attacks.
 * **Robot (2):** You don’t eat, breathe, or sleep. You can have your
 memory wiped. You don’t heal but you can be repaired. As long as your
@@ -722,7 +722,7 @@ the presence of its young. Critical Damage: Rends the victim for 1d4
 extra STR damage.
 
 **Horse:** 4 HP, 14 STR, 10 DEX, 2 INT, 6 CHA (proficient in Willpower).
-Combat: Kick d8. Can pull a cart or waggon. *Saddle up.*
+Combat: Kick d8. Can pull a cart or wagon. *Saddle up.*
 
 **Horse, War:** 6 HP, 1 ARMOR, 14 STR, 10 DEX, 2 INT, 5 CHA (proficient
 in Willpower). Combat: Trample (d8). Not scared by noise or battle. Can
